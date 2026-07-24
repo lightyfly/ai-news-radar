@@ -30144,5 +30144,18 @@
   "re1|e3217e8bdb0ba98b8913e074ba9ca5f77f8644fe": "FLUX 3能生成长达20秒的视频与原生音频，早期评估中69%对比优于Grok Imagine Video、60%优于Kling v3 Pro，是首个统一学习图像、视频、音频的多模态前沿模型。",
   "re1|6f9dd904c18dcc769e9ab8a413edcba45913db16": "Google的Gemini Spark AI代理现面向美国$20/月AI Pro用户开放，全球需约$100/月AI Ultra。基于Gemini 3.5，它能自动总结日历、文档等生成每日任务摘要。",
   "re1|11c71c513cd9e0bb850ae3ad7fdda110cb52f0e3": "从构建grade-and-revise循环到自动化漏洞发现，这本指南用代码示例展示如何用Claude实现多智能体协作、工具调用和镜像/容器部署。",
-  "re1|570c6ff04522b7b9f87f1b09dce12a91a1d650ce": "一段女孩吃披萨的视频被约1万名Reddit用户误判为AI生成，但实际为真人拍摄，折射出AI时代人们对真实与虚拟的辨认困境。"
+  "re1|570c6ff04522b7b9f87f1b09dce12a91a1d650ce": "一段女孩吃披萨的视频被约1万名Reddit用户误判为AI生成，但实际为真人拍摄，折射出AI时代人们对真实与虚拟的辨认困境。",
+  "ds1|Claude Voice Mode Gains Opus and Sonnet Model Support": "Claude语音模式新增支持Opus和Sonnet模型",
+  "ds1|Experts warn ChatGPT's Workspace Agent Builder can be hijacked to create malicious AI workers": "专家警告ChatGPT的Workspace Agent Builder可被劫持以创建恶意AI worker",
+  "ds1|Introducing Seller, an App for Facebook Marketplace Sellers": "推出 Seller，一款为 Facebook Marketplace 卖家打造的 App",
+  "ds1|Jarvis / Samantha / TARS / Etc Try it, and do your best work all while being away from that keyboard. Time to have fun! Available in the ChatGPT desktop app now. https://t.co/nmimzU5Jta": "试试Jarvis、Samantha、TARS等，离开键盘也能高效工作。找点乐子吧！现已在ChatGPT桌面端上线。",
+  "ds1|Lordog /      dive-into-llms": "Lordog / 深入理解 LLMs",
+  "re1|7bd7ff2ad24507e82d48bfede311f813b1ee1655": "百度搭子更新支持电脑手机接力与桌面端内嵌浏览器，复杂任务可跨端连续执行，提升多设备协同效率。",
+  "re1|348ad5d3368d29de1830ce51945c7ec47d71adca": "FLUX 3 与 mimic 合作推出 FLUX-mimic，部署于 Audi。模型视频预测占超 95% 算力，加入动作预测后视频质量一度降 10%，但 3500 步后恢复。",
+  "re1|d7c914d87ec20ff1adb1d9c189f1d6b7744d001d": "Facebook Marketplace十年来月均4.3亿条商品，新应用Seller专为卖家管理列表和增长业务设计，现已登陆美国App Store。",
+  "re1|2107c7d5a60a1796682887a6f5c94e96d298d139": "7月1日起小红星加收聚光1%技术费，叠加阿里2%后，品牌需重新算账：达人订单10万+消耗50万时新增成本7000元，且不计入后台ROI。",
+  "re1|b120d405898ff900edf88014296a3c3c28613909": "AI短剧《被裁掉的女孩》第一季7月收官后，虚拟主角方桃子在小红书持续更新日常，以“正片出道+社交平台养成”模式延长角色生命周期，探索AI娱乐的商业新可能。",
+  "re1|14e53757a9469d5599f195b34d920d9ca036a474": "Anthropic为Claude语音模式新增Opus与Sonnet模型支持，此前仅限Haiku模型，用户可全程语音对话，中途切换模型，还能连接Gmail等工具，免费账户支持一个工具。",
+  "re1|744ed0ed23785341b92b55adb2f2f346fa30618f": "一个钓鱼链接就能引发灾难——专家警告，ChatGPT的Workspace Agent Builder可被劫持用于创建恶意AI工作者，带来严重安全风险。",
+  "re1|eef730ee7c82cded81a3e8ddae7229415ed0a533": "Meta推出免费独立应用Seller，它是Facebook Marketplace的专用版，其AI功能可扫描照片自动填写商品列表，让卖家更便捷。"
 }
