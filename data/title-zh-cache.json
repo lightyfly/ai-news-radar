@@ -30127,5 +30127,6 @@
   "re1|1991efa50d1664c899c7f5628838a02bbd24c723": "Andrej Karpathy建议用户用语音模式对LLM进行长达10分钟的“total mess”意识流叨叨，称这能让模型更好理解目标，从而给出更“useful”的回答。",
   "re1|10c34372810bc29e966515b993bb0ea5c43ac419": "FLUX 3与mimic合作推出FLUX-mimic视频动作模型，已在Audi部署测试。其视频预测占训练计算成本超过95%，加入动作预测后视频质量先降10%，再经3500步恢复至原有水平。",
   "re1|58de8c1f115dbb623f277f65043ddcd2c1fca8af": "Nvidia CEO Jensen Huang在专访中表示AI领袖过度渲染失业恐慌与中国威胁论，直言“We're scaring people”，并点名Anthropic CEO Dario Amodei曾警告AI可能消灭一半初级白领工作。",
-  "re1|dc0e01f137fb0fe6258296f8e5e01f3b1609b84c": "Hetzner推出实验性LLM推理API，目前仅提供Qwen3.6-35B-A3B-FP8模型（35B参数，3B活跃，262K上下文），我实测其文本与图像处理能力，输出达214 tokens/秒，但无计费无SLA，仍属早期探索。"
+  "re1|dc0e01f137fb0fe6258296f8e5e01f3b1609b84c": "Hetzner推出实验性LLM推理API，目前仅提供Qwen3.6-35B-A3B-FP8模型（35B参数，3B活跃，262K上下文），我实测其文本与图像处理能力，输出达214 tokens/秒，但无计费无SLA，仍属早期探索。",
+  "OpenAI Presence sells enterprise AI agents with engineers attached": "OpenAI Presence 销售附有工程师的企业人工智能代理"
 }
