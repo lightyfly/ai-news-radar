@@ -10,6 +10,46 @@ from scripts.ai_relevance import (
 
 
 class AiRelevanceScoringTests(unittest.TestCase):
+    def test_content_monetization_case_from_opml_is_kept(self):
+        result = score_ai_relevance(
+            {
+                "site_id": "opmlrss",
+                "source": "Growth in Reverse",
+                "site_name": "OPML RSS",
+                "title": "The content series that brought in 440 subscribers",
+                "url": "https://growthinreverse.com/example/",
+            }
+        )
+        self.assertTrue(result["is_ai_related"])
+        self.assertEqual(result["reason"], "content_monetization_focus")
+        self.assertEqual(result["label"], "monetization_case")
+
+    def test_platform_rule_from_opml_is_kept(self):
+        result = score_ai_relevance(
+            {
+                "site_id": "opmlrss",
+                "source": "运营派",
+                "site_name": "OPML RSS",
+                "title": "小红书调整带货平台规则与服务费",
+                "url": "https://www.yunyingpai.com/example.html",
+            }
+        )
+        self.assertTrue(result["is_ai_related"])
+        self.assertEqual(result["label"], "platform_rules")
+
+    def test_get_rich_quick_promotion_is_dropped(self):
+        result = score_ai_relevance(
+            {
+                "site_id": "opmlrss",
+                "source": "Unknown",
+                "site_name": "OPML RSS",
+                "title": "AI 副业零门槛暴富，躺着赚钱",
+                "url": "https://example.com/hype",
+            }
+        )
+        self.assertFalse(result["is_ai_related"])
+        self.assertEqual(result["label"], "get_rich_quick_noise")
+
     def test_scores_strong_ai_signal_with_reason(self):
         rec = {
             "site_id": "techurls",
