@@ -108,6 +108,27 @@ COMMERCE_NOISE_KEYWORDS = [
     "首发价",
 ]
 
+CONTENT_MONETIZATION_KEYWORDS = [
+    "creator economy", "content creator", "audience growth", "subscriber",
+    "newsletter", "sponsor", "sponsorship", "monetization", "revenue stream",
+    "short-form video", "short video", "ai video", "video editor",
+    "video commerce", "social commerce", "live shopping", "livestream shopping",
+    "tiktok shop", "youtube shopping", "marketplace seller", "affiliate",
+    "digital product", "productized service", "freelance", "side hustle",
+    "client work", "content strategy", "content series", "account growth",
+    "conversion", "ad spend", "creator", "自媒体", "创作者", "账号增长",
+    "涨粉", "粉丝", "选题", "内容生产", "商业化", "变现", "短视频",
+    "ai视频", "ai 视频", "视频剪辑", "带货", "选品", "投流", "视频号",
+    "直播", "商品转化", "平台规则", "小红书", "抖音", "副业", "接单",
+    "自动化服务", "数字产品", "真实收入", "收入案例",
+]
+
+GET_RICH_QUICK_KEYWORDS = [
+    "零门槛暴富", "一夜暴富", "躺着赚钱", "闭眼赚钱", "稳赚不赔",
+    "无需技能月入", "轻松月入十万", "get rich quick",
+    "guaranteed income", "effortless income",
+]
+
 UNSAFE_HARD_PATTERNS = [
     re.compile(r"\bcreampie\b", re.I),
     re.compile(r"\bblowjob\b", re.I),
@@ -208,6 +229,16 @@ LABEL_KEYWORDS = [
 ]
 
 
+def content_monetization_label(text: str) -> str:
+    if contains_any_keyword(text, ["规则", "policy", "guideline", "service fee", "平台"]):
+        return "platform_rules"
+    if contains_any_keyword(text, ["case study", "案例", "revenue", "收入", "营收", "mrr", "subscriber"]):
+        return "monetization_case"
+    if contains_any_keyword(text, ["tool", "editor", "generator", "工具", "剪辑", "脚本", "自动化"]):
+        return "content_tool"
+    return "monetization_opportunity"
+
+
 def contains_any_keyword(haystack: str, keywords: list[str]) -> bool:
     h = haystack.lower()
     return any(k in h for k in keywords)
@@ -282,6 +313,7 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
     if CURSOR_SIGNAL_RE.search(text) and "cursor" not in ai_signals:
         ai_signals = sorted(ai_signals + ["cursor"])
     tech_signals = matched_keywords(text, TECH_KEYWORDS)
+    monetization_signals = matched_keywords(text, CONTENT_MONETIZATION_KEYWORDS)
     noise = matched_keywords(text, NOISE_KEYWORDS) + matched_keywords(text, COMMERCE_NOISE_KEYWORDS)
     source_prior = SOURCE_PRIORS.get(site_id, 0.0)
 
@@ -293,6 +325,28 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
             reason="unsafe_promotional_content",
             signals=[],
             noise=["unsafe_promotional_content"],
+        )
+
+    if site_id == "opmlrss" and monetization_signals:
+        if contains_any_keyword(text, GET_RICH_QUICK_KEYWORDS):
+            return _result(
+                is_ai_related=False,
+                score=0.12,
+                label="get_rich_quick_noise",
+                reason="unverifiable_get_rich_quick_promotion",
+                signals=monetization_signals,
+                noise=["get_rich_quick"],
+            )
+        score = 0.78 + min(0.16, 0.04 * len(monetization_signals))
+        if ai_signals:
+            score += min(0.06, 0.02 * len(ai_signals))
+        return _result(
+            is_ai_related=True,
+            score=score,
+            label=content_monetization_label(text),
+            reason="content_monetization_focus",
+            signals=ai_signals + monetization_signals,
+            noise=noise,
         )
 
     if site_id == "curated_media":
