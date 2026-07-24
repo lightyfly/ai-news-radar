@@ -5824,6 +5824,16 @@ def calculate_item_importance(
     editorial = editorial_score(item)
     heat = min(1.0, max(0, duplicate_count - 1) / 4)
     score = (editorial * 0.3) + (source_score * 0.22) + (relevance * 0.2) + (recency * 0.18) + (heat * 0.1)
+    focus_reason = str(item.get("ai_relevance_reason") or "")
+    focus_label = str(item.get("ai_label") or "")
+    focus_bonus = 0.14 if focus_reason == "content_monetization_focus" else 0.0
+    generic_tech_penalty = (
+        0.1
+        if focus_reason != "content_monetization_focus"
+        and focus_label in {"model_release", "research_paper", "infra_compute", "robotics", "ai_tech"}
+        else 0.0
+    )
+    score += focus_bonus - generic_tech_penalty
     return {
         "score": round(max(0.0, min(1.0, score)), 4),
         "breakdown": {
@@ -5832,6 +5842,8 @@ def calculate_item_importance(
             "ai_relevance": round(relevance, 4),
             "recency": round(recency, 4),
             "story_heat": round(heat, 4),
+            "content_monetization_focus": round(focus_bonus, 4),
+            "generic_tech_penalty": round(generic_tech_penalty, 4),
         },
     }
 
