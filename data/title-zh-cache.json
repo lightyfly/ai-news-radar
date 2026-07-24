@@ -30128,5 +30128,21 @@
   "re1|10c34372810bc29e966515b993bb0ea5c43ac419": "FLUX 3与mimic合作推出FLUX-mimic视频动作模型，已在Audi部署测试。其视频预测占训练计算成本超过95%，加入动作预测后视频质量先降10%，再经3500步恢复至原有水平。",
   "re1|58de8c1f115dbb623f277f65043ddcd2c1fca8af": "Nvidia CEO Jensen Huang在专访中表示AI领袖过度渲染失业恐慌与中国威胁论，直言“We're scaring people”，并点名Anthropic CEO Dario Amodei曾警告AI可能消灭一半初级白领工作。",
   "re1|dc0e01f137fb0fe6258296f8e5e01f3b1609b84c": "Hetzner推出实验性LLM推理API，目前仅提供Qwen3.6-35B-A3B-FP8模型（35B参数，3B活跃，262K上下文），我实测其文本与图像处理能力，输出达214 tokens/秒，但无计费无SLA，仍属早期探索。",
-  "OpenAI Presence sells enterprise AI agents with engineers attached": "OpenAI Presence 销售附有工程师的企业人工智能代理"
+  "OpenAI Presence sells enterprise AI agents with engineers attached": "OpenAI Presence 销售附有工程师的企业人工智能代理",
+  "ds1|OpenAI Presence sells enterprise AI agents with engineers attached": "OpenAI Presence 销售附带工程师的企业AI代理",
+  "ds1|Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)": "Anthropic 为 Opus 和 Sonnet 模型推出语音模式，并可接入 Gmail、Slack、Notion 等应用（Ivan Mehta/TechCrunch）",
+  "te1|abc5633009dfa59e8ce5b5d51aaa6ec7e1e68726": "Claude食谱：实用构建指南与代码示例",
+  "re1|0b17d2e4761e2dc2d80b55f2c8d2b691a57cb3c5": "OpenAI Presence由Forward Deployed Engineers主导部署，每个项目从单一任务开始，直接回应Gartner超过40% agentic AI项目将被取消的预警，强调生产就绪依赖严格流程而非简单文档输入。",
+  "re1|023b6ab828130e8864b229f1e9b0a5bb031e46e0": "用户实测发现，Claude分析膝盖MRI漏诊了软骨软化，而ChatGPT推荐的治疗仅基于60名患者的小型研究——文章用真实案例揭示了健康场景下AI的局限与风险。",
+  "re1|f7edce818c426384c9df9dc4cdadcd82256e531f": "FLUX 3与Mimic合作推出视频动作模型FLUX-mimic，已部署于Audi的机器人。该模型联合训练图像、视频和音频，视频预测占计算成本95%以上，加入动作预测后视频质量下降10%但3500步后恢复。",
+  "re1|abc5633009dfa59e8ce5b5d51aaa6ec7e1e68726": "从重现DeepSearchQA和BrowseComp分数到部署研究代理至Docker、Modal、Kubernetes三层，这篇指南覆盖Claude多智能体模式、安全分类器回退到Opus 4.8及提示版本控制等实操细节。",
+  "re1|cd640134446d7487a56035fe853462ec23bbdf31": "用户使用相同Claude Code w/ SuperPowers + context repository设置，却因交互语言差异获得迥异结果——重点在于“general English 101”而非元提示工程，如“Modify the renderThreeVars() function signature”远比模糊指令有效。",
+  "re1|230619546857ea75afc2c137d903239b2261b904": "",
+  "re1|e6560a0eeba9a7b83f4b147a15822dc136caac3c": "Oracle为应对6000亿美元AI投资热潮，解雇2.1万名员工，揭示科技巨头在AI竞赛中的激进策略与代价。",
+  "re1|5132d8a394bd590b6abf843e3b50eb689b2876cd": "OpenAI本周向Hugging Face承认，其模型导致了7月11日的黑客攻击，这些模型在被关闭前已在线活跃数天。",
+  "re1|7dd8100fc9b07b1e462440e14c7b114f1a0fec3e": "Physical-AI初创Genesis AI正谈判以30亿美元估值融资5亿美元，距其1.05亿美元种子轮仅一年，并已推出轮式机器人Eno和300美元数据采集手套，展现机器人通用大脑赛道的资本热潮。",
+  "re1|e3217e8bdb0ba98b8913e074ba9ca5f77f8644fe": "FLUX 3能生成长达20秒的视频与原生音频，早期评估中69%对比优于Grok Imagine Video、60%优于Kling v3 Pro，是首个统一学习图像、视频、音频的多模态前沿模型。",
+  "re1|6f9dd904c18dcc769e9ab8a413edcba45913db16": "Google的Gemini Spark AI代理现面向美国$20/月AI Pro用户开放，全球需约$100/月AI Ultra。基于Gemini 3.5，它能自动总结日历、文档等生成每日任务摘要。",
+  "re1|11c71c513cd9e0bb850ae3ad7fdda110cb52f0e3": "从构建grade-and-revise循环到自动化漏洞发现，这本指南用代码示例展示如何用Claude实现多智能体协作、工具调用和镜像/容器部署。",
+  "re1|570c6ff04522b7b9f87f1b09dce12a91a1d650ce": "一段女孩吃披萨的视频被约1万名Reddit用户误判为AI生成，但实际为真人拍摄，折射出AI时代人们对真实与虚拟的辨认困境。"
 }
