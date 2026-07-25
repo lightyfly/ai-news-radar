@@ -1,290 +1,215 @@
 {
-  "generated_at": "2026-07-24T12:58:08.990411Z",
+  "generated_at": "2026-07-25T00:07:33.564716Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_542d81ae471d",
-      "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a69b2a307509",
+      "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
+      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Copilot 云端智能体现已对 Linear 全面开放",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot cloud agent现已正式集成Linear，可自动分析并处理分配的问题，支持在工作区中精细控制运行方式，适用于Copilot Pro至Enterprise用户。",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_zh": "Runway Agent 推出自然语言工作流功能",
+          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "recommend_reason_zh": "Runway Agent 推出Workflows，允许用户通过自然语言构建、运行或编辑节点式工作流，从而解锁大规模高质量输出，无需手动编程。",
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Runway (@runwayml)"
       ],
       "items": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Copilot 云端智能体现已对 Linear 全面开放",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot cloud agent现已正式集成Linear，可自动分析并处理分配的问题，支持在工作区中精细控制运行方式，适用于Copilot Pro至Enterprise用户。",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_zh": "Runway Agent 推出自然语言工作流功能",
+          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "recommend_reason_zh": "Runway Agent 推出Workflows，允许用户通过自然语言构建、运行或编辑节点式工作流，从而解锁大规模高质量输出，无需手动编程。",
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.71,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8119,
+        "ai_relevance": 1.0,
+        "recency": 0.8598,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T22:32:23Z",
-      "latest_at": "2026-07-23T22:32:23Z",
+      "earliest_at": "2026-07-24T13:40:08Z",
+      "latest_at": "2026-07-24T13:40:08Z",
       "primary_item": {
-        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-        "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-        "title_zh": "Copilot 云端智能体现已对 Linear 全面开放",
-        "title_en": "Copilot cloud agent for Linear is now generally available",
-        "title_original": "Copilot cloud agent for Linear is now generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot cloud agent现已正式集成Linear，可自动分析并处理分配的问题，支持在工作区中精细控制运行方式，适用于Copilot Pro至Enterprise用户。",
-        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "面向开发者的工具更新，与个人创作者内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+        "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "title_zh": "Runway Agent 推出自然语言工作流功能",
+        "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+        "recommend_reason_zh": "Runway Agent 推出Workflows，允许用户通过自然语言构建、运行或编辑节点式工作流，从而解锁大规模高质量输出，无需手动编程。",
+        "url": "https://x.com/runwayml/status/2080649234672439389",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_bfadc5abab8d",
-      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_db9570cdaf10",
+      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
-          "recommend_reason_zh": "DARPA 与美国空军在 VENOM 项目中成功试飞 AI 操控的 F-16，VAK 套件让飞行员一键切换人工与 AI 控制，为开发可扩展的自主空战 AI 奠定基础。",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+          "recommend_reason_zh": "Claude Opus 5在Frontier-Bench v0.1上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；在CursorBench 3.2上以一半成本达到Fable 5峰值99.5%的表现，成为最经济高效的日常模型。",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
           "summary": null,
-          "recommend_reason_zh": "DARPA与美国空军试飞了由AI操控的F-16，通过VENOM Autonomy Kit改造标准战机，飞行员可一键切换AI控制，为后续AIR项目测试多AI智能体空中作战奠定基础。",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "b7a4cbe5dbd46acf59b5103f767eff70ab52f6bc",
-          "title": "DARPA与美国空军驾驶AI操控的F-16 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA与美国空军驾驶AI操控的F-16",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": "DARPA与美国空军成功试飞AI控制的F-16，并计划将AI用于协同作战飞机项目。与此同时，AI已贡献美国超50%的GDP增长，引发公众对技术失控的担忧。",
-          "url": "https://news.ycombinator.com/item?id=49021597",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T16:20:01.800000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": "美国空军和DARPA成功试飞AI控制的F-16战斗机，VENOM项目改装套件（VAK）允许飞行员一键切换人控与AI控制，为开发可信自主空战能力奠定基础。",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:57:41Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.darpa.mil"
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
-          "recommend_reason_zh": "DARPA 与美国空军在 VENOM 项目中成功试飞 AI 操控的 F-16，VAK 套件让飞行员一键切换人工与 AI 控制，为开发可扩展的自主空战 AI 奠定基础。",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+          "recommend_reason_zh": "Claude Opus 5在Frontier-Bench v0.1上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；在CursorBench 3.2上以一半成本达到Fable 5峰值99.5%的表现，成为最经济高效的日常模型。",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
           "summary": null,
-          "recommend_reason_zh": "DARPA与美国空军试飞了由AI操控的F-16，通过VENOM Autonomy Kit改造标准战机，飞行员可一键切换AI控制，为后续AIR项目测试多AI智能体空中作战奠定基础。",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "b7a4cbe5dbd46acf59b5103f767eff70ab52f6bc",
-          "title": "DARPA与美国空军驾驶AI操控的F-16 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA与美国空军驾驶AI操控的F-16",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": "DARPA与美国空军成功试飞AI控制的F-16，并计划将AI用于协同作战飞机项目。与此同时，AI已贡献美国超50%的GDP增长，引发公众对技术失控的担忧。",
-          "url": "https://news.ycombinator.com/item?id=49021597",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T16:20:01.800000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": "美国空军和DARPA成功试飞AI控制的F-16战斗机，VENOM项目改装套件（VAK）允许飞行员一键切换人控与AI控制，为开发可信自主空战能力奠定基础。",
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:57:41Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
+        "editorial": 0.92,
+        "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7848,
-        "story_heat": 0.75,
+        "recency": 0.9075,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T13:51:36Z",
-      "latest_at": "2026-07-23T20:11:31.906000Z",
+      "earliest_at": "2026-07-24T16:57:41Z",
+      "latest_at": "2026-07-24T17:24:25.589000Z",
       "primary_item": {
-        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_en": null,
-        "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
-        "recommend_reason_zh": "DARPA 与美国空军在 VENOM 项目中成功试飞 AI 操控的 F-16，VAK 套件让飞行员一键切换人工与 AI 控制，为开发可扩展的自主空战 AI 奠定基础。",
-        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+        "title_zh": "Anthropic 发布 Claude Opus 5",
+        "title_en": "Introducing Claude Opus 5",
+        "title_original": "Introducing Claude Opus 5",
+        "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+        "recommend_reason_zh": "Claude Opus 5在Frontier-Bench v0.1上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；在CursorBench 3.2上以一半成本达到Fable 5峰值99.5%的表现，成为最经济高效的日常模型。",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 8,
-      "persona_review": "军事AI新闻，与个人创作者内容变现无关，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
       }
     },
     {
-      "story_id": "story_11ed83f3e906",
-      "title": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "story_id": "story_fdc1a7916c66",
+      "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": "从GitHub Mobile的pull request中，选中失败的Actions check即可一键让Copilot coding agent调查、创建新PR并尝试修复，现已登陆iOS和Android最新版。",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5 现已登陆 GitHub Copilot",
+          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
+          "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable…\nClaude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable execution across multiple steps.\nIn our early testing, Opus 5 showed strong performance on agenti",
+          "recommend_reason_zh": "Claude Opus 5作为Anthropic最新Opus模型已登陆GitHub Copilot，专为复杂多步编码任务设计，在自主代码更改和回归验证等代理工作流中表现强劲，并增强了高风险网络内容的安全防护。",
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-24T16:40:04Z"
         }
       ],
       "source_count": 1,
@@ -293,62 +218,53 @@
       ],
       "items": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": "从GitHub Mobile的pull request中，选中失败的Actions check即可一键让Copilot coding agent调查、创建新PR并尝试修复，现已登陆iOS和Android最新版。",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5 现已登陆 GitHub Copilot",
+          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
+          "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable…\nClaude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable execution across multiple steps.\nIn our early testing, Opus 5 showed strong performance on agenti",
+          "recommend_reason_zh": "Claude Opus 5作为Anthropic最新Opus模型已登陆GitHub Copilot，专为复杂多步编码任务设计，在自主代码更改和回归验证等代理工作流中表现强劲，并增强了高风险网络内容的安全防护。",
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-24T16:40:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7804,
+        "ai_relevance": 0.95,
+        "recency": 0.8979,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
+      "earliest_at": "2026-07-24T16:40:04Z",
+      "latest_at": "2026-07-24T16:40:04Z",
       "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_zh": "GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查",
-        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "summary": null,
-        "recommend_reason_zh": "从GitHub Mobile的pull request中，选中失败的Actions check即可一键让Copilot coding agent调查、创建新PR并尝试修复，现已登陆iOS和Android最新版。",
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+        "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
+        "title_zh": "Claude Opus 5 现已登陆 GitHub Copilot",
+        "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+        "title_original": "Claude Opus 5 is now available in GitHub Copilot",
+        "summary": "Claude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable…\nClaude Opus 5, Anthropic’s newest Opus model, is now available in GitHub Copilot. It is designed for complex, long-running coding tasks that require careful reasoning, effective tool use, and reliable execution across multiple steps.\nIn our early testing, Opus 5 showed strong performance on agenti",
+        "recommend_reason_zh": "Claude Opus 5作为Anthropic最新Opus模型已登陆GitHub Copilot，专为复杂多步编码任务设计，在自主代码更改和回归验证等代理工作流中表现强劲，并增强了高风险网络内容的安全防护。",
+        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "开发者工具更新，与内容创作者变现无直接关联，不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
       }
     },
     {
@@ -365,7 +281,7 @@
           "title_zh": "推出 Seller，一款为 Facebook Marketplace 卖家打造的 App",
           "title_en": "Introducing Seller, an App for Facebook Marketplace Sellers",
           "title_original": "Introducing Seller, an App for Facebook Marketplace Sellers",
-          "summary": "We're introducing Seller, a new app that helps for Marketplace sellers streamline their activities.\nWe're introducing Seller, a new app that helps for Marketplace sellers streamline their activities.\nMeta\nFacebook Marketplace turns ten this year. What started as people buying and selling in Facebook Groups has grown into a destination where 430 million items are listed each month globally, and for many has turned into a side hustle, a small business, real income. Today, those sellers get their o",
+          "summary": null,
           "recommend_reason_zh": "Facebook Marketplace十年来月均4.3亿条商品，新应用Seller专为卖家管理列表和增长业务设计，现已登陆美国App Store。",
           "url": "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace",
           "source": "Meta Newsroom",
@@ -385,7 +301,7 @@
           "title_zh": "推出 Seller，一款为 Facebook Marketplace 卖家打造的 App",
           "title_en": "Introducing Seller, an App for Facebook Marketplace Sellers",
           "title_original": "Introducing Seller, an App for Facebook Marketplace Sellers",
-          "summary": "We're introducing Seller, a new app that helps for Marketplace sellers streamline their activities.\nWe're introducing Seller, a new app that helps for Marketplace sellers streamline their activities.\nMeta\nFacebook Marketplace turns ten this year. What started as people buying and selling in Facebook Groups has grown into a destination where 430 million items are listed each month globally, and for many has turned into a side hustle, a small business, real income. Today, those sellers get their o",
+          "summary": null,
           "recommend_reason_zh": "Facebook Marketplace十年来月均4.3亿条商品，新应用Seller专为卖家管理列表和增长业务设计，现已登陆美国App Store。",
           "url": "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace",
           "source": "Meta Newsroom",
@@ -396,23 +312,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.9722,
+        "recency": 0.8275,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T11:00:54Z",
       "latest_at": "2026-07-24T11:00:54Z",
@@ -422,7 +337,7 @@
         "title_zh": "推出 Seller，一款为 Facebook Marketplace 卖家打造的 App",
         "title_en": "Introducing Seller, an App for Facebook Marketplace Sellers",
         "title_original": "Introducing Seller, an App for Facebook Marketplace Sellers",
-        "summary": "We're introducing Seller, a new app that helps for Marketplace sellers streamline their activities.\nWe're introducing Seller, a new app that helps for Marketplace sellers streamline their activities.\nMeta\nFacebook Marketplace turns ten this year. What started as people buying and selling in Facebook Groups has grown into a destination where 430 million items are listed each month globally, and for many has turned into a side hustle, a small business, real income. Today, those sellers get their o",
+        "summary": null,
         "recommend_reason_zh": "Facebook Marketplace十年来月均4.3亿条商品，新应用Seller专为卖家管理列表和增长业务设计，现已登陆美国App Store。",
         "url": "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace",
         "source": "Meta Newsroom",
@@ -434,7 +349,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
@@ -451,7 +366,7 @@
           "title_zh": "数据归因变天了，小红书宣布小红星加收服务费…",
           "title_en": null,
           "title_original": "数据归因变天了，小红书宣布小红星加收服务费…",
-          "summary": "小红星归因成本再添新项：小红书聚光加收1%技术服务费，叠加阿里2%费用后，品牌需重新核算真实ROI。本文拆解多层收费逻辑，提醒品牌注意财务口径与平台口径的差异，避免被后台数据误导。\n7 月 1 号的时候大家应该都有收到这条官方消息吧？\n从7月1日起，使用聚光「产品种草」投放小红星笔记，小红书会按照广告消耗金额的1%收取技术服务费，实时计费，T+1扣款\n其实我当时是没当回事的，我还以为原来小红星是收 2% 的服务费现在降到 1% 了呢，后来同事跟我说不是降低，而是加收，我大为震惊\n也就是说小红星侧，也就是淘宝星河，要收 2% 的服务费这个不变。除此之外，小红书聚光也要额外加收 1%…\n有人可能觉得1%不多，投100万也就多1万。但这个账你仔细算算就会发现，品牌要做小红星归因，需要承担的费用被叠了好几层\n先简单解释一下小红星的作用\n品牌在小红书投放达人笔记，用户看完笔记以后，可能会去淘宝搜索品牌、进入店铺、收藏加购或者直接成交。但用户从小红书跳到了淘宝，两个平台之间的数据天然是割裂的，小红星解决的就是这段站外归因问题，只要笔记绑定了小红书任务组，品牌可以看到小红书笔记带来的淘宝搜索、进店、",
+          "summary": null,
           "recommend_reason_zh": "7月1日起小红星加收聚光1%技术费，叠加阿里2%后，品牌需重新算账：达人订单10万+消耗50万时新增成本7000元，且不计入后台ROI。",
           "url": "https://www.yunyingpai.com/xhs/1061349.html",
           "source": "运营派",
@@ -471,7 +386,7 @@
           "title_zh": "数据归因变天了，小红书宣布小红星加收服务费…",
           "title_en": null,
           "title_original": "数据归因变天了，小红书宣布小红星加收服务费…",
-          "summary": "小红星归因成本再添新项：小红书聚光加收1%技术服务费，叠加阿里2%费用后，品牌需重新核算真实ROI。本文拆解多层收费逻辑，提醒品牌注意财务口径与平台口径的差异，避免被后台数据误导。\n7 月 1 号的时候大家应该都有收到这条官方消息吧？\n从7月1日起，使用聚光「产品种草」投放小红星笔记，小红书会按照广告消耗金额的1%收取技术服务费，实时计费，T+1扣款\n其实我当时是没当回事的，我还以为原来小红星是收 2% 的服务费现在降到 1% 了呢，后来同事跟我说不是降低，而是加收，我大为震惊\n也就是说小红星侧，也就是淘宝星河，要收 2% 的服务费这个不变。除此之外，小红书聚光也要额外加收 1%…\n有人可能觉得1%不多，投100万也就多1万。但这个账你仔细算算就会发现，品牌要做小红星归因，需要承担的费用被叠了好几层\n先简单解释一下小红星的作用\n品牌在小红书投放达人笔记，用户看完笔记以后，可能会去淘宝搜索品牌、进入店铺、收藏加购或者直接成交。但用户从小红书跳到了淘宝，两个平台之间的数据天然是割裂的，小红星解决的就是这段站外归因问题，只要笔记绑定了小红书任务组，品牌可以看到小红书笔记带来的淘宝搜索、进店、",
+          "summary": null,
           "recommend_reason_zh": "7月1日起小红星加收聚光1%技术费，叠加阿里2%后，品牌需重新算账：达人订单10万+消耗50万时新增成本7000元，且不计入后台ROI。",
           "url": "https://www.yunyingpai.com/xhs/1061349.html",
           "source": "运营派",
@@ -482,23 +397,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.934,
+        "recency": 0.795,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T08:14:25Z",
       "latest_at": "2026-07-24T08:14:25Z",
@@ -508,7 +422,7 @@
         "title_zh": "数据归因变天了，小红书宣布小红星加收服务费…",
         "title_en": null,
         "title_original": "数据归因变天了，小红书宣布小红星加收服务费…",
-        "summary": "小红星归因成本再添新项：小红书聚光加收1%技术服务费，叠加阿里2%费用后，品牌需重新核算真实ROI。本文拆解多层收费逻辑，提醒品牌注意财务口径与平台口径的差异，避免被后台数据误导。\n7 月 1 号的时候大家应该都有收到这条官方消息吧？\n从7月1日起，使用聚光「产品种草」投放小红星笔记，小红书会按照广告消耗金额的1%收取技术服务费，实时计费，T+1扣款\n其实我当时是没当回事的，我还以为原来小红星是收 2% 的服务费现在降到 1% 了呢，后来同事跟我说不是降低，而是加收，我大为震惊\n也就是说小红星侧，也就是淘宝星河，要收 2% 的服务费这个不变。除此之外，小红书聚光也要额外加收 1%…\n有人可能觉得1%不多，投100万也就多1万。但这个账你仔细算算就会发现，品牌要做小红星归因，需要承担的费用被叠了好几层\n先简单解释一下小红星的作用\n品牌在小红书投放达人笔记，用户看完笔记以后，可能会去淘宝搜索品牌、进入店铺、收藏加购或者直接成交。但用户从小红书跳到了淘宝，两个平台之间的数据天然是割裂的，小红星解决的就是这段站外归因问题，只要笔记绑定了小红书任务组，品牌可以看到小红书笔记带来的淘宝搜索、进店、",
+        "summary": null,
         "recommend_reason_zh": "7月1日起小红星加收聚光1%技术费，叠加阿里2%后，品牌需重新算账：达人订单10万+消耗50万时新增成本7000元，且不计入后台ROI。",
         "url": "https://www.yunyingpai.com/xhs/1061349.html",
         "source": "运营派",
@@ -520,7 +434,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
@@ -568,23 +482,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.8105,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:34:45.367737Z",
       "latest_at": "2026-07-24T09:34:45.367737Z",
@@ -606,94 +519,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
-      }
-    },
-    {
-      "story_id": "story_1950d49db06a",
-      "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "title_zh": "GitHub MCP Server 支持下一代 MCP 规范",
-          "title_en": "GitHub MCP Server supports the next MCP specification",
-          "title_original": "GitHub MCP Server supports the next MCP specification",
-          "summary": null,
-          "recommend_reason_zh": "GitHub MCP Server已率先支持将于2026年7月28日生效的无状态MCP新规范，并为此做了避免深度包检测、升级elicitation机制等三项核心改动。",
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "title_zh": "GitHub MCP Server 支持下一代 MCP 规范",
-          "title_en": "GitHub MCP Server supports the next MCP specification",
-          "title_original": "GitHub MCP Server supports the next MCP specification",
-          "summary": null,
-          "recommend_reason_zh": "GitHub MCP Server已率先支持将于2026年7月28日生效的无状态MCP新规范，并为此做了避免深度包检测、升级elicitation机制等三项核心改动。",
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7899,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T20:38:22Z",
-      "latest_at": "2026-07-23T20:38:22Z",
-      "primary_item": {
-        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-        "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-        "title_zh": "GitHub MCP Server 支持下一代 MCP 规范",
-        "title_en": "GitHub MCP Server supports the next MCP specification",
-        "title_original": "GitHub MCP Server supports the next MCP specification",
-        "summary": null,
-        "recommend_reason_zh": "GitHub MCP Server已率先支持将于2026年7月28日生效的无状态MCP新规范，并为此做了避免深度包检测、升级elicitation机制等三项核心改动。",
-        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "工具更新，但未直接涉及内容生产或变现路径，可观察后续生态应用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
@@ -741,23 +567,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.8451,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T12:28:24Z",
       "latest_at": "2026-07-24T12:28:24Z",
@@ -779,325 +604,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
-      }
-    },
-    {
-      "story_id": "story_ce28d04e10f8",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "primary_url": "https://github.com/izeigerman/claude-thermos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "recommend_reason_zh": "在Claude Code中，当主agent等待子agent超过5分钟时，缓存过期导致约22%的账单花在重编码上；claude-thermos通过背景保活避免了这笔开销。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "recommend_reason_zh": "claude-thermos 通过后台自动发送缓存读取请求，防止子代理拖延超5分钟导致主提示缓存过期，避免每次重写20万至50万token的高额费用——实测可省下约22%的账单支出。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "7a521493088ae324b98f515f600855b1e0c43814",
-          "title": "Show HN: Claude-thermos – 让你的Claude会话保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Show HN: Claude-thermos – 让你的Claude会话保持温暖",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": "Claude-thermos 让用户自定义Claude session缓存时长（默认API密钥5分钟、订阅者1小时），通过选择不同费率保持会话持续可用，揭露了缓存时长对基础设施超售策略的影响。",
-          "url": "https://news.ycombinator.com/item?id=49024882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T18:20:12.130000Z"
-        },
-        {
-          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code的主代理在等待子代理超过5分钟时提示缓存会过期，导致每次重建需重写200K–500K tokens，约占账单的22%。claude-thermos通过后台发送缓存读取请求来避免这一损耗，帮你省钱。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T17:06:22Z"
-        },
-        {
-          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": "claude-thermos通过背景保活避免Claude Code的缓存因子代理超5分钟而失效，在185次测试中节省约22%账单——每次重新编码成本高达200K–500K tokens。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T17:06:22Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "recommend_reason_zh": "在Claude Code中，当主agent等待子agent超过5分钟时，缓存过期导致约22%的账单花在重编码上；claude-thermos通过背景保活避免了这笔开销。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "recommend_reason_zh": "claude-thermos 通过后台自动发送缓存读取请求，防止子代理拖延超5分钟导致主提示缓存过期，避免每次重写20万至50万token的高额费用——实测可省下约22%的账单支出。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "7a521493088ae324b98f515f600855b1e0c43814",
-          "title": "Show HN: Claude-thermos – 让你的Claude会话保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Show HN: Claude-thermos – 让你的Claude会话保持温暖",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": "Claude-thermos 让用户自定义Claude session缓存时长（默认API密钥5分钟、订阅者1小时），通过选择不同费率保持会话持续可用，揭露了缓存时长对基础设施超售策略的影响。",
-          "url": "https://news.ycombinator.com/item?id=49024882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T18:20:12.130000Z"
-        },
-        {
-          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code的主代理在等待子代理超过5分钟时提示缓存会过期，导致每次重建需重写200K–500K tokens，约占账单的22%。claude-thermos通过后台发送缓存读取请求来避免这一损耗，帮你省钱。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T17:06:22Z"
-        },
-        {
-          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-          "summary": null,
-          "recommend_reason_zh": "claude-thermos通过背景保活避免Claude Code的缓存因子代理超5分钟而失效，在185次测试中节省约22%账单——每次重新编码成本高达200K–500K tokens。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T17:06:22Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9552,
-        "story_heat": 1.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T17:06:22Z",
-      "latest_at": "2026-07-24T09:47:29.601000Z",
-      "primary_item": {
-        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_en": null,
-        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "recommend_reason_zh": "在Claude Code中，当主agent等待子agent超过5分钟时，缓存过期导致约22%的账单花在重编码上；claude-thermos通过背景保活避免了这笔开销。",
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "技术工具，对内容创作者无直接变现价值，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
-      }
-    },
-    {
-      "story_id": "story_2d16f31e4c0e",
-      "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "primary_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-          "recommend_reason_zh": "Apple诉OpenAI窃取商业机密，指控前员工在面试中泄露硬件制造文件。OpenAI刚花65亿美元收购Jony Ive的io Products，却仍烧钱无战略方向，这场诉讼如何定义后智能手机时代？值得一读。",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": null,
-          "recommend_reason_zh": "Apple与OpenAI的诉讼背后，是后智能手机时代的定义权之争。OpenAI曾花65亿美元收购Jony Ive的AI硬件公司io Products，如今却面临Apple的严厉诉讼。",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-          "recommend_reason_zh": "Apple诉OpenAI窃取商业机密，指控前员工在面试中泄露硬件制造文件。OpenAI刚花65亿美元收购Jony Ive的io Products，却仍烧钱无战略方向，这场诉讼如何定义后智能手机时代？值得一读。",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": null,
-          "recommend_reason_zh": "Apple与OpenAI的诉讼背后，是后智能手机时代的定义权之争。OpenAI曾花65亿美元收购Jony Ive的AI硬件公司io Products，如今却面临Apple的严厉诉讼。",
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7177,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T14:00:00Z",
-      "latest_at": "2026-07-23T14:00:00Z",
-      "primary_item": {
-        "id": "794df629b7a6322acb25902743aaec5346a26e71",
-        "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-        "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-        "recommend_reason_zh": "Apple诉OpenAI窃取商业机密，指控前员工在面试中泄露硬件制造文件。OpenAI刚花65亿美元收购Jony Ive的io Products，却仍烧钱无战略方向，这场诉讼如何定义后智能手机时代？值得一读。",
-        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "法律纠纷，与内容变现无关，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
@@ -1145,23 +652,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.8105,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:34:45.367737Z",
       "latest_at": "2026-07-24T09:34:45.367737Z",
@@ -1183,7 +689,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
@@ -1200,7 +706,7 @@
           "title_zh": "“被裁掉的女孩”转战小红书：AI短剧正在孵化永不下班的艺人",
           "title_en": null,
           "title_original": "“被裁掉的女孩”转战小红书：AI短剧正在孵化永不下班的艺人",
-          "summary": "AI短剧《被裁掉的女孩》完结后，虚拟主角方桃子在小红书继续更新日常，从剧集角色转型为独立虚拟艺人。这种“正片出道+社交平台养成的模式，正在重新定义短剧的商业价值与角色生命周期，为AI娱乐产业打开新可能。\n《被裁掉的女孩》第一季已经完结，但方桃子没有“告别角色”。\n这位从小地方来到虚拟大都市“上南城”、在时尚行业艰难打拼的年轻模特，转身在小红书拥有了自己的账号。离开短剧镜头后，她继续发布写真、穿搭和生活日常，以第一人称与观众交流。\n对于真人演员，这是一套再常见不过的剧宣动作。但问题在于，方桃子并不是真人。\n她是AI短剧《被裁掉的女孩》中的虚拟角色，从面孔、表演到生活场景，主要由生成式AI创造。严格来说，小红书上的“方桃子”依然是一场表演，只不过片场从短剧正片延伸到了整个社交平台。\n这可能比《被裁掉的女孩》所呈现的毛孔、微表情和真人质感更值得行业关注。\n它展示了一种新的可能：短剧不再只是一种需要被播放和消费的内容，也可以成为AI角色的出道舞台。正片负责让观众认识她，社交账号负责让观众陪伴她，商业内容则有机会让这个角色持续创造收入。\n《被裁掉的女孩》从今年6月开始在抖音更新，第一季共11集，",
+          "summary": null,
           "recommend_reason_zh": "AI短剧《被裁掉的女孩》第一季7月收官后，虚拟主角方桃子在小红书持续更新日常，以“正片出道+社交平台养成”模式延长角色生命周期，探索AI娱乐的商业新可能。",
           "url": "https://www.yunyingpai.com/content/1061338.html",
           "source": "运营派",
@@ -1220,7 +726,7 @@
           "title_zh": "“被裁掉的女孩”转战小红书：AI短剧正在孵化永不下班的艺人",
           "title_en": null,
           "title_original": "“被裁掉的女孩”转战小红书：AI短剧正在孵化永不下班的艺人",
-          "summary": "AI短剧《被裁掉的女孩》完结后，虚拟主角方桃子在小红书继续更新日常，从剧集角色转型为独立虚拟艺人。这种“正片出道+社交平台养成的模式，正在重新定义短剧的商业价值与角色生命周期，为AI娱乐产业打开新可能。\n《被裁掉的女孩》第一季已经完结，但方桃子没有“告别角色”。\n这位从小地方来到虚拟大都市“上南城”、在时尚行业艰难打拼的年轻模特，转身在小红书拥有了自己的账号。离开短剧镜头后，她继续发布写真、穿搭和生活日常，以第一人称与观众交流。\n对于真人演员，这是一套再常见不过的剧宣动作。但问题在于，方桃子并不是真人。\n她是AI短剧《被裁掉的女孩》中的虚拟角色，从面孔、表演到生活场景，主要由生成式AI创造。严格来说，小红书上的“方桃子”依然是一场表演，只不过片场从短剧正片延伸到了整个社交平台。\n这可能比《被裁掉的女孩》所呈现的毛孔、微表情和真人质感更值得行业关注。\n它展示了一种新的可能：短剧不再只是一种需要被播放和消费的内容，也可以成为AI角色的出道舞台。正片负责让观众认识她，社交账号负责让观众陪伴她，商业内容则有机会让这个角色持续创造收入。\n《被裁掉的女孩》从今年6月开始在抖音更新，第一季共11集，",
+          "summary": null,
           "recommend_reason_zh": "AI短剧《被裁掉的女孩》第一季7月收官后，虚拟主角方桃子在小红书持续更新日常，以“正片出道+社交平台养成”模式延长角色生命周期，探索AI娱乐的商业新可能。",
           "url": "https://www.yunyingpai.com/content/1061338.html",
           "source": "运营派",
@@ -1231,15 +737,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.8531,
+        "recency": 0.7262,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -1256,7 +762,7 @@
         "title_zh": "“被裁掉的女孩”转战小红书：AI短剧正在孵化永不下班的艺人",
         "title_en": null,
         "title_original": "“被裁掉的女孩”转战小红书：AI短剧正在孵化永不下班的艺人",
-        "summary": "AI短剧《被裁掉的女孩》完结后，虚拟主角方桃子在小红书继续更新日常，从剧集角色转型为独立虚拟艺人。这种“正片出道+社交平台养成的模式，正在重新定义短剧的商业价值与角色生命周期，为AI娱乐产业打开新可能。\n《被裁掉的女孩》第一季已经完结，但方桃子没有“告别角色”。\n这位从小地方来到虚拟大都市“上南城”、在时尚行业艰难打拼的年轻模特，转身在小红书拥有了自己的账号。离开短剧镜头后，她继续发布写真、穿搭和生活日常，以第一人称与观众交流。\n对于真人演员，这是一套再常见不过的剧宣动作。但问题在于，方桃子并不是真人。\n她是AI短剧《被裁掉的女孩》中的虚拟角色，从面孔、表演到生活场景，主要由生成式AI创造。严格来说，小红书上的“方桃子”依然是一场表演，只不过片场从短剧正片延伸到了整个社交平台。\n这可能比《被裁掉的女孩》所呈现的毛孔、微表情和真人质感更值得行业关注。\n它展示了一种新的可能：短剧不再只是一种需要被播放和消费的内容，也可以成为AI角色的出道舞台。正片负责让观众认识她，社交账号负责让观众陪伴她，商业内容则有机会让这个角色持续创造收入。\n《被裁掉的女孩》从今年6月开始在抖音更新，第一季共11集，",
+        "summary": null,
         "recommend_reason_zh": "AI短剧《被裁掉的女孩》第一季7月收官后，虚拟主角方桃子在小红书持续更新日常，以“正片出道+社交平台养成”模式延长角色生命周期，探索AI娱乐的商业新可能。",
         "url": "https://www.yunyingpai.com/content/1061338.html",
         "source": "运营派",
@@ -1268,94 +774,114 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
-      "story_id": "story_2f6f9986db3e",
-      "title": "公开预览版中新增项目和议题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5105aa91a912",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "primary_url": "https://github.com/izeigerman/claude-thermos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公开预览版中新增项目和议题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "title_zh": "公开预览版中新增项目和议题的多选字段",
-          "title_en": "Multi-select fields for Projects and Issues in public preview",
-          "title_original": "Multi-select fields for Projects and Issues in public preview",
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": "在Claude Code中，当主agent等待子agent超过5分钟时，缓存过期导致约22%的账单花在重编码上；claude-thermos通过背景保活避免了这笔开销。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
           "summary": null,
-          "recommend_reason_zh": "GitHub Projects和Issues上线多选字段（multi-select fields）公共预览，一个字段可同时标记多个团队、模块或类别，从侧边栏设置值并过滤筛选。",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
+          "recommend_reason_zh": "claude-thermos 通过后台自动发送缓存读取请求，防止子代理拖延超5分钟导致主提示缓存过期，避免每次重写20万至50万token的高额费用——实测可省下约22%的账单支出。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公开预览版中新增项目和议题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "title_zh": "公开预览版中新增项目和议题的多选字段",
-          "title_en": "Multi-select fields for Projects and Issues in public preview",
-          "title_original": "Multi-select fields for Projects and Issues in public preview",
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": "在Claude Code中，当主agent等待子agent超过5分钟时，缓存过期导致约22%的账单花在重编码上；claude-thermos通过背景保活避免了这笔开销。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
           "summary": null,
-          "recommend_reason_zh": "GitHub Projects和Issues上线多选字段（multi-select fields）公共预览，一个字段可同时标记多个团队、模块或类别，从侧边栏设置值并过滤筛选。",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
+          "recommend_reason_zh": "claude-thermos 通过后台自动发送缓存读取请求，防止子代理拖延超5分钟导致主提示缓存过期，避免每次重写20万至50万token的高额费用——实测可省下约22%的账单支出。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6799,
+      "importance": 0.6799,
+      "importance_score": 0.6799,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7639,
-        "story_heat": 0.0,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.813,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
+      "earliest_at": "2026-07-24T09:47:29.601000Z",
+      "latest_at": "2026-07-24T09:47:29.601000Z",
       "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公开预览版中新增项目和议题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "title_zh": "公开预览版中新增项目和议题的多选字段",
-        "title_en": "Multi-select fields for Projects and Issues in public preview",
-        "title_original": "Multi-select fields for Projects and Issues in public preview",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Projects和Issues上线多选字段（multi-select fields）公共预览，一个字段可同时标记多个团队、模块或类别，从侧边栏设置值并过滤筛选。",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "GitHub项目管理更新，与AI内容变现无直接关联，不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": null,
+        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "recommend_reason_zh": "在Claude Code中，当主agent等待子agent超过5分钟时，缓存过期导致约22%的账单花在重编码上；claude-thermos通过背景保活避免了这笔开销。",
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1403,23 +929,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.8105,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:34:45.367737Z",
       "latest_at": "2026-07-24T09:34:45.367737Z",
@@ -1441,7 +966,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
@@ -1518,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6876,
-      "importance": 0.6876,
-      "importance_score": 0.6876,
+      "score": 0.662,
+      "importance": 0.662,
+      "importance_score": 0.662,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.8132,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -1556,179 +1081,113 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
-      "story_id": "story_1650bfbff40b",
-      "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_235ac79d72af",
+      "title": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+      "primary_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "GitHub Issues 中的 Agent 自动化控件进入公开预览",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Issues公开预览新增三项agent自动化控制：用has:suggestions搜索待审查项，管理员可设置置信度阈值决定自动或保留审查，支持标签、字段、类型、关闭、assignee变更。",
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
+          "id": "b6f506425377fb63fd2a02aa987adb5a5dc9b949",
+          "title": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_zh": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nThe neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nT",
+          "recommend_reason_zh": "由LinkedIn联合创始人Reid Hoffman和Zynga创始人Mark Pincus共同创立的AI实验室Prentis正在洽谈融资1亿美元，押注自动化日常计算机任务将很快超越编程成为AI最大用例。",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T22:25:58Z"
+        },
+        {
+          "id": "54d94f9c7ccc5826d80ff42e7406415da68416f5",
+          "title": "由Reid Hoffman与Marc Pincus联合创立的新AI实验室Prentis正洽谈融资1亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_zh": "由Reid Hoffman与Marc Pincus联合创立的新AI实验室Prentis正洽谈融资1亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nThe neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nT",
+          "recommend_reason_zh": "Prentis是由Reid Hoffman和Marc Pincus联合创办的新AI实验室，正洽谈筹集1亿美元，押注自动化日常电脑任务将超越编码成为AI最大应用场景。",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T22:25:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "GitHub Issues 中的 Agent 自动化控件进入公开预览",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Issues公开预览新增三项agent自动化控制：用has:suggestions搜索待审查项，管理员可设置置信度阈值决定自动或保留审查，支持标签、字段、类型、关闭、assignee变更。",
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
+          "id": "b6f506425377fb63fd2a02aa987adb5a5dc9b949",
+          "title": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_zh": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nThe neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nT",
+          "recommend_reason_zh": "由LinkedIn联合创始人Reid Hoffman和Zynga创始人Mark Pincus共同创立的AI实验室Prentis正在洽谈融资1亿美元，押注自动化日常计算机任务将很快超越编程成为AI最大用例。",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T22:25:58Z"
+        },
+        {
+          "id": "54d94f9c7ccc5826d80ff42e7406415da68416f5",
+          "title": "由Reid Hoffman与Marc Pincus联合创立的新AI实验室Prentis正洽谈融资1亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_zh": "由Reid Hoffman与Marc Pincus联合创立的新AI实验室Prentis正洽谈融资1亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nThe neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nT",
+          "recommend_reason_zh": "Prentis是由Reid Hoffman和Marc Pincus联合创办的新AI实验室，正洽谈筹集1亿美元，押注自动化日常电脑任务将超越编码成为AI最大应用场景。",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T22:25:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6444,
+      "importance": 0.6444,
+      "importance_score": 0.6444,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7335,
-        "story_heat": 0.0,
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9758,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-23T15:30:29Z",
-      "latest_at": "2026-07-23T15:30:29Z",
+      "earliest_at": "2026-07-24T22:25:58Z",
+      "latest_at": "2026-07-24T22:25:58Z",
       "primary_item": {
-        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-        "title": "GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview",
-        "title_zh": "GitHub Issues 中的 Agent 自动化控件进入公开预览",
-        "title_en": "Agent automation controls in GitHub Issues in public preview",
-        "title_original": "Agent automation controls in GitHub Issues in public preview",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Issues公开预览新增三项agent自动化控制：用has:suggestions搜索待审查项，管理员可设置置信度阈值决定自动或保留审查，支持标签、字段、类型、关闭、assignee变更。",
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "GitHub Issues自动化更新，与AI内容变现无直接关联，不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
-      }
-    },
-    {
-      "story_id": "story_5024eb5536d2",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "recommend_reason_zh": "The Numbers创始人Bruce Nash讲述该电影数据权威网站于2026年3月因AI爬虫和安全攻击崩溃重建，该站原追踪超过78,000部电影和236,000人，年访客超800万。",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "recommend_reason_zh": "The Numbers创始人Bruce Nash讲述该电影数据权威网站于2026年3月因AI爬虫和安全攻击崩溃重建，该站原追踪超过78,000部电影和236,000人，年访客超800万。",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7669,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T18:35:29.016000Z",
-      "latest_at": "2026-07-23T18:35:29.016000Z",
-      "primary_item": {
-        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_en": null,
-        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-        "recommend_reason_zh": "The Numbers创始人Bruce Nash讲述该电影数据权威网站于2026年3月因AI爬虫和安全攻击崩溃重建，该站原追踪超过78,000部电影和236,000人，年访客超800万。",
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "AI爬虫攻击导致网站崩溃，与创作者变现无关，不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "id": "b6f506425377fb63fd2a02aa987adb5a5dc9b949",
+        "title": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "title_zh": "Prentis，由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在洽谈融资1亿美元",
+        "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nThe neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nT",
+        "recommend_reason_zh": "由LinkedIn联合创始人Reid Hoffman和Zynga创始人Mark Pincus共同创立的AI实验室Prentis正在洽谈融资1亿美元，押注自动化日常计算机任务将很快超越编程成为AI最大用例。",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1776,23 +1235,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.8105,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:34:45.367737Z",
       "latest_at": "2026-07-24T09:34:45.367737Z",
@@ -1814,92 +1272,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
       }
     },
     {
-      "story_id": "story_63e67b950746",
-      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "primary_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_b10cb29baa4b",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google closes in on another billion- user product with Gemini",
-          "title_original": "Google closes in on another billion- user product with Gemini",
-          "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
-          "recommend_reason_zh": "Google的Gemini在2月已拥有超过7.5亿月活用户，正逼近下一个十亿用户产品门槛，这篇文章详细拆解了其增长路径。",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": null,
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+          "recommend_reason_zh": "FLUX 3 与 mimic 合作推出 FLUX-mimic，部署于 Audi。模型视频预测占超 95% 算力，加入动作预测后视频质量一度降 10%，但 3500 步后恢复。",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
+          "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google’s Gemini nears billion-user milestone",
-          "title_original": "Google’s Gemini nears billion-user milestone",
+          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "summary": null,
-          "recommend_reason_zh": "Google’s Gemini在2月已拥有超过7.5亿月活跃用户，正快速逼近十亿大关，揭示其AI产品如何加速渗透全球市场。",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
+          "recommend_reason_zh": "FLUX 3与mimic合作推出FLUX-mimic视频动作模型，已在Audi部署测试。其视频预测占训练计算成本超过95%，加入动作预测后视频质量先降10%，再经3500步恢复至原有水平。",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google closes in on another billion- user product with Gemini",
-          "title_original": "Google closes in on another billion- user product with Gemini",
-          "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
-          "recommend_reason_zh": "Google的Gemini在2月已拥有超过7.5亿月活用户，正逼近下一个十亿用户产品门槛，这篇文章详细拆解了其增长路径。",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": null,
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+          "recommend_reason_zh": "FLUX 3 与 mimic 合作推出 FLUX-mimic，部署于 Audi。模型视频预测占超 95% 算力，加入动作预测后视频质量一度降 10%，但 3500 步后恢复。",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
+          "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google’s Gemini nears billion-user milestone",
-          "title_original": "Google’s Gemini nears billion-user milestone",
+          "id": "0ee2e4b563ccc64d2b679ce830f9890b7a015ee5",
+          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "summary": null,
-          "recommend_reason_zh": "Google’s Gemini在2月已拥有超过7.5亿月活跃用户，正快速逼近十亿大关，揭示其AI产品如何加速渗透全球市场。",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
+          "recommend_reason_zh": "FLUX 3与mimic合作推出FLUX-mimic视频动作模型，已在Audi部署测试。其视频预测占训练计算成本超过95%，加入动作预测后视频质量先降10%，再经3500步恢复至原有水平。",
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6434,
-      "importance": 0.6434,
-      "importance_score": 0.6434,
+      "score": 0.6725,
+      "importance": 0.6725,
+      "importance_score": 0.6725,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7269,
+        "recency": 0.8385,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -1909,27 +1367,19 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T14:52:44Z",
-      "latest_at": "2026-07-23T14:52:44Z",
+      "earliest_at": "2026-07-24T09:31:48Z",
+      "latest_at": "2026-07-24T11:55:45.885000Z",
       "primary_item": {
-        "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-        "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-        "title_en": "Google closes in on another billion- user product with Gemini",
-        "title_original": "Google closes in on another billion- user product with Gemini",
-        "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
-        "recommend_reason_zh": "Google的Gemini在2月已拥有超过7.5亿月活用户，正逼近下一个十亿用户产品门槛，这篇文章详细拆解了其增长路径。",
-        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+        "title": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_en": null,
+        "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+        "recommend_reason_zh": "FLUX 3 与 mimic 合作推出 FLUX-mimic，部署于 Audi。模型视频预测占超 95% 算力，加入动作预测后视频质量一度降 10%，但 3500 步后恢复。",
+        "url": "https://bfl.ai/blog/flux-3-mimic",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛用户数据新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
       }
     },
     {
@@ -1977,23 +1427,22 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.913,
+        "recency": 0.7772,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T06:40:00.756926Z",
       "latest_at": "2026-07-24T06:40:00.756926Z",
@@ -2015,7 +1464,373 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T13:03:45.013447Z"
+        "scored_at": "2026-07-25T00:15:28.000498Z"
+      }
+    },
+    {
+      "story_id": "story_78e7efd2d2cd",
+      "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+      "url": "https://www.aibase.com/news/29864",
+      "primary_url": "https://www.aibase.com/news/29864",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72594ddc9ba39e2aab4601598043e48c3d592c06",
+          "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "title_zh": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "title_en": null,
+          "title_original": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "summary": null,
+          "recommend_reason_zh": "腾讯发布WorkBuddy Bench，将代码、网页、办公、安全四大领域共260个任务整合为统一考场，任务全部从真实场景逆向工程重写，杜绝“背答案”式刷榜。",
+          "url": "https://www.aibase.com/news/29864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T06:40:00.756926Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "72594ddc9ba39e2aab4601598043e48c3d592c06",
+          "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "title_zh": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "title_en": null,
+          "title_original": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "summary": null,
+          "recommend_reason_zh": "腾讯发布WorkBuddy Bench，将代码、网页、办公、安全四大领域共260个任务整合为统一考场，任务全部从真实场景逆向工程重写，杜绝“背答案”式刷榜。",
+          "url": "https://www.aibase.com/news/29864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T06:40:00.756926Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7772,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T06:40:00.756926Z",
+      "latest_at": "2026-07-24T06:40:00.756926Z",
+      "primary_item": {
+        "id": "72594ddc9ba39e2aab4601598043e48c3d592c06",
+        "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+        "title_zh": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+        "title_en": null,
+        "title_original": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+        "summary": null,
+        "recommend_reason_zh": "腾讯发布WorkBuddy Bench，将代码、网页、办公、安全四大领域共260个任务整合为统一考场，任务全部从真实场景逆向工程重写，杜绝“背答案”式刷榜。",
+        "url": "https://www.aibase.com/news/29864",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_35e9cf099ba2",
+      "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+      "url": "https://www.aibase.com/news/29854",
+      "primary_url": "https://www.aibase.com/news/29854",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
+          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "title_zh": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "title_en": null,
+          "title_original": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Alphabet对Anthropic的投资价值飙升至约1240亿美元，几乎完全由其持股驱动，成为母公司史上最成功投资之一，揭示了AI巨头间资本与算力的复杂纽带。",
+          "url": "https://www.aibase.com/news/29854",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T03:45:06.606964Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
+          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "title_zh": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "title_en": null,
+          "title_original": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Alphabet对Anthropic的投资价值飙升至约1240亿美元，几乎完全由其持股驱动，成为母公司史上最成功投资之一，揭示了AI巨头间资本与算力的复杂纽带。",
+          "url": "https://www.aibase.com/news/29854",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T03:45:06.606964Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7451,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T03:45:06.606964Z",
+      "latest_at": "2026-07-24T03:45:06.606964Z",
+      "primary_item": {
+        "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
+        "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+        "title_zh": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+        "title_en": null,
+        "title_original": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
+        "summary": null,
+        "recommend_reason_zh": "Alphabet对Anthropic的投资价值飙升至约1240亿美元，几乎完全由其持股驱动，成为母公司史上最成功投资之一，揭示了AI巨头间资本与算力的复杂纽带。",
+        "url": "https://www.aibase.com/news/29854",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c2ad13a854f3",
+      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "title_en": null,
+          "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
+          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:33:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "title_en": null,
+          "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
+          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:33:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9161,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T16:33:31Z",
+      "latest_at": "2026-07-24T18:03:38.315000Z",
+      "primary_item": {
+        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+        "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+        "title_en": null,
+        "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0eeaaa42e633",
+      "title": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+      "url": "https://www.anthropic.com/claude-opus-5-system-card",
+      "primary_url": "https://www.anthropic.com/claude-opus-5-system-card",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
+          "title": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+          "title_zh": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+          "title_en": null,
+          "title_original": "克劳德 作品第5号",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T17:15:36.658000Z"
+        },
+        {
+          "id": "37da8234f5b7c597a6be00c80e971ede2abf6f90",
+          "title": "Claude 作品第5号 / Claude Opus 5",
+          "title_zh": "Claude 作品第5号",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T16:57:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
+          "title": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+          "title_zh": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+          "title_en": null,
+          "title_original": "克劳德 作品第5号",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T17:15:36.658000Z"
+        },
+        {
+          "id": "37da8234f5b7c597a6be00c80e971ede2abf6f90",
+          "title": "Claude 作品第5号 / Claude Opus 5",
+          "title_zh": "Claude 作品第5号",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T16:57:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9056,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T16:57:41Z",
+      "latest_at": "2026-07-24T17:15:36.658000Z",
+      "primary_item": {
+        "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
+        "title": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+        "title_zh": "Anthropic发布Claude Opus 5 编程与推理能力提升",
+        "title_en": null,
+        "title_original": "克劳德 作品第5号",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/claude-opus-5-system-card",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
       }
     }
   ]
