@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T00:15:55.554685Z",
+  "generated_at": "2026-07-26T00:10:22.071269Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -15,66 +15,5 @@
       "name": "变现实用派"
     }
   ],
-  "items": [
-    {
-      "story_id": "story_a1dcbe6c3c4e",
-      "title": "数据归因变天了，小红书宣布小红星加收服务费…",
-      "url": "https://www.yunyingpai.com/xhs/1061349.html",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "改个名就敢说变天，服务费倒是先涨了。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无评测，仅商业新闻，证据为零。"
-        },
-        "pragmatic": {
-          "score": 94,
-          "review": "平台规则变化，直接影响带货归因和成本，今天就该检查投放策略。"
-        }
-      }
-    },
-    {
-      "story_id": "story_3783577bb12f",
-      "title": "推出 Seller，一款为 Facebook Marketplace 卖家打造的 App / Introducing Seller, an App for Facebook Marketplace Sellers",
-      "url": "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "给黄牛们配个专属工具，这下卖假货更高效了。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "官方新闻稿，无论文无代码无评测，纯产品公告，证据为零。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "Facebook Marketplace 官方卖家工具，适合跨境或二手卖家测试，但需验证国内可用性与转化效率。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b28aca9a9053",
-      "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-      "url": "https://www.aibase.com/news/29872",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "AI互动内容？不就是套壳聊天机器人加个快手滤镜，先看看用户留存再说。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无评测，只有招募公告，证据为零。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "平台新赛道机会，适合有互动内容能力的创作者早期测试流量红利。"
-        }
-      }
-    }
-  ]
+  "items": []
 }
