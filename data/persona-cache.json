@@ -2970,6 +2970,78 @@
       "review": "无论文无代码无评测，只有招募公告，证据为零。",
       "title_hash": "d8d721fb",
       "scored_at": "2026-07-24T13:04:17.507466Z"
+    },
+    "story_3d95ed8d3af8|pragmatic|ccc085fd": {
+      "score": 55,
+      "review": "工具使用案例，但缺少内容变现或增长数据，可参考工作流但非直接机会。",
+      "title_hash": "1b2217ad",
+      "scored_at": "2026-07-27T00:10:50.600612Z"
+    },
+    "story_b171ba4f1505|pragmatic|ccc085fd": {
+      "score": 55,
+      "review": "AI音乐工具更新，MIDI导出对视频配乐有实用价值，但需测试工作流是否提升效率。",
+      "title_hash": "f33dd33c",
+      "scored_at": "2026-07-27T00:10:51.879449Z"
+    },
+    "story_ac9556f6e6f5|pragmatic|ccc085fd": {
+      "score": 5,
+      "review": "纯理论计算机科学内容，与AI内容变现无关，不占用注意力。",
+      "title_hash": "9bf76eb2",
+      "scored_at": "2026-07-27T00:10:52.892526Z"
+    },
+    "story_5cac93a795bf|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "学术演讲PDF，与AI内容变现无直接关联，不占用注意力。",
+      "title_hash": "1e394b90",
+      "scored_at": "2026-07-27T00:10:53.851297Z"
+    },
+    "story_635975c99eb1|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "标题抽象，内容与AI内容变现无直接关联，不占用注意力。",
+      "title_hash": "1bf01974",
+      "scored_at": "2026-07-27T00:10:54.986986Z"
+    },
+    "story_68c90fc1b6d7|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "工具技巧类，但未涉及内容变现或获客，对创作者直接帮助有限。",
+      "title_hash": "dfcd2407",
+      "scored_at": "2026-07-27T00:10:56.178579Z"
+    },
+    "story_3d95ed8d3af8|cynic|f4237a62": {
+      "score": 65,
+      "review": "系统听起来不错，但OpenAI内部工具和公开版Codex是两回事。",
+      "title_hash": "1b2217ad",
+      "scored_at": "2026-07-27T00:10:57.265988Z"
+    },
+    "story_3d95ed8d3af8|paper-police|966065bf": {
+      "score": 10,
+      "review": "只有个人经验分享，无论文无代码无benchmark，无法验证。",
+      "title_hash": "1b2217ad",
+      "scored_at": "2026-07-27T00:10:58.147855Z"
+    },
+    "story_b171ba4f1505|cynic|f4237a62": {
+      "score": 65,
+      "review": "MIDI导出算新功能？隔壁免费工具早有了，Suno这波更新诚意不足。",
+      "title_hash": "f33dd33c",
+      "scored_at": "2026-07-27T00:10:59.425502Z"
+    },
+    "story_b171ba4f1505|paper-police|966065bf": {
+      "score": 12,
+      "review": "只有X帖子宣称新功能，无论文无代码无评测，无法验证。",
+      "title_hash": "f33dd33c",
+      "scored_at": "2026-07-27T00:11:00.560922Z"
+    },
+    "story_68c90fc1b6d7|cynic|f4237a62": {
+      "score": 35,
+      "review": "把API调用包装成订阅漏洞，Cursor迟早封掉这后门。",
+      "title_hash": "dfcd2407",
+      "scored_at": "2026-07-27T00:11:01.791002Z"
+    },
+    "story_68c90fc1b6d7|paper-police|966065bf": {
+      "score": 5,
+      "review": "无论文无代码无评测，仅一个标题，无法验证其真实性。",
+      "title_hash": "dfcd2407",
+      "scored_at": "2026-07-27T00:11:03.045174Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T00:10:22.071269Z",
+  "generated_at": "2026-07-27T00:11:03.045225Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -15,5 +15,66 @@
       "name": "变现实用派"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "story_id": "story_3d95ed8d3af8",
+      "title": "如何用Codex工作：我在OpenAI的完整系统 | Jason Liu / How to Use Codex for Work: My Complete System at OpenAI | Jason Liu",
+      "url": "https://creatoreconomy.so/p/how-to-use-codex-for-work-my-complete-system-at-openai-jason-liu",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "系统听起来不错，但OpenAI内部工具和公开版Codex是两回事。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有个人经验分享，无论文无代码无benchmark，无法验证。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "工具使用案例，但缺少内容变现或增长数据，可参考工作流但非直接机会。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b171ba4f1505",
+      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "MIDI导出算新功能？隔壁免费工具早有了，Suno这波更新诚意不足。"
+        },
+        "paper-police": {
+          "score": 12,
+          "review": "只有X帖子宣称新功能，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "AI音乐工具更新，MIDI导出对视频配乐有实用价值，但需测试工作流是否提升效率。"
+        }
+      }
+    },
+    {
+      "story_id": "story_68c90fc1b6d7",
+      "title": "Cursor Bridge – 在Cursor订阅中无限运行Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://news.ycombinator.com/item?id=49063186",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "把API调用包装成订阅漏洞，Cursor迟早封掉这后门。"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "无论文无代码无评测，仅一个标题，无法验证其真实性。"
+        },
+        "pragmatic": {
+          "score": 35,
+          "review": "工具技巧类，但未涉及内容变现或获客，对创作者直接帮助有限。"
+        }
+      }
+    }
+  ]
 }
