@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:11:03.045225Z",
+  "generated_at": "2026-07-28T00:12:18.523269Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_3d95ed8d3af8",
-      "title": "如何用Codex工作：我在OpenAI的完整系统 | Jason Liu / How to Use Codex for Work: My Complete System at OpenAI | Jason Liu",
-      "url": "https://creatoreconomy.so/p/how-to-use-codex-for-work-my-complete-system-at-openai-jason-liu",
+      "story_id": "story_0907ce5e66ea",
+      "title": "用AI Skill自动生成可协作HTML PPT",
+      "url": "https://x.com/vista8/status/2081568902241513786",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "系统听起来不错，但OpenAI内部工具和公开版Codex是两回事。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有个人经验分享，无论文无代码无benchmark，无法验证。"
-        },
-        "pragmatic": {
           "score": 55,
-          "review": "工具使用案例，但缺少内容变现或增长数据，可参考工作流但非直接机会。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b171ba4f1505",
-      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-      "url": "https://x.com/suno/status/2081443050312843765",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "MIDI导出算新功能？隔壁免费工具早有了，Suno这波更新诚意不足。"
-        },
-        "paper-police": {
-          "score": 12,
-          "review": "只有X帖子宣称新功能，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "AI音乐工具更新，MIDI导出对视频配乐有实用价值，但需测试工作流是否提升效率。"
-        }
-      }
-    },
-    {
-      "story_id": "story_68c90fc1b6d7",
-      "title": "Cursor Bridge – 在Cursor订阅中无限运行Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-      "url": "https://news.ycombinator.com/item?id=49063186",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "把API调用包装成订阅漏洞，Cursor迟早封掉这后门。"
+          "review": "PPT生成不新鲜，协作才是噱头，但demo里没看到真多人同时编辑。"
         },
         "paper-police": {
           "score": 5,
-          "review": "无论文无代码无评测，仅一个标题，无法验证其真实性。"
+          "review": "只有一条推文，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
-          "score": 35,
-          "review": "工具技巧类，但未涉及内容变现或获客，对创作者直接帮助有限。"
+          "score": 72,
+          "review": "工具案例，AI生成HTML PPT可提升内容制作效率，适合测试是否适配你的协作流程。"
+        }
+      }
+    },
+    {
+      "story_id": "story_9bc7ee932d09",
+      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+      "url": "https://www.aibase.com/news/29909",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "写周报治群聊？先让它读懂99+里的表情包再说。"
+        },
+        "paper-police": {
+          "score": 12,
+          "review": "只有新闻稿，无论文、代码或评测，内测消息无法验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "企业微信AI助理内测，可提升群聊处理效率，但变现路径不直接，适合测试后看能否转化为服务交付工具。"
+        }
+      }
+    },
+    {
+      "story_id": "story_ebe3ddd20f67",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "又一套MCP套件，金融分析demo好看，但离真金白银还差个实盘回测。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有博客宣称，无论文无代码无评测，无法验证效果。"
+        },
+        "pragmatic": {
+          "score": 42,
+          "review": "技术教程，面向开发者，非个人创作者可直接复用的内容变现工具或案例。"
         }
       }
     }

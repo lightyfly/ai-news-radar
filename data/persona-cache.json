@@ -3042,6 +3042,162 @@
       "review": "无论文无代码无评测，仅一个标题，无法验证其真实性。",
       "title_hash": "dfcd2407",
       "scored_at": "2026-07-27T00:11:03.045174Z"
+    },
+    "story_2a8e05bf7e66|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "面向开发者的工具更新，与内容创作者变现无直接关联，不占用注意力。",
+      "title_hash": "638b98aa",
+      "scored_at": "2026-07-28T00:11:52.324997Z"
+    },
+    "story_3aa98e967d5f|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "面向企业IT管理，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "800d9062",
+      "scored_at": "2026-07-28T00:11:53.550906Z"
+    },
+    "story_fdb39a7d1547|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "开发者工具更新，与内容创作者变现无直接关联，不占注意力。",
+      "title_hash": "1c6bfecf",
+      "scored_at": "2026-07-28T00:11:54.520450Z"
+    },
+    "story_7284fe0b61a4|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "企业IT管理功能，与个人创作者内容变现无直接关联，不占用注意力。",
+      "title_hash": "60575be6",
+      "scored_at": "2026-07-28T00:11:55.623531Z"
+    },
+    "story_2c891351a310|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "官方宏观文章，缺乏具体创作者变现方法或工具更新，暂不行动。",
+      "title_hash": "f5b27af0",
+      "scored_at": "2026-07-28T00:11:56.709252Z"
+    },
+    "story_5dcea5dd076a|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "AI搜索普及趋势，但未提供创作者可直接利用的变现方法或工具，暂时不行动。",
+      "title_hash": "7aac385c",
+      "scored_at": "2026-07-28T00:11:57.889951Z"
+    },
+    "story_620ebb8c9c5b|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI作弊检测新闻，与创作者变现无关，不占注意力。",
+      "title_hash": "d953619d",
+      "scored_at": "2026-07-28T00:11:58.708108Z"
+    },
+    "story_45205b48cfd8|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "开源分布式智能体环境，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "f6d55bcb",
+      "scored_at": "2026-07-28T00:11:59.682749Z"
+    },
+    "story_eb297d743217|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "医疗机器人仿真，与个人创作者内容变现无关，不占注意力。",
+      "title_hash": "c69c6c6c",
+      "scored_at": "2026-07-28T00:12:00.700691Z"
+    },
+    "story_0907ce5e66ea|pragmatic|ccc085fd": {
+      "score": 72,
+      "review": "工具案例，AI生成HTML PPT可提升内容制作效率，适合测试是否适配你的协作流程。",
+      "title_hash": "6c1d2aa5",
+      "scored_at": "2026-07-28T00:12:01.805758Z"
+    },
+    "story_78c20dc62353|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "B端SaaS系统，与个人创作者内容变现无关，不占用注意力。",
+      "title_hash": "57aafc1c",
+      "scored_at": "2026-07-28T00:12:02.974980Z"
+    },
+    "story_f4def218d9f8|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI公司政策声明，与创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "9f3db8d2",
+      "scored_at": "2026-07-28T00:12:03.920723Z"
+    },
+    "story_7e59c4ca7c4e|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "融资新闻，与个人创作者内容变现无关，不占注意力。",
+      "title_hash": "0b89d551",
+      "scored_at": "2026-07-28T00:12:04.891874Z"
+    },
+    "story_ebe3ddd20f67|pragmatic|ccc085fd": {
+      "score": 42,
+      "review": "技术教程，面向开发者，非个人创作者可直接复用的内容变现工具或案例。",
+      "title_hash": "114ead3d",
+      "scored_at": "2026-07-28T00:12:06.007126Z"
+    },
+    "story_2f2bb8073ae3|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛 AI 评论，无内容变现机会或行动路径，不占注意力。",
+      "title_hash": "0f0fd73f",
+      "scored_at": "2026-07-28T00:12:07.214819Z"
+    },
+    "story_9bc7ee932d09|pragmatic|ccc085fd": {
+      "score": 62,
+      "review": "企业微信AI助理内测，可提升群聊处理效率，但变现路径不直接，适合测试后看能否转化为服务交付工具。",
+      "title_hash": "ac5fb124",
+      "scored_at": "2026-07-28T00:12:08.387605Z"
+    },
+    "story_830e0635b3bc|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "收购案与创作者变现无关，不涉及工具或机会，不占用注意力。",
+      "title_hash": "18d150cd",
+      "scored_at": "2026-07-28T00:12:09.465886Z"
+    },
+    "story_eb7b6b649c03|pragmatic|ccc085fd": {
+      "score": 8,
+      "review": "纯宏观评论，无内容变现机会或行动路径，不占用注意力。",
+      "title_hash": "d2e9d52d",
+      "scored_at": "2026-07-28T00:12:10.465465Z"
+    },
+    "story_b1ab2dbdc211|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "企业裁员新闻，与个人创作者变现无关，不占用注意力。",
+      "title_hash": "5183771e",
+      "scored_at": "2026-07-28T00:12:11.419142Z"
+    },
+    "story_f92b1e3fa24a|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "隐私安全提醒，与内容变现无直接关联，不占今日注意力。",
+      "title_hash": "833f43a8",
+      "scored_at": "2026-07-28T00:12:12.418714Z"
+    },
+    "story_0907ce5e66ea|cynic|f4237a62": {
+      "score": 55,
+      "review": "PPT生成不新鲜，协作才是噱头，但demo里没看到真多人同时编辑。",
+      "title_hash": "6c1d2aa5",
+      "scored_at": "2026-07-28T00:12:13.416413Z"
+    },
+    "story_0907ce5e66ea|paper-police|966065bf": {
+      "score": 5,
+      "review": "只有一条推文，无论文无代码无评测，无法验证。",
+      "title_hash": "6c1d2aa5",
+      "scored_at": "2026-07-28T00:12:14.317312Z"
+    },
+    "story_9bc7ee932d09|cynic|f4237a62": {
+      "score": 45,
+      "review": "写周报治群聊？先让它读懂99+里的表情包再说。",
+      "title_hash": "ac5fb124",
+      "scored_at": "2026-07-28T00:12:15.308521Z"
+    },
+    "story_9bc7ee932d09|paper-police|966065bf": {
+      "score": 12,
+      "review": "只有新闻稿，无论文、代码或评测，内测消息无法验证。",
+      "title_hash": "ac5fb124",
+      "scored_at": "2026-07-28T00:12:16.293217Z"
+    },
+    "story_ebe3ddd20f67|cynic|f4237a62": {
+      "score": 65,
+      "review": "又一套MCP套件，金融分析demo好看，但离真金白银还差个实盘回测。",
+      "title_hash": "114ead3d",
+      "scored_at": "2026-07-28T00:12:17.660964Z"
+    },
+    "story_ebe3ddd20f67|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有博客宣称，无论文无代码无评测，无法验证效果。",
+      "title_hash": "114ead3d",
+      "scored_at": "2026-07-28T00:12:18.523216Z"
     }
   }
 }
