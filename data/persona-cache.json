@@ -3198,6 +3198,162 @@
       "review": "只有博客宣称，无论文无代码无评测，无法验证效果。",
       "title_hash": "114ead3d",
       "scored_at": "2026-07-28T00:12:18.523216Z"
+    },
+    "story_d26d09267b84|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "GitHub Copilot 使用指标更新，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "f130217e",
+      "scored_at": "2026-07-29T00:10:08.404442Z"
+    },
+    "story_1697eebb2a9d|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "地理空间AI平台，与内容变现无关，不占用注意力。",
+      "title_hash": "474a7991",
+      "scored_at": "2026-07-29T00:10:09.715684Z"
+    },
+    "story_71077999e62f|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "3fa54598",
+      "scored_at": "2026-07-29T00:10:10.996024Z"
+    },
+    "story_bc76c2ce852e|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI模型集成开发工具，与内容变现无直接关联，不占注意力。",
+      "title_hash": "3540a2ea",
+      "scored_at": "2026-07-29T00:10:12.321689Z"
+    },
+    "story_5960402740dc|pragmatic|ccc085fd": {
+      "score": 42,
+      "review": "官方更新，但功能偏向生活规划，与内容变现关系弱，暂不测试。",
+      "title_hash": "dca8a0cd",
+      "scored_at": "2026-07-29T00:10:13.420071Z"
+    },
+    "story_390b0667fe65|pragmatic|ccc085fd": {
+      "score": 12,
+      "review": "AI安全事件，与内容变现无关，不占用注意力。",
+      "title_hash": "c5f66cb4",
+      "scored_at": "2026-07-29T00:10:14.653808Z"
+    },
+    "story_75d8461ce8af|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛生活技巧，与AI内容变现无关，不占注意力。",
+      "title_hash": "d45912fb",
+      "scored_at": "2026-07-29T00:10:15.899822Z"
+    },
+    "story_b4bc426f8eb1|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "AI教育产品新闻，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "938720d0",
+      "scored_at": "2026-07-29T00:10:17.194676Z"
+    },
+    "story_a70f7bd23e2d|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "产品更新但未提及内容生产或变现用途，对创作者无直接帮助。",
+      "title_hash": "f647302d",
+      "scored_at": "2026-07-29T00:10:18.551742Z"
+    },
+    "story_98693ee77dfa|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "行业大佬观点，但无具体内容变现方法或工具，不占注意力。",
+      "title_hash": "78e8321b",
+      "scored_at": "2026-07-29T00:10:19.845988Z"
+    },
+    "story_91ce9044f408|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI治理呼吁，与内容变现无直接关联，不占注意力。",
+      "title_hash": "32c81dbc",
+      "scored_at": "2026-07-29T00:10:20.859789Z"
+    },
+    "story_dab11bf31a39|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "技术安全更新，与AI内容变现无直接关系，不占用注意力。",
+      "title_hash": "7517f2fa",
+      "scored_at": "2026-07-29T00:10:21.845910Z"
+    },
+    "story_a4de0566661a|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI公司高管联名请愿，属于行业政治表态，与创作者变现无直接关系。",
+      "title_hash": "11335604",
+      "scored_at": "2026-07-29T00:10:23.171494Z"
+    },
+    "story_6de305dfaf9c|pragmatic|ccc085fd": {
+      "score": 55,
+      "review": "行业趋势信息，但未提供创作者可直接利用的机会或工具，建议观察后续影响。",
+      "title_hash": "c43fe2aa",
+      "scored_at": "2026-07-29T00:10:24.500482Z"
+    },
+    "story_e4609f14fbba|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "法律判决，与国内创作者变现无直接关联，不占注意力。",
+      "title_hash": "11dcedd8",
+      "scored_at": "2026-07-29T00:10:25.495248Z"
+    },
+    "story_d930809ff7d5|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "安全更新，与AI内容变现无直接关系，不占用注意力。",
+      "title_hash": "038efc64",
+      "scored_at": "2026-07-29T00:10:26.670089Z"
+    },
+    "story_8ae15a2fa56f|pragmatic|ccc085fd": {
+      "score": 55,
+      "review": "工具更新，但偏向底层能力，对个人创作者直接变现路径不清晰，可观察后续应用。",
+      "title_hash": "7558b659",
+      "scored_at": "2026-07-29T00:10:27.943747Z"
+    },
+    "story_f3ef249ddb56|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "纯技术模型更新，未涉及内容生产或变现路径，不占用注意力。",
+      "title_hash": "81a12dc8",
+      "scored_at": "2026-07-29T00:10:29.130834Z"
+    },
+    "story_c1632a302b6e|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "API升级对开发者有用，但个人创作者直接变现路径不清晰，暂不优先测试。",
+      "title_hash": "f1391204",
+      "scored_at": "2026-07-29T00:10:30.314849Z"
+    },
+    "story_16b5229e9f56|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "语音驱动编程与内容变现无关，不改善生产、获客或转化，低分过滤。",
+      "title_hash": "dfbc18d0",
+      "scored_at": "2026-07-29T00:10:31.387280Z"
+    },
+    "story_6de305dfaf9c|cynic|f4237a62": {
+      "score": 55,
+      "review": "AI概览占比翻倍？先看看有多少答案是“请咨询医生”糊弄过去的。",
+      "title_hash": "c43fe2aa",
+      "scored_at": "2026-07-29T00:10:32.483146Z"
+    },
+    "story_6de305dfaf9c|paper-police|966065bf": {
+      "score": 5,
+      "review": "无论文无代码无benchmark，仅媒体转述，无法验证。",
+      "title_hash": "c43fe2aa",
+      "scored_at": "2026-07-29T00:10:33.557774Z"
+    },
+    "story_8ae15a2fa56f|cynic|f4237a62": {
+      "score": 55,
+      "review": "联网检索不新鲜，关键看延迟和成本，别又是个包装过的API。",
+      "title_hash": "7558b659",
+      "scored_at": "2026-07-29T00:10:34.770257Z"
+    },
+    "story_8ae15a2fa56f|paper-police|966065bf": {
+      "score": 10,
+      "review": "只有新闻稿，无论文无代码无benchmark，无法验证检索能力。",
+      "title_hash": "7558b659",
+      "scored_at": "2026-07-29T00:10:35.772802Z"
+    },
+    "story_5960402740dc|cynic|f4237a62": {
+      "score": 55,
+      "review": "规划线下生活？先让AI Mode别在找餐馆时推荐已倒闭的店吧。",
+      "title_hash": "dca8a0cd",
+      "scored_at": "2026-07-29T00:10:37.071497Z"
+    },
+    "story_5960402740dc|paper-police|966065bf": {
+      "score": 12,
+      "review": "只有官方博客宣称，无论文无代码无评测，无法验证性能。",
+      "title_hash": "dca8a0cd",
+      "scored_at": "2026-07-29T00:10:38.281099Z"
     }
   }
 }

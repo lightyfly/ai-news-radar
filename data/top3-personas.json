@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:12:18.523269Z",
+  "generated_at": "2026-07-29T00:10:38.281156Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_0907ce5e66ea",
-      "title": "用AI Skill自动生成可协作HTML PPT",
-      "url": "https://x.com/vista8/status/2081568902241513786",
+      "story_id": "story_6de305dfaf9c",
+      "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+      "url": "https://www.aibase.com/news/29953",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "PPT生成不新鲜，协作才是噱头，但demo里没看到真多人同时编辑。"
+          "review": "AI概览占比翻倍？先看看有多少答案是“请咨询医生”糊弄过去的。"
         },
         "paper-police": {
           "score": 5,
-          "review": "只有一条推文，无论文无代码无评测，无法验证。"
+          "review": "无论文无代码无benchmark，仅媒体转述，无法验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "工具案例，AI生成HTML PPT可提升内容制作效率，适合测试是否适配你的协作流程。"
+          "score": 55,
+          "review": "行业趋势信息，但未提供创作者可直接利用的机会或工具，建议观察后续影响。"
         }
       }
     },
     {
-      "story_id": "story_9bc7ee932d09",
-      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-      "url": "https://www.aibase.com/news/29909",
+      "story_id": "story_8ae15a2fa56f",
+      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
+      "url": "https://www.aibase.com/news/29952",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "写周报治群聊？先让它读懂99+里的表情包再说。"
+          "score": 55,
+          "review": "联网检索不新鲜，关键看延迟和成本，别又是个包装过的API。"
         },
         "paper-police": {
-          "score": 12,
-          "review": "只有新闻稿，无论文、代码或评测，内测消息无法验证。"
+          "score": 10,
+          "review": "只有新闻稿，无论文无代码无benchmark，无法验证检索能力。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "企业微信AI助理内测，可提升群聊处理效率，但变现路径不直接，适合测试后看能否转化为服务交付工具。"
+          "score": 55,
+          "review": "工具更新，但偏向底层能力，对个人创作者直接变现路径不清晰，可观察后续应用。"
         }
       }
     },
     {
-      "story_id": "story_ebe3ddd20f67",
-      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "story_id": "story_5960402740dc",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "又一套MCP套件，金融分析demo好看，但离真金白银还差个实盘回测。"
+          "score": 55,
+          "review": "规划线下生活？先让AI Mode别在找餐馆时推荐已倒闭的店吧。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有博客宣称，无论文无代码无评测，无法验证效果。"
+          "score": 12,
+          "review": "只有官方博客宣称，无论文无代码无评测，无法验证性能。"
         },
         "pragmatic": {
           "score": 42,
-          "review": "技术教程，面向开发者，非个人创作者可直接复用的内容变现工具或案例。"
+          "review": "官方更新，但功能偏向生活规划，与内容变现关系弱，暂不测试。"
         }
       }
     }
