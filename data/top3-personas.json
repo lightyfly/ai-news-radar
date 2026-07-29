@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T00:10:38.281156Z",
+  "generated_at": "2026-07-29T23:26:46.447475Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_6de305dfaf9c",
-      "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
-      "url": "https://www.aibase.com/news/29953",
+      "story_id": "story_116d9cdedaf0",
+      "title": "小红书投放，越来越像抖音了",
+      "url": "https://www.yunyingpai.com/xhs/1061435.html",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "AI概览占比翻倍？先看看有多少答案是“请咨询医生”糊弄过去的。"
+          "score": 45,
+          "review": "学抖音的投放逻辑，但用户画像和种草心智能复制吗？"
         },
         "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无benchmark，仅媒体转述，无法验证。"
+          "score": 0,
+          "review": "无论文无代码无benchmark，纯行业观察，不予评分。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "行业趋势信息，但未提供创作者可直接利用的机会或工具，建议观察后续影响。"
+          "score": 72,
+          "review": "平台投放逻辑趋同，可测试小红书聚光投放策略，但需结合自身品类验证ROI。"
         }
       }
     },
     {
-      "story_id": "story_8ae15a2fa56f",
-      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-      "url": "https://www.aibase.com/news/29952",
+      "story_id": "story_af55f8f14502",
+      "title": "完整教程：用Claude Design和Claude Code，25分钟从创意到应用 / Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes",
+      "url": "https://creatoreconomy.so/p/full-tutorial-from-idea-to-app-with",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "联网检索不新鲜，关键看延迟和成本，别又是个包装过的API。"
+          "score": 60,
+          "review": "25分钟从创意到应用？去掉环境配置和debug时间再说话。"
         },
         "paper-police": {
           "score": 10,
-          "review": "只有新闻稿，无论文无代码无benchmark，无法验证检索能力。"
+          "review": "教程非论文，无代码无benchmark，仅操作指南，证据为零。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "工具更新，但偏向底层能力，对个人创作者直接变现路径不清晰，可观察后续应用。"
+          "score": 45,
+          "review": "教程类内容，展示AI工具加速开发，但未涉及内容变现或收入案例，行动路径不完整。"
         }
       }
     },
     {
-      "story_id": "story_5960402740dc",
-      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "story_id": "story_54515c39064a",
+      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+      "url": "https://www.aibase.com/news/29979",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "规划线下生活？先让AI Mode别在找餐馆时推荐已倒闭的店吧。"
+          "review": "动嘴生成网站不新鲜，但带域名算个亮点，xAI 这波营销比技术实在。"
         },
         "paper-police": {
-          "score": 12,
-          "review": "只有官方博客宣称，无论文无代码无评测，无法验证性能。"
+          "score": 10,
+          "review": "只有新闻稿，无论文、代码或可复现的评测，证据不足。"
         },
         "pragmatic": {
           "score": 42,
-          "review": "官方更新，但功能偏向生活规划，与内容变现关系弱，暂不测试。"
+          "review": "AI生成网站工具，对内容变现帮助有限，需验证实际转化效果。"
         }
       }
     }

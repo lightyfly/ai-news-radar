@@ -3354,6 +3354,156 @@
       "review": "只有官方博客宣称，无论文无代码无评测，无法验证性能。",
       "title_hash": "dca8a0cd",
       "scored_at": "2026-07-29T00:10:38.281099Z"
+    },
+    "story_407f953ae8e0|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "面向开发者的工具更新，与内容创作者变现无直接关联，不占用注意力。",
+      "title_hash": "73036343",
+      "scored_at": "2026-07-29T23:26:19.387588Z"
+    },
+    "story_a9f249526c20|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "AI音乐工具更新，但未提及内容变现或创作者收入案例，暂不优先测试。",
+      "title_hash": "8ddb6dfc",
+      "scored_at": "2026-07-29T23:26:20.733572Z"
+    },
+    "story_662891d3b0ba|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "工具更新但未说明对内容生产或变现的直接影响，暂不行动。",
+      "title_hash": "006a38b8",
+      "scored_at": "2026-07-29T23:26:21.826546Z"
+    },
+    "story_0b6f3b872327|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "技术开源，与内容变现无直接关联，不占注意力。",
+      "title_hash": "41618452",
+      "scored_at": "2026-07-29T23:26:22.950695Z"
+    },
+    "story_3db5c5522788|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "CodeQL更新与内容变现无关，不占注意力。",
+      "title_hash": "9e23f792",
+      "scored_at": "2026-07-29T23:26:24.015712Z"
+    },
+    "story_3a391e5248cc|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "名人创业新闻，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "d95b7c03",
+      "scored_at": "2026-07-29T23:26:25.017007Z"
+    },
+    "story_26de5466c23a|pragmatic|ccc085fd": {
+      "score": 8,
+      "review": "AI安全事件，与内容变现无关，不占用注意力。",
+      "title_hash": "ebb38489",
+      "scored_at": "2026-07-29T23:26:26.031566Z"
+    },
+    "story_116d9cdedaf0|pragmatic|ccc085fd": {
+      "score": 72,
+      "review": "平台投放逻辑趋同，可测试小红书聚光投放策略，但需结合自身品类验证ROI。",
+      "title_hash": "37d6e670",
+      "scored_at": "2026-07-29T23:26:27.272862Z"
+    },
+    "story_af55f8f14502|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "教程类内容，展示AI工具加速开发，但未涉及内容变现或收入案例，行动路径不完整。",
+      "title_hash": "418f29d8",
+      "scored_at": "2026-07-29T23:26:28.577562Z"
+    },
+    "story_732de5564915|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "技术协议更新，与内容变现无直接关联，不占注意力。",
+      "title_hash": "8177a81a",
+      "scored_at": "2026-07-29T23:26:29.437987Z"
+    },
+    "story_6332fb1f933f|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "技术架构细节，与内容变现无直接关联，不占用今日注意力。",
+      "title_hash": "c82f9a02",
+      "scored_at": "2026-07-29T23:26:30.520735Z"
+    },
+    "story_7530f6d58f5d|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "法律诉讼新闻，与AI内容变现无直接关联，不占用注意力。",
+      "title_hash": "ece95d44",
+      "scored_at": "2026-07-29T23:26:31.498796Z"
+    },
+    "story_54430aee701b|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "纯技术基准测试，与内容变现无关，不占用注意力。",
+      "title_hash": "4ef7396e",
+      "scored_at": "2026-07-29T23:26:32.799304Z"
+    },
+    "story_9f302c4fca64|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "融资估值新闻，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "9a220e7f",
+      "scored_at": "2026-07-29T23:26:33.778475Z"
+    },
+    "story_f2677af66a35|pragmatic|ccc085fd": {
+      "score": 12,
+      "review": "行业呼吁与政策表态，与个人创作者内容变现无直接关联，不占用今日注意力。",
+      "title_hash": "a0e799c0",
+      "scored_at": "2026-07-29T23:26:34.921412Z"
+    },
+    "story_70e050c45970|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "学术研究工具，与内容变现无直接关联，不占用创作者注意力。",
+      "title_hash": "b1894205",
+      "scored_at": "2026-07-29T23:26:35.937914Z"
+    },
+    "story_70485a715d6d|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "融资估值新闻，与个人创作者内容变现无直接关联，不占注意力。",
+      "title_hash": "d53e3a7f",
+      "scored_at": "2026-07-29T23:26:36.894080Z"
+    },
+    "story_54515c39064a|pragmatic|ccc085fd": {
+      "score": 42,
+      "review": "AI生成网站工具，对内容变现帮助有限，需验证实际转化效果。",
+      "title_hash": "62ac48d6",
+      "scored_at": "2026-07-29T23:26:38.188653Z"
+    },
+    "story_329997b20bc2|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI行为实验新闻，与内容变现无直接关联，不占用今日注意力。",
+      "title_hash": "26b2645d",
+      "scored_at": "2026-07-29T23:26:39.349301Z"
+    },
+    "story_116d9cdedaf0|cynic|f4237a62": {
+      "score": 45,
+      "review": "学抖音的投放逻辑，但用户画像和种草心智能复制吗？",
+      "title_hash": "37d6e670",
+      "scored_at": "2026-07-29T23:26:40.552114Z"
+    },
+    "story_116d9cdedaf0|paper-police|966065bf": {
+      "score": 0,
+      "review": "无论文无代码无benchmark，纯行业观察，不予评分。",
+      "title_hash": "37d6e670",
+      "scored_at": "2026-07-29T23:26:41.627137Z"
+    },
+    "story_af55f8f14502|cynic|f4237a62": {
+      "score": 60,
+      "review": "25分钟从创意到应用？去掉环境配置和debug时间再说话。",
+      "title_hash": "418f29d8",
+      "scored_at": "2026-07-29T23:26:42.925938Z"
+    },
+    "story_af55f8f14502|paper-police|966065bf": {
+      "score": 10,
+      "review": "教程非论文，无代码无benchmark，仅操作指南，证据为零。",
+      "title_hash": "418f29d8",
+      "scored_at": "2026-07-29T23:26:44.023772Z"
+    },
+    "story_54515c39064a|cynic|f4237a62": {
+      "score": 55,
+      "review": "动嘴生成网站不新鲜，但带域名算个亮点，xAI 这波营销比技术实在。",
+      "title_hash": "62ac48d6",
+      "scored_at": "2026-07-29T23:26:45.173491Z"
+    },
+    "story_54515c39064a|paper-police|966065bf": {
+      "score": 10,
+      "review": "只有新闻稿，无论文、代码或可复现的评测，证据不足。",
+      "title_hash": "62ac48d6",
+      "scored_at": "2026-07-29T23:26:46.447418Z"
     }
   }
 }
