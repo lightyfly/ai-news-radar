@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:26:46.447475Z",
+  "generated_at": "2026-07-30T23:37:48.654446Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_116d9cdedaf0",
-      "title": "小红书投放，越来越像抖音了",
-      "url": "https://www.yunyingpai.com/xhs/1061435.html",
+      "story_id": "story_9a2fc20fc216",
+      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+      "url": "https://www.aibase.com/news/30007",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "学抖音的投放逻辑，但用户画像和种草心智能复制吗？"
+          "score": 55,
+          "review": "人机双写？不就是AI协作编辑换个马甲，demo好看但实际体验看运气。"
         },
         "paper-police": {
-          "score": 0,
-          "review": "无论文无代码无benchmark，纯行业观察，不予评分。"
+          "score": 8,
+          "review": "只有新闻稿，无论文无代码无评测，无法验证人机双写效果。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "平台投放逻辑趋同，可测试小红书聚光投放策略，但需结合自身品类验证ROI。"
+          "score": 45,
+          "review": "AI协作工具更新，但未直接关联内容变现或获客，可观察但暂不测试。"
         }
       }
     },
     {
-      "story_id": "story_af55f8f14502",
-      "title": "完整教程：用Claude Design和Claude Code，25分钟从创意到应用 / Full Tutorial: From Idea to App with Claude Design and Claude Code in 25 Minutes",
-      "url": "https://creatoreconomy.so/p/full-tutorial-from-idea-to-app-with",
+      "story_id": "story_19984c444ae4",
+      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 60,
-          "review": "25分钟从创意到应用？去掉环境配置和debug时间再说话。"
+          "score": 65,
+          "review": "价格降了，但性能曲线斜率比PPT还陡，建议把‘前沿’改成‘前缘’。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "教程非论文，无代码无benchmark，仅操作指南，证据为零。"
+          "score": 12,
+          "review": "仅有官方博客宣称，无论文无代码无第三方评测，无法验证性价比。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "教程类内容，展示AI工具加速开发，但未涉及内容变现或收入案例，行动路径不完整。"
+          "score": 42,
+          "review": "官方产品更新，但未直接说明对内容生产或变现的具体改进，行动路径不清晰。"
         }
       }
     },
     {
-      "story_id": "story_54515c39064a",
-      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-      "url": "https://www.aibase.com/news/29979",
+      "story_id": "story_4960da0a8a33",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "动嘴生成网站不新鲜，但带域名算个亮点，xAI 这波营销比技术实在。"
+          "score": 72,
+          "review": "堆叠会话听着唬人，其实就是多标签页，PR集成倒是实用。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "只有新闻稿，无论文、代码或可复现的评测，证据不足。"
+          "score": 30,
+          "review": "官方博客宣称功能，无论文无代码无评测，待验证。"
         },
         "pragmatic": {
-          "score": 42,
-          "review": "AI生成网站工具，对内容变现帮助有限，需验证实际转化效果。"
+          "score": 35,
+          "review": "开发者工具更新，与内容创作者变现无直接关联，不占用今日注意力。"
         }
       }
     }
