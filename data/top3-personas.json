@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:37:48.654446Z",
+  "generated_at": "2026-07-31T23:40:48.697957Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_9a2fc20fc216",
-      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-      "url": "https://www.aibase.com/news/30007",
+      "story_id": "story_d786a5714ff6",
+      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+      "url": "https://www.aibase.com/news/30048",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "人机双写？不就是AI协作编辑换个马甲，demo好看但实际体验看运气。"
+          "review": "排版工具也敢叫AI，三步操作换皮而已，配图匹配怕是随机抽卡。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "只有新闻稿，无论文无代码无评测，无法验证人机双写效果。"
+          "score": 20,
+          "review": "仅官方宣传，无技术细节或评测，功能真实性待验证。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "AI协作工具更新，但未直接关联内容变现或获客，可观察但暂不测试。"
+          "score": 82,
+          "review": "官方工具更新，直接降低排版耗时，适合内容创作者立即测试提效。"
         }
       }
     },
     {
-      "story_id": "story_19984c444ae4",
-      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "story_id": "story_8b85b4c16c7c",
+      "title": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
+      "url": "https://www.yunyingpai.com/news/1061452.html",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "价格降了，但性能曲线斜率比PPT还陡，建议把‘前沿’改成‘前缘’。"
+          "score": 55,
+          "review": "涨粉数字是真的，但'女性向摄影潮'这帽子扣得有点大，先看看留存再说。"
         },
         "paper-police": {
-          "score": 12,
-          "review": "仅有官方博客宣称，无论文无代码无第三方评测，无法验证性价比。"
+          "score": 20,
+          "review": "仅一篇自媒体文章，无数据来源和第三方验证，涨粉数字存疑。"
         },
         "pragmatic": {
-          "score": 42,
-          "review": "官方产品更新，但未直接说明对内容生产或变现的具体改进，行动路径不清晰。"
+          "score": 72,
+          "review": "涨粉案例有参考价值，但缺具体变现路径，可拆解其摄影模板做测试。"
         }
       }
     },
     {
-      "story_id": "story_4960da0a8a33",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "story_id": "story_03f0da12a10c",
+      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+      "url": "https://www.ithome.com/0/984/365.htm",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "堆叠会话听着唬人，其实就是多标签页，PR集成倒是实用。"
+          "score": 70,
+          "review": "透明度要求是好事，但执行细则和罚则呢？别又是纸面功夫。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称功能，无论文无代码无评测，待验证。"
+          "score": 20,
+          "review": "仅援引IT之家报道，无官方文件或法律原文链接，证据不足。"
         },
         "pragmatic": {
-          "score": 35,
-          "review": "开发者工具更新，与内容创作者变现无直接关联，不占用今日注意力。"
+          "score": 55,
+          "review": "欧盟规则变化，影响AI内容合规，但非直接变现机会，可留意合规风险。"
         }
       }
     }
