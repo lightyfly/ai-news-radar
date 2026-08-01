@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:40:48.697957Z",
+  "generated_at": "2026-08-01T23:32:15.154985Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_d786a5714ff6",
-      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-      "url": "https://www.aibase.com/news/30048",
+      "story_id": "story_e2eeec323e5b",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "排版工具也敢叫AI，三步操作换皮而已，配图匹配怕是随机抽卡。"
+          "score": 72,
+          "review": "法院判得对，但Suno训练数据来源早该自查，现在才挨打算晚的。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方宣传，无技术细节或评测，功能真实性待验证。"
+          "score": 35,
+          "review": "仅有媒体报道，无判决书原文或法律分析，证据不足。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "官方工具更新，直接降低排版耗时，适合内容创作者立即测试提效。"
+          "score": 45,
+          "review": "行业法律动态，影响AI音乐工具合规性，但短期无直接变现路径，可留意后续。"
         }
       }
     },
     {
-      "story_id": "story_8b85b4c16c7c",
-      "title": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-      "url": "https://www.yunyingpai.com/news/1061452.html",
+      "story_id": "story_817116dbd893",
+      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "涨粉数字是真的，但'女性向摄影潮'这帽子扣得有点大，先看看留存再说。"
+          "score": 35,
+          "review": "删成本数据是怕用户算账？透明度先降级，再谈信任。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅一篇自媒体文章，无数据来源和第三方验证，涨粉数字存疑。"
+          "review": "仅论坛与HN讨论，无官方公告或文档，成本信息移除细节待证实。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "涨粉案例有参考价值，但缺具体变现路径，可拆解其摄影模板做测试。"
+          "score": 45,
+          "review": "工具成本信息变化，影响AI接单报价核算，值得关注但非直接变现机会。"
         }
       }
     },
     {
-      "story_id": "story_03f0da12a10c",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "url": "https://www.ithome.com/0/984/365.htm",
+      "story_id": "story_38cfb64c6a71",
+      "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "透明度要求是好事，但执行细则和罚则呢？别又是纸面功夫。"
+          "score": 72,
+          "review": "标题是常识，但正文没给硬数据，七分真三分吹。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅援引IT之家报道，无官方文件或法律原文链接，证据不足。"
+          "review": "观点文章无数据支撑，仅个人论断，缺论文代码和评测。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "欧盟规则变化，影响AI内容合规，但非直接变现机会，可留意合规风险。"
+          "score": 30,
+          "review": "泛AI技术评论，未涉及具体变现路径或工具，对创作者帮助有限。"
         }
       }
     }

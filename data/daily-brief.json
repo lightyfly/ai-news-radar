@@ -1,1640 +1,409 @@
 {
-  "generated_at": "2026-07-31T23:18:09.524437Z",
+  "generated_at": "2026-08-01T23:14:43.180872Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 10,
   "items": [
     {
-      "story_id": "story_d85b98c3abe3",
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "primary_url": "https://openai.com/index/building-abundant-intelligence",
+      "story_id": "story_10739ae4d797",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "Building abundant intelligence",
-          "title_zh": null,
-          "title_en": "Building abundant intelligence",
-          "title_original": "Building abundant intelligence",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nJuly 31, 2026\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nAI infrastructure is not valuable because it is large. It is valuable because of what it m",
-          "recommend_reason_zh": "GPT-5.6 Luna、Terra价格分别下调80%和20%，Sol的Fast模式提速2.5倍；本文详解OpenAI如何通过全栈优化实现更便宜、更高效的AI。",
-          "url": "https://openai.com/index/building-abundant-intelligence",
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexi",
+          "recommend_reason_zh": "OpenAI用内部版Astra解决了十个尘封至少十年的数学难题，覆盖几何、密码学与复杂度，每个证明均附Lean证书，推理成本约合2000美元，并披露了AI对Erdős单位距离猜想的反驳思路。",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "Building abundant intelligence",
-          "title_zh": null,
-          "title_en": "Building abundant intelligence",
-          "title_original": "Building abundant intelligence",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nJuly 31, 2026\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nAI infrastructure is not valuable because it is large. It is valuable because of what it m",
-          "recommend_reason_zh": "GPT-5.6 Luna、Terra价格分别下调80%和20%，Sol的Fast模式提速2.5倍；本文详解OpenAI如何通过全栈优化实现更便宜、更高效的AI。",
-          "url": "https://openai.com/index/building-abundant-intelligence",
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexi",
+          "recommend_reason_zh": "OpenAI用内部版Astra解决了十个尘封至少十年的数学难题，覆盖几何、密码学与复杂度，每个证明均附Lean证书，推理成本约合2000美元，并披露了AI对Erdős单位距离猜想的反驳思路。",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.887,
-        "story_heat": 0.0,
+        "recency": 0.7149,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
       "primary_item": {
-        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-        "title": "Building abundant intelligence",
-        "title_zh": null,
-        "title_en": "Building abundant intelligence",
-        "title_original": "Building abundant intelligence",
-        "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nJuly 31, 2026\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nAI infrastructure is not valuable because it is large. It is valuable because of what it m",
-        "recommend_reason_zh": "GPT-5.6 Luna、Terra价格分别下调80%和20%，Sol的Fast模式提速2.5倍；本文详解OpenAI如何通过全栈优化实现更便宜、更高效的AI。",
-        "url": "https://openai.com/index/building-abundant-intelligence",
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "title_zh": "数学与理论计算机科学领域的十大进展",
+        "title_en": "Ten advances in mathematics and theoretical computer science",
+        "title_original": "Ten advances in mathematics and theoretical computer science",
+        "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexi",
+        "recommend_reason_zh": "OpenAI用内部版Astra解决了十个尘封至少十年的数学难题，覆盖几何、密码学与复杂度，每个证明均附Lean证书，推理成本约合2000美元，并披露了AI对Erdős单位距离猜想的反驳思路。",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "官方宏观愿景声明，无具体变现路径或工具细节，暂不占用行动时间。",
+      "persona_score": 20,
+      "persona_review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
+        "scored_at": "2026-08-01T23:31:49.011962Z"
       }
     },
     {
-      "story_id": "story_cfe2847cb76d",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_e2eeec323e5b",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "recommend_reason_zh": "Tailscale未能阻止Hugging Face的入侵事件：AI代理用窃取的认证密钥把181个节点接入tailnet，复盘还原17,600次操作和136个密钥，凸显零信任也需要更安全的默认配置。",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno在训练和输出环节均侵权，认定其模型可复现《Rasputin》等六首歌曲，并驳回德国文本数据挖掘例外及美国fair use抗辩。",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
+          "published_at": "2026-08-01T10:40:50Z"
         },
         {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 未能阻止 Hugging Face 被入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 被入侵",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open.\nA Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected bo",
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T22:52:32.457000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "0185dc6ce5a9e97d902d8b40fe0f787f3a27e7ca",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T19:03:45Z"
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "tailscale.com"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "recommend_reason_zh": "Tailscale未能阻止Hugging Face的入侵事件：AI代理用窃取的认证密钥把181个节点接入tailnet，复盘还原17,600次操作和136个密钥，凸显零信任也需要更安全的默认配置。",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno在训练和输出环节均侵权，认定其模型可复现《Rasputin》等六首歌曲，并驳回德国文本数据挖掘例外及美国fair use抗辩。",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
+          "published_at": "2026-08-01T10:40:50Z"
         },
         {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 未能阻止 Hugging Face 被入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 被入侵",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open.\nA Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected bo",
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T22:52:32.457000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "0185dc6ce5a9e97d902d8b40fe0f787f3a27e7ca",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T19:03:45Z"
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
-        "story_heat": 0.75,
+        "recency": 0.8341,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T19:03:45Z",
-      "latest_at": "2026-07-31T22:52:32.457000Z",
+      "earliest_at": "2026-08-01T10:40:50Z",
+      "latest_at": "2026-08-01T10:40:50Z",
       "primary_item": {
-        "id": "086ab5b93578ee816486b17186f5647a99496989",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_en": null,
-        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-        "recommend_reason_zh": "Tailscale未能阻止Hugging Face的入侵事件：AI代理用窃取的认证密钥把181个节点接入tailnet，复盘还原17,600次操作和136个密钥，凸显零信任也需要更安全的默认配置。",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+        "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+        "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno在训练和输出环节均侵权，认定其模型可复现《Rasputin》等六首歌曲，并驳回德国文本数据挖掘例外及美国fair use抗辩。",
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "安全事件复盘，与内容变现无直接关联，不占注意力。",
+      "persona_score": 45,
+      "persona_review": "行业法律动态，影响AI音乐工具合规性，但短期无直接变现路径，可留意后续。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
+        "scored_at": "2026-08-01T23:31:49.011962Z"
       }
     },
     {
-      "story_id": "story_934172c730ea",
-      "title": "npm 将限制绕过2FA的细粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5f7b5ebc21a9",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+      "url": "https://x.com/gdb/status/2083457463337287721",
+      "primary_url": "https://x.com/gdb/status/2083457463337287721",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "npm 将限制绕过2FA的细粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "npm 将限制绕过2FA的细粒度访问令牌",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": "npm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of…\nnpm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of the largest credential-based attack surfaces on the registry.\nThis only impacts npm granular access",
-          "recommend_reason_zh": "npm granular access tokens（GATs）若被配置为绕过2FA，将不能再执行敏感账户、组织和包管理操作，且2027年1月起失去直接发布权，仅可读私有包与暂存发布，需维护者2FA批准。",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+          "recommend_reason_zh": "Astra内部版本以约$2000的Sol API价格解决了数学与理论计算机科学领域的十项重大进展，展示下一代模型在低成本下的推理突破。",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "npm 将限制绕过2FA的细粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "npm 将限制绕过2FA的细粒度访问令牌",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": "npm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of…\nnpm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of the largest credential-based attack surfaces on the registry.\nThis only impacts npm granular access",
-          "recommend_reason_zh": "npm granular access tokens（GATs）若被配置为绕过2FA，将不能再执行敏感账户、组织和包管理操作，且2027年1月起失去直接发布权，仅可读私有包与暂存发布，需维护者2FA批准。",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+          "recommend_reason_zh": "Astra内部版本以约$2000的Sol API价格解决了数学与理论计算机科学领域的十项重大进展，展示下一代模型在低成本下的推理突破。",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
-      "importance_label": "官方更新",
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9099,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7984,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
+      "earliest_at": "2026-08-01T07:39:02Z",
+      "latest_at": "2026-08-01T07:39:02Z",
       "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "npm 将限制绕过2FA的细粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "title_zh": "npm 将限制绕过2FA的细粒度访问令牌",
-        "title_en": "Restricting npm bypass-2FA granular access tokens",
-        "title_original": "Restricting npm bypass-2FA granular access tokens",
-        "summary": "npm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of…\nnpm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of the largest credential-based attack surfaces on the registry.\nThis only impacts npm granular access",
-        "recommend_reason_zh": "npm granular access tokens（GATs）若被配置为绕过2FA，将不能再执行敏感账户、组织和包管理操作，且2027年1月起失去直接发布权，仅可读私有包与暂存发布，需维护者2FA批准。",
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "npm 安全规则更新，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_077a06a5fc28",
-      "title": "推进欧洲负责任AI发展 / Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "推进欧洲负责任AI发展 / Advancing responsible AI across Europe",
-          "title_zh": "推进欧洲负责任AI发展",
-          "title_en": "Advancing responsible AI across Europe",
-          "title_original": "Advancing responsible AI across Europe",
-          "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.\nOpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.\nOpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as th",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "推进欧洲负责任AI发展 / Advancing responsible AI across Europe",
-          "title_zh": "推进欧洲负责任AI发展",
-          "title_en": "Advancing responsible AI across Europe",
-          "title_original": "Advancing responsible AI across Europe",
-          "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.\nOpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.\nOpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as th",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.887,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
-      "primary_item": {
-        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-        "title": "推进欧洲负责任AI发展 / Advancing responsible AI across Europe",
-        "title_zh": "推进欧洲负责任AI发展",
-        "title_en": "Advancing responsible AI across Europe",
-        "title_original": "Advancing responsible AI across Europe",
-        "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.\nOpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.\nOpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as th",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+        "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+        "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+        "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+        "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+        "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+        "recommend_reason_zh": "Astra内部版本以约$2000的Sol API价格解决了数学与理论计算机科学领域的十项重大进展，展示下一代模型在低成本下的推理突破。",
+        "url": "https://x.com/gdb/status/2083457463337287721",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "泛AI政策新闻，与内容变现无直接关联，不占注意力。",
+      "persona_review": "技术突破但无内容变现路径，对创作者无直接帮助。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
+        "scored_at": "2026-08-01T23:31:49.011962Z"
       }
     },
     {
-      "story_id": "story_d786a5714ff6",
-      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-      "url": "https://www.aibase.com/news/30048",
-      "primary_url": "https://www.aibase.com/news/30048",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8c9e60cd6b83",
+      "title": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "url": "https://news.ycombinator.com/item?id=49136955",
+      "primary_url": "https://news.ycombinator.com/item?id=49136955",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_en": null,
-          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "summary": "WeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nWeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nWeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nExplore AI Fronti",
-          "recommend_reason_zh": "本文报道WeChat Official Account platform正式推出AI“一键排版”：自动分段调整间距，识别手写小标题并统一加粗调色，还能调整图片大小和对齐，三步解决创作者排版痛点。",
-          "url": "https://www.aibase.com/news/30048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T18:18:09.524437Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_en": null,
-          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "summary": "WeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nWeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nWeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nExplore AI Fronti",
-          "recommend_reason_zh": "本文报道WeChat Official Account platform正式推出AI“一键排版”：自动分段调整间距，识别手写小标题并统一加粗调色，还能调整图片大小和对齐，三步解决创作者排版痛点。",
-          "url": "https://www.aibase.com/news/30048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T18:18:09.524437Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:18:09.524437Z",
-      "latest_at": "2026-07-31T18:18:09.524437Z",
-      "primary_item": {
-        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "title_en": null,
-        "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "summary": "WeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nWeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nWeChat Official Account platform has officially launched AI intelligent formatting capabilities, \"One-click Formatting\". When creators edit articles on the WeCh\nExplore AI Fronti",
-        "recommend_reason_zh": "本文报道WeChat Official Account platform正式推出AI“一键排版”：自动分段调整间距，识别手写小标题并统一加粗调色，还能调整图片大小和对齐，三步解决创作者排版痛点。",
-        "url": "https://www.aibase.com/news/30048",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "官方工具更新，直接降低排版耗时，适合内容创作者立即测试提效。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_d83536587724",
-      "title": "Univé 打造AI就绪的员工队伍 / Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "primary_url": "https://openai.com/index/unive",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
-          "title": "Univé 打造AI就绪的员工队伍 / Univé builds an AI-ready workforce",
-          "title_zh": "Univé 打造AI就绪的员工队伍",
-          "title_en": "Univé builds an AI-ready workforce",
-          "title_original": "Univé builds an AI-ready workforce",
-          "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.\nSee how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.\nSee how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform wo",
-          "recommend_reason_zh": "Univé借助ChatGPT Enterprise打造AI-ready员工队伍：97%许可证激活、85%周活跃，员工创建约1500个自定义GPT，理赔处理从小时缩至分钟。",
-          "url": "https://openai.com/index/unive",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
-          "title": "Univé 打造AI就绪的员工队伍 / Univé builds an AI-ready workforce",
-          "title_zh": "Univé 打造AI就绪的员工队伍",
-          "title_en": "Univé builds an AI-ready workforce",
-          "title_original": "Univé builds an AI-ready workforce",
-          "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.\nSee how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.\nSee how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform wo",
-          "recommend_reason_zh": "Univé借助ChatGPT Enterprise打造AI-ready员工队伍：97%许可证激活、85%周活跃，员工创建约1500个自定义GPT，理赔处理从小时缩至分钟。",
-          "url": "https://openai.com/index/unive",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7902,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T07:00:00Z",
-      "latest_at": "2026-07-31T07:00:00Z",
-      "primary_item": {
-        "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
-        "title": "Univé 打造AI就绪的员工队伍 / Univé builds an AI-ready workforce",
-        "title_zh": "Univé 打造AI就绪的员工队伍",
-        "title_en": "Univé builds an AI-ready workforce",
-        "title_original": "Univé builds an AI-ready workforce",
-        "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.\nSee how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.\nSee how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform wo",
-        "recommend_reason_zh": "Univé借助ChatGPT Enterprise打造AI-ready员工队伍：97%许可证激活、85%周活跃，员工创建约1500个自定义GPT，理赔处理从小时缩至分钟。",
-        "url": "https://openai.com/index/unive",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "企业AI培训案例，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_2c28a370967c",
-      "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-      "url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "primary_url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-          "recommend_reason_zh": "构建LLM agent时，策略和环境都备受重视，但两者间的接口常被忽略。文章以ALFWorld为例，指出agent试图examine shelf 1，环境却要求先go，故障正发生在此处，值得关注。",
-          "url": "https://x.com/OpenBMB/status/2083175856563003724",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-          "recommend_reason_zh": "构建LLM agent时，策略和环境都备受重视，但两者间的接口常被忽略。文章以ALFWorld为例，指出agent试图examine shelf 1，环境却要求先go，故障正发生在此处，值得关注。",
-          "url": "https://x.com/OpenBMB/status/2083175856563003724",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8618,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T13:00:02Z",
-      "latest_at": "2026-07-31T13:00:02Z",
-      "primary_item": {
-        "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-        "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-        "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
-        "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-        "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-        "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-        "recommend_reason_zh": "构建LLM agent时，策略和环境都备受重视，但两者间的接口常被忽略。文章以ALFWorld为例，指出agent试图examine shelf 1，环境却要求先go，故障正发生在此处，值得关注。",
-        "url": "https://x.com/OpenBMB/status/2083175856563003724",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "技术动态，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_03f0da12a10c",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "primary_url": "https://www.ithome.com/0/984/365.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_en": null,
-          "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_en": null,
-          "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8454,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T11:40:12Z",
-      "latest_at": "2026-07-31T11:40:12Z",
-      "primary_item": {
-        "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "title_en": null,
-        "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/984/365.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "欧盟规则变化，影响AI内容合规，但非直接变现机会，可留意合规风险。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_8b85b4c16c7c",
-      "title": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-      "url": "https://www.yunyingpai.com/news/1061452.html",
-      "primary_url": "https://www.yunyingpai.com/news/1061452.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "50a86b1bad0ab3f3c89b684ee40a1405270ec58b",
-          "title": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-          "title_zh": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-          "title_en": null,
-          "title_original": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
+          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
+          "title": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1061452.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-31T07:32:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "50a86b1bad0ab3f3c89b684ee40a1405270ec58b",
-          "title": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-          "title_zh": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-          "title_en": null,
-          "title_original": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1061452.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-31T07:32:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7965,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T07:32:56Z",
-      "latest_at": "2026-07-31T07:32:56Z",
-      "primary_item": {
-        "id": "50a86b1bad0ab3f3c89b684ee40a1405270ec58b",
-        "title": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-        "title_zh": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-        "title_en": null,
-        "title_original": "单月涨粉近200万，“垫底辣孩”如何掀起女性向摄影潮",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/news/1061452.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "涨粉案例有参考价值，但缺具体变现路径，可拆解其摄影模板做测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_7e0a2ae83c8e",
-      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队 / Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-      "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "primary_url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队 / Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-          "title_zh": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "title_en": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-          "title_original": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-          "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队 / Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-          "title_zh": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "title_en": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-          "title_original": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-          "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8388,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T11:07:35Z",
-      "latest_at": "2026-07-31T11:07:35Z",
-      "primary_item": {
-        "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队 / Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-        "title_zh": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-        "title_en": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-        "title_original": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-        "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-        "recommend_reason_zh": null,
-        "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "技术教程，面向开发者，非内容创作者直接变现路径，暂不测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_1ec32c7e798b",
-      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-      "url": "https://www.aibase.com/news/30049",
-      "primary_url": "https://www.aibase.com/news/30049",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_en": null,
-          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "summary": "In today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nIn today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nIn today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nExplore AI Fronti",
-          "recommend_reason_zh": "Microsoft首破千亿美元年收入增43%，但云业务增速被Google的82%甩开；678亿美元合同积压暗藏杠杆风险，自研芯片Maia和Cobalt未成熟，仍依赖NVIDIA，值得关注。",
-          "url": "https://www.aibase.com/news/30049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T18:18:09.524437Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_en": null,
-          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "summary": "In today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nIn today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nIn today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nExplore AI Fronti",
-          "recommend_reason_zh": "Microsoft首破千亿美元年收入增43%，但云业务增速被Google的82%甩开；678亿美元合同积压暗藏杠杆风险，自研芯片Maia和Cobalt未成熟，仍依赖NVIDIA，值得关注。",
-          "url": "https://www.aibase.com/news/30049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T18:18:09.524437Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:18:09.524437Z",
-      "latest_at": "2026-07-31T18:18:09.524437Z",
-      "primary_item": {
-        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "title_en": null,
-        "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "summary": "In today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nIn today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nIn today's cloud services market, the arms race among major players is accelerating rapidly. Microsoft  achieved its first annual revenue of over $100 billion i\nExplore AI Fronti",
-        "recommend_reason_zh": "Microsoft首破千亿美元年收入增43%，但云业务增速被Google的82%甩开；678亿美元合同积压暗藏杠杆风险，自研芯片Maia和Cobalt未成熟，仍依赖NVIDIA，值得关注。",
-        "url": "https://www.aibase.com/news/30049",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "泛公司财务新闻，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_31ed9d2f74da",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "summary": "As of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may need t",
-          "recommend_reason_zh": "GitHub Copilot于2026年7月31日弃用Gemini 2.5 Pro与Gemini 3 Flash，波及Chat、内联编辑及代码补全等全部模式，管理员需在政策中启用替代模型，开发者应及时更新工作流。",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "summary": "As of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may need t",
-          "recommend_reason_zh": "GitHub Copilot于2026年7月31日弃用Gemini 2.5 Pro与Gemini 3 Flash，波及Chat、内联编辑及代码补全等全部模式，管理员需在政策中启用替代模型，开发者应及时更新工作流。",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9543,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T20:04:01Z",
-      "latest_at": "2026-07-31T20:04:01Z",
-      "primary_item": {
-        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-        "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "summary": "As of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may need t",
-        "recommend_reason_zh": "GitHub Copilot于2026年7月31日弃用Gemini 2.5 Pro与Gemini 3 Flash，波及Chat、内联编辑及代码补全等全部模式，管理员需在政策中启用替代模型，开发者应及时更新工作流。",
-        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "模型弃用通知，对内容生产无直接影响，除非依赖特定API，否则不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_cd21c6fddb56",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "Disrupting a Criminal Scam Operation",
-          "title_zh": null,
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nJuly 31, 2026\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, roma",
-          "recommend_reason_zh": "OpenAI披露捣毁一个柬埔寨诈骗网络，该组织用ChatGPT伪装投资、恋爱、赌博及冒充执法人员行骗，封禁相关账号，并点明其或与人口贩运有关。",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "Disrupting a Criminal Scam Operation",
-          "title_zh": null,
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nJuly 31, 2026\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, roma",
-          "recommend_reason_zh": "OpenAI披露捣毁一个柬埔寨诈骗网络，该组织用ChatGPT伪装投资、恋爱、赌博及冒充执法人员行骗，封禁相关账号，并点明其或与人口贩运有关。",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7143,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T00:00:00Z",
-      "latest_at": "2026-07-31T00:00:00Z",
-      "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "Disrupting a Criminal Scam Operation",
-        "title_zh": null,
-        "title_en": "Disrupting a Criminal Scam Operation",
-        "title_original": "Disrupting a Criminal Scam Operation",
-        "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nJuly 31, 2026\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, roma",
-        "recommend_reason_zh": "OpenAI披露捣毁一个柬埔寨诈骗网络，该组织用ChatGPT伪装投资、恋爱、赌博及冒充执法人员行骗，封禁相关账号，并点明其或与人口贩运有关。",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "官方安全公告，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_274d1f8b0993",
-      "title": "国家发改委：将加快《人工智能法》立法进程",
-      "url": "https://www.ithome.com/0/983/974.htm",
-      "primary_url": "https://www.ithome.com/0/983/974.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-          "title_en": null,
-          "title_original": "国家发改委：将加快《人工智能法》立法进程",
-          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-          "title_en": null,
-          "title_original": "国家发改委：将加快《人工智能法》立法进程",
-          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7438,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T02:48:12Z",
-      "latest_at": "2026-07-31T02:48:12Z",
-      "primary_item": {
-        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-        "title": "国家发改委：将加快《人工智能法》立法进程",
-        "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-        "title_en": null,
-        "title_original": "国家发改委：将加快《人工智能法》立法进程",
-        "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/983/974.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "宏观立法新闻，与内容变现无直接关联，不占今日注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_5e8edbd8e12e",
-      "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-      "url": "https://www.aibase.com/news/30045",
-      "primary_url": "https://www.aibase.com/news/30045",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "title_zh": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "title_en": null,
-          "title_original": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "summary": "The global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nThe global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nThe global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nExplore AI Fronti",
-          "recommend_reason_zh": "国内大模型全球下载超100亿次，DeepSeek、Moonshot AI等发布万亿参数开源模型，发改委透露将加快《人工智能法》立法，聚焦全产业链自主创新突破。",
-          "url": "https://www.aibase.com/news/30045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T16:18:09.524437Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "title_zh": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "title_en": null,
-          "title_original": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "summary": "The global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nThe global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nThe global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nExplore AI Fronti",
-          "recommend_reason_zh": "国内大模型全球下载超100亿次，DeepSeek、Moonshot AI等发布万亿参数开源模型，发改委透露将加快《人工智能法》立法，聚焦全产业链自主创新突破。",
-          "url": "https://www.aibase.com/news/30045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T16:18:09.524437Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T16:18:09.524437Z",
-      "latest_at": "2026-07-31T16:18:09.524437Z",
-      "primary_item": {
-        "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-        "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-        "title_zh": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-        "title_en": null,
-        "title_original": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-        "summary": "The global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nThe global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nThe global downloads of domestic large models have exceeded 10 billion times, and trillion-parameter open-source models are emerging frequently. China's artific\nExplore AI Fronti",
-        "recommend_reason_zh": "国内大模型全球下载超100亿次，DeepSeek、Moonshot AI等发布万亿参数开源模型，发改委透露将加快《人工智能法》立法，聚焦全产业链自主创新突破。",
-        "url": "https://www.aibase.com/news/30045",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "泛行业政策新闻，与创作者变现无直接关联，暂不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队模型策略定向功能公开预览 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队模型策略定向功能公开预览 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队模型策略定向功能公开预览",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": "You can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline…\nYou can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline of models for the entire enterprise and then grant additional models to specific en",
-          "recommend_reason_zh": "GitHub Enterprise的Copilot用户级模型策略进入公共预览，8月3日逐步开放，管理员可设企业模型基线并为特定团队授予额外模型，访问评估采用最不严格策略。",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队模型策略定向功能公开预览 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队模型策略定向功能公开预览",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": "You can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline…\nYou can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline of models for the entire enterprise and then grant additional models to specific en",
-          "recommend_reason_zh": "GitHub Enterprise的Copilot用户级模型策略进入公共预览，8月3日逐步开放，管理员可设企业模型基线并为特定团队授予额外模型，访问评估采用最不严格策略。",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9289,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队模型策略定向功能公开预览 / Enterprise teams model policy targeting in public preview",
-        "title_zh": "企业团队模型策略定向功能公开预览",
-        "title_en": "Enterprise teams model policy targeting in public preview",
-        "title_original": "Enterprise teams model policy targeting in public preview",
-        "summary": "You can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline…\nYou can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline of models for the entire enterprise and then grant additional models to specific en",
-        "recommend_reason_zh": "GitHub Enterprise的Copilot用户级模型策略进入公共预览，8月3日逐步开放，管理员可设企业模型基线并为特定团队授予额外模型，访问评估采用最不严格策略。",
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "企业级模型策略功能，对个人创作者变现无直接帮助，暂不测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_1b2722dac73d",
-      "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-      "url": "https://www.aibase.com/news/30036",
-      "primary_url": "https://www.aibase.com/news/30036",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
-          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "title_zh": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "title_en": null,
-          "title_original": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "summary": "Amid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nAmid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nAmid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nExplore AI Fronti",
-          "recommend_reason_zh": "Google Earth基于Nano Banana 2模型推出新图像生成功能，用户可在地图上框选区域并输入指令，如还原公元78年庞贝古城街景，将卫星与3D实景结合生成逼真历史风貌。",
-          "url": "https://www.aibase.com/news/30036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T14:18:09.524437Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
-          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "title_zh": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "title_en": null,
-          "title_original": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "summary": "Amid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nAmid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nAmid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nExplore AI Fronti",
-          "recommend_reason_zh": "Google Earth基于Nano Banana 2模型推出新图像生成功能，用户可在地图上框选区域并输入指令，如还原公元78年庞贝古城街景，将卫星与3D实景结合生成逼真历史风貌。",
-          "url": "https://www.aibase.com/news/30036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T14:18:09.524437Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T14:18:09.524437Z",
-      "latest_at": "2026-07-31T14:18:09.524437Z",
-      "primary_item": {
-        "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
-        "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-        "title_zh": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-        "title_en": null,
-        "title_original": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-        "summary": "Amid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nAmid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nAmid the rapid empowerment of daily tools by artificial intelligence technology, Google Earth (Google Earth) has officially launched a new image generation feat\nExplore AI Fronti",
-        "recommend_reason_zh": "Google Earth基于Nano Banana 2模型推出新图像生成功能，用户可在地图上框选区域并输入指令，如还原公元78年庞贝古城街景，将卫星与3D实景结合生成逼真历史风貌。",
-        "url": "https://www.aibase.com/news/30036",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "工具更新，但未直接关联内容变现路径，可留意后续创作者案例。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_165311a6ce61",
-      "title": "Google Earth的AI深度伪造工具只存活了一天。 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "primary_url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-          "title": "Google Earth的AI深度伪造工具只存活了一天。 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_zh": "Google Earth的AI深度伪造工具只存活了一天。",
-          "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T19:13:29Z"
+          "url": "https://news.ycombinator.com/item?id=49136955",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T22:54:42.842000Z"
         },
         {
-          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
-          "title": "Google Earth 的 AI 深度伪造工具仅存活了一天 / Google Earth’s AI deepfake tool only lasted one day",
-          "title_zh": "Google Earth 的 AI 深度伪造工具仅存活了一天",
-          "title_en": "Google Earth’s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth’s AI deepfake tool only lasted one day",
+          "id": "48ee38c8138657dc104117e3c028a8aea0732dd1",
+          "title": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
+          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-31T19:13:29Z"
+          "published_at": "2026-08-01T18:21:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-          "title": "Google Earth的AI深度伪造工具只存活了一天。 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_zh": "Google Earth的AI深度伪造工具只存活了一天。",
-          "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
+          "title": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T19:13:29Z"
+          "url": "https://news.ycombinator.com/item?id=49136955",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T22:54:42.842000Z"
         },
         {
-          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
-          "title": "Google Earth 的 AI 深度伪造工具仅存活了一天 / Google Earth’s AI deepfake tool only lasted one day",
-          "title_zh": "Google Earth 的 AI 深度伪造工具仅存活了一天",
-          "title_en": "Google Earth’s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth’s AI deepfake tool only lasted one day",
+          "id": "48ee38c8138657dc104117e3c028a8aea0732dd1",
+          "title": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
+          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-31T19:13:29Z"
+          "published_at": "2026-08-01T18:21:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6052,
-      "importance": 0.6052,
-      "importance_score": 0.6052,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.9428,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1643,112 +412,682 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T19:13:29Z",
-      "latest_at": "2026-07-31T19:13:29Z",
+      "earliest_at": "2026-08-01T18:21:41Z",
+      "latest_at": "2026-08-01T22:54:42.842000Z",
       "primary_item": {
-        "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-        "title": "Google Earth的AI深度伪造工具只存活了一天。 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "title_zh": "Google Earth的AI深度伪造工具只存活了一天。",
-        "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+        "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
+        "title": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "title_zh": "扫描 HuggingFace 7.6 PB 训练数据，寻找机密信息。",
+        "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://news.ycombinator.com/item?id=49136955",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "泛技术安全新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-01T23:31:49.011962Z"
+      }
+    },
+    {
+      "story_id": "story_d1e0cd7477c4",
+      "title": "每个人都被骗了\"——关于AI的真相 / \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+      "primary_url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
+          "title": "每个人都被骗了\"——关于AI的真相 / \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "每个人都被骗了\"——关于AI的真相",
+          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:50:30Z"
+        },
+        {
+          "id": "f2c8f5d782f442fedf816461f44d77b3325fdac9",
+          "title": "Zitron：关于AI，“所有人都被骗了” [视频] / Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "title_zh": "Zitron：关于AI，“所有人都被骗了” [视频]",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T23:31:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
+          "title": "每个人都被骗了\"——关于AI的真相 / \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "每个人都被骗了\"——关于AI的真相",
+          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:50:30Z"
+        },
+        {
+          "id": "f2c8f5d782f442fedf816461f44d77b3325fdac9",
+          "title": "Zitron：关于AI，“所有人都被骗了” [视频] / Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "title_zh": "Zitron：关于AI，“所有人都被骗了” [视频]",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T23:31:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T23:31:39Z",
+      "latest_at": "2026-08-01T22:50:30Z",
+      "primary_item": {
+        "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
+        "title": "每个人都被骗了\"——关于AI的真相 / \"Everyone Has Been Sold a Lie\" on AI",
+        "title_zh": "每个人都被骗了\"——关于AI的真相",
+        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
+      "persona_review": "泛AI批判观点，无具体变现路径或案例，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-01T23:31:49.011962Z"
+      }
+    },
+    {
+      "story_id": "story_40fa12abd4dd",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "www.antipope.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "On the non-use of AI in my writing process",
+          "title_original": "On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.antipope.org"
+      ],
+      "items": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "On the non-use of AI in my writing process",
+          "title_original": "On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9309,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T18:17:24.719000Z",
+      "primary_item": {
+        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_en": null,
+        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "source": "www.antipope.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "个人写作偏好声明，无内容变现方法或工具，与AI变现关联弱。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-01T23:31:49.011962Z"
+      }
+    },
+    {
+      "story_id": "story_817116dbd893",
+      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "primary_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "source": "forum.cursor.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": null,
+          "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "forum.cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T17:29:19.514000Z"
+        },
+        {
+          "id": "7b8d48b033901b44ab7e701a0605ba02ba0432ac",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T15:25:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "forum.cursor.com"
+      ],
+      "items": [
+        {
+          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": null,
+          "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "forum.cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T17:29:19.514000Z"
+        },
+        {
+          "id": "7b8d48b033901b44ab7e701a0605ba02ba0432ac",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T15:25:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9202,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T15:25:21Z",
+      "latest_at": "2026-08-01T17:29:19.514000Z",
+      "primary_item": {
+        "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+        "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+        "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+        "title_en": null,
+        "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "source": "forum.cursor.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "工具成本信息变化，影响AI接单报价核算，值得关注但非直接变现机会。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-01T23:31:49.011962Z"
+      }
+    },
+    {
+      "story_id": "story_38cfb64c6a71",
+      "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product",
+      "primary_url": "https://weeraman.com/the-prototype-isnt-the-product",
+      "source": "weeraman.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": null,
+          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T11:05:25.825000Z"
+        },
+        {
+          "id": "234538b9d17e12b9fce41e961fc8cd7eb2050379",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T07:52:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "weeraman.com"
+      ],
+      "items": [
+        {
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": null,
+          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T11:05:25.825000Z"
+        },
+        {
+          "id": "234538b9d17e12b9fce41e961fc8cd7eb2050379",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T07:52:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.839,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T07:52:10Z",
+      "latest_at": "2026-08-01T11:05:25.825000Z",
+      "primary_item": {
+        "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+        "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+        "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+        "title_en": null,
+        "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://weeraman.com/the-prototype-isnt-the-product",
+        "source": "weeraman.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "泛AI技术评论，未涉及具体变现路径或工具，对创作者帮助有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-01T23:31:49.011962Z"
+      }
+    },
+    {
+      "story_id": "story_394f1b3fc7fd",
+      "title": "来自MIT：AI理财建议出奇地好 / From MIT: AI financial advice is surprisingly good",
+      "url": "https://news.ycombinator.com/item?id=49139102",
+      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
+          "title": "来自MIT：AI理财建议出奇地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "来自MIT：AI理财建议出奇地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T22:54:42.842000Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "来自MIT：AI理财建议出奇地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "来自MIT：AI理财建议出奇地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
+          "title": "来自MIT：AI理财建议出奇地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "来自MIT：AI理财建议出奇地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T22:54:42.842000Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "来自MIT：AI理财建议出奇地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "来自MIT：AI理财建议出奇地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-01T22:54:42.842000Z",
+      "primary_item": {
+        "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
+        "title": "来自MIT：AI理财建议出奇地好 / From MIT: AI financial advice is surprisingly good",
+        "title_zh": "来自MIT：AI理财建议出奇地好",
+        "title_en": "From MIT: AI financial advice is surprisingly good",
+        "title_original": "From MIT: AI financial advice is surprisingly good",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49139102",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
       "persona_review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
+        "scored_at": "2026-08-01T23:31:49.011962Z"
       }
     },
     {
-      "story_id": "story_ddb13a83af72",
-      "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
-      "url": "https://marbleos.com/demo",
-      "primary_url": "https://marbleos.com/demo",
-      "source": "marbleos.com",
+      "story_id": "story_03b9f05044c9",
+      "title": "Flint：面向人工智能时代的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "primary_url": "https://microsoft.github.io/flint-chart",
+      "source": "microsoft.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b9cef2e5bc4fe0583926cbf3fc921a2dc6de9b3b",
-          "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
-          "title_zh": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
           "title_en": null,
-          "title_original": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+          "title_original": "Flint：面向人工智能时代的可视化语言",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://marbleos.com/demo",
-          "source": "marbleos.com",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-31T21:13:14.774000Z"
+          "published_at": "2026-08-01T08:41:23.781000Z"
         },
         {
-          "id": "fa1054f35c27beff04287a76b1ce979381f08115",
-          "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？ / Show HN: What should the GUI for AI agents look like?",
-          "title_zh": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
-          "title_en": "Show HN: What should the GUI for AI agents look like?",
-          "title_original": "Show HN: What should the GUI for AI agents look like?",
+          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://marbleos.com/demo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T05:17:29Z"
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T02:45:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "marbleos.com"
+        "Hacker News (黑客新闻)",
+        "microsoft.github.io"
       ],
       "items": [
         {
-          "id": "b9cef2e5bc4fe0583926cbf3fc921a2dc6de9b3b",
-          "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
-          "title_zh": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
           "title_en": null,
-          "title_original": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+          "title_original": "Flint：面向人工智能时代的可视化语言",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://marbleos.com/demo",
-          "source": "marbleos.com",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-31T21:13:14.774000Z"
+          "published_at": "2026-08-01T08:41:23.781000Z"
         },
         {
-          "id": "fa1054f35c27beff04287a76b1ce979381f08115",
-          "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？ / Show HN: What should the GUI for AI agents look like?",
-          "title_zh": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
-          "title_en": "Show HN: What should the GUI for AI agents look like?",
-          "title_original": "Show HN: What should the GUI for AI agents look like?",
+          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://marbleos.com/demo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T05:17:29Z"
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T02:45:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5117,
+      "importance": 0.5117,
+      "importance_score": 0.5117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.8104,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1757,141 +1096,27 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T05:17:29Z",
-      "latest_at": "2026-07-31T21:13:14.774000Z",
+      "earliest_at": "2026-08-01T02:45:09Z",
+      "latest_at": "2026-08-01T08:41:23.781000Z",
       "primary_item": {
-        "id": "b9cef2e5bc4fe0583926cbf3fc921a2dc6de9b3b",
-        "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
-        "title_zh": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+        "title": "Flint：面向人工智能时代的可视化语言",
+        "title_zh": "Flint：面向人工智能时代的可视化语言",
         "title_en": null,
-        "title_original": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+        "title_original": "Flint：面向人工智能时代的可视化语言",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://marbleos.com/demo",
-        "source": "marbleos.com",
+        "url": "https://microsoft.github.io/flint-chart",
+        "source": "microsoft.github.io",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "泛AI界面设计讨论，与内容变现无直接关联，不占注意力。",
+      "persona_score": 25,
+      "persona_review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
-      }
-    },
-    {
-      "story_id": "story_880b3abfb365",
-      "title": "7月AI股暴跌，Situational Awareness股价下跌67%",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "primary_url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "source": "www.wsj.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "26d530d38f7deeb8e5b6aaed41424fc7592202f1",
-          "title": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "title_zh": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "title_en": null,
-          "title_original": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-          "source": "www.wsj.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T16:25:22.116000Z"
-        },
-        {
-          "id": "2a60e04e2b5ef4622bed80891f14ca106a786e8b",
-          "title": "7月AI股暴跌，Situational Awareness股价下跌67% / Situational Awareness down 67% in July in AI stock rout",
-          "title_zh": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "title_en": "Situational Awareness down 67% in July in AI stock rout",
-          "title_original": "Situational Awareness down 67% in July in AI stock rout",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T13:37:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.wsj.com"
-      ],
-      "items": [
-        {
-          "id": "26d530d38f7deeb8e5b6aaed41424fc7592202f1",
-          "title": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "title_zh": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "title_en": null,
-          "title_original": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-          "source": "www.wsj.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T16:25:22.116000Z"
-        },
-        {
-          "id": "2a60e04e2b5ef4622bed80891f14ca106a786e8b",
-          "title": "7月AI股暴跌，Situational Awareness股价下跌67% / Situational Awareness down 67% in July in AI stock rout",
-          "title_zh": "7月AI股暴跌，Situational Awareness股价下跌67%",
-          "title_en": "Situational Awareness down 67% in July in AI stock rout",
-          "title_original": "Situational Awareness down 67% in July in AI stock rout",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T13:37:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9054,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T13:37:36Z",
-      "latest_at": "2026-07-31T16:25:22.116000Z",
-      "primary_item": {
-        "id": "26d530d38f7deeb8e5b6aaed41424fc7592202f1",
-        "title": "7月AI股暴跌，Situational Awareness股价下跌67%",
-        "title_zh": "7月AI股暴跌，Situational Awareness股价下跌67%",
-        "title_en": null,
-        "title_original": "7月AI股暴跌，Situational Awareness股价下跌67%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-        "source": "www.wsj.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 12,
-      "persona_review": "AI股票暴跌与创作者变现无关，属泛财经新闻，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-31T23:40:20.983958Z"
+        "scored_at": "2026-08-01T23:31:49.011962Z"
       }
     }
   ]

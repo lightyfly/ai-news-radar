@@ -3816,6 +3816,102 @@
       "review": "仅援引IT之家报道，无官方文件或法律原文链接，证据不足。",
       "title_hash": "059c1da9",
       "scored_at": "2026-07-31T23:40:48.697895Z"
+    },
+    "story_10739ae4d797|pragmatic|ccc085fd": {
+      "score": 20,
+      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "c1ef9263",
+      "scored_at": "2026-08-01T23:31:50.180221Z"
+    },
+    "story_e2eeec323e5b|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "行业法律动态，影响AI音乐工具合规性，但短期无直接变现路径，可留意后续。",
+      "title_hash": "beade55b",
+      "scored_at": "2026-08-01T23:31:51.505885Z"
+    },
+    "story_5f7b5ebc21a9|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "技术突破但无内容变现路径，对创作者无直接帮助。",
+      "title_hash": "b9280565",
+      "scored_at": "2026-08-01T23:31:52.775997Z"
+    },
+    "story_8c9e60cd6b83|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "泛技术安全新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "f2e722b5",
+      "scored_at": "2026-08-01T23:31:54.328343Z"
+    },
+    "story_d1e0cd7477c4|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛AI批判观点，无具体变现路径或案例，不占注意力。",
+      "title_hash": "11e5e1df",
+      "scored_at": "2026-08-01T23:31:55.408675Z"
+    },
+    "story_40fa12abd4dd|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "个人写作偏好声明，无内容变现方法或工具，与AI变现关联弱。",
+      "title_hash": "1fb673f8",
+      "scored_at": "2026-08-01T23:31:56.734265Z"
+    },
+    "story_817116dbd893|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "工具成本信息变化，影响AI接单报价核算，值得关注但非直接变现机会。",
+      "title_hash": "221b92bb",
+      "scored_at": "2026-08-01T23:31:58.112137Z"
+    },
+    "story_38cfb64c6a71|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "泛AI技术评论，未涉及具体变现路径或工具，对创作者帮助有限。",
+      "title_hash": "b67d9c75",
+      "scored_at": "2026-08-01T23:31:59.388483Z"
+    },
+    "story_394f1b3fc7fd|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "db3851bc",
+      "scored_at": "2026-08-01T23:32:00.521909Z"
+    },
+    "story_03b9f05044c9|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "a26059df",
+      "scored_at": "2026-08-01T23:32:01.762348Z"
+    },
+    "story_e2eeec323e5b|cynic|f4237a62": {
+      "score": 72,
+      "review": "法院判得对，但Suno训练数据来源早该自查，现在才挨打算晚的。",
+      "title_hash": "beade55b",
+      "scored_at": "2026-08-01T23:32:03.288811Z"
+    },
+    "story_e2eeec323e5b|paper-police|966065bf": {
+      "score": 35,
+      "review": "仅有媒体报道，无判决书原文或法律分析，证据不足。",
+      "title_hash": "beade55b",
+      "scored_at": "2026-08-01T23:32:04.899653Z"
+    },
+    "story_817116dbd893|cynic|f4237a62": {
+      "score": 35,
+      "review": "删成本数据是怕用户算账？透明度先降级，再谈信任。",
+      "title_hash": "221b92bb",
+      "scored_at": "2026-08-01T23:32:06.828117Z"
+    },
+    "story_817116dbd893|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅论坛与HN讨论，无官方公告或文档，成本信息移除细节待证实。",
+      "title_hash": "221b92bb",
+      "scored_at": "2026-08-01T23:32:08.226493Z"
+    },
+    "story_38cfb64c6a71|cynic|f4237a62": {
+      "score": 72,
+      "review": "标题是常识，但正文没给硬数据，七分真三分吹。",
+      "title_hash": "b67d9c75",
+      "scored_at": "2026-08-01T23:32:13.370099Z"
+    },
+    "story_38cfb64c6a71|paper-police|966065bf": {
+      "score": 20,
+      "review": "观点文章无数据支撑，仅个人论断，缺论文代码和评测。",
+      "title_hash": "b67d9c75",
+      "scored_at": "2026-08-01T23:32:15.154928Z"
     }
   }
 }
