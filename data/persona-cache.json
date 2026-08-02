@@ -3912,6 +3912,96 @@
       "review": "观点文章无数据支撑，仅个人论断，缺论文代码和评测。",
       "title_hash": "b67d9c75",
       "scored_at": "2026-08-01T23:32:15.154928Z"
+    },
+    "story_b38530d36a8f|pragmatic|ccc085fd": {
+      "score": 72,
+      "review": "案例：3.6万订阅者内容机器，有规模但缺具体变现路径，可测试其工作流。",
+      "title_hash": "34043697",
+      "scored_at": "2026-08-02T23:30:24.495003Z"
+    },
+    "story_4f947119302d|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "AI Agent技术访谈，与内容变现无直接关联，暂不占用注意力。",
+      "title_hash": "a8641b06",
+      "scored_at": "2026-08-02T23:30:25.748626Z"
+    },
+    "story_df555478b2e0|pragmatic|ccc085fd": {
+      "score": 62,
+      "review": "AI 工具组合提升产出效率的案例，但缺具体操作和收益数据，可小规模测试。",
+      "title_hash": "bb0d8908",
+      "scored_at": "2026-08-02T23:30:27.116637Z"
+    },
+    "story_aedb8d520358|pragmatic|ccc085fd": {
+      "score": 68,
+      "review": "工具更新，可分析视频利于内容创作，但需验证实际效果，值得测试。",
+      "title_hash": "1e706443",
+      "scored_at": "2026-08-02T23:30:28.529975Z"
+    },
+    "story_053b3f462bd1|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI技术评论，无内容变现路径，不占注意力。",
+      "title_hash": "b5008da7",
+      "scored_at": "2026-08-02T23:30:29.888542Z"
+    },
+    "story_28846135b250|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "技术重写项目，与内容变现无直接关联，不占注意力。",
+      "title_hash": "1696d40d",
+      "scored_at": "2026-08-02T23:30:31.127257Z"
+    },
+    "story_2686ce80dcaa|pragmatic|ccc085fd": {
+      "score": 12,
+      "review": "泛文化历史内容，与AI内容变现无直接关联，不占注意力。",
+      "title_hash": "85c237e9",
+      "scored_at": "2026-08-02T23:30:32.664496Z"
+    },
+    "story_08068412d02f|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI开发工具，未涉及内容变现路径，对创作者无直接价值。",
+      "title_hash": "94404cb6",
+      "scored_at": "2026-08-02T23:30:33.977077Z"
+    },
+    "story_1de0c63082e4|pragmatic|ccc085fd": {
+      "score": 20,
+      "review": "泛AI技术测试，无内容变现路径，不占注意力。",
+      "title_hash": "8adf038f",
+      "scored_at": "2026-08-02T23:30:35.134464Z"
+    },
+    "story_b38530d36a8f|cynic|f4237a62": {
+      "score": 45,
+      "review": "订阅数唬人，内容机器流水线产物，水分得挤挤才知道剩啥。",
+      "title_hash": "34043697",
+      "scored_at": "2026-08-02T23:30:36.549645Z"
+    },
+    "story_b38530d36a8f|paper-police|966065bf": {
+      "score": 30,
+      "review": "只有博客文章，无论文无代码无数据，订阅数非技术证据。",
+      "title_hash": "34043697",
+      "scored_at": "2026-08-02T23:30:37.967511Z"
+    },
+    "story_aedb8d520358|cynic|f4237a62": {
+      "score": 70,
+      "review": "视频分析不是新事，但Grok敢直接上，至少没藏着掖着，等实测打脸。",
+      "title_hash": "1e706443",
+      "scored_at": "2026-08-02T23:30:39.482982Z"
+    },
+    "story_aedb8d520358|paper-police|966065bf": {
+      "score": 15,
+      "review": "只有马斯克推文宣称，无论文无代码无评测，证据为零。",
+      "title_hash": "1e706443",
+      "scored_at": "2026-08-02T23:30:40.852873Z"
+    },
+    "story_df555478b2e0|cynic|f4237a62": {
+      "score": 55,
+      "review": "省额度翻倍？先晒出完整对比数据和复现步骤，别只发个截图。",
+      "title_hash": "bb0d8908",
+      "scored_at": "2026-08-02T23:30:42.364301Z"
+    },
+    "story_df555478b2e0|paper-police|966065bf": {
+      "score": 15,
+      "review": "仅一条X帖宣称效果，无论文无代码无评测，证据不足。",
+      "title_hash": "bb0d8908",
+      "scored_at": "2026-08-02T23:30:43.720253Z"
     }
   }
 }
