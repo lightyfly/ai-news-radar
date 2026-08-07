@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:45:55.671592Z",
+  "generated_at": "2026-08-07T01:57:33.025799Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_5633caacf344",
-      "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
-      "url": "https://www.aibase.com/news/30135",
+      "story_id": "story_b3bff9014ac0",
+      "title": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
+      "url": "https://www.yunyingpai.com/dyyy/1061551.html",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "插件是真上了，但'全链路'还差个剪辑台，别急着封神。"
+          "score": 62,
+          "review": "励志故事不错，但单案例难证模式可复制，先跑通百个主播再说。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有官方博客宣称，无论文无代码无第三方评测，插件效果待验证。"
+          "score": 30,
+          "review": "只有媒体报道，无数据无来源，无法验证直播带货效果。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "工具更新，专业创作链路打通，适合视频创作者测试工作流提效。"
+          "review": "案例有真实背景，但缺具体转化数据与可复制步骤，适合参考选品和直播话术。"
         }
       }
     },
     {
-      "story_id": "story_e88c6b6cf485",
-      "title": "一定要往死里用的小红书运营实战型技巧",
-      "url": "https://www.yunyingpai.com/content/1061534.html",
+      "story_id": "story_84d446b9d539",
+      "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
+      "url": "https://www.aibase.com/news/30177",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "标题喊得凶，正文还是老几样：养号、蹭热点、抄爆款，换个皮就叫实战。"
+          "score": 55,
+          "review": "水印和协议听着像补救，但检测标准呢？别又是公关遮羞布。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有运营技巧文章，无论文无代码无数据，无法验证效果。"
+          "score": 30,
+          "review": "官方公告称加水印和签协议，但无技术细节、论文或代码，无法验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "运营技巧类内容，需看具体案例和数据，可测试但证据不完整。"
+          "score": 55,
+          "review": "版权规则变化影响AI音乐商用，但未直接给出变现路径，可留意后续平台政策。"
         }
       }
     },
     {
-      "story_id": "story_e2cae4e7f2b3",
-      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "story_id": "story_ad80e8a8d1b9",
+      "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "法院放行不等于技术过关，购物智能体先证明能少退几次货再说。"
+          "score": 62,
+          "review": "斜杠命令指南？Copilot 的说明书都算新闻了，不如先修修补全不准的老毛病。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅一家媒体报道，无判决书原文或官方链接，证据单薄。"
+          "score": 40,
+          "review": "官方博客有细节无代码，斜杠命令用法可查但无独立验证。"
         },
         "pragmatic": {
           "score": 45,
-          "review": "AI购物助手回归亚马逊，属行业动态，对个人变现路径不明确，暂不测试。"
+          "review": "官方工具更新，但斜杠命令主要提升编码效率，与内容变现无直接关联，暂不测试。"
         }
       }
     }
