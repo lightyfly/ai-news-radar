@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:57:33.025799Z",
+  "generated_at": "2026-08-07T23:21:27.859798Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_b3bff9014ac0",
-      "title": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-      "url": "https://www.yunyingpai.com/dyyy/1061551.html",
+      "story_id": "story_465b756b89aa",
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+      "url": "https://x.com/runwayml/status/2085684483366523193",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "励志故事不错，但单案例难证模式可复制，先跑通百个主播再说。"
+          "score": 72,
+          "review": "50个角色参考听着唬人，但demo里脸都崩了，先修修再说。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有媒体报道，无数据无来源，无法验证直播带货效果。"
+          "score": 20,
+          "review": "仅官方推文宣称支持50角色参考，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "案例有真实背景，但缺具体转化数据与可复制步骤，适合参考选品和直播话术。"
+          "review": "官方工具更新，角色参考功能对AI视频创作有直接帮助，值得测试工作流。"
         }
       }
     },
     {
-      "story_id": "story_84d446b9d539",
-      "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-      "url": "https://www.aibase.com/news/30177",
+      "story_id": "story_167ce8dd0aba",
+      "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+      "url": "https://x.com/suno/status/2085731234970227145",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "水印和协议听着像补救，但检测标准呢？别又是公关遮羞布。"
+          "score": 62,
+          "review": "移动端上线是标配，但'Voices'功能细节和效果都没晒，先别急着喊革命。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方公告称加水印和签协议，但无技术细节、论文或代码，无法验证。"
+          "score": 10,
+          "review": "仅官方X帖宣称功能上线，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "版权规则变化影响AI音乐商用，但未直接给出变现路径，可留意后续平台政策。"
+          "score": 72,
+          "review": "Suno移动端上线Voices功能，可录制声音生成音乐，对音乐类创作者是实用工具，值得测试。"
         }
       }
     },
     {
-      "story_id": "story_ad80e8a8d1b9",
-      "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "story_id": "story_2252b2f8dcb5",
+      "title": "Copilot 影响仪表板新增投资回报率（ROI）板块 / Copilot impact dashboard adds a return on investment section",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "斜杠命令指南？Copilot 的说明书都算新闻了，不如先修修补全不准的老毛病。"
+          "score": 55,
+          "review": "ROI板块？先解释清楚怎么算的，别拿自家数据糊弄人。"
         },
         "paper-police": {
-          "score": 40,
-          "review": "官方博客有细节无代码，斜杠命令用法可查但无独立验证。"
+          "score": 30,
+          "review": "官方更新但无技术细节，ROI 计算方式未公开，缺证据链。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "官方工具更新，但斜杠命令主要提升编码效率，与内容变现无直接关联，暂不测试。"
+          "score": 62,
+          "review": "官方工具更新，ROI数据对评估AI投入有价值，但非直接变现路径，可留意。"
         }
       }
     }

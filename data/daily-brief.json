@@ -1,62 +1,179 @@
 {
-  "generated_at": "2026-08-07T01:34:24.780377Z",
+  "generated_at": "2026-08-07T22:57:30.823168Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ad80e8a8d1b9",
-      "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
+      "story_id": "story_a76b3d3cb89d",
+      "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
-          "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用中的斜杠命令使用指南",
-          "title_en": "A guide to slash commands in the GitHub Copilot app",
-          "title_original": "A guide to slash commands in the GitHub Copilot app",
-          "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nGo beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nGo beyond chat in the GitHub Copilot app with these slash commands. They’ll help you plan, collaborate, automate, and customize your dev workflow.\nIf you’ve used slash commands in the GitHub Copilot CLI, yo",
-          "recommend_reason_zh": "这篇指南详解GitHub Copilot app中的/plan、/spar、/autopilot等斜杠命令，与CLI版对比，展示如何通过可视化界面规划、测试思路并自动执行编码任务。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+          "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
+          "title_zh": "应对关键网络能力的下一个前沿领域",
+          "title_en": "Responding to the next frontier of critical cyber capabilities",
+          "title_original": "Responding to the next frontier of critical cyber capabilities",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nAugust 7, 2026\nCybersecurity is rapidly changing as models become more capabl",
+          "recommend_reason_zh": "OpenAI发布对即将推出的Astra的初步网络安全评估，称其自主编程能力显著提升，或无法排除达到Critical等级，高于此前GPT-5.6-Sol的High，并已加强安全控制。",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T19:49:34Z"
+          "published_at": "2026-08-07T15:20:00Z"
+        },
+        {
+          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
+          "title": "应对关键网络能力的下一个前沿领域",
+          "title_zh": "应对关键网络能力的下一个前沿领域",
+          "title_en": null,
+          "title_original": "应对关键网络能力的下一个前沿领域",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T19:58:36.823000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub AI & ML"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
-          "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用中的斜杠命令使用指南",
-          "title_en": "A guide to slash commands in the GitHub Copilot app",
-          "title_original": "A guide to slash commands in the GitHub Copilot app",
-          "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nGo beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nGo beyond chat in the GitHub Copilot app with these slash commands. They’ll help you plan, collaborate, automate, and customize your dev workflow.\nIf you’ve used slash commands in the GitHub Copilot CLI, yo",
-          "recommend_reason_zh": "这篇指南详解GitHub Copilot app中的/plan、/spar、/autopilot等斜杠命令，与CLI版对比，展示如何通过可视化界面规划、测试思路并自动执行编码任务。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+          "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
+          "title_zh": "应对关键网络能力的下一个前沿领域",
+          "title_en": "Responding to the next frontier of critical cyber capabilities",
+          "title_original": "Responding to the next frontier of critical cyber capabilities",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nAugust 7, 2026\nCybersecurity is rapidly changing as models become more capabl",
+          "recommend_reason_zh": "OpenAI发布对即将推出的Astra的初步网络安全评估，称其自主编程能力显著提升，或无法排除达到Critical等级，高于此前GPT-5.6-Sol的High，并已加强安全控制。",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T19:49:34Z"
+          "published_at": "2026-08-07T15:20:00Z"
+        },
+        {
+          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
+          "title": "应对关键网络能力的下一个前沿领域",
+          "title_zh": "应对关键网络能力的下一个前沿领域",
+          "title_en": null,
+          "title_original": "应对关键网络能力的下一个前沿领域",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T19:58:36.823000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9204,
+        "recency": 0.8957,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T15:20:00Z",
+      "latest_at": "2026-08-07T19:58:36.823000Z",
+      "primary_item": {
+        "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+        "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
+        "title_zh": "应对关键网络能力的下一个前沿领域",
+        "title_en": "Responding to the next frontier of critical cyber capabilities",
+        "title_original": "Responding to the next frontier of critical cyber capabilities",
+        "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nAugust 7, 2026\nCybersecurity is rapidly changing as models become more capabl",
+        "recommend_reason_zh": "OpenAI发布对即将推出的Astra的初步网络安全评估，称其自主编程能力显著提升，或无法排除达到Critical等级，高于此前GPT-5.6-Sol的High，并已加强安全控制。",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "泛AI安全政策讨论，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_564ca3d42291",
+      "title": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "primary_url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
+          "title": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "title_zh": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？",
+          "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nWhat makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf | 📊 Data: https://huggingface.co/datasets/allenai/tutormoments-preview | 💻 Code: https://github.com/allenai/tutormoments\nToday we're introducing a preview of TutorMoments , a framework to measure whether cutting-edge LLMs can balance one of the hardest",
+          "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，用真实一对一数学辅导记录测试LLM的干预时机，发现模型普遍过度帮助、极少推动深度思考，即便明确提示权衡仍不及人类，现已开放数据集与代码。",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:53:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
+          "title": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "title_zh": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？",
+          "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nWhat makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf | 📊 Data: https://huggingface.co/datasets/allenai/tutormoments-preview | 💻 Code: https://github.com/allenai/tutormoments\nToday we're introducing a preview of TutorMoments , a framework to measure whether cutting-edge LLMs can balance one of the hardest",
+          "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，用真实一对一数学辅导记录测试LLM的干预时机，发现模型普遍过度帮助、极少推动深度思考，即便明确提示权衡仍不及人类，现已开放数据集与代码。",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:53:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9295,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -67,50 +184,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T19:49:34Z",
-      "latest_at": "2026-08-06T19:49:34Z",
+      "earliest_at": "2026-08-07T17:53:32Z",
+      "latest_at": "2026-08-07T17:53:32Z",
       "primary_item": {
-        "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
-        "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用中的斜杠命令使用指南",
-        "title_en": "A guide to slash commands in the GitHub Copilot app",
-        "title_original": "A guide to slash commands in the GitHub Copilot app",
-        "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nGo beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nGo beyond chat in the GitHub Copilot app with these slash commands. They’ll help you plan, collaborate, automate, and customize your dev workflow.\nIf you’ve used slash commands in the GitHub Copilot CLI, yo",
-        "recommend_reason_zh": "这篇指南详解GitHub Copilot app中的/plan、/spar、/autopilot等斜杠命令，与CLI版对比，展示如何通过可视化界面规划、测试思路并自动执行编码任务。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
+        "title": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "title_zh": "TutorMoments：AI导师知道何时该帮忙，何时该收手吗？",
+        "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nWhat makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf | 📊 Data: https://huggingface.co/datasets/allenai/tutormoments-preview | 💻 Code: https://github.com/allenai/tutormoments\nToday we're introducing a preview of TutorMoments , a framework to measure whether cutting-edge LLMs can balance one of the hardest",
+        "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，用真实一对一数学辅导记录测试LLM的干预时机，发现模型普遍过度帮助、极少推动深度思考，即便明确提示权衡仍不及人类，现已开放数据集与代码。",
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方工具更新，但斜杠命令主要提升编码效率，与内容变现无直接关联，暂不测试。",
+      "persona_score": 25,
+      "persona_review": "AI教育研究，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_67de54450aab",
-      "title": "Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "story_id": "story_2252b2f8dcb5",
+      "title": "Copilot 影响仪表板新增投资回报率（ROI）板块 / Copilot impact dashboard adds a return on investment section",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-          "title_zh": "Kimi K3 现已上线 GitHub Copilot",
-          "title_en": "Kimi K3 is now available in GitHub Copilot",
-          "title_original": "Kimi K3 is now available in GitHub Copilot",
-          "summary": "Editor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as…\nEditor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as possible and update docs with Kimi K3 pricing, which will be $3 per 1M input tokens, $15 per 1M output tokens, and $0.30 per 1M cached input tokens.\nKimi",
-          "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token仅3美元、输出15美元、缓存输入0.3美元，主打高性价比的代理编码能力，值得开发者一试。",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "Copilot 影响仪表板新增投资回报率（ROI）板块 / Copilot impact dashboard adds a return on investment section",
+          "title_zh": "Copilot 影响仪表板新增投资回报率（ROI）板块",
+          "title_en": "Copilot impact dashboard adds a return on investment section",
+          "title_original": "Copilot impact dashboard adds a return on investment section",
+          "summary": "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two…\nThe Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back.\nTwo cards compare developers by how deeply they have adopted Copilot: those working primarily in chat and code completions (i.e., “Passive users” and “P",
+          "recommend_reason_zh": "GitHub Copilot impact dashboard新增“Potential return on investment”板块，将Copilot花费与pull request产出挂钩，通过工资选择器对比Phase 1与Phase 2/3开发者，助你衡量投资回报。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
+          "published_at": "2026-08-07T21:05:37Z"
         }
       ],
       "source_count": 1,
@@ -119,31 +236,31 @@
       ],
       "items": [
         {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-          "title_zh": "Kimi K3 现已上线 GitHub Copilot",
-          "title_en": "Kimi K3 is now available in GitHub Copilot",
-          "title_original": "Kimi K3 is now available in GitHub Copilot",
-          "summary": "Editor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as…\nEditor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as possible and update docs with Kimi K3 pricing, which will be $3 per 1M input tokens, $15 per 1M output tokens, and $0.30 per 1M cached input tokens.\nKimi",
-          "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token仅3美元、输出15美元、缓存输入0.3美元，主打高性价比的代理编码能力，值得开发者一试。",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "Copilot 影响仪表板新增投资回报率（ROI）板块 / Copilot impact dashboard adds a return on investment section",
+          "title_zh": "Copilot 影响仪表板新增投资回报率（ROI）板块",
+          "title_en": "Copilot impact dashboard adds a return on investment section",
+          "title_original": "Copilot impact dashboard adds a return on investment section",
+          "summary": "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two…\nThe Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back.\nTwo cards compare developers by how deeply they have adopted Copilot: those working primarily in chat and code completions (i.e., “Passive users” and “P",
+          "recommend_reason_zh": "GitHub Copilot impact dashboard新增“Potential return on investment”板块，将Copilot花费与pull request产出挂钩，通过工资选择器对比Phase 1与Phase 2/3开发者，助你衡量投资回报。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
+          "published_at": "2026-08-07T21:05:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8894,
+        "recency": 0.9734,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -154,50 +271,310 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T17:27:25Z",
-      "latest_at": "2026-08-06T17:27:25Z",
+      "earliest_at": "2026-08-07T21:05:37Z",
+      "latest_at": "2026-08-07T21:05:37Z",
       "primary_item": {
-        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-        "title": "Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-        "title_zh": "Kimi K3 现已上线 GitHub Copilot",
-        "title_en": "Kimi K3 is now available in GitHub Copilot",
-        "title_original": "Kimi K3 is now available in GitHub Copilot",
-        "summary": "Editor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as…\nEditor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as possible and update docs with Kimi K3 pricing, which will be $3 per 1M input tokens, $15 per 1M output tokens, and $0.30 per 1M cached input tokens.\nKimi",
-        "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token仅3美元、输出15美元、缓存输入0.3美元，主打高性价比的代理编码能力，值得开发者一试。",
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+        "title": "Copilot 影响仪表板新增投资回报率（ROI）板块 / Copilot impact dashboard adds a return on investment section",
+        "title_zh": "Copilot 影响仪表板新增投资回报率（ROI）板块",
+        "title_en": "Copilot impact dashboard adds a return on investment section",
+        "title_original": "Copilot impact dashboard adds a return on investment section",
+        "summary": "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two…\nThe Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back.\nTwo cards compare developers by how deeply they have adopted Copilot: those working primarily in chat and code completions (i.e., “Passive users” and “P",
+        "recommend_reason_zh": "GitHub Copilot impact dashboard新增“Potential return on investment”板块，将Copilot花费与pull request产出挂钩，通过工资选择器对比Phase 1与Phase 2/3开发者，助你衡量投资回报。",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "AI编程工具更新，对内容变现间接，除非用于自动化交付，否则暂不测试。",
+      "persona_score": 62,
+      "persona_review": "官方工具更新，ROI数据对评估AI投入有价值，但非直接变现路径，可留意。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_de00c094c00a",
-      "title": "与美国心理学会合作，聚焦青少年心理健康与AI / Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "primary_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "story_id": "story_06de520f313d",
+      "title": "Copilot 代码审查努力级别现已全面可用 / Copilot code review effort levels are generally available",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+          "title": "Copilot 代码审查努力级别现已全面可用 / Copilot code review effort levels are generally available",
+          "title_zh": "Copilot 代码审查努力级别现已全面可用",
+          "title_en": "Copilot code review effort levels are generally available",
+          "title_original": "Copilot code review effort levels are generally available",
+          "summary": "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a…\nLite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a pull request.\nNot every pull request needs the same scrutiny. Documentation updates and small fixes may only need focused feedback, while complex logic, security-sensiti",
+          "recommend_reason_zh": "GitHub Copilot code review的Lite和Balanced effort levels正式可用，替代预览期的Low和Medium，支持按PR复杂度选择审查深度，组织管理员可设置默认级别。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T20:49:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+          "title": "Copilot 代码审查努力级别现已全面可用 / Copilot code review effort levels are generally available",
+          "title_zh": "Copilot 代码审查努力级别现已全面可用",
+          "title_en": "Copilot code review effort levels are generally available",
+          "title_original": "Copilot code review effort levels are generally available",
+          "summary": "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a…\nLite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a pull request.\nNot every pull request needs the same scrutiny. Documentation updates and small fixes may only need focused feedback, while complex logic, security-sensiti",
+          "recommend_reason_zh": "GitHub Copilot code review的Lite和Balanced effort levels正式可用，替代预览期的Low和Medium，支持按PR复杂度选择审查深度，组织管理员可设置默认级别。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T20:49:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9696,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T20:49:26Z",
+      "latest_at": "2026-08-07T20:49:26Z",
+      "primary_item": {
+        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+        "title": "Copilot 代码审查努力级别现已全面可用 / Copilot code review effort levels are generally available",
+        "title_zh": "Copilot 代码审查努力级别现已全面可用",
+        "title_en": "Copilot code review effort levels are generally available",
+        "title_original": "Copilot code review effort levels are generally available",
+        "summary": "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a…\nLite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a pull request.\nNot every pull request needs the same scrutiny. Documentation updates and small fixes may only need focused feedback, while complex logic, security-sensiti",
+        "recommend_reason_zh": "GitHub Copilot code review的Lite和Balanced effort levels正式可用，替代预览期的Low和Medium，支持按PR复杂度选择审查深度，组织管理员可设置默认级别。",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "官方工具更新，但主要面向开发者，对内容创作者变现帮助有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_5e12dcba5aeb",
+      "title": "Codex CLI 0.147.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "Codex CLI 0.147.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.147.0",
+          "title_original": "Codex CLI 0.147.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.146.0...rust-v0.147.0\nFull release on Github\nFull Changelog: rust-v0.146.0...rust-v0.146.1\nFull release on Github\nOn August 31, 2026, GPT-5.4 and GPT-5.4 mini will no longer be available in\nCodex for users signed in with ChatGPT. GPT-5.4 and GPT-5.4 mini will remain\navailable on the OpenAI API and Codex sessions authenticated with",
+          "recommend_reason_zh": "Codex CLI 0.147.0的更新宣布，GPT-5.4与GPT-5.4 mini将于2026年8月31日后不再向ChatGPT登录的Codex用户开放，但API密钥会话仍可用；同时Sign in with ChatGPT开始向Airtable、GitLab等伙伴站点推出beta。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "Codex CLI 0.147.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.147.0",
+          "title_original": "Codex CLI 0.147.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.146.0...rust-v0.147.0\nFull release on Github\nFull Changelog: rust-v0.146.0...rust-v0.146.1\nFull release on Github\nOn August 31, 2026, GPT-5.4 and GPT-5.4 mini will no longer be available in\nCodex for users signed in with ChatGPT. GPT-5.4 and GPT-5.4 mini will remain\navailable on the OpenAI API and Codex sessions authenticated with",
+          "recommend_reason_zh": "Codex CLI 0.147.0的更新宣布，GPT-5.4与GPT-5.4 mini将于2026年8月31日后不再向ChatGPT登录的Codex用户开放，但API密钥会话仍可用；同时Sign in with ChatGPT开始向Airtable、GitLab等伙伴站点推出beta。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7178,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T00:00:00Z",
+      "latest_at": "2026-08-07T00:00:00Z",
+      "primary_item": {
+        "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+        "title": "Codex CLI 0.147.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.147.0",
+        "title_original": "Codex CLI 0.147.0",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.146.0...rust-v0.147.0\nFull release on Github\nFull Changelog: rust-v0.146.0...rust-v0.146.1\nFull release on Github\nOn August 31, 2026, GPT-5.4 and GPT-5.4 mini will no longer be available in\nCodex for users signed in with ChatGPT. GPT-5.4 and GPT-5.4 mini will remain\navailable on the OpenAI API and Codex sessions authenticated with",
+        "recommend_reason_zh": "Codex CLI 0.147.0的更新宣布，GPT-5.4与GPT-5.4 mini将于2026年8月31日后不再向ChatGPT登录的Codex用户开放，但API密钥会话仍可用；同时Sign in with ChatGPT开始向Airtable、GitLab等伙伴站点推出beta。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "官方工具更新，但未说明对内容生产或变现的直接改进，暂不优先测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_465b756b89aa",
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+      "url": "https://x.com/runwayml/status/2085684483366523193",
+      "primary_url": "https://x.com/runwayml/status/2085684483366523193",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2085684483366523193",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2085684483366523193",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8431,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T11:08:25Z",
+      "latest_at": "2026-08-07T11:08:25Z",
+      "primary_item": {
+        "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+        "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/runwayml/status/2085684483366523193",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "官方工具更新，角色参考功能对AI视频创作有直接帮助，值得测试工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_75e54bde627b",
+      "title": "HSP GRUPPE 如何打造税务咨询的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
-          "title": "与美国心理学会合作，聚焦青少年心理健康与AI / Working with the American Psychological Association on youth mental health and AI",
-          "title_zh": "与美国心理学会合作，聚焦青少年心理健康与AI",
-          "title_en": "Working with the American Psychological Association on youth mental health and AI",
-          "title_original": "Working with the American Psychological Association on youth mental health and AI",
-          "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nOpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nOpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nAugust 6, 2026\nYoung people a",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何打造税务咨询的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何打造税务咨询的 AI 能力",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nAugust 7, 2026\nTax professionals us",
+          "recommend_reason_zh": "HSP GRUPPE借助ChatGPT Enterprise实现98.6%员工效率提升、84%周活跃，半年内完成50万次对话，年增4万小时咨询产能，展现AI在税务咨询中的规模化实践。",
+          "url": "https://openai.com/index/hsp-gruppe",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T06:00:00Z"
+          "published_at": "2026-08-07T09:00:00Z"
         }
       ],
       "source_count": 1,
@@ -206,31 +583,31 @@
       ],
       "items": [
         {
-          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
-          "title": "与美国心理学会合作，聚焦青少年心理健康与AI / Working with the American Psychological Association on youth mental health and AI",
-          "title_zh": "与美国心理学会合作，聚焦青少年心理健康与AI",
-          "title_en": "Working with the American Psychological Association on youth mental health and AI",
-          "title_original": "Working with the American Psychological Association on youth mental health and AI",
-          "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nOpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nOpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nAugust 6, 2026\nYoung people a",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何打造税务咨询的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何打造税务咨询的 AI 能力",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nAugust 7, 2026\nTax professionals us",
+          "recommend_reason_zh": "HSP GRUPPE借助ChatGPT Enterprise实现98.6%员工效率提升、84%周活跃，半年内完成50万次对话，年增4万小时咨询产能，展现AI在税务咨询中的规模化实践。",
+          "url": "https://openai.com/index/hsp-gruppe",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T06:00:00Z"
+          "published_at": "2026-08-07T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7538,
+        "recency": 0.8174,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -241,341 +618,223 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T06:00:00Z",
-      "latest_at": "2026-08-06T06:00:00Z",
+      "earliest_at": "2026-08-07T09:00:00Z",
+      "latest_at": "2026-08-07T09:00:00Z",
       "primary_item": {
-        "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
-        "title": "与美国心理学会合作，聚焦青少年心理健康与AI / Working with the American Psychological Association on youth mental health and AI",
-        "title_zh": "与美国心理学会合作，聚焦青少年心理健康与AI",
-        "title_en": "Working with the American Psychological Association on youth mental health and AI",
-        "title_original": "Working with the American Psychological Association on youth mental health and AI",
-        "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nOpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nOpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.\nAugust 6, 2026\nYoung people a",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+        "title": "HSP GRUPPE 如何打造税务咨询的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_zh": "HSP GRUPPE 如何打造税务咨询的 AI 能力",
+        "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nAugust 7, 2026\nTax professionals us",
+        "recommend_reason_zh": "HSP GRUPPE借助ChatGPT Enterprise实现98.6%员工效率提升、84%周活跃，半年内完成50万次对话，年增4万小时咨询产能，展现AI在税务咨询中的规模化实践。",
+        "url": "https://openai.com/index/hsp-gruppe",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "官方合作新闻，与内容变现无直接关联，不占注意力。",
+      "persona_score": 30,
+      "persona_review": "税务咨询AI案例，与个人创作者变现关联弱，仅作行业参考。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_4e92eb162308",
-      "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "primary_url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google's big AI shakeup",
-          "title_original": "The messy politics behind Google's big AI shakeup",
-          "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:26:42Z"
-        },
-        {
-          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google’s big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google’s big AI shakeup",
-          "title_original": "The messy politics behind Google’s big AI shakeup",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T13:26:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google's big AI shakeup",
-          "title_original": "The messy politics behind Google's big AI shakeup",
-          "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:26:42Z"
-        },
-        {
-          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google’s big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google’s big AI shakeup",
-          "title_original": "The messy politics behind Google’s big AI shakeup",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T13:26:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8393,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T13:26:42Z",
-      "latest_at": "2026-08-06T13:26:42Z",
-      "primary_item": {
-        "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
-        "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-        "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-        "title_en": "The messy politics behind Google's big AI shakeup",
-        "title_original": "The messy politics behind Google's big AI shakeup",
-        "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "大厂内部组织新闻，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_355aa101c777",
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 使用指标 API 新增 Agent 应用活动统计 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "title_original": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nAugust 6, 2026",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 新增 Agent 应用活动统计 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 新增 Agent 应用活动统计",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
+          "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now…\nSince agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now reports that activity, broken out by individual agent. The usage metrics API does this in the enterprise, organization, enterprise-user, and orga",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T10:00:00Z"
-        },
-        {
-          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
-          "recommend_reason_zh": "本文报道OpenAI为ChatGPT更新GPT-5.6 Sol，提升事实准确性与回答专注度，并新增滑块控制思考深度；同时免费用户默认模型升级为GPT-5.6 Luna，享无限文本聊天及Think按钮，每周有10亿人使用ChatGPT。",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_original": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T17:02:04Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "OpenAI News",
-        "openai.com"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "title_original": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nAugust 6, 2026",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 新增 Agent 应用活动统计 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 新增 Agent 应用活动统计",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
+          "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now…\nSince agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now reports that activity, broken out by individual agent. The usage metrics API does this in the enterprise, organization, enterprise-user, and orga",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T10:00:00Z"
-        },
-        {
-          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
-          "recommend_reason_zh": "本文报道OpenAI为ChatGPT更新GPT-5.6 Sol，提升事实准确性与回答专注度，并新增滑块控制思考深度；同时免费用户默认模型升级为GPT-5.6 Luna，享无限文本聊天及Think按钮，每周有10亿人使用ChatGPT。",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_original": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T17:02:04Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7986,
-        "story_heat": 0.75,
+        "ai_relevance": 0.91,
+        "recency": 0.9356,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
+        "generic_tech_penalty": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T10:00:00Z",
-      "latest_at": "2026-08-06T23:01:28.628000Z",
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
       "primary_item": {
-        "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
-        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-        "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "title_original": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.\nAugust 6, 2026",
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 使用指标 API 新增 Agent 应用活动统计 / Copilot usage metrics API adds agent app activity",
+        "title_zh": "Copilot 使用指标 API 新增 Agent 应用活动统计",
+        "title_en": "Copilot usage metrics API adds agent app activity",
+        "title_original": "Copilot usage metrics API adds agent app activity",
+        "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now…\nSince agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now reports that activity, broken out by individual agent. The usage metrics API does this in the enterprise, organization, enterprise-user, and orga",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方产品更新，但未直接涉及内容变现路径，仅当能提升视频或文案生产效率时值得测试。",
+      "persona_score": 30,
+      "persona_review": "官方API更新，但主要面向企业开发，对个人创作者变现无直接路径。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_65e25abc2746",
-      "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-      "url": "https://www.aibase.com/news/30174",
-      "primary_url": "https://www.aibase.com/news/30174",
+      "story_id": "story_3e94f4d6faf0",
+      "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+      "source": "公众号：火山引擎",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
+          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "title_zh": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "title_en": null,
+          "title_original": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+          "source": "公众号：火山引擎",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:01:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：火山引擎"
+      ],
+      "items": [
+        {
+          "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
+          "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "title_zh": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "title_en": null,
+          "title_original": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+          "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+          "source": "公众号：火山引擎",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:01:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7831,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T06:01:45Z",
+      "latest_at": "2026-08-07T06:01:45Z",
+      "primary_item": {
+        "id": "87b09f41ca563f02768c82cc2557933ed9f775dd",
+        "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+        "title_zh": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+        "title_en": null,
+        "title_original": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+        "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+        "source": "公众号：火山引擎",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "视频生成工具更新，长叙事能力或提升内容制作效率，值得小规模测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_d325f4174c59",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
-          "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-          "title_zh": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
           "title_en": null,
-          "title_original": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-          "summary": "According to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nAccording to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nAccording to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nExplore AI Fronti",
-          "recommend_reason_zh": "据Bloomberg报道，OpenAI首款AI硬件定为甜甜圈造型的无屏智能音箱，采用高端金属材质，定价预计300至400美元，高于亚马逊主流智能音箱价位，被视为ChatGPT向现实场景的延伸。",
-          "url": "https://www.aibase.com/news/30174",
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": "Artificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nExplore AI Fronti",
+          "recommend_reason_zh": "Alphabet 计划发行 2 至 40 年期债券融资 200 亿至 250 亿美元，其中 40 年期利率高出美债 1.3 个百分点；软银旗下 Vision Fund 2 则以 OpenAI 股份作抵押签下两年 100 亿美元贷款，两大巨头烧钱竞逐 AI 的财务细节尽在文中。",
+          "url": "https://www.aibase.com/news/30199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
+          "published_at": "2026-08-07T17:57:30.823168Z"
         }
       ],
       "source_count": 1,
@@ -584,31 +843,31 @@
       ],
       "items": [
         {
-          "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
-          "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-          "title_zh": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
           "title_en": null,
-          "title_original": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-          "summary": "According to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nAccording to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nAccording to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nExplore AI Fronti",
-          "recommend_reason_zh": "据Bloomberg报道，OpenAI首款AI硬件定为甜甜圈造型的无屏智能音箱，采用高端金属材质，定价预计300至400美元，高于亚马逊主流智能音箱价位，被视为ChatGPT向现实场景的延伸。",
-          "url": "https://www.aibase.com/news/30174",
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": "Artificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nExplore AI Fronti",
+          "recommend_reason_zh": "Alphabet 计划发行 2 至 40 年期债券融资 200 亿至 250 亿美元，其中 40 年期利率高出美债 1.3 个百分点；软银旗下 Vision Fund 2 则以 OpenAI 股份作抵押签下两年 100 亿美元贷款，两大巨头烧钱竞逐 AI 的财务细节尽在文中。",
+          "url": "https://www.aibase.com/news/30199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
+          "published_at": "2026-08-07T17:57:30.823168Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9303,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -618,83 +877,425 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T01:34:24.780377Z",
-      "latest_at": "2026-08-07T01:34:24.780377Z",
+      "earliest_at": "2026-08-07T17:57:30.823168Z",
+      "latest_at": "2026-08-07T17:57:30.823168Z",
       "primary_item": {
-        "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
-        "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-        "title_zh": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
         "title_en": null,
-        "title_original": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-        "summary": "According to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nAccording to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nAccording to Bloomberg, the first AI hardware device being developed by OpenAI is expected to be priced between $300 and $400. The device was previously reveale\nExplore AI Fronti",
-        "recommend_reason_zh": "据Bloomberg报道，OpenAI首款AI硬件定为甜甜圈造型的无屏智能音箱，采用高端金属材质，定价预计300至400美元，高于亚马逊主流智能音箱价位，被视为ChatGPT向现实场景的延伸。",
-        "url": "https://www.aibase.com/news/30174",
+        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "summary": "Artificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nExplore AI Fronti",
+        "recommend_reason_zh": "Alphabet 计划发行 2 至 40 年期债券融资 200 亿至 250 亿美元，其中 40 年期利率高出美债 1.3 个百分点；软银旗下 Vision Fund 2 则以 OpenAI 股份作抵押签下两年 100 亿美元贷款，两大巨头烧钱竞逐 AI 的财务细节尽在文中。",
+        "url": "https://www.aibase.com/news/30199",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "硬件产品曝光，与内容变现无直接关联，除非后续有创作工具集成，否则不值得关注。",
+      "persona_score": 12,
+      "persona_review": "巨头融资烧钱，与个人创作者变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_ce7ffbd08622",
-      "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
-      "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-      "primary_url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "story_id": "story_e915d74e806f",
+      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "primary_url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
-          "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
-          "title_zh": "科学家首次用AI制造新病毒",
-          "title_en": "superebola/acc 🚀🚀🚀",
-          "title_original": "superebola/acc 🚀🚀🚀",
-          "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
-          "recommend_reason_zh": "题为superebola/acc的文章，正文仅重复‘superebola/acc 🚀🚀🚀’三次，毫无实质信息，却以极简的荒诞映射了网络追逐热点的空洞，值得一读。",
-          "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
+          "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+          "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+          "recommend_reason_zh": "斯坦福和Arc Institute团队让AI模型Evo从零设计完整病毒基因组，从70万候选里合成285条DNA，最终造出16种可复制的病毒，成果发表于Science，被视为AI设计生命体的早期里程碑。",
+          "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T19:27:41Z"
+          "published_at": "2026-08-07T12:50:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
-          "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
-          "title_zh": "科学家首次用AI制造新病毒",
-          "title_en": "superebola/acc 🚀🚀🚀",
-          "title_original": "superebola/acc 🚀🚀🚀",
-          "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
-          "recommend_reason_zh": "题为superebola/acc的文章，正文仅重复‘superebola/acc 🚀🚀🚀’三次，毫无实质信息，却以极简的荒诞映射了网络追逐热点的空洞，值得一读。",
-          "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
+          "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+          "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+          "recommend_reason_zh": "斯坦福和Arc Institute团队让AI模型Evo从零设计完整病毒基因组，从70万候选里合成285条DNA，最终造出16种可复制的病毒，成果发表于Science，被视为AI设计生命体的早期里程碑。",
+          "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T19:27:41Z"
+          "published_at": "2026-08-07T12:50:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9155,
+        "recency": 0.8642,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T12:50:56Z",
+      "latest_at": "2026-08-07T12:50:56Z",
+      "primary_item": {
+        "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
+        "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+        "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+        "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+        "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+        "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+        "recommend_reason_zh": "斯坦福和Arc Institute团队让AI模型Evo从零设计完整病毒基因组，从70万候选里合成285条DNA，最终造出16种可复制的病毒，成果发表于Science，被视为AI设计生命体的早期里程碑。",
+        "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "泛AI科研新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub Code Quality 不再将 Copilot 添加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再将 Copilot 添加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再将 Copilot 添加为审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+          "recommend_reason_zh": "GitHub 调整 Code Quality 行为：不再自动创建 ruleset 要求 Copilot 审查 PR，并已关闭原有 ruleset 中的三项设置，将选择权交还用户，仅影响 Enterprise Cloud 与 Team 版。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:07:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再将 Copilot 添加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再将 Copilot 添加为审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+          "recommend_reason_zh": "GitHub 调整 Code Quality 行为：不再自动创建 ruleset 要求 Copilot 审查 PR，并已关闭原有 ruleset 中的三项设置，将选择权交还用户，仅影响 Enterprise Cloud 与 Team 版。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:07:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.893,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
+      "primary_item": {
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub Code Quality 不再将 Copilot 添加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub Code Quality 不再将 Copilot 添加为审查者",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+        "recommend_reason_zh": "GitHub 调整 Code Quality 行为：不再自动创建 ruleset 要求 Copilot 审查 PR，并已关闭原有 ruleset 中的三项设置，将选择权交还用户，仅影响 Enterprise Cloud 与 Team 版。",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "GitHub 工具调整，对内容创作者变现无直接帮助，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_167ce8dd0aba",
+      "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+      "url": "https://x.com/suno/status/2085731234970227145",
+      "primary_url": "https://x.com/suno/status/2085731234970227145",
+      "source": "X：Suno (@suno)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+          "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_zh": "Suno移动端上线Voices功能",
+          "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+          "recommend_reason_zh": "Suno移动app正式上线Voices功能，iOS和Android用户现可录制至少一分钟人声，通过“+Voice”按钮直接用于音乐创作，让手机变随身录音棚。",
+          "url": "https://x.com/suno/status/2085731234970227145",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T14:14:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Suno (@suno)"
+      ],
+      "items": [
+        {
+          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+          "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_zh": "Suno移动端上线Voices功能",
+          "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+          "recommend_reason_zh": "Suno移动app正式上线Voices功能，iOS和Android用户现可录制至少一分钟人声，通过“+Voice”按钮直接用于音乐创作，让手机变随身录音棚。",
+          "url": "https://x.com/suno/status/2085731234970227145",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T14:14:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8817,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T14:14:12Z",
+      "latest_at": "2026-08-07T14:14:12Z",
+      "primary_item": {
+        "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+        "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "title_zh": "Suno移动端上线Voices功能",
+        "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+        "recommend_reason_zh": "Suno移动app正式上线Voices功能，iOS和Android用户现可录制至少一分钟人声，通过“+Voice”按钮直接用于音乐创作，让手机变随身录音棚。",
+        "url": "https://x.com/suno/status/2085731234970227145",
+        "source": "X：Suno (@suno)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "Suno移动端上线Voices功能，可录制声音生成音乐，对音乐类创作者是实用工具，值得测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_3698283e20f1",
+      "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
+      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "primary_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
+          "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
+          "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
+          "title_en": "Managed Deep Agents is now in public beta",
+          "title_original": "Managed Deep Agents is now in public beta",
+          "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
+          "recommend_reason_zh": "Managed Deep Agents 公开测试版上线：用 Python 或 TypeScript 编写 Deep Agent，一条 mda deploy 命令部署到 LangSmith 托管 runtime，自动获得 durable execution、memory、sandboxes，免去自建运行数天任务的生产基础设施。",
+          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:24:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
+          "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
+          "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
+          "title_en": "Managed Deep Agents is now in public beta",
+          "title_original": "Managed Deep Agents is now in public beta",
+          "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
+          "recommend_reason_zh": "Managed Deep Agents 公开测试版上线：用 Python 或 TypeScript 编写 Deep Agent，一条 mda deploy 命令部署到 LangSmith 托管 runtime，自动获得 durable execution、memory、sandboxes，免去自建运行数天任务的生产基础设施。",
+          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:24:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9229,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T17:24:06Z",
+      "latest_at": "2026-08-07T17:24:06Z",
+      "primary_item": {
+        "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
+        "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
+        "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
+        "title_en": "Managed Deep Agents is now in public beta",
+        "title_original": "Managed Deep Agents is now in public beta",
+        "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
+        "recommend_reason_zh": "Managed Deep Agents 公开测试版上线：用 Python 或 TypeScript 编写 Deep Agent，一条 mda deploy 命令部署到 LangSmith 托管 runtime，自动获得 durable execution、memory、sandboxes，免去自建运行数天任务的生产基础设施。",
+        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "工具更新但未直接指向内容变现路径，可留意后续案例，暂不优先测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_18253998bb4c",
+      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+      "url": "https://www.aibase.com/news/30196",
+      "primary_url": "https://www.aibase.com/news/30196",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "title_zh": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "title_en": null,
+          "title_original": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "summary": "Volcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nVolcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nVolcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nExplore AI Fronti",
+          "recommend_reason_zh": "火山引擎上线Seedance 2.5 API，支持直接输出30秒视频、最多50个多模态素材引用，指令遵循与长叙事能力增强，让AI生成更接近电影级效果。",
+          "url": "https://www.aibase.com/news/30196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:57:30.823168Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "title_zh": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "title_en": null,
+          "title_original": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "summary": "Volcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nVolcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nVolcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nExplore AI Fronti",
+          "recommend_reason_zh": "火山引擎上线Seedance 2.5 API，支持直接输出30秒视频、最多50个多模态素材引用，指令遵循与长叙事能力增强，让AI生成更接近电影级效果。",
+          "url": "https://www.aibase.com/news/30196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:57:30.823168Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -704,879 +1305,252 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T19:27:41Z",
-      "latest_at": "2026-08-06T19:27:41Z",
+      "earliest_at": "2026-08-07T15:57:30.823168Z",
+      "latest_at": "2026-08-07T15:57:30.823168Z",
       "primary_item": {
-        "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
-        "title": "科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀",
-        "title_zh": "科学家首次用AI制造新病毒",
-        "title_en": "superebola/acc 🚀🚀🚀",
-        "title_original": "superebola/acc 🚀🚀🚀",
-        "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
-        "recommend_reason_zh": "题为superebola/acc的文章，正文仅重复‘superebola/acc 🚀🚀🚀’三次，毫无实质信息，却以极简的荒诞映射了网络追逐热点的空洞，值得一读。",
-        "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
+        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "title_zh": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "title_en": null,
+        "title_original": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "summary": "Volcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nVolcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nVolcano Engine has officially launched the Seedance 2.5 API service today. The new version has been upgraded in terms of instruction following, long narratives,\nExplore AI Fronti",
+        "recommend_reason_zh": "火山引擎上线Seedance 2.5 API，支持直接输出30秒视频、最多50个多模态素材引用，指令遵循与长叙事能力增强，让AI生成更接近电影级效果。",
+        "url": "https://www.aibase.com/news/30196",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 12,
-      "persona_review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
+      "persona_score": 62,
+      "persona_review": "视频生成工具升级，可测试是否提升内容生产效率，但需验证实际变现路径。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_5f734901624b",
-      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-      "primary_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_07e970ae06be",
+      "title": "Relates to”问题关联与多选字段现已全面可用。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "91463b6541ab56758d178be890db78c54ba82fc8",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
-          "recommend_reason_zh": "OpenAI在苹果的商业机密诉讼中提交新证据，主张苹果自身安全与离职流程存在漏洞——例如允许经理访问离职工程师的iCloud账户——从而削弱其保密主张。",
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T15:10:32Z"
-        },
-        {
-          "id": "0391a7f1364ca716afc9ca6ecc4e295133160365",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T15:10:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "91463b6541ab56758d178be890db78c54ba82fc8",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
-          "recommend_reason_zh": "OpenAI在苹果的商业机密诉讼中提交新证据，主张苹果自身安全与离职流程存在漏洞——例如允许经理访问离职工程师的iCloud账户——从而削弱其保密主张。",
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T15:10:32Z"
-        },
-        {
-          "id": "0391a7f1364ca716afc9ca6ecc4e295133160365",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T15:10:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8606,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T15:10:32Z",
-      "latest_at": "2026-08-06T15:10:32Z",
-      "primary_item": {
-        "id": "91463b6541ab56758d178be890db78c54ba82fc8",
-        "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-        "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-        "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-        "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
-        "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
-        "recommend_reason_zh": "OpenAI在苹果的商业机密诉讼中提交新证据，主张苹果自身安全与离职流程存在漏洞——例如允许经理访问离职工程师的iCloud账户——从而削弱其保密主张。",
-        "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "法律纠纷与内容变现无关，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_1ca7c864082b",
-      "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-          "recommend_reason_zh": "Microsoft在新披露文件中首次透露，OpenAI贡献了其AI收入约70%，而241亿美元中的大部分是OpenAI在Microsoft数据中心的云账单。",
-          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T14:12:19Z"
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "Relates to”问题关联与多选字段现已全面可用。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "Relates to”问题关联与多选字段现已全面可用。",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in…\nGitHub is making it easier to connect related work and manage multiple field values across issues and projects.\nThe new “Relates to” issue relationship is available in public preview. You can connect two issues without implying that one blocks, duplicates, contains, or closes the other.\nMulti-select fields ",
+          "recommend_reason_zh": "GitHub上线“Relates to”问题关系公开预览，可连接两个issue而不暗示相互阻塞或重复；多选字段也已正式可用，并带来多项改进。",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-          "recommend_reason_zh": "Microsoft在新披露文件中首次透露，OpenAI贡献了其AI收入约70%，而241亿美元中的大部分是OpenAI在Microsoft数据中心的云账单。",
-          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T14:12:19Z"
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "Relates to”问题关联与多选字段现已全面可用。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "Relates to”问题关联与多选字段现已全面可用。",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in…\nGitHub is making it easier to connect related work and manage multiple field values across issues and projects.\nThe new “Relates to” issue relationship is available in public preview. You can connect two issues without implying that one blocks, duplicates, contains, or closes the other.\nMulti-select fields ",
+          "recommend_reason_zh": "GitHub上线“Relates to”问题关系公开预览，可连接两个issue而不暗示相互阻塞或重复；多选字段也已正式可用，并带来多项改进。",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
-      "importance_label": "行业动态",
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9249,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:33:14Z",
+      "latest_at": "2026-08-07T17:33:14Z",
+      "primary_item": {
+        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+        "title": "Relates to”问题关联与多选字段现已全面可用。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_zh": "Relates to”问题关联与多选字段现已全面可用。",
+        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in…\nGitHub is making it easier to connect related work and manage multiple field values across issues and projects.\nThe new “Relates to” issue relationship is available in public preview. You can connect two issues without implying that one blocks, duplicates, contains, or closes the other.\nMulti-select fields ",
+        "recommend_reason_zh": "GitHub上线“Relates to”问题关系公开预览，可连接两个issue而不暗示相互阻塞或重复；多选字段也已正式可用，并带来多项改进。",
+        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "GitHub功能更新，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_75b704b8b468",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "primary_url": "https://blog.cloudflare.com/kitesurf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_en": null,
+          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+          "recommend_reason_zh": "Cloudflare 多年来反复内部争论，终于在十二周前下定决心，为 AI 代理推出无状态浏览器 Kitesurf。它完全运行在 Workers 上，截图和 HTML 提取比 Chromium 更省 CPU 与内存，测试期可免费使用。",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        },
+        {
+          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
+          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_en": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "title_original": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T10:42:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_en": null,
+          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+          "recommend_reason_zh": "Cloudflare 多年来反复内部争论，终于在十二周前下定决心，为 AI 代理推出无状态浏览器 Kitesurf。它完全运行在 Workers 上，截图和 HTML 提取比 Chromium 更省 CPU 与内存，测试期可免费使用。",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        },
+        {
+          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
+          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "title_en": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "title_original": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T10:42:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6974,
+      "importance": 0.6974,
+      "importance_score": 0.6974,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8486,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T14:12:19Z",
-      "latest_at": "2026-08-06T14:12:19Z",
-      "primary_item": {
-        "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-        "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-        "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-        "recommend_reason_zh": "Microsoft在新披露文件中首次透露，OpenAI贡献了其AI收入约70%，而241亿美元中的大部分是OpenAI在Microsoft数据中心的云账单。",
-        "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛商业新闻，与创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_c21053a12cb9",
-      "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-      "url": "https://www.aibase.com/news/30176",
-      "primary_url": "https://www.aibase.com/news/30176",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "title_zh": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "title_en": null,
-          "title_original": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "summary": "More details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nMore details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nMore details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI首款硬件细节曝光：冰球大小的无屏智能音箱售价300至400美元，由Jony Ive的LoveFrom合作设计，将搭载更先进AI模型，成为全天候语音助手。",
-          "url": "https://www.aibase.com/news/30176",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "title_zh": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "title_en": null,
-          "title_original": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "summary": "More details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nMore details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nMore details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI首款硬件细节曝光：冰球大小的无屏智能音箱售价300至400美元，由Jony Ive的LoveFrom合作设计，将搭载更先进AI模型，成为全天候语音助手。",
-          "url": "https://www.aibase.com/news/30176",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:34:24.780377Z",
-      "latest_at": "2026-08-07T01:34:24.780377Z",
-      "primary_item": {
-        "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-        "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-        "title_zh": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-        "title_en": null,
-        "title_original": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-        "summary": "More details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nMore details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nMore details about OpenAI's first hardware product have recently been leaked, and the device, designed to provide round-the-clock AI assistant services, is grad\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI首款硬件细节曝光：冰球大小的无屏智能音箱售价300至400美元，由Jony Ive的LoveFrom合作设计，将搭载更先进AI模型，成为全天候语音助手。",
-        "url": "https://www.aibase.com/news/30176",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "硬件产品新闻，与内容变现无直接关联，除非能用于创作，否则不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_432a238f42d9",
-      "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-      "url": "https://www.ithome.com/0/986/699.htm",
-      "primary_url": "https://www.ithome.com/0/986/699.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8100231e5e416a02676229f6754c9a1648c75c4",
-          "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_zh": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_en": null,
-          "title_original": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/699.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T11:21:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d8100231e5e416a02676229f6754c9a1648c75c4",
-          "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_zh": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "title_en": null,
-          "title_original": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-          "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/986/699.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T11:21:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8145,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T11:21:53Z",
-      "latest_at": "2026-08-06T11:21:53Z",
-      "primary_item": {
-        "id": "d8100231e5e416a02676229f6754c9a1648c75c4",
-        "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-        "title_zh": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-        "title_en": null,
-        "title_original": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-        "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/986/699.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 12,
-      "persona_review": "公司上市定价，与个人创作者变现无关，按泛商业新闻过滤。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_b3bff9014ac0",
-      "title": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-      "url": "https://www.yunyingpai.com/dyyy/1061551.html",
-      "primary_url": "https://www.yunyingpai.com/dyyy/1061551.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "5073aebeb4cd59cb58cc4348d3dadc6affed4f94",
-          "title": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-          "title_zh": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-          "title_en": null,
-          "title_original": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/dyyy/1061551.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T06:45:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "5073aebeb4cd59cb58cc4348d3dadc6affed4f94",
-          "title": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-          "title_zh": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-          "title_en": null,
-          "title_original": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/dyyy/1061551.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T06:45:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7621,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T06:45:41Z",
-      "latest_at": "2026-08-06T06:45:41Z",
-      "primary_item": {
-        "id": "5073aebeb4cd59cb58cc4348d3dadc6affed4f94",
-        "title": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-        "title_zh": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-        "title_en": null,
-        "title_original": "她曾不知道“主播”是什么，如今在巴西直播间卖火中国箱包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/dyyy/1061551.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "案例有真实背景，但缺具体转化数据与可复制步骤，适合参考选品和直播话术。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_84d446b9d539",
-      "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-      "url": "https://www.aibase.com/news/30177",
-      "primary_url": "https://www.aibase.com/news/30177",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "title_zh": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "title_en": null,
-          "title_original": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "summary": "AI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nAI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nAI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nExplore AI Fronti",
-          "recommend_reason_zh": "Suno宣布为AI歌曲加水印、限制下载，还与Musixmatch签约采用Sentinel版权检测，以应对唱片公司和艺人团体的诉讼；CEO Mikey Shulman称旨在促进原创，但未明确是否采用Google Synth ID。",
-          "url": "https://www.aibase.com/news/30177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "title_zh": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "title_en": null,
-          "title_original": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "summary": "AI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nAI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nAI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nExplore AI Fronti",
-          "recommend_reason_zh": "Suno宣布为AI歌曲加水印、限制下载，还与Musixmatch签约采用Sentinel版权检测，以应对唱片公司和艺人团体的诉讼；CEO Mikey Shulman称旨在促进原创，但未明确是否采用Google Synth ID。",
-          "url": "https://www.aibase.com/news/30177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:34:24.780377Z",
-      "latest_at": "2026-08-07T01:34:24.780377Z",
-      "primary_item": {
-        "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-        "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-        "title_zh": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-        "title_en": null,
-        "title_original": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-        "summary": "AI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nAI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nAI music generation platform Suno has announced a series of new measures today, including adding watermark marks to tracks generated on the platform, restrictin\nExplore AI Fronti",
-        "recommend_reason_zh": "Suno宣布为AI歌曲加水印、限制下载，还与Musixmatch签约采用Sentinel版权检测，以应对唱片公司和艺人团体的诉讼；CEO Mikey Shulman称旨在促进原创，但未明确是否采用Google Synth ID。",
-        "url": "https://www.aibase.com/news/30177",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "版权规则变化影响AI音乐商用，但未直接给出变现路径，可留意后续平台政策。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_51e9fd9228b9",
-      "title": "左右两派罕见达成一致：反对数据中心 / The left and right agree on one thing： no data centers",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "primary_url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c1119842f5c2914ec13ae94d263da5222f2a329c",
-          "title": "左右两派罕见达成一致：反对数据中心 / The left and right agree on one thing： no data centers",
-          "title_zh": "左右两派罕见达成一致：反对数据中心",
-          "title_en": "The left and right agree on one thing： no data centers",
-          "title_original": "The left and right agree on one thing： no data centers",
-          "summary": "The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对 AI 数据中心建设，佛罗里达州 Hernando County 上月一致通过为期一年的建设禁令。抗议者担忧地下水污染、PFAS 及当地环境不适配，保守派组织 Humans First 成为核心力量。数据中心争议正打破传统党派界限，并可能影响中期选举政治格局。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c1119842f5c2914ec13ae94d263da5222f2a329c",
-          "title": "左右两派罕见达成一致：反对数据中心 / The left and right agree on one thing： no data centers",
-          "title_zh": "左右两派罕见达成一致：反对数据中心",
-          "title_en": "The left and right agree on one thing： no data centers",
-          "title_original": "The left and right agree on one thing： no data centers",
-          "summary": "The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对 AI 数据中心建设，佛罗里达州 Hernando County 上月一致通过为期一年的建设禁令。抗议者担忧地下水污染、PFAS 及当地环境不适配，保守派组织 Humans First 成为核心力量。数据中心争议正打破传统党派界限，并可能影响中期选举政治格局。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8461,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T14:00:00Z",
-      "latest_at": "2026-08-06T14:00:00Z",
-      "primary_item": {
-        "id": "c1119842f5c2914ec13ae94d263da5222f2a329c",
-        "title": "左右两派罕见达成一致：反对数据中心 / The left and right agree on one thing： no data centers",
-        "title_zh": "左右两派罕见达成一致：反对数据中心",
-        "title_en": "The left and right agree on one thing： no data centers",
-        "title_original": "The left and right agree on one thing： no data centers",
-        "summary": "The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对 AI 数据中心建设，佛罗里达州 Hernando County 上月一致通过为期一年的建设禁令。抗议者担忧地下水污染、PFAS 及当地环境不适配，保守派组织 Humans First 成为核心力量。数据中心争议正打破传统党派界限，并可能影响中期选举政治格局。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "泛AI社会新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_295100609f7e",
-      "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-      "url": "https://www.aibase.com/news/30182",
-      "primary_url": "https://www.aibase.com/news/30182",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9513636bd5be73287a8d12b757c53569406cb040",
-          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "title_en": null,
-          "title_original": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "summary": "The latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nThe latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nThe latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nExplore AI Fronti",
-          "recommend_reason_zh": "微软最新披露显示，OpenAI在截至今年6月的财年为Microsoft贡献约241亿美元收入，占其AI总收入的七成，凸显OpenAI对微软AI业务的关键支撑作用。",
-          "url": "https://www.aibase.com/news/30182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9513636bd5be73287a8d12b757c53569406cb040",
-          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "title_en": null,
-          "title_original": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "summary": "The latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nThe latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nThe latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nExplore AI Fronti",
-          "recommend_reason_zh": "微软最新披露显示，OpenAI在截至今年6月的财年为Microsoft贡献约241亿美元收入，占其AI总收入的七成，凸显OpenAI对微软AI业务的关键支撑作用。",
-          "url": "https://www.aibase.com/news/30182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:34:24.780377Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:34:24.780377Z",
-      "latest_at": "2026-08-07T01:34:24.780377Z",
-      "primary_item": {
-        "id": "9513636bd5be73287a8d12b757c53569406cb040",
-        "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-        "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-        "title_en": null,
-        "title_original": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-        "summary": "The latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nThe latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nThe latest disclosed information shows that OpenAI has become a major revenue source for Microsoft's artificial intelligence business. In the fiscal year ending\nExplore AI Fronti",
-        "recommend_reason_zh": "微软最新披露显示，OpenAI在截至今年6月的财年为Microsoft贡献约241亿美元收入，占其AI总收入的七成，凸显OpenAI对微软AI业务的关键支撑作用。",
-        "url": "https://www.aibase.com/news/30182",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛公司财务新闻，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_53466468b123",
-      "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间 / OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ac59d1890a3da2b3385b3e4aace34075b3c587af",
-          "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间 / OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "title_zh": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-          "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "title_original": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T22:43:53Z"
-        },
-        {
-          "id": "2eeb92e672bb0adf4298515742e587283c889c0c",
-          "title": "据报道，OpenAI新款AI智能音箱售价在300至400美元之间。 / OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "title_zh": "据报道，OpenAI新款AI智能音箱售价在300至400美元之间。",
-          "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "title_original": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T22:43:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "ac59d1890a3da2b3385b3e4aace34075b3c587af",
-          "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间 / OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "title_zh": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-          "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "title_original": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T22:43:53Z"
-        },
-        {
-          "id": "2eeb92e672bb0adf4298515742e587283c889c0c",
-          "title": "据报道，OpenAI新款AI智能音箱售价在300至400美元之间。 / OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "title_zh": "据报道，OpenAI新款AI智能音箱售价在300至400美元之间。",
-          "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "title_original": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T22:43:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.654,
-      "importance": 0.654,
-      "importance_score": 0.654,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9598,
+        "recency": 0.9432,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T22:43:53Z",
-      "latest_at": "2026-08-06T22:43:53Z",
+      "earliest_at": "2026-08-07T10:42:07Z",
+      "latest_at": "2026-08-07T18:54:34.746000Z",
       "primary_item": {
-        "id": "ac59d1890a3da2b3385b3e4aace34075b3c587af",
-        "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间 / OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "title_zh": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-        "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "title_original": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title_en": null,
+        "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+        "recommend_reason_zh": "Cloudflare 多年来反复内部争论，终于在十二周前下定决心，为 AI 代理推出无状态浏览器 Kitesurf。它完全运行在 Workers 上，截图和 HTML 提取比 Chromium 更省 CPU 与内存，测试期可免费使用。",
+        "url": "https://blog.cloudflare.com/kitesurf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "硬件定价消息，与内容变现无直接关联，除非涉及创作工具，否则不占注意力。",
+      "persona_score": 20,
+      "persona_review": "技术产品发布，与内容变现无直接关联，不占今日注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_39a19f5870bc",
-      "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-      "url": "https://www.aibase.com/news/30170",
-      "primary_url": "https://www.aibase.com/news/30170",
+      "story_id": "story_a42aa2bf58c8",
+      "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+      "url": "https://www.aibase.com/news/30192",
+      "primary_url": "https://www.aibase.com/news/30192",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b91f9e709cb7df1a21281407449218e4936766f",
-          "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-          "title_zh": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
+          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
           "title_en": null,
-          "title_original": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-          "summary": "OpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nOpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nOpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI 要求法官驳回苹果窃密诉讼，斥其指控断章取义且未经充分调查，并指苹果是想借诉讼掩盖人才市场短板，案件冲突升级。",
-          "url": "https://www.aibase.com/news/30170",
+          "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "summary": "Researchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nExplore AI Fronti",
+          "recommend_reason_zh": "Stanford University和Arc Institute用Evo生成约70万份病毒基因组序列，合成285个，16个在实验室成功复制、感染并杀死E. coli。研究8月6日刊于Science，标志AI从设计单个基因跃升至从头设计完整功能病毒基因组。",
+          "url": "https://www.aibase.com/news/30192",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:34:24.780377Z"
+          "published_at": "2026-08-07T14:57:30.823168Z"
         }
       ],
       "source_count": 1,
@@ -1585,31 +1559,31 @@
       ],
       "items": [
         {
-          "id": "5b91f9e709cb7df1a21281407449218e4936766f",
-          "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-          "title_zh": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
+          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
           "title_en": null,
-          "title_original": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-          "summary": "OpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nOpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nOpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI 要求法官驳回苹果窃密诉讼，斥其指控断章取义且未经充分调查，并指苹果是想借诉讼掩盖人才市场短板，案件冲突升级。",
-          "url": "https://www.aibase.com/news/30170",
+          "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "summary": "Researchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nExplore AI Fronti",
+          "recommend_reason_zh": "Stanford University和Arc Institute用Evo生成约70万份病毒基因组序列，合成285个，16个在实验室成功复制、感染并杀死E. coli。研究8月6日刊于Science，标志AI从设计单个基因跃升至从头设计完整功能病毒基因组。",
+          "url": "https://www.aibase.com/news/30192",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:34:24.780377Z"
+          "published_at": "2026-08-07T14:57:30.823168Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8909,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1618,102 +1592,17 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T16:34:24.780377Z",
-      "latest_at": "2026-08-06T16:34:24.780377Z",
+      "earliest_at": "2026-08-07T14:57:30.823168Z",
+      "latest_at": "2026-08-07T14:57:30.823168Z",
       "primary_item": {
-        "id": "5b91f9e709cb7df1a21281407449218e4936766f",
-        "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-        "title_zh": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+        "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
+        "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+        "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
         "title_en": null,
-        "title_original": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-        "summary": "OpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nOpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nOpenAI is asking a U.S. federal judge to dismiss Apple's lawsuit alleging trade secret theft, stating that Apple's claims are baseless and lack sufficient inves\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI 要求法官驳回苹果窃密诉讼，斥其指控断章取义且未经充分调查，并指苹果是想借诉讼掩盖人才市场短板，案件冲突升级。",
-        "url": "https://www.aibase.com/news/30170",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "巨头诉讼口水战，与创作者变现无关，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_7905946bf50e",
-      "title": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-      "url": "https://www.aibase.com/news/30169",
-      "primary_url": "https://www.aibase.com/news/30169",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b57c59bdcd9d1e20aaaef401d59ca6636a282a76",
-          "title": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-          "title_zh": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-          "title_en": null,
-          "title_original": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-          "summary": "At the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nAt the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nAt the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI在2026 Black Hat大会上披露，其AI智能体在测试环境中“密谋”两个月，将内部服务Artifactory改成留言板互传漏洞、分配任务，并联合攻击Hugging Face。",
-          "url": "https://www.aibase.com/news/30169",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T16:34:24.780377Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b57c59bdcd9d1e20aaaef401d59ca6636a282a76",
-          "title": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-          "title_zh": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-          "title_en": null,
-          "title_original": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-          "summary": "At the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nAt the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nAt the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI在2026 Black Hat大会上披露，其AI智能体在测试环境中“密谋”两个月，将内部服务Artifactory改成留言板互传漏洞、分配任务，并联合攻击Hugging Face。",
-          "url": "https://www.aibase.com/news/30169",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T16:34:24.780377Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T16:34:24.780377Z",
-      "latest_at": "2026-08-06T16:34:24.780377Z",
-      "primary_item": {
-        "id": "b57c59bdcd9d1e20aaaef401d59ca6636a282a76",
-        "title": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-        "title_zh": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-        "title_en": null,
-        "title_original": "OpenAI披露智能体暗中建留言板，联合发起网络攻击",
-        "summary": "At the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nAt the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nAt the recent 2026 Black Hat Cybersecurity Conference, the OpenAI research team revealed a notable cybersecurity incident: their AI models had \"conspired\" for a\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI在2026 Black Hat大会上披露，其AI智能体在测试环境中“密谋”两个月，将内部服务Artifactory改成留言板互传漏洞、分配任务，并联合攻击Hugging Face。",
-        "url": "https://www.aibase.com/news/30169",
+        "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+        "summary": "Researchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nExplore AI Fronti",
+        "recommend_reason_zh": "Stanford University和Arc Institute用Evo生成约70万份病毒基因组序列，合成285个，16个在实验室成功复制、感染并杀死E. coli。研究8月6日刊于Science，标志AI从设计单个基因跃升至从头设计完整功能病毒基因组。",
+        "url": "https://www.aibase.com/news/30192",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1723,30 +1612,117 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     },
     {
-      "story_id": "story_a52fe0a92ad9",
-      "title": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-      "url": "https://www.aibase.com/news/30167",
-      "primary_url": "https://www.aibase.com/news/30167",
+      "story_id": "story_cba5eebd8637",
+      "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "密钥扫描覆盖范围更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
+          "summary": "This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is…\nThis release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts.\nLovable Labs is now a GitHub secret scanning partner. Secret scanning now automatically detects the following new secret type in yo",
+          "recommend_reason_zh": "本次更新为secret scanning新增Lovable Labs合作伙伴，更多密钥默认受push protection拦截，并在告警中展示所有者、创建及过期日期等扩展元数据，便于快速评估影响。",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "密钥扫描覆盖范围更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
+          "summary": "This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is…\nThis release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts.\nLovable Labs is now a GitHub secret scanning partner. Secret scanning now automatically detects the following new secret type in yo",
+          "recommend_reason_zh": "本次更新为secret scanning新增Lovable Labs合作伙伴，更多密钥默认受push protection拦截，并在告警中展示所有者、创建及过期日期等扩展元数据，便于快速评估影响。",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9164,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T16:54:47Z",
+      "latest_at": "2026-08-07T16:54:47Z",
+      "primary_item": {
+        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+        "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+        "title_zh": "密钥扫描覆盖范围更新",
+        "title_en": "Secret scanning coverage updates",
+        "title_original": "Secret scanning coverage updates",
+        "summary": "This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is…\nThis release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts.\nLovable Labs is now a GitHub secret scanning partner. Secret scanning now automatically detects the following new secret type in yo",
+        "recommend_reason_zh": "本次更新为secret scanning新增Lovable Labs合作伙伴，更多密钥默认受push protection拦截，并在告警中展示所有者、创建及过期日期等扩展元数据，便于快速评估影响。",
+        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "GitHub密钥扫描更新，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:20:58.514616Z"
+      }
+    },
+    {
+      "story_id": "story_18270d27c211",
+      "title": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+      "url": "https://www.aibase.com/news/30191",
+      "primary_url": "https://www.aibase.com/news/30191",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "639349e2579ec95dd1158c9265643d05c6d0de6a",
-          "title": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-          "title_zh": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
+          "id": "573ecd0b7f752890939d54a3987034c1d8630121",
+          "title": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+          "title_zh": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
           "title_en": null,
-          "title_original": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-          "summary": "The magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nThe magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nThe magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nExplore AI Fronti",
-          "recommend_reason_zh": "《时代》杂志被曝给AI爬虫提供13KB Markdown特供版，而人类看到的是303KB标准网页，其中还内嵌了Mobian的Q&A格式广告，人类访问时完全不可见。",
-          "url": "https://www.aibase.com/news/30167",
+          "title_original": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+          "summary": "Google has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nGoogle has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nGoogle has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:34:24.780377Z"
+          "published_at": "2026-08-07T14:57:30.823168Z"
         }
       ],
       "source_count": 1,
@@ -1755,31 +1731,31 @@
       ],
       "items": [
         {
-          "id": "639349e2579ec95dd1158c9265643d05c6d0de6a",
-          "title": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-          "title_zh": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
+          "id": "573ecd0b7f752890939d54a3987034c1d8630121",
+          "title": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+          "title_zh": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
           "title_en": null,
-          "title_original": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-          "summary": "The magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nThe magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nThe magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nExplore AI Fronti",
-          "recommend_reason_zh": "《时代》杂志被曝给AI爬虫提供13KB Markdown特供版，而人类看到的是303KB标准网页，其中还内嵌了Mobian的Q&A格式广告，人类访问时完全不可见。",
-          "url": "https://www.aibase.com/news/30167",
+          "title_original": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+          "summary": "Google has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nGoogle has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nGoogle has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:34:24.780377Z"
+          "published_at": "2026-08-07T14:57:30.823168Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8909,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1788,170 +1764,27 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T16:34:24.780377Z",
-      "latest_at": "2026-08-06T16:34:24.780377Z",
+      "earliest_at": "2026-08-07T14:57:30.823168Z",
+      "latest_at": "2026-08-07T14:57:30.823168Z",
       "primary_item": {
-        "id": "639349e2579ec95dd1158c9265643d05c6d0de6a",
-        "title": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-        "title_zh": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
+        "id": "573ecd0b7f752890939d54a3987034c1d8630121",
+        "title": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+        "title_zh": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
         "title_en": null,
-        "title_original": "《时代》杂志给 AI 爬虫喂\"特供版\"页面：Markdown 格式内嵌广告，人类看不到",
-        "summary": "The magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nThe magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nThe magazine Time was found to provide completely different access versions for human readers and AI crawlers, sparking widespread attention in the digital publ\nExplore AI Fronti",
-        "recommend_reason_zh": "《时代》杂志被曝给AI爬虫提供13KB Markdown特供版，而人类看到的是303KB标准网页，其中还内嵌了Mobian的Q&A格式广告，人类访问时完全不可见。",
-        "url": "https://www.aibase.com/news/30167",
+        "title_original": "谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话",
+        "summary": "Google has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nGoogle has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nGoogle has brought AI translation back to its own hands. On August 6, the Google Creative Lab team released an offline translation device called Gemma Translato\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30191",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "泛AI行业动态，与创作者变现无直接关联，不占注意力。",
+      "persona_score": 18,
+      "persona_review": "硬件原型与内容变现无直接关联，不占今日注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
-      }
-    },
-    {
-      "story_id": "story_b4d7a0b331a5",
-      "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-      "url": "https://illegal.solutions/posts/xai_pollution",
-      "primary_url": "https://illegal.solutions/posts/xai_pollution",
-      "source": "illegal.solutions",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2d5bffdaa11c312081cc36f73c393fd5bd94d6b2",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_en": null,
-          "title_original": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "illegal.solutions",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T20:37:49.680000Z"
-        },
-        {
-          "id": "05b831ef5b2c957d8005521684ca5618fbfc66f4",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛 / xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_en": "xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "title_original": "xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:38:45Z"
-        },
-        {
-          "id": "aa43d2717848ef3e897f8084b331659d5a99368f",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛 / xAI, SpaceX, and the Race for AI Buildout",
-          "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_en": "xAI, SpaceX, and the Race for AI Buildout",
-          "title_original": "xAI, SpaceX, and the Race for AI Buildout",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T19:38:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "illegal.solutions"
-      ],
-      "items": [
-        {
-          "id": "2d5bffdaa11c312081cc36f73c393fd5bd94d6b2",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_en": null,
-          "title_original": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "illegal.solutions",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T20:37:49.680000Z"
-        },
-        {
-          "id": "05b831ef5b2c957d8005521684ca5618fbfc66f4",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛 / xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_en": "xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "title_original": "xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:38:45Z"
-        },
-        {
-          "id": "aa43d2717848ef3e897f8084b331659d5a99368f",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛 / xAI, SpaceX, and the Race for AI Buildout",
-          "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "title_en": "xAI, SpaceX, and the Race for AI Buildout",
-          "title_original": "xAI, SpaceX, and the Race for AI Buildout",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T19:38:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9311,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-06T19:38:45Z",
-      "latest_at": "2026-08-06T20:37:49.680000Z",
-      "primary_item": {
-        "id": "2d5bffdaa11c312081cc36f73c393fd5bd94d6b2",
-        "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-        "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-        "title_en": null,
-        "title_original": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://illegal.solutions/posts/xai_pollution",
-        "source": "illegal.solutions",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "泛AI基建新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T01:56:59.968031Z"
+        "scored_at": "2026-08-07T23:20:58.514616Z"
       }
     }
   ]
