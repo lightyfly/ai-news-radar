@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:21:27.859798Z",
+  "generated_at": "2026-08-08T23:01:09.422159Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_465b756b89aa",
-      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-      "url": "https://x.com/runwayml/status/2085684483366523193",
+      "story_id": "story_20af52419887",
+      "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "50个角色参考听着唬人，但demo里脸都崩了，先修修再说。"
+          "score": 55,
+          "review": "重大升级？先晒个对比图再喊，不然就是自嗨。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方推文宣称支持50角色参考，无论文无代码无评测，证据不足。"
+          "score": 15,
+          "review": "仅马斯克推文宣称升级，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "官方工具更新，角色参考功能对AI视频创作有直接帮助，值得测试工作流。"
+          "score": 45,
+          "review": "AI图像工具升级，但未提内容变现路径，仅适合关注，暂不测试。"
         }
       }
     },
     {
-      "story_id": "story_167ce8dd0aba",
-      "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
-      "url": "https://x.com/suno/status/2085731234970227145",
+      "story_id": "story_e0986e6e9db9",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "移动端上线是标配，但'Voices'功能细节和效果都没晒，先别急着喊革命。"
+          "score": 45,
+          "review": "时间线整理得挺全，但OpenAI的道歉呢？光有流水账没态度。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "仅官方X帖宣称功能上线，无论文无代码无评测，证据不足。"
+          "score": 25,
+          "review": "只有时间线整理，无原始论文代码或官方报告，证据不足。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "Suno移动端上线Voices功能，可录制声音生成音乐，对音乐类创作者是实用工具，值得测试。"
+          "score": 18,
+          "review": "技术圈事件，与内容变现无直接关联，不占注意力。"
         }
       }
     },
     {
-      "story_id": "story_2252b2f8dcb5",
-      "title": "Copilot 影响仪表板新增投资回报率（ROI）板块 / Copilot impact dashboard adds a return on investment section",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "story_id": "story_e1fa47f5bc52",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "ROI板块？先解释清楚怎么算的，别拿自家数据糊弄人。"
+          "review": "文档更新也算新闻？等真上线再喊不迟。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节，ROI 计算方式未公开，缺证据链。"
+          "score": 25,
+          "review": "仅一篇IT之家报道，无官方文档链接或代码，证据薄弱。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "官方工具更新，ROI数据对评估AI投入有价值，但非直接变现路径，可留意。"
+          "score": 18,
+          "review": "泛AI产品新闻，与内容变现无直接关联，不占注意力。"
         }
       }
     }
