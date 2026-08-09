@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:01:09.422159Z",
+  "generated_at": "2026-08-09T23:06:58.256129Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_20af52419887",
-      "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
-      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "story_id": "story_89f0f7e97237",
+      "title": "Seedance 2.5 上线一周新增六种创意玩法",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "重大升级？先晒个对比图再喊，不然就是自嗨。"
+          "review": "一周六玩法听着热闹，demo 里跑通几个？先拿数据说话。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "仅马斯克推文宣称升级，无论文无代码无评测，证据不足。"
+          "score": 20,
+          "review": "公众号宣称新增玩法，无论文无代码无评测，仅官方口径，证据不足。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "AI图像工具升级，但未提内容变现路径，仅适合关注，暂不测试。"
+          "score": 62,
+          "review": "AI视频工具新玩法，可提升创作效率，但缺具体变现路径，建议先测试再定。"
         }
       }
     },
     {
-      "story_id": "story_e0986e6e9db9",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "story_id": "story_3e8868f2fc85",
+      "title": "构建生产环境可用的 AI Agent 的 5 条规则 | Nan Yu & Jacob Shumway / 5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway",
+      "url": "https://creatoreconomy.so/p/5-rules-for-building-ai-agents-in-production-linear-nan-jacob",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "时间线整理得挺全，但OpenAI的道歉呢？光有流水账没态度。"
+          "score": 72,
+          "review": "规则听着像样，但生产环境四个字水分不小，先跑通再说。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有时间线整理，无原始论文代码或官方报告，证据不足。"
+          "score": 30,
+          "review": "只有访谈观点，无论文无代码无评测，规则再对也难证实效。"
         },
         "pragmatic": {
-          "score": 18,
-          "review": "技术圈事件，与内容变现无直接关联，不占注意力。"
+          "score": 35,
+          "review": "泛AI技术规则，未直接关联内容变现或创作者收入，暂不占注意力。"
         }
       }
     },
     {
-      "story_id": "story_e1fa47f5bc52",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "url": "https://www.ithome.com/0/987/366.htm",
+      "story_id": "story_7742a97ea427",
+      "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "文档更新也算新闻？等真上线再喊不迟。"
+          "score": 62,
+          "review": "默认开自动模式，是嫌事故不够多？先看看回滚按钮藏哪了。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "仅一篇IT之家报道，无官方文档链接或代码，证据薄弱。"
+          "score": 20,
+          "review": "官方博客宣称默认开启，无技术细节无评测，等文档和实测再评。"
         },
         "pragmatic": {
-          "score": 18,
-          "review": "泛AI产品新闻，与内容变现无直接关联，不占注意力。"
+          "score": 35,
+          "review": "工具更新但未直接指向内容变现路径，暂不占今日注意力。"
         }
       }
     }
