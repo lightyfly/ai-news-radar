@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:06:58.256129Z",
+  "generated_at": "2026-08-10T23:20:05.608831Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_89f0f7e97237",
-      "title": "Seedance 2.5 上线一周新增六种创意玩法",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "story_id": "story_3a4cba53dc81",
+      "title": "借助新 AI 工具升级你的营销 / Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "一周六玩法听着热闹，demo 里跑通几个？先拿数据说话。"
+          "review": "又是营销工具升级，先看看数据能不能复现，别光说革命。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "公众号宣称新增玩法，无论文无代码无评测，仅官方口径，证据不足。"
+          "score": 35,
+          "review": "官方博客宣称新AI工具，无论文无代码无评测，仅营销宣传。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "AI视频工具新玩法，可提升创作效率，但缺具体变现路径，建议先测试再定。"
+          "score": 72,
+          "review": "官方更新，涉及广告与营销工具，可测试新功能对获客转化的实际效果。"
         }
       }
     },
     {
-      "story_id": "story_3e8868f2fc85",
-      "title": "构建生产环境可用的 AI Agent 的 5 条规则 | Nan Yu & Jacob Shumway / 5 Rules for Building AI Agents That Work in Production | Nan Yu & Jacob Shumway",
-      "url": "https://creatoreconomy.so/p/5-rules-for-building-ai-agents-in-production-linear-nan-jacob",
+      "story_id": "story_d9b7ad25a0ae",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "规则听着像样，但生产环境四个字水分不小，先跑通再说。"
+          "score": 55,
+          "review": "对话办业务听着美，实际能办成几件？别又是客服机器人换皮。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有访谈观点，无论文无代码无评测，规则再对也难证实效。"
+          "score": 20,
+          "review": "仅官方公众号宣称，无论文代码评测，服务细节待验证。"
         },
         "pragmatic": {
-          "score": 35,
-          "review": "泛AI技术规则，未直接关联内容变现或创作者收入，暂不占注意力。"
+          "score": 62,
+          "review": "平台能力扩展，可探索AI对话服务在内容变现中的结合点，但直接变现路径尚不清晰。"
         }
       }
     },
     {
-      "story_id": "story_7742a97ea427",
-      "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "story_id": "story_b385166df3f8",
+      "title": "使用 NVIDIA Magpie TTS 构建低延迟多语言语音代理：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "默认开自动模式，是嫌事故不够多？先看看回滚按钮藏哪了。"
+          "score": 72,
+          "review": "开放权重是真，但低延迟和多语言得看具体部署，别急着吹。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称默认开启，无技术细节无评测，等文档和实测再评。"
+          "score": 72,
+          "review": "官方博客有技术细节，但缺论文和独立评测，开源权重可查但复现待验证。"
         },
         "pragmatic": {
-          "score": 35,
-          "review": "工具更新但未直接指向内容变现路径，暂不占今日注意力。"
+          "score": 45,
+          "review": "开源TTS工具，可降低语音代理成本，但需技术门槛，短期变现路径不明确。"
         }
       }
     }
