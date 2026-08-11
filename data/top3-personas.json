@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:20:05.608831Z",
+  "generated_at": "2026-08-11T23:29:46.198187Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_3a4cba53dc81",
-      "title": "借助新 AI 工具升级你的营销 / Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+      "story_id": "story_9fd40d217f3e",
+      "title": "YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲",
+      "url": "https://www.aibase.com/news/30248",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "又是营销工具升级，先看看数据能不能复现，别光说革命。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称新AI工具，无论文无代码无评测，仅营销宣传。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "官方更新，涉及广告与营销工具，可测试新功能对获客转化的实际效果。"
-        }
-      }
-    },
-    {
-      "story_id": "story_d9b7ad25a0ae",
-      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "对话办业务听着美，实际能办成几件？别又是客服机器人换皮。"
+          "score": 45,
+          "review": "门槛翻倍，中小创作者被清场，平台倒是稳赚不赔。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅官方公众号宣称，无论文代码评测，服务细节待验证。"
+          "review": "仅官方政策报道，无原始公告链接或数据支撑，门槛变化待核实。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "平台能力扩展，可探索AI对话服务在内容变现中的结合点，但直接变现路径尚不清晰。"
+          "score": 82,
+          "review": "平台规则变化直接影响中小创作者收入路径，需立即评估账号策略。"
         }
       }
     },
     {
-      "story_id": "story_b385166df3f8",
-      "title": "使用 NVIDIA Magpie TTS 构建低延迟多语言语音代理：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "rank": 3,
+      "story_id": "story_8bee042859df",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "开放权重是真，但低延迟和多语言得看具体部署，别急着吹。"
+          "review": "50个角色参考听着唬人，实际生成时长和一致性成本没提，先跑通再说。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "官方博客有技术细节，但缺论文和独立评测，开源权重可查但复现待验证。"
+          "score": 20,
+          "review": "仅官方推文宣称支持50角色参考，无论文无代码无第三方评测，证据不足。"
         },
         "pragmatic": {
+          "score": 72,
+          "review": "官方工具更新，50角色参考可提升视频制作效率，适合内容创作者测试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1d745777aa0d",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "流水线教程听着唬人，实际是API拼装，离真多模态还差着十万八千里。"
+        },
+        "paper-police": {
           "score": 45,
-          "review": "开源TTS工具，可降低语音代理成本，但需技术门槛，短期变现路径不明确。"
+          "review": "有技术博客给细节，但无论文代码，需第三方验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "技术教程，涉及视频生成流水线，但未提供变现案例或数据，可作工具储备。"
         }
       }
     }
