@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:29:46.198187Z",
+  "generated_at": "2026-08-12T23:28:54.879304Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_9fd40d217f3e",
-      "title": "YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲",
-      "url": "https://www.aibase.com/news/30248",
+      "story_id": "story_094f6572bd5f",
+      "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "门槛翻倍，中小创作者被清场，平台倒是稳赚不赔。"
+          "score": 72,
+          "review": "插件1.0总算落地，但'登陆'和'可用'之间还隔着配置文档的距离。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方政策报道，无原始公告链接或数据支撑，门槛变化待核实。"
+          "score": 45,
+          "review": "官方更新有细节，但无论文代码，等第三方验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "平台规则变化直接影响中小创作者收入路径，需立即评估账号策略。"
+          "score": 62,
+          "review": "官方工具更新，对AI编程提效有帮助，但未直接涉及内容变现，可间接提升效率，值得关注。"
         }
       }
     },
     {
-      "story_id": "story_8bee042859df",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "story_id": "story_a43aa2b59b44",
+      "title": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
+      "url": "https://www.yunyingpai.com/channel/1061597.html",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "50个角色参考听着唬人，实际生成时长和一致性成本没提，先跑通再说。"
+          "score": 55,
+          "review": "流量红利见顶是老话，但把锅全甩给平台，自己选品和定价的锅呢？"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅官方推文宣称支持50角色参考，无论文无代码无第三方评测，证据不足。"
+          "review": "仅行业观点文章，无论文无数据无代码，流量逻辑变化缺乏实证支撑。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "官方工具更新，50角色参考可提升视频制作效率，适合内容创作者测试。"
+          "score": 62,
+          "review": "行业动态，指出流量变现逻辑变化，但缺具体案例和行动路径，可作思路参考。"
         }
       }
     },
     {
-      "story_id": "story_1d745777aa0d",
-      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "story_id": "story_fdae5f4986f9",
+      "title": "用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "流水线教程听着唬人，实际是API拼装，离真多模态还差着十万八千里。"
+          "review": "教人写提示词？这教程怕是给刚学会开机的用户准备的。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "有技术博客给细节，但无论文代码，需第三方验证。"
+          "score": 30,
+          "review": "官方博客教程，无论文代码评测，仅入门指导，证据不足。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "技术教程，涉及视频生成流水线，但未提供变现案例或数据，可作工具储备。"
+          "score": 45,
+          "review": "官方教程，但偏基础操作，对内容变现的直接帮助有限，可作工具入门参考。"
         }
       }
     }

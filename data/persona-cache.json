@@ -1,276 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_c60a8d7b7bab|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "安全事件需留意，但无具体漏洞可操作，暂时观望。",
-      "title_hash": "013353a6",
-      "scored_at": "2026-07-22T00:12:23.431297Z"
-    },
-    "story_d715a1653856|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数据泄露不是技术工具，换密码和观望就够了。",
-      "title_hash": "cf2ad913",
-      "scored_at": "2026-07-22T03:51:46.075861Z"
-    },
-    "story_d064f0e7c61e|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全事件听听就好，没给出可复用的防护方案就不必行动。",
-      "title_hash": "f6cfe244",
-      "scored_at": "2026-07-22T03:51:48.929573Z"
-    },
-    "story_d13fed20d833|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "版权纠纷和解，提醒训练数据合规重要性，但与你今天写代码无关。",
-      "title_hash": "a13331f7",
-      "scored_at": "2026-07-22T06:47:52.013822Z"
-    },
-    "story_47971b838e90|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "研究方向有意思，但暂无代码或API，等开放再评估实用价值。",
-      "title_hash": "f8252bc2",
-      "scored_at": "2026-07-22T06:47:55.687928Z"
-    },
-    "story_8caa1bace817|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接可用的Agent平台，今天就能尝试搭建。",
-      "title_hash": "1f53b536",
-      "scored_at": "2026-07-22T06:47:58.181884Z"
-    },
-    "story_cbe86e3b7527|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "iOS开发者可试用，自动写测试用例省人工，但先确认是否支持你的项目。",
-      "title_hash": "2f93e01e",
-      "scored_at": "2026-07-22T06:48:00.760621Z"
-    },
-    "story_51ec6d5c5ec8|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "直接可以用，接 Whisper 转写省去自部署，token 计价可能更便宜。",
-      "title_hash": "6a88dd2c",
-      "scored_at": "2026-07-22T06:48:02.328165Z"
-    },
-    "story_b8c7221f9ead|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "训练数据版权风险摊上价码，但今天你的代码照样跑，等后续合规指南。",
-      "title_hash": "3b296870",
-      "scored_at": "2026-07-22T09:44:51.963210Z"
-    },
-    "story_3804bc528fec|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "投资未落地，没有新模型或API，等真投了再看。",
-      "title_hash": "dc1de4d0",
-      "scored_at": "2026-07-22T12:08:50.684124Z"
-    },
-    "story_1e962b49e887|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "代码已开源，想尝鲜多模态训练的今天就能clone试试，但新范式有学习成本。",
-      "title_hash": "de813690",
-      "scored_at": "2026-07-22T12:08:54.467677Z"
-    },
-    "story_89357f950e19|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "不会立刻影响开发，动工到投用还早，等有具体开放细节再看。",
-      "title_hash": "300dad77",
-      "scored_at": "2026-07-22T14:27:15.564761Z"
-    },
-    "story_9495caa5c2c2|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "没有具体内容，等看更新了什么再评价。",
-      "title_hash": "9fd92ee4",
-      "scored_at": "2026-07-22T14:27:18.286987Z"
-    },
-    "story_54df5095c0ce|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "钱还没变成工具，等落地再说。",
-      "title_hash": "86e091fb",
-      "scored_at": "2026-07-22T14:27:20.868154Z"
-    },
-    "story_96cb9eaf08f7|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "新API功能可用，做语音交互的可以加进Prompt试试效果。",
-      "title_hash": "508d2a01",
-      "scored_at": "2026-07-22T14:27:24.057130Z"
-    },
-    "story_56d098a4a53d|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "模型发布但未说明何时开放，等API或代码再动手。",
-      "title_hash": "e06b8cf0",
-      "scored_at": "2026-07-22T14:27:27.579322Z"
-    },
-    "story_08fdef5bc579|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "性能不错但没开放API或权重，等能用了再评价。",
-      "title_hash": "09427874",
-      "scored_at": "2026-07-22T14:27:30.847098Z"
-    },
-    "story_737071755d64|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "GHES用户需关注上传支持包变更，不调整可能影响故障排查。",
-      "title_hash": "b4b9d98c",
-      "scored_at": "2026-07-22T16:51:56.584406Z"
-    },
-    "story_5ae29a6d42bc|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "愿景官宣，无直接可用信息，不必关注。",
-      "title_hash": "d64ef1de",
-      "scored_at": "2026-07-22T16:51:59.169690Z"
-    },
-    "story_a2421a5bb9fb|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "采购新闻不写代码，GPU再多也没给你降价。",
-      "title_hash": "3bc87036",
-      "scored_at": "2026-07-22T16:52:02.383119Z"
-    },
-    "story_106689cde6d7|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "投资金额再大也不影响你今天调API，等算力降价再高兴。",
-      "title_hash": "2bbd6351",
-      "scored_at": "2026-07-22T16:52:04.615649Z"
-    },
-    "story_e9be8dc666ea|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "行业汇总，没有今天能用的新东西。",
-      "title_hash": "52924449",
-      "scored_at": "2026-07-22T16:52:06.681166Z"
-    },
-    "story_8caa1bace817|cynic|f4237a62": {
-      "score": 45,
-      "review": "设计Agent？不就是拖拽组件换个马甲，腾讯这包装费没白花。",
-      "title_hash": "1f53b536",
-      "scored_at": "2026-07-22T16:52:10.044437Z"
-    },
-    "story_8caa1bace817|paper-police|966065bf": {
-      "score": 25,
-      "review": "只有公众号宣称开放，无论文无代码无评测，无法验证真伪。",
-      "title_hash": "1f53b536",
-      "scored_at": "2026-07-22T16:52:11.775690Z"
-    },
-    "story_51ec6d5c5ec8|cynic|f4237a62": {
-      "score": 72,
-      "review": "帮人把Whisper包装成API收过路费，起码省了你自己调用云厂商的功夫。",
-      "title_hash": "6a88dd2c",
-      "scored_at": "2026-07-22T16:52:14.971972Z"
-    },
-    "story_51ec6d5c5ec8|paper-police|966065bf": {
-      "score": 20,
-      "review": "只有官方博客宣布功能，无论文或代码支持，无法验证实际效果。",
-      "title_hash": "6a88dd2c",
-      "scored_at": "2026-07-22T16:52:18.800231Z"
-    },
-    "story_737071755d64|cynic|f4237a62": {
-      "score": 68,
-      "review": "很常规的运维更新，当个新闻发出来也是够闲的。",
-      "title_hash": "b4b9d98c",
-      "scored_at": "2026-07-22T16:52:21.911964Z"
-    },
-    "story_737071755d64|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方宣发但无论文代码，无法验证，等实施后再看。",
-      "title_hash": "b4b9d98c",
-      "scored_at": "2026-07-22T16:52:25.373226Z"
-    },
-    "story_c9adcfe987c9|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "今天就能用，直接监控 Copilot 效果，优化团队投入。",
-      "title_hash": "53c4e402",
-      "scored_at": "2026-07-22T18:39:17.963876Z"
-    },
-    "story_1a563dab923e|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "新增了数据查询能力，但更像研究工具而非开发利器，非刚需可暂缓。",
-      "title_hash": "521137ab",
-      "scored_at": "2026-07-22T18:39:20.886318Z"
-    },
-    "story_97b950f64bc4|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "概念性进展，暂无直接可用的工具或API，先关注后续。",
-      "title_hash": "ccebf8c3",
-      "scored_at": "2026-07-22T18:39:23.959192Z"
-    },
-    "story_0ba3ace346fe|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "模型已开源，可直接下载使用，今天就能试试效果。",
-      "title_hash": "2d5b4289",
-      "scored_at": "2026-07-22T18:39:26.755961Z"
-    },
-    "story_0ba3ace346fe|cynic|f4237a62": {
-      "score": 85,
-      "review": "终于舍得从黑盒里掏出来了，但别只把外壳敞开，核心数据也得亮。",
-      "title_hash": "2d5b4289",
-      "scored_at": "2026-07-22T18:39:30.038556Z"
-    },
-    "story_0ba3ace346fe|paper-police|966065bf": {
-      "score": 18,
-      "review": "仅官方推文宣称开源，缺论文和代码仓库链接，无法验证。",
-      "title_hash": "2d5b4289",
-      "scored_at": "2026-07-22T18:39:32.907375Z"
-    },
-    "story_c9adcfe987c9|cynic|f4237a62": {
-      "score": 75,
-      "review": "指标仪表板不稀罕，能降bug率才叫影响力。",
-      "title_hash": "53c4e402",
-      "scored_at": "2026-07-22T18:39:37.948147Z"
-    },
-    "story_c9adcfe987c9|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方更新提供了新功能说明，但缺乏可复现的论文、代码或基准测试证据。",
-      "title_hash": "53c4e402",
-      "scored_at": "2026-07-22T18:39:44.444782Z"
-    },
-    "story_6ed07fa55a30|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "对比分析帮选型，但无即时行动价值，等降价或新功能再关注。",
-      "title_hash": "503ce32e",
-      "scored_at": "2026-07-22T20:35:31.390737Z"
-    },
-    "story_797fe692e79b|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "人为失误导致AI失控，安全演练和权限管理值得复盘，但非今日紧急行动。",
-      "title_hash": "f33e3baa",
-      "scored_at": "2026-07-22T20:35:33.963284Z"
-    },
-    "story_32d9fa204531|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "大厂交罚款，不影响你调 API，别管。",
-      "title_hash": "25d2223f",
-      "scored_at": "2026-07-22T20:35:35.937065Z"
-    },
-    "story_e7155e77e138|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源即用，分词瓶颈项目可秒替换HF Tokenizers，实测省时间。",
-      "title_hash": "650e191c",
-      "scored_at": "2026-07-22T20:35:38.903679Z"
-    },
-    "story_518ac30df17a|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "官方案例汇总，无新工具或接口，今天用不上。",
-      "title_hash": "5ee85bf7",
-      "scored_at": "2026-07-22T20:35:41.942834Z"
-    },
-    "story_a61af6e01397|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "法律和解不直接影响API调用，等模型可用性或价格变化再关注。",
-      "title_hash": "a13331f7",
-      "scored_at": "2026-07-22T20:35:45.277755Z"
-    },
-    "story_e7155e77e138|cynic|f4237a62": {
-      "score": 72,
-      "review": "1000倍？用了抖音压缩比和字母表吧，能通用我头给你。",
-      "title_hash": "650e191c",
-      "scored_at": "2026-07-22T20:35:48.313762Z"
-    },
-    "story_e7155e77e138|paper-police|966065bf": {
-      "score": 65,
-      "review": "有GitHub代码可复现，但缺论文和独立benchmark验证，速度提升待确认。",
-      "title_hash": "650e191c",
-      "scored_at": "2026-07-22T20:35:53.764333Z"
-    },
-    "story_af103b36178c|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "安全漏洞警示，等补丁和详细分析，今天无需行动。",
-      "title_hash": "48c9c3e4",
-      "scored_at": "2026-07-22T22:19:08.783776Z"
-    },
     "story_53fafc8e329c|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "模型安全红线，用Hugging Face的立刻检查资产有无异常。",
@@ -3084,6 +2814,162 @@
       "review": "有技术博客给细节，但无论文代码，需第三方验证。",
       "title_hash": "17cb0e8b",
       "scored_at": "2026-08-11T23:29:46.198135Z"
+    },
+    "story_fdae5f4986f9|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "官方教程，但偏基础操作，对内容变现的直接帮助有限，可作工具入门参考。",
+      "title_hash": "ad4449c9",
+      "scored_at": "2026-08-12T23:28:26.770192Z"
+    },
+    "story_c2d4ddb5d531|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "技术产品更新，未直接关联内容变现，暂不占用注意力。",
+      "title_hash": "93709f43",
+      "scored_at": "2026-08-12T23:28:27.901726Z"
+    },
+    "story_094f6572bd5f|pragmatic|ccc085fd": {
+      "score": 62,
+      "review": "官方工具更新，对AI编程提效有帮助，但未直接涉及内容变现，可间接提升效率，值得关注。",
+      "title_hash": "1e5ebc8d",
+      "scored_at": "2026-08-12T23:28:29.268973Z"
+    },
+    "story_c5cde4192426|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "官方技术更新，但未直接关联内容变现路径，暂不投入注意力。",
+      "title_hash": "ff44098a",
+      "scored_at": "2026-08-12T23:28:30.540073Z"
+    },
+    "story_c27a5b0e8673|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "企业AI应用案例，对个人创作者变现路径不直接，可参考工作流但行动价值有限。",
+      "title_hash": "941d296c",
+      "scored_at": "2026-08-12T23:28:31.717361Z"
+    },
+    "story_953c86e801a6|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "面向组织的规则洞察，与个人创作者变现无直接关联，暂不占用注意力。",
+      "title_hash": "6cb155e1",
+      "scored_at": "2026-08-12T23:28:32.702461Z"
+    },
+    "story_4392345a6290|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "企业AI落地案例，与个人创作者变现无直接关联，不占注意力。",
+      "title_hash": "96192c4d",
+      "scored_at": "2026-08-12T23:28:33.981651Z"
+    },
+    "story_99857c061b25|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "字节组织调整属宏观动态，未直接给创作者可用的变现路径或工具。",
+      "title_hash": "454b74af",
+      "scored_at": "2026-08-12T23:28:35.053917Z"
+    },
+    "story_eadeb46e171e|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "泛AI趋势评论，缺乏具体工具或变现路径，暂不占注意力。",
+      "title_hash": "779bbfed",
+      "scored_at": "2026-08-12T23:28:36.098156Z"
+    },
+    "story_a43aa2b59b44|pragmatic|ccc085fd": {
+      "score": 62,
+      "review": "行业动态，指出流量变现逻辑变化，但缺具体案例和行动路径，可作思路参考。",
+      "title_hash": "6ace8c05",
+      "scored_at": "2026-08-12T23:28:37.249490Z"
+    },
+    "story_06cb8c904cd7|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "宏观评论，与内容变现无直接关联，不占注意力。",
+      "title_hash": "53b2798a",
+      "scored_at": "2026-08-12T23:28:38.269776Z"
+    },
+    "story_3479a70ad230|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "边缘端视觉模型，与内容变现无直接关联，暂不占用注意力。",
+      "title_hash": "141bb555",
+      "scored_at": "2026-08-12T23:28:39.188301Z"
+    },
+    "story_6c26056e744f|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "行业口水战，与内容变现无直接关联，不占注意力。",
+      "title_hash": "876a8b12",
+      "scored_at": "2026-08-12T23:28:40.204424Z"
+    },
+    "story_49365c8a72d6|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "曝光AI造假案例，但无直接变现路径，仅提醒警惕，不占注意力。",
+      "title_hash": "65bdc2e9",
+      "scored_at": "2026-08-12T23:28:41.526520Z"
+    },
+    "story_9aab89425ec2|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "融资估值新闻，与创作者变现无直接关联，不占注意力。",
+      "title_hash": "72be42d0",
+      "scored_at": "2026-08-12T23:28:42.517642Z"
+    },
+    "story_81b35863b7b0|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "模型更新但未直接指向内容生产或变现路径，暂不占用注意力。",
+      "title_hash": "9cf1aaec",
+      "scored_at": "2026-08-12T23:28:43.621882Z"
+    },
+    "story_a9f021589299|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛AI技术新闻，下载量数据与内容变现无直接关联，不占注意力。",
+      "title_hash": "21e0c33a",
+      "scored_at": "2026-08-12T23:28:44.587115Z"
+    },
+    "story_cfc084392657|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "融资新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "f705b066",
+      "scored_at": "2026-08-12T23:28:45.669347Z"
+    },
+    "story_88d5ec31d539|pragmatic|ccc085fd": {
+      "score": 22,
+      "review": "模型榜单分数，无内容生产或变现路径，不占注意力。",
+      "title_hash": "08cff5c2",
+      "scored_at": "2026-08-12T23:28:46.602179Z"
+    },
+    "story_628145e0f8a2|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI产品争议，与内容变现无直接关联，不占注意力。",
+      "title_hash": "cc71c901",
+      "scored_at": "2026-08-12T23:28:47.940559Z"
+    },
+    "story_094f6572bd5f|cynic|f4237a62": {
+      "score": 72,
+      "review": "插件1.0总算落地，但'登陆'和'可用'之间还隔着配置文档的距离。",
+      "title_hash": "1e5ebc8d",
+      "scored_at": "2026-08-12T23:28:49.225389Z"
+    },
+    "story_094f6572bd5f|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方更新有细节，但无论文代码，等第三方验证。",
+      "title_hash": "1e5ebc8d",
+      "scored_at": "2026-08-12T23:28:50.216508Z"
+    },
+    "story_a43aa2b59b44|cynic|f4237a62": {
+      "score": 55,
+      "review": "流量红利见顶是老话，但把锅全甩给平台，自己选品和定价的锅呢？",
+      "title_hash": "6ace8c05",
+      "scored_at": "2026-08-12T23:28:51.721561Z"
+    },
+    "story_a43aa2b59b44|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅行业观点文章，无论文无数据无代码，流量逻辑变化缺乏实证支撑。",
+      "title_hash": "6ace8c05",
+      "scored_at": "2026-08-12T23:28:52.802334Z"
+    },
+    "story_fdae5f4986f9|cynic|f4237a62": {
+      "score": 55,
+      "review": "教人写提示词？这教程怕是给刚学会开机的用户准备的。",
+      "title_hash": "ad4449c9",
+      "scored_at": "2026-08-12T23:28:53.875389Z"
+    },
+    "story_fdae5f4986f9|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方博客教程，无论文代码评测，仅入门指导，证据不足。",
+      "title_hash": "ad4449c9",
+      "scored_at": "2026-08-12T23:28:54.879210Z"
     }
   }
 }
