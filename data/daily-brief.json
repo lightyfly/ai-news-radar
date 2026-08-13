@@ -1,116 +1,29 @@
 {
-  "generated_at": "2026-08-12T23:05:01.553770Z",
+  "generated_at": "2026-08-13T23:05:59.188952Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_fdae5f4986f9",
-      "title": "用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app",
-          "title_zh": "用 GitHub Copilot 应用编写你的第一个提示词",
-          "title_en": "Write your first prompt with the GitHub Copilot app",
-          "title_original": "Write your first prompt with the GitHub Copilot app",
-          "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nLearn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nLearn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nOpening a new AI tool can feel a little like staring at a blank page. Y",
-          "recommend_reason_zh": "通过GitHub Copilot app连接仓库或本地文件夹，无需特殊语法即可发起首个任务，还能切换模型或使用语音输入，快速上手AI编程。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app",
-          "title_zh": "用 GitHub Copilot 应用编写你的第一个提示词",
-          "title_en": "Write your first prompt with the GitHub Copilot app",
-          "title_original": "Write your first prompt with the GitHub Copilot app",
-          "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nLearn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nLearn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nOpening a new AI tool can feel a little like staring at a blank page. Y",
-          "recommend_reason_zh": "通过GitHub Copilot app连接仓库或本地文件夹，无需特殊语法即可发起首个任务，还能切换模型或使用语音输入，快速上手AI编程。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9427,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T19:00:00Z",
-      "latest_at": "2026-08-12T19:00:00Z",
-      "primary_item": {
-        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-        "title": "用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app",
-        "title_zh": "用 GitHub Copilot 应用编写你的第一个提示词",
-        "title_en": "Write your first prompt with the GitHub Copilot app",
-        "title_original": "Write your first prompt with the GitHub Copilot app",
-        "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nLearn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nLearn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nOpening a new AI tool can feel a little like staring at a blank page. Y",
-        "recommend_reason_zh": "通过GitHub Copilot app连接仓库或本地文件夹，无需特殊语法即可发起首个任务，还能切换模型或使用语音输入，快速上手AI编程。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方教程，但偏基础操作，对内容变现的直接帮助有限，可作工具入门参考。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_c2d4ddb5d531",
-      "title": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "story_id": "story_7243b3d66c55",
+      "title": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nComputing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape Change detection: Spotting what shifted Unsupervised exploration: Seeing what the model sees From export to insight Going further: fine-tuning Limitations 📄 Tech Report: https://allenai.org/papers/olmoearth | 📊 Documentation: https://docs.olmoearth.allenai.org/embedd",
-          "recommend_reason_zh": "Ai2的OlmoEarth Studio新增自定义embedding导出功能，支持相似性搜索与变化检测，输出COG格式，示例采用192维Tiny模型在40米分辨率下处理Sentinel-2影像。",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": "A Blog post by Amazon on Hugging Face\nA Blog post by Amazon on Hugging Face\nWhat you'll build Prerequisites Step 1 - Record a demonstration into a bucket Step 2 - Store with byte-level deduplication Step 3 - Train by streaming from the Hub Step 4 - Deploy the policy and return data to the loop Try it using the sample application Security Considerations Clean up Where to go from here Resources A walkthrough of the streaming data loop in Strands Robots, one agent loop that records robot demonstrat",
+          "recommend_reason_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，展示机器人演示数据从录制、去重存储到流式训练再部署的完整闭环，支撑Hub上超90,000个LeRobot格式数据集。",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
+          "published_at": "2026-08-13T17:16:04Z"
         }
       ],
       "source_count": 1,
@@ -119,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nComputing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape Change detection: Spotting what shifted Unsupervised exploration: Seeing what the model sees From export to insight Going further: fine-tuning Limitations 📄 Tech Report: https://allenai.org/papers/olmoearth | 📊 Documentation: https://docs.olmoearth.allenai.org/embedd",
-          "recommend_reason_zh": "Ai2的OlmoEarth Studio新增自定义embedding导出功能，支持相似性搜索与变化检测，输出COG格式，示例采用192维Tiny模型在40米分辨率下处理Sentinel-2影像。",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": "A Blog post by Amazon on Hugging Face\nA Blog post by Amazon on Hugging Face\nWhat you'll build Prerequisites Step 1 - Record a demonstration into a bucket Step 2 - Store with byte-level deduplication Step 3 - Train by streaming from the Hub Step 4 - Deploy the policy and return data to the loop Try it using the sample application Security Considerations Clean up Where to go from here Resources A walkthrough of the streaming data loop in Strands Robots, one agent loop that records robot demonstrat",
+          "recommend_reason_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，展示机器人演示数据从录制、去重存储到流式训练再部署的完整闭环，支撑Hub上超90,000个LeRobot格式数据集。",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
+          "published_at": "2026-08-13T17:16:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9059,
+        "ai_relevance": 0.98,
+        "recency": 0.9192,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -154,50 +67,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T16:14:36Z",
-      "latest_at": "2026-08-12T16:14:36Z",
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
       "primary_item": {
-        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-        "title": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_zh": "推出 OlmoEarth 嵌入：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析",
-        "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nComputing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape Change detection: Spotting what shifted Unsupervised exploration: Seeing what the model sees From export to insight Going further: fine-tuning Limitations 📄 Tech Report: https://allenai.org/papers/olmoearth | 📊 Documentation: https://docs.olmoearth.allenai.org/embedd",
-        "recommend_reason_zh": "Ai2的OlmoEarth Studio新增自定义embedding导出功能，支持相似性搜索与变化检测，输出COG格式，示例采用192维Tiny模型在40米分辨率下处理Sentinel-2影像。",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_zh": "借助 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，一站式完成记录、训练与部署",
+        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "summary": "A Blog post by Amazon on Hugging Face\nA Blog post by Amazon on Hugging Face\nWhat you'll build Prerequisites Step 1 - Record a demonstration into a bucket Step 2 - Store with byte-level deduplication Step 3 - Train by streaming from the Hub Step 4 - Deploy the policy and return data to the loop Try it using the sample application Security Considerations Clean up Where to go from here Resources A walkthrough of the streaming data loop in Strands Robots, one agent loop that records robot demonstrat",
+        "recommend_reason_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，展示机器人演示数据从录制、去重存储到流式训练再部署的完整闭环，支撑Hub上超90,000个LeRobot格式数据集。",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "技术产品更新，未直接关联内容变现，暂不占用注意力。",
+      "persona_score": 35,
+      "persona_review": "技术工具链更新，但未直接关联内容变现路径，暂不优先测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_094f6572bd5f",
-      "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "story_id": "story_8bf1fc5309f6",
+      "title": "许可证数据质量改进 / License data quality improvements",
+      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.…\nYou can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel. Google also joined as a core maintainer on the same day. Agent Plugins 1.0 is an open standard that packages agent skills and MCP servers into one in",
-          "recommend_reason_zh": "Agent Plugins 1.0于8月6日发布，获AWS、Anysphere、Microsoft、OpenAI、Vercel支持，Google同日加入核心维护。它打包技能与MCP服务器，一次构建即可在VS Code、Copilot CLI和Copilot app通用，避免重复维护。",
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可证数据质量改进 / License data quality improvements",
+          "title_zh": "许可证数据质量改进",
+          "title_en": "License data quality improvements",
+          "title_original": "License data quality improvements",
+          "summary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nGitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown in dependency insights, software bills of materials (SBOMs), the open source license ",
+          "recommend_reason_zh": "GitHub改用npmjs.org和PyPI等注册表解析依赖图许可信息，缺失许可证比例从45%降至24%，并支持按版本范围追踪如Grafana的Apache到AGPL变更。",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "source_count": 1,
@@ -206,31 +119,31 @@
       ],
       "items": [
         {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.…\nYou can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel. Google also joined as a core maintainer on the same day. Agent Plugins 1.0 is an open standard that packages agent skills and MCP servers into one in",
-          "recommend_reason_zh": "Agent Plugins 1.0于8月6日发布，获AWS、Anysphere、Microsoft、OpenAI、Vercel支持，Google同日加入核心维护。它打包技能与MCP服务器，一次构建即可在VS Code、Copilot CLI和Copilot app通用，避免重复维护。",
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可证数据质量改进 / License data quality improvements",
+          "title_zh": "许可证数据质量改进",
+          "title_en": "License data quality improvements",
+          "title_original": "License data quality improvements",
+          "summary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nGitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown in dependency insights, software bills of materials (SBOMs), the open source license ",
+          "recommend_reason_zh": "GitHub改用npmjs.org和PyPI等注册表解析依赖图许可信息，缺失许可证比例从45%降至24%，并支持按版本范围追踪如Grafana的Apache到AGPL变更。",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.938,
+        "ai_relevance": 0.87,
+        "recency": 0.9457,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -241,50 +154,569 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T18:39:11Z",
-      "latest_at": "2026-08-12T18:39:11Z",
+      "earliest_at": "2026-08-13T19:14:12Z",
+      "latest_at": "2026-08-13T19:14:12Z",
       "primary_item": {
-        "id": "18e5595d096312125c112295fde577991c1afc7c",
-        "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用",
-        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "summary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.…\nYou can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel. Google also joined as a core maintainer on the same day. Agent Plugins 1.0 is an open standard that packages agent skills and MCP servers into one in",
-        "recommend_reason_zh": "Agent Plugins 1.0于8月6日发布，获AWS、Anysphere、Microsoft、OpenAI、Vercel支持，Google同日加入核心维护。它打包技能与MCP服务器，一次构建即可在VS Code、Copilot CLI和Copilot app通用，避免重复维护。",
-        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+        "title": "许可证数据质量改进 / License data quality improvements",
+        "title_zh": "许可证数据质量改进",
+        "title_en": "License data quality improvements",
+        "title_original": "License data quality improvements",
+        "summary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nGitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown in dependency insights, software bills of materials (SBOMs), the open source license ",
+        "recommend_reason_zh": "GitHub改用npmjs.org和PyPI等注册表解析依赖图许可信息，缺失许可证比例从45%降至24%，并支持按版本范围追踪如Grafana的Apache到AGPL变更。",
+        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "官方工具更新，对AI编程提效有帮助，但未直接涉及内容变现，可间接提升效率，值得关注。",
+      "persona_score": 25,
+      "persona_review": "GitHub许可证数据质量更新，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_c5cde4192426",
-      "title": "让手语AI触手可及 / Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "primary_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+      "story_id": "story_c2a711833862",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+          "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nSheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nSheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nAug 13, 2026\nA new Google Sheets feature, Sheets canvas transforms rows and columns into interactive dashboards, ",
+          "recommend_reason_zh": "Google Sheets新功能Sheets canvas借助Gemini，用自然语言提示即可将数据转化为交互式迷你应用，如学习跟踪器、座位表，无需编码且自动同步原表。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+          "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nSheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nSheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nAug 13, 2026\nA new Google Sheets feature, Sheets canvas transforms rows and columns into interactive dashboards, ",
+          "recommend_reason_zh": "Google Sheets新功能Sheets canvas借助Gemini，用自然语言提示即可将数据转化为交互式迷你应用，如学习跟踪器、座位表，无需编码且自动同步原表。",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9124,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
+      "primary_item": {
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+        "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nSheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nSheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\nAug 13, 2026\nA new Google Sheets feature, Sheets canvas transforms rows and columns into interactive dashboards, ",
+        "recommend_reason_zh": "Google Sheets新功能Sheets canvas借助Gemini，用自然语言提示即可将数据转化为交互式迷你应用，如学习跟踪器、座位表，无需编码且自动同步原表。",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "工具更新，能提升数据展示效率，但直接变现路径不明确，可留意后续案例。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_54d692d2c27d",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": null,
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nOpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nOpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nAugust 13, 2026\nAs enterprise AI deployment accelerates, OpenAI is buildin",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": null,
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nOpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nOpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nAugust 13, 2026\nAs enterprise AI deployment accelerates, OpenAI is buildin",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8158,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
+      "primary_item": {
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_zh": null,
+        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nOpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nOpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.\nAugust 13, 2026\nAs enterprise AI deployment accelerates, OpenAI is buildin",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "高管任命与内容变现无直接关联，除非后续策略影响API价格或生态，暂不占用注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_4b3de57e13b8",
+      "title": "Computer History",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "Computer History",
+          "title_zh": null,
+          "title_en": "Computer History",
+          "title_original": "Computer History",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.\nComputer History is available to ChatGPT Pro, Business, and Enterpri",
+          "recommend_reason_zh": "Computer History 已在 macOS 版 ChatGPT 桌面应用中上线，可将跨应用与网站活动生成记忆和时间线，供 ChatGPT 与 Codex 使用，且支持随时暂停、删除，首批面向 Pro、Business 和 Enterprise 用户开放。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "Computer History",
+          "title_zh": null,
+          "title_en": "Computer History",
+          "title_original": "Computer History",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.\nComputer History is available to ChatGPT Pro, Business, and Enterpri",
+          "recommend_reason_zh": "Computer History 已在 macOS 版 ChatGPT 桌面应用中上线，可将跨应用与网站活动生成记忆和时间线，供 ChatGPT 与 Codex 使用，且支持随时暂停、删除，首批面向 Pro、Business 和 Enterprise 用户开放。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7164,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
+      "primary_item": {
+        "id": "44695098290e3788d04048785a37b110c9282a6d",
+        "title": "Computer History",
+        "title_zh": null,
+        "title_en": "Computer History",
+        "title_original": "Computer History",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.\nComputer History is available to ChatGPT Pro, Business, and Enterpri",
+        "recommend_reason_zh": "Computer History 已在 macOS 版 ChatGPT 桌面应用中上线，可将跨应用与网站活动生成记忆和时间线，供 ChatGPT 与 Codex 使用，且支持随时暂停、删除，首批面向 Pro、Business 和 Enterprise 用户开放。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "官方更新但内容泛泛，未提及对内容变现的具体影响，暂不行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_1495b257b86c",
+      "title": "在个人仓库中屏蔽用户评论 / Block users from comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "在个人仓库中屏蔽用户评论 / Block users from comments in personal repositories",
+          "title_zh": "在个人仓库中屏蔽用户评论",
+          "title_en": "Block users from comments in personal repositories",
+          "title_original": "Block users from comments in personal repositories",
+          "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nYou can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts.\nTo block or unblock a user:\nThis shortcut makes it faster for maintainers to manage spam and unwanted activity without leaving the pull request or issue.\nIf you have any questions or feedb",
+          "recommend_reason_zh": "GitHub个人仓库的PR和issue评论中，现在可直接封禁或解封用户，维护者无需离开页面即可处理垃圾信息和违规活动，操作更快捷。",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "在个人仓库中屏蔽用户评论 / Block users from comments in personal repositories",
+          "title_zh": "在个人仓库中屏蔽用户评论",
+          "title_en": "Block users from comments in personal repositories",
+          "title_original": "Block users from comments in personal repositories",
+          "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nYou can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts.\nTo block or unblock a user:\nThis shortcut makes it faster for maintainers to manage spam and unwanted activity without leaving the pull request or issue.\nIf you have any questions or feedb",
+          "recommend_reason_zh": "GitHub个人仓库的PR和issue评论中，现在可直接封禁或解封用户，维护者无需离开页面即可处理垃圾信息和违规活动，操作更快捷。",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9431,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T19:02:46Z",
+      "latest_at": "2026-08-13T19:02:46Z",
+      "primary_item": {
+        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+        "title": "在个人仓库中屏蔽用户评论 / Block users from comments in personal repositories",
+        "title_zh": "在个人仓库中屏蔽用户评论",
+        "title_en": "Block users from comments in personal repositories",
+        "title_original": "Block users from comments in personal repositories",
+        "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nYou can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts.\nTo block or unblock a user:\nThis shortcut makes it faster for maintainers to manage spam and unwanted activity without leaving the pull request or issue.\nIf you have any questions or feedb",
+        "recommend_reason_zh": "GitHub个人仓库的PR和issue评论中，现在可直接封禁或解封用户，维护者无需离开页面即可处理垃圾信息和违规活动，操作更快捷。",
+        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "GitHub功能更新，与AI内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_cf649a906cf4",
+      "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+      "url": "https://www.aibase.com/news/30320",
+      "primary_url": "https://www.aibase.com/news/30320",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
+          "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+          "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+          "title_en": null,
+          "title_original": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+          "summary": "Today, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nToday, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nToday, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nExplore AI Fronti",
+          "recommend_reason_zh": "Blacksmith专注AI代码测试与验证，刚获450万美元B轮融资，估值不到一年从6000万涨至5.5亿美元，近10倍增长，创始人Aditya Jayaprakash揭示AI编程兴起后质量控制的瓶颈。",
+          "url": "https://www.aibase.com/news/30320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T17:05:59.188952Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
+          "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+          "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+          "title_en": null,
+          "title_original": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+          "summary": "Today, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nToday, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nToday, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nExplore AI Fronti",
+          "recommend_reason_zh": "Blacksmith专注AI代码测试与验证，刚获450万美元B轮融资，估值不到一年从6000万涨至5.5亿美元，近10倍增长，创始人Aditya Jayaprakash揭示AI编程兴起后质量控制的瓶颈。",
+          "url": "https://www.aibase.com/news/30320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T17:05:59.188952Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:05:59.188952Z",
+      "latest_at": "2026-08-13T17:05:59.188952Z",
+      "primary_item": {
+        "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
+        "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+        "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+        "title_en": null,
+        "title_original": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+        "summary": "Today, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nToday, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nToday, with the rapid rise of artificial intelligence, writing code has become faster than ever. But new issues have also emerged: how reliable is the massive a\nExplore AI Fronti",
+        "recommend_reason_zh": "Blacksmith专注AI代码测试与验证，刚获450万美元B轮融资，估值不到一年从6000万涨至5.5亿美元，近10倍增长，创始人Aditya Jayaprakash揭示AI编程兴起后质量控制的瓶颈。",
+        "url": "https://www.aibase.com/news/30320",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "融资估值新闻，与创作者内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_40f7961c06b7",
+      "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": "Patterns and problems in emerging multiagent systems",
+          "title_original": "Patterns and problems in emerging multiagent systems",
+          "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T01:20:54.259000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": "Patterns and problems in emerging multiagent systems",
+          "title_original": "Patterns and problems in emerging multiagent systems",
+          "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T01:20:54.259000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7304,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T01:20:54.259000Z",
+      "latest_at": "2026-08-13T01:20:54.259000Z",
+      "primary_item": {
+        "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+        "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+        "title_zh": "新兴多智能体系统的模式与问题",
+        "title_en": "Patterns and problems in emerging multiagent systems",
+        "title_original": "Patterns and problems in emerging multiagent systems",
+        "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "泛AI技术研究，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_230b99496aae",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
       "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "让手语AI触手可及 / Putting sign language AI into users’ hands",
-          "title_zh": "让手语AI触手可及",
-          "title_en": "Putting sign language AI into users’ hands",
-          "title_original": "Putting sign language AI into users’ hands",
-          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\nDiscover our new sign-language-to-text (SL2T) translation model, bringing ASL dictation to Gboard and Live Transcribe on Pixel 11.\nIntroducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\nGoogle DeepMind Sign Language Team\nIntroducing sign-language-to-text (SL2T), our breakthrough m",
-          "recommend_reason_zh": "SL2T模型首次将手语AI带入消费产品，在Pixel 11的Gboard和Live Transcribe中实现ASL到英语的听写，让失聪用户以手语代替打字。",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
+          "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nGemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nGemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nAug 13, 2026\nOur most intelligent workhorse model yet for coding and agents.\nTulsee Doshi\nSenior Director, Product Management, on behalf of the Gemini team\nYour browser does not support the audio element.\nToday, we’re building on the progress of ou",
+          "recommend_reason_zh": "Gemini 3.7 Flash 以半价于 3.6 Flash 的每百万 token 成本，在 FrontierCode 1.1 上达 43.6%，DeepSWE v1.1 达 65.3%，并宣称是最智能的编码与智能体工作模型。",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
+          "published_at": "2026-08-13T17:04:18Z"
         }
       ],
       "source_count": 1,
@@ -293,172 +725,575 @@
       ],
       "items": [
         {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "让手语AI触手可及 / Putting sign language AI into users’ hands",
-          "title_zh": "让手语AI触手可及",
-          "title_en": "Putting sign language AI into users’ hands",
-          "title_original": "Putting sign language AI into users’ hands",
-          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\nDiscover our new sign-language-to-text (SL2T) translation model, bringing ASL dictation to Gboard and Live Transcribe on Pixel 11.\nIntroducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\nGoogle DeepMind Sign Language Team\nIntroducing sign-language-to-text (SL2T), our breakthrough m",
-          "recommend_reason_zh": "SL2T模型首次将手语AI带入消费产品，在Pixel 11的Gboard和Live Transcribe中实现ASL到英语的听写，让失聪用户以手语代替打字。",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
+          "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nGemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nGemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nAug 13, 2026\nOur most intelligent workhorse model yet for coding and agents.\nTulsee Doshi\nSenior Director, Product Management, on behalf of the Gemini team\nYour browser does not support the audio element.\nToday, we’re building on the progress of ou",
+          "recommend_reason_zh": "Gemini 3.7 Flash 以半价于 3.6 Flash 的每百万 token 成本，在 FrontierCode 1.1 上达 43.6%，DeepSWE v1.1 达 65.3%，并宣称是最智能的编码与智能体工作模型。",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
+          "published_at": "2026-08-13T17:04:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8775,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:01:59Z",
-      "latest_at": "2026-08-12T14:01:59Z",
-      "primary_item": {
-        "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-        "title": "让手语AI触手可及 / Putting sign language AI into users’ hands",
-        "title_zh": "让手语AI触手可及",
-        "title_en": "Putting sign language AI into users’ hands",
-        "title_original": "Putting sign language AI into users’ hands",
-        "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\nDiscover our new sign-language-to-text (SL2T) translation model, bringing ASL dictation to Gboard and Live Transcribe on Pixel 11.\nIntroducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\nGoogle DeepMind Sign Language Team\nIntroducing sign-language-to-text (SL2T), our breakthrough m",
-        "recommend_reason_zh": "SL2T模型首次将手语AI带入消费产品，在Pixel 11的Gboard和Live Transcribe中实现ASL到英语的听写，让失聪用户以手语代替打字。",
-        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "官方技术更新，但未直接关联内容变现路径，暂不投入注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_c27a5b0e8673",
-      "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "primary_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
-          "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
-          "title_zh": "从辅助到执行：企业如何让AI真正干活",
-          "title_en": "From assistance to execution: How enterprises put AI to work",
-          "title_original": "From assistance to execution: How enterprises put AI to work",
-          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nAugust 12, 2026\nTwo new reports show how AI adoption is spr",
-          "recommend_reason_zh": "OpenAI最新研究显示，企业AI正从辅助走向执行：6月前沿企业人均输出tokens达典型企业8.3倍（1月仅2.6倍），且Codex占Codex与ChatGPT合计企业输出的64%。",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
-          "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
-          "title_zh": "从辅助到执行：企业如何让AI真正干活",
-          "title_en": "From assistance to execution: How enterprises put AI to work",
-          "title_original": "From assistance to execution: How enterprises put AI to work",
-          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nAugust 12, 2026\nTwo new reports show how AI adoption is spr",
-          "recommend_reason_zh": "OpenAI最新研究显示，企业AI正从辅助走向执行：6月前沿企业人均输出tokens达典型企业8.3倍（1月仅2.6倍），且Codex占Codex与ChatGPT合计企业输出的64%。",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7814,
+        "recency": 0.9166,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
+      "primary_item": {
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+        "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+        "title_en": "Introducing Gemini 3.7 Flash",
+        "title_original": "Introducing Gemini 3.7 Flash",
+        "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nGemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nGemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\nAug 13, 2026\nOur most intelligent workhorse model yet for coding and agents.\nTulsee Doshi\nSenior Director, Product Management, on behalf of the Gemini team\nYour browser does not support the audio element.\nToday, we’re building on the progress of ou",
+        "recommend_reason_zh": "Gemini 3.7 Flash 以半价于 3.6 Flash 的每百万 token 成本，在 FrontierCode 1.1 上达 43.6%，DeepSWE v1.1 达 65.3%，并宣称是最智能的编码与智能体工作模型。",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "官方模型更新，对编程和智能体有提升，但未直接指向内容变现路径，可留意后续应用案例。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_829dd1cf861d",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "primary_url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+          "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T14:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "items": [
+        {
+          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+          "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T14:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8779,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T14:04:55Z",
+      "latest_at": "2026-08-13T14:04:55Z",
+      "primary_item": {
+        "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+        "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+        "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+        "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+        "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+        "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "模型开源上线，但未涉及内容生产或变现路径，对创作者无直接价值。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_3fd84efeedff",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder’s guide to GPT‑5.6",
+          "title_original": "The builder’s guide to GPT‑5.6",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nLearn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nLearn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nAugust 13, 2026\nTechnical lessons from startups in production\nThe GPT‑5",
+          "recommend_reason_zh": "GPT-5.6 Luna在BrowseComp以84.04%接近GPT-5.5的84.36%，成本却从$33.27降至$1.33；Sol在ARC-AGI-3经retained reasoning从13.3%跃至38.3%，token减少约6倍。",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder's guide to GPT-5.6",
+          "title_original": "The builder's guide to GPT-5.6",
+          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder’s guide to GPT‑5.6",
+          "title_original": "The builder’s guide to GPT‑5.6",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nLearn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nLearn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nAugust 13, 2026\nTechnical lessons from startups in production\nThe GPT‑5",
+          "recommend_reason_zh": "GPT-5.6 Luna在BrowseComp以84.04%接近GPT-5.5的84.36%，成本却从$33.27降至$1.33；Sol在ARC-AGI-3经retained reasoning从13.3%跃至38.3%，token减少约6倍。",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_en": "The builder's guide to GPT-5.6",
+          "title_original": "The builder's guide to GPT-5.6",
+          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8397,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T06:00:00Z",
-      "latest_at": "2026-08-12T06:00:00Z",
+      "earliest_at": "2026-08-13T11:00:00Z",
+      "latest_at": "2026-08-13T11:00:00Z",
       "primary_item": {
-        "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
-        "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
-        "title_zh": "从辅助到执行：企业如何让AI真正干活",
-        "title_en": "From assistance to execution: How enterprises put AI to work",
-        "title_original": "From assistance to execution: How enterprises put AI to work",
-        "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nAugust 12, 2026\nTwo new reports show how AI adoption is spr",
-        "recommend_reason_zh": "OpenAI最新研究显示，企业AI正从辅助走向执行：6月前沿企业人均输出tokens达典型企业8.3倍（1月仅2.6倍），且Codex占Codex与ChatGPT合计企业输出的64%。",
-        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+        "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+        "title_en": "The builder’s guide to GPT‑5.6",
+        "title_original": "The builder’s guide to GPT‑5.6",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nLearn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nLearn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.\nAugust 13, 2026\nTechnical lessons from startups in production\nThe GPT‑5",
+        "recommend_reason_zh": "GPT-5.6 Luna在BrowseComp以84.04%接近GPT-5.5的84.36%，成本却从$33.27降至$1.33；Sol在ARC-AGI-3经retained reasoning从13.3%跃至38.3%，token减少约6倍。",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "企业AI应用案例，对个人创作者变现路径不直接，可参考工作流但行动价值有限。",
+      "persona_score": 62,
+      "persona_review": "官方更新，但未提内容变现路径，仅对技术型创作者有间接价值，可暂缓。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_953c86e801a6",
-      "title": "面向组织的规则洞察现已公开预览 / Rule insights for organizations in public preview",
-      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "story_id": "story_87158c19a937",
+      "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+      "url": "https://www.aibase.com/news/30319",
+      "primary_url": "https://www.aibase.com/news/30319",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
+          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "title_zh": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "title_en": null,
+          "title_original": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "summary": "According to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nAccording to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nAccording to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nExplore AI Fronti",
+          "recommend_reason_zh": "据WSJ，Demis Hassabis在卸任Google DeepMind CEO前数周，与美国财长Scott Bessette及科技顾问Michael Kratsios密商，拟建对标国际原子能机构的独立AI安全机构。",
+          "url": "https://www.aibase.com/news/30319",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T17:05:59.188952Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
+          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "title_zh": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "title_en": null,
+          "title_original": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "summary": "According to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nAccording to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nAccording to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nExplore AI Fronti",
+          "recommend_reason_zh": "据WSJ，Demis Hassabis在卸任Google DeepMind CEO前数周，与美国财长Scott Bessette及科技顾问Michael Kratsios密商，拟建对标国际原子能机构的独立AI安全机构。",
+          "url": "https://www.aibase.com/news/30319",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T17:05:59.188952Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:05:59.188952Z",
+      "latest_at": "2026-08-13T17:05:59.188952Z",
+      "primary_item": {
+        "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
+        "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+        "title_zh": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+        "title_en": null,
+        "title_original": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+        "summary": "According to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nAccording to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nAccording to the Wall Street Journal, sources said that a few weeks before stepping down as CEO of Google DeepMind, Demis Hassabis had discussions with U.S. gov\nExplore AI Fronti",
+        "recommend_reason_zh": "据WSJ，Demis Hassabis在卸任Google DeepMind CEO前数周，与美国财长Scott Bessette及科技顾问Michael Kratsios密商，拟建对标国际原子能机构的独立AI安全机构。",
+        "url": "https://www.aibase.com/news/30319",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "宏观机构新闻，与个人创作者变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_55c454217558",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "primary_url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_zh": null,
+          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nPreview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nPreview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nAugust 13, 2026\nA new spee",
+          "recommend_reason_zh": "OpenAI 预览 Ultrafast 服务层，由 Cerebras 驱动，让 GPT-5.6 Sol 比标准处理快 14 倍，每秒输出高达 750 tokens，展示速度与前沿智能兼得的新方向。",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T10:00:00Z"
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "预览超快模式：GPT-5.6 Sol 速度提升高达 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT-5.6 Sol 速度提升高达 14 倍",
+          "title_en": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_zh": null,
+          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nPreview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nPreview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nAugust 13, 2026\nA new spee",
+          "recommend_reason_zh": "OpenAI 预览 Ultrafast 服务层，由 Cerebras 驱动，让 GPT-5.6 Sol 比标准处理快 14 倍，每秒输出高达 750 tokens，展示速度与前沿智能兼得的新方向。",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T10:00:00Z"
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "预览超快模式：GPT-5.6 Sol 速度提升高达 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT-5.6 Sol 速度提升高达 14 倍",
+          "title_en": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8276,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T10:00:00Z",
+      "latest_at": "2026-08-13T16:59:06Z",
+      "primary_item": {
+        "id": "5175d87bcae80ab0d848d51674956034c540468a",
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title_zh": null,
+        "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nPreview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nPreview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.\nAugust 13, 2026\nA new spee",
+        "recommend_reason_zh": "OpenAI 预览 Ultrafast 服务层，由 Cerebras 驱动，让 GPT-5.6 Sol 比标准处理快 14 倍，每秒输出高达 750 tokens，展示速度与前沿智能兼得的新方向。",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "官方模型速度更新，但未直接关联内容生产或变现路径，暂不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_3777f97e86f5",
+      "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+      "url": "https://www.aibase.com/news/30317",
+      "primary_url": "https://www.aibase.com/news/30317",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
+          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_en": null,
+          "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "summary": "Research teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nResearch teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nResearch teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nExplore AI Frontiers",
+          "recommend_reason_zh": "约克大学与卡尔加里大学团队分析Reddit上3801个帖子及超6000条评论，揭示AI编程助手因权限过大频发覆盖文件、删数据等事故，其中Cursor事故报告最多。",
+          "url": "https://www.aibase.com/news/30317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T16:05:59.188952Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
+          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "title_en": null,
+          "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+          "summary": "Research teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nResearch teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nResearch teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nExplore AI Frontiers",
+          "recommend_reason_zh": "约克大学与卡尔加里大学团队分析Reddit上3801个帖子及超6000条评论，揭示AI编程助手因权限过大频发覆盖文件、删数据等事故，其中Cursor事故报告最多。",
+          "url": "https://www.aibase.com/news/30317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T16:05:59.188952Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:05:59.188952Z",
+      "latest_at": "2026-08-13T16:05:59.188952Z",
+      "primary_item": {
+        "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
+        "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+        "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+        "title_en": null,
+        "title_original": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+        "summary": "Research teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nResearch teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nResearch teams from the University of York and the University of Calgary conducted a large-scale analysis of posts related to AI programming on Reddit, finding\nExplore AI Frontiers",
+        "recommend_reason_zh": "约克大学与卡尔加里大学团队分析Reddit上3801个帖子及超6000条评论，揭示AI编程助手因权限过大频发覆盖文件、删数据等事故，其中Cursor事故报告最多。",
+        "url": "https://www.aibase.com/news/30317",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "AI编程助手安全讨论，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T23:27:44.734598Z"
+      }
+    },
+    {
+      "story_id": "story_9ad9c9918d73",
+      "title": "Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "面向组织的规则洞察现已公开预览 / Rule insights for organizations in public preview",
-          "title_zh": "面向组织的规则洞察现已公开预览",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
-          "summary": "The rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so…\nThe rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so you can spot trends and report on governance without stitching data together by hand.\nYou can now view rule insights across e",
-          "recommend_reason_zh": "GitHub的rule insights dashboard现于组织级公开预览，可在Settings中聚合查看所有仓库的rulesets执行情况，替代手工拼接数据，助力治理与合规团队报告。",
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
+          "title": "Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot",
+          "title_zh": "Gemini 3.7 Flash 现已登陆 GitHub Copilot",
+          "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "summary": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nGemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic coding workflows over it’s previous version. The model also delivers improvements in code quality, final-output presentation, codebase rese",
+          "recommend_reason_zh": "Gemini 3.7 Flash上线GitHub Copilot，改进web/应用开发与agentic coding，提升代码质量、最终呈现和复杂任务验证，面向Pro、Pro+、Max、Business、Enterprise用户，按provider列表价格用量计费。",
+          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-13T14:00:53Z"
         }
       ],
       "source_count": 1,
@@ -467,172 +1302,84 @@
       ],
       "items": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "面向组织的规则洞察现已公开预览 / Rule insights for organizations in public preview",
-          "title_zh": "面向组织的规则洞察现已公开预览",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
-          "summary": "The rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so…\nThe rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so you can spot trends and report on governance without stitching data together by hand.\nYou can now view rule insights across e",
-          "recommend_reason_zh": "GitHub的rule insights dashboard现于组织级公开预览，可在Settings中聚合查看所有仓库的rulesets执行情况，替代手工拼接数据，助力治理与合规团队报告。",
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
+          "title": "Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot",
+          "title_zh": "Gemini 3.7 Flash 现已登陆 GitHub Copilot",
+          "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "summary": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nGemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic coding workflows over it’s previous version. The model also delivers improvements in code quality, final-output presentation, codebase rese",
+          "recommend_reason_zh": "Gemini 3.7 Flash上线GitHub Copilot，改进web/应用开发与agentic coding，提升代码质量、最终呈现和复杂任务验证，面向Pro、Pro+、Max、Business、Enterprise用户，按provider列表价格用量计费。",
+          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-13T14:00:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9361,
+        "ai_relevance": 0.95,
+        "recency": 0.877,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T18:30:28Z",
-      "latest_at": "2026-08-12T18:30:28Z",
+      "earliest_at": "2026-08-13T14:00:53Z",
+      "latest_at": "2026-08-13T14:00:53Z",
       "primary_item": {
-        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-        "title": "面向组织的规则洞察现已公开预览 / Rule insights for organizations in public preview",
-        "title_zh": "面向组织的规则洞察现已公开预览",
-        "title_en": "Rule insights for organizations in public preview",
-        "title_original": "Rule insights for organizations in public preview",
-        "summary": "The rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so…\nThe rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so you can spot trends and report on governance without stitching data together by hand.\nYou can now view rule insights across e",
-        "recommend_reason_zh": "GitHub的rule insights dashboard现于组织级公开预览，可在Settings中聚合查看所有仓库的rulesets执行情况，替代手工拼接数据，助力治理与合规团队报告。",
-        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+        "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
+        "title": "Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot",
+        "title_zh": "Gemini 3.7 Flash 现已登陆 GitHub Copilot",
+        "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
+        "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
+        "summary": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nGemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic coding workflows over it’s previous version. The model also delivers improvements in code quality, final-output presentation, codebase rese",
+        "recommend_reason_zh": "Gemini 3.7 Flash上线GitHub Copilot，改进web/应用开发与agentic coding，提升代码质量、最终呈现和复杂任务验证，面向Pro、Pro+、Max、Business、Enterprise用户，按provider列表价格用量计费。",
+        "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 30,
-      "persona_review": "面向组织的规则洞察，与个人创作者变现无直接关联，暂不占用注意力。",
+      "persona_review": "工具更新但未提内容变现路径，对创作者直接帮助有限。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_4392345a6290",
-      "title": "RingCentral如何从工程到运维打造AI原生工作模式 / How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "primary_url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
-          "title": "RingCentral如何从工程到运维打造AI原生工作模式 / How RingCentral builds AI-native work from engineering to ops",
-          "title_zh": "RingCentral如何从工程到运维打造AI原生工作模式",
-          "title_en": "How RingCentral builds AI-native work from engineering to ops",
-          "title_original": "How RingCentral builds AI-native work from engineering to ops",
-          "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nSee how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nSee how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nAugust 12, 2026\nWith",
-          "recommend_reason_zh": "本文详述RingCentral年入超26亿美元，通过ChatGPT Work和Codex发起AI-Native Challenge，数千员工含非技术者均交付可用项目，并将AI原生流程用于AIR、AVA、ACE开发及PMO自动化报告。",
-          "url": "https://openai.com/index/ringcentral",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
-          "title": "RingCentral如何从工程到运维打造AI原生工作模式 / How RingCentral builds AI-native work from engineering to ops",
-          "title_zh": "RingCentral如何从工程到运维打造AI原生工作模式",
-          "title_en": "How RingCentral builds AI-native work from engineering to ops",
-          "title_original": "How RingCentral builds AI-native work from engineering to ops",
-          "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nSee how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nSee how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nAugust 12, 2026\nWith",
-          "recommend_reason_zh": "本文详述RingCentral年入超26亿美元，通过ChatGPT Work和Codex发起AI-Native Challenge，数千员工含非技术者均交付可用项目，并将AI原生流程用于AIR、AVA、ACE开发及PMO自动化报告。",
-          "url": "https://openai.com/index/ringcentral",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7165,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T00:00:00Z",
-      "latest_at": "2026-08-12T00:00:00Z",
-      "primary_item": {
-        "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
-        "title": "RingCentral如何从工程到运维打造AI原生工作模式 / How RingCentral builds AI-native work from engineering to ops",
-        "title_zh": "RingCentral如何从工程到运维打造AI原生工作模式",
-        "title_en": "How RingCentral builds AI-native work from engineering to ops",
-        "title_original": "How RingCentral builds AI-native work from engineering to ops",
-        "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nSee how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nSee how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.\nAugust 12, 2026\nWith",
-        "recommend_reason_zh": "本文详述RingCentral年入超26亿美元，通过ChatGPT Work和Codex发起AI-Native Challenge，数千员工含非技术者均交付可用项目，并将AI原生流程用于AIR、AVA、ACE开发及PMO自动化报告。",
-        "url": "https://openai.com/index/ringcentral",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "企业AI落地案例，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_99857c061b25",
-      "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-      "url": "https://www.aibase.com/news/30284",
-      "primary_url": "https://www.aibase.com/news/30284",
+      "story_id": "story_9b3747a8d29a",
+      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+      "url": "https://www.aibase.com/news/30318",
+      "primary_url": "https://www.aibase.com/news/30318",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
-          "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-          "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
           "title_en": null,
-          "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
-          "summary": "Recently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nRecently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nRecently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nExplore AI Fronti",
-          "recommend_reason_zh": "字节跳动新设AI一级部门，由Adam Wang领导，与Seed、Flow、Douyin并行，前身为约百人的全球数据团队，曾为TikTok提供底层数据支持，现专注大模型数据与安全建设。",
-          "url": "https://www.aibase.com/news/30284",
+          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "summary": "According to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nAccording to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nAccording to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nExplore AI Fronti",
+          "recommend_reason_zh": "据Financial Times，Anthropic拟10月IPO，目标估值2万亿美元，若成将超SpaceX成史上最大IPO；其年化收入已超470亿美元，估值达9650亿美元超越OpenAI。",
+          "url": "https://www.aibase.com/news/30318",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:05:01.553770Z"
+          "published_at": "2026-08-13T16:05:59.188952Z"
         }
       ],
       "source_count": 1,
@@ -641,31 +1388,31 @@
       ],
       "items": [
         {
-          "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
-          "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-          "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
+          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
           "title_en": null,
-          "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
-          "summary": "Recently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nRecently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nRecently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nExplore AI Fronti",
-          "recommend_reason_zh": "字节跳动新设AI一级部门，由Adam Wang领导，与Seed、Flow、Douyin并行，前身为约百人的全球数据团队，曾为TikTok提供底层数据支持，现专注大模型数据与安全建设。",
-          "url": "https://www.aibase.com/news/30284",
+          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "summary": "According to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nAccording to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nAccording to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nExplore AI Fronti",
+          "recommend_reason_zh": "据Financial Times，Anthropic拟10月IPO，目标估值2万亿美元，若成将超SpaceX成史上最大IPO；其年化收入已超470亿美元，估值达9650亿美元超越OpenAI。",
+          "url": "https://www.aibase.com/news/30318",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:05:01.553770Z"
+          "published_at": "2026-08-13T16:05:59.188952Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -675,220 +1422,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T17:05:01.553770Z",
-      "latest_at": "2026-08-12T17:05:01.553770Z",
+      "earliest_at": "2026-08-13T16:05:59.188952Z",
+      "latest_at": "2026-08-13T16:05:59.188952Z",
       "primary_item": {
-        "id": "053ea933bdd7c0baaabca3478e17b9727533246e",
-        "title": "字节跳动再落AI关键一子，新一级部门浮出水面",
-        "title_zh": "字节跳动再落AI关键一子，新一级部门浮出水面",
+        "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+        "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+        "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
         "title_en": null,
-        "title_original": "字节跳动再落AI关键一子，新一级部门浮出水面",
-        "summary": "Recently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nRecently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nRecently, ByteDance has once again made organizational adjustments in the field of artificial intelligence, officially establishing a new AI first-level departm\nExplore AI Fronti",
-        "recommend_reason_zh": "字节跳动新设AI一级部门，由Adam Wang领导，与Seed、Flow、Douyin并行，前身为约百人的全球数据团队，曾为TikTok提供底层数据支持，现专注大模型数据与安全建设。",
-        "url": "https://www.aibase.com/news/30284",
+        "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+        "summary": "According to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nAccording to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nAccording to the Financial Times, Anthropic's investors expect the AI company to launch an IPO this October with a target valuation of $2 trillion or higher. If\nExplore AI Fronti",
+        "recommend_reason_zh": "据Financial Times，Anthropic拟10月IPO，目标估值2万亿美元，若成将超SpaceX成史上最大IPO；其年化收入已超470亿美元，估值达9650亿美元超越OpenAI。",
+        "url": "https://www.aibase.com/news/30318",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "字节组织调整属宏观动态，未直接给创作者可用的变现路径或工具。",
+      "persona_score": 18,
+      "persona_review": "融资上市传闻，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_eadeb46e171e",
-      "title": "我们使用计算机的方式即将被彻底改变 / How We Use Computers Is About to Change Forever",
-      "url": "https://creatoreconomy.so/p/how-we-use-computers-is-about-to-change-forever-ai",
-      "primary_url": "https://creatoreconomy.so/p/how-we-use-computers-is-about-to-change-forever-ai",
-      "source": "Creator Science",
-      "source_name": "OPML RSS",
+      "story_id": "story_3ca49d37b707",
+      "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+      "url": "https://www.aibase.com/news/30313",
+      "primary_url": "https://www.aibase.com/news/30313",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "685854f88a813559608b6d025ce9305dc5b88876",
-          "title": "我们使用计算机的方式即将被彻底改变 / How We Use Computers Is About to Change Forever",
-          "title_zh": "我们使用计算机的方式即将被彻底改变",
-          "title_en": "How We Use Computers Is About to Change Forever",
-          "title_original": "How We Use Computers Is About to Change Forever",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/how-we-use-computers-is-about-to-change-forever-ai",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-12T14:03:57Z"
+          "id": "45218035611f297b1507e3462f097d51f7ad34db",
+          "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+          "title_zh": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+          "title_en": null,
+          "title_original": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+          "summary": "On August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nOn August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nOn August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nExplore AI Fronti",
+          "recommend_reason_zh": "鸿蒙版支付宝8月13日升级，AI助手“Abao”正式公测，覆盖iOS、Android、HarmonyOS三大系统，用户可通过对话调用数千项服务，目前HarmonyOS设备已超7000万。",
+          "url": "https://www.aibase.com/news/30313",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T15:05:59.188952Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Creator Science"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "685854f88a813559608b6d025ce9305dc5b88876",
-          "title": "我们使用计算机的方式即将被彻底改变 / How We Use Computers Is About to Change Forever",
-          "title_zh": "我们使用计算机的方式即将被彻底改变",
-          "title_en": "How We Use Computers Is About to Change Forever",
-          "title_original": "How We Use Computers Is About to Change Forever",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/how-we-use-computers-is-about-to-change-forever-ai",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-12T14:03:57Z"
+          "id": "45218035611f297b1507e3462f097d51f7ad34db",
+          "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+          "title_zh": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+          "title_en": null,
+          "title_original": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+          "summary": "On August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nOn August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nOn August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nExplore AI Fronti",
+          "recommend_reason_zh": "鸿蒙版支付宝8月13日升级，AI助手“Abao”正式公测，覆盖iOS、Android、HarmonyOS三大系统，用户可通过对话调用数千项服务，目前HarmonyOS设备已超7000万。",
+          "url": "https://www.aibase.com/news/30313",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T15:05:59.188952Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.8779,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
         "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
+        "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T14:03:57Z",
-      "latest_at": "2026-08-12T14:03:57Z",
+      "earliest_at": "2026-08-13T15:05:59.188952Z",
+      "latest_at": "2026-08-13T15:05:59.188952Z",
       "primary_item": {
-        "id": "685854f88a813559608b6d025ce9305dc5b88876",
-        "title": "我们使用计算机的方式即将被彻底改变 / How We Use Computers Is About to Change Forever",
-        "title_zh": "我们使用计算机的方式即将被彻底改变",
-        "title_en": "How We Use Computers Is About to Change Forever",
-        "title_original": "How We Use Computers Is About to Change Forever",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://creatoreconomy.so/p/how-we-use-computers-is-about-to-change-forever-ai",
-        "source": "Creator Science",
-        "source_name": "OPML RSS"
+        "id": "45218035611f297b1507e3462f097d51f7ad34db",
+        "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+        "title_zh": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+        "title_en": null,
+        "title_original": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+        "summary": "On August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nOn August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nOn August 13, the HarmonyOS version of Alipay received a major update, officially launching its AI-native assistant \"Abao\" for public testing to HarmonyOS users\nExplore AI Fronti",
+        "recommend_reason_zh": "鸿蒙版支付宝8月13日升级，AI助手“Abao”正式公测，覆盖iOS、Android、HarmonyOS三大系统，用户可通过对话调用数千项服务，目前HarmonyOS设备已超7000万。",
+        "url": "https://www.aibase.com/news/30313",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 35,
-      "persona_review": "泛AI趋势评论，缺乏具体工具或变现路径，暂不占注意力。",
+      "persona_review": "AI助手上线属产品更新，但未直接涉及内容生产或变现路径，暂不优先测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_a43aa2b59b44",
-      "title": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-      "url": "https://www.yunyingpai.com/channel/1061597.html",
-      "primary_url": "https://www.yunyingpai.com/channel/1061597.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "ffed0fd8f280d210e197e001e9c28b7e2e1e6e57",
-          "title": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-          "title_zh": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-          "title_en": null,
-          "title_original": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/channel/1061597.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-12T08:37:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "ffed0fd8f280d210e197e001e9c28b7e2e1e6e57",
-          "title": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-          "title_zh": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-          "title_en": null,
-          "title_original": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/channel/1061597.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-12T08:37:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.8115,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T08:37:25Z",
-      "latest_at": "2026-08-12T08:37:25Z",
-      "primary_item": {
-        "id": "ffed0fd8f280d210e197e001e9c28b7e2e1e6e57",
-        "title": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-        "title_zh": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-        "title_en": null,
-        "title_original": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/channel/1061597.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "行业动态，指出流量变现逻辑变化，但缺具体案例和行动路径，可作思路参考。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_06cb8c904cd7",
-      "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-      "url": "https://www.aibase.com/news/30288",
-      "primary_url": "https://www.aibase.com/news/30288",
+      "story_id": "story_9d6996b57c59",
+      "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+      "url": "https://www.aibase.com/news/30310",
+      "primary_url": "https://www.aibase.com/news/30310",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
-          "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-          "title_zh": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
+          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "title_zh": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
           "title_en": null,
-          "title_original": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-          "summary": "SpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nSpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nSpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nExplore AI Fronti",
-          "recommend_reason_zh": "马斯克在SpaceX内部演讲中首提Starship、Starlink与AI三大方向，断言AI收入今年9月或超火箭与Starlink总和，五年后占SpaceX价值约99%。",
-          "url": "https://www.aibase.com/news/30288",
+          "title_original": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "summary": "According to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nAccording to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nAccording to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nExplore AI Fronti",
+          "recommend_reason_zh": "据Federal Reserve Bank of Atlanta调查，约90%高管承认AI未提升生产力，2021年以来效率提升主要靠远程办公。企业一边投AI一边裁员，但裁员后股票回报平均近零，超半数事件负面。",
+          "url": "https://www.aibase.com/news/30310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:05:01.553770Z"
+          "published_at": "2026-08-13T14:05:59.188952Z"
         }
       ],
       "source_count": 1,
@@ -897,170 +1559,83 @@
       ],
       "items": [
         {
-          "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
-          "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-          "title_zh": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
+          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "title_zh": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
           "title_en": null,
-          "title_original": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-          "summary": "SpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nSpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nSpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nExplore AI Fronti",
-          "recommend_reason_zh": "马斯克在SpaceX内部演讲中首提Starship、Starlink与AI三大方向，断言AI收入今年9月或超火箭与Starlink总和，五年后占SpaceX价值约99%。",
-          "url": "https://www.aibase.com/news/30288",
+          "title_original": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "summary": "According to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nAccording to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nAccording to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nExplore AI Fronti",
+          "recommend_reason_zh": "据Federal Reserve Bank of Atlanta调查，约90%高管承认AI未提升生产力，2021年以来效率提升主要靠远程办公。企业一边投AI一边裁员，但裁员后股票回报平均近零，超半数事件负面。",
+          "url": "https://www.aibase.com/news/30310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T17:05:01.553770Z"
+          "published_at": "2026-08-13T14:05:59.188952Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T17:05:01.553770Z",
-      "latest_at": "2026-08-12T17:05:01.553770Z",
+      "earliest_at": "2026-08-13T14:05:59.188952Z",
+      "latest_at": "2026-08-13T14:05:59.188952Z",
       "primary_item": {
-        "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
-        "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-        "title_zh": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+        "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
+        "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+        "title_zh": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
         "title_en": null,
-        "title_original": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-        "summary": "SpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nSpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nSpaceX has released a video of Elon Musk's latest speech to employees. While reviewing the company's development journey, he systematically outlined the three m\nExplore AI Fronti",
-        "recommend_reason_zh": "马斯克在SpaceX内部演讲中首提Starship、Starlink与AI三大方向，断言AI收入今年9月或超火箭与Starlink总和，五年后占SpaceX价值约99%。",
-        "url": "https://www.aibase.com/news/30288",
+        "title_original": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+        "summary": "According to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nAccording to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nAccording to a survey by the Federal Reserve Bank of Atlanta, about 90% of corporate executives believe AI has not yet improved their company's productivity. Mo\nExplore AI Fronti",
+        "recommend_reason_zh": "据Federal Reserve Bank of Atlanta调查，约90%高管承认AI未提升生产力，2021年以来效率提升主要靠远程办公。企业一边投AI一边裁员，但裁员后股票回报平均近零，超半数事件负面。",
+        "url": "https://www.aibase.com/news/30310",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "宏观评论，与内容变现无直接关联，不占注意力。",
+      "persona_score": 25,
+      "persona_review": "宏观评论，与个人创作者变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_3479a70ad230",
-      "title": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_zh": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力",
-          "title_en": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow we trained our most capable vision-language model Benchmark results Inference speed on CPU and GPU How to use LFM2.5-VL-3B LFM2.5-VL-3B demo Get Started Citation LFM2.5-VL-3B is our most capable vision-language model you can run on your own hardware. It understands documents and screens alike, grounds objects, and can call tools. It answers directly instead of reasoning, so responses stay fast in real-time and ",
-          "recommend_reason_zh": "LFM2.5-VL-3B是Liquid AI的边缘视觉语言模型，预训练约34T tokens、视觉数据增至4倍，词表扩到128K；在M5 Max上解码228 tokens/s、仅占3GB内存，也能在Galaxy S26 Ultra上跑20 tokens/s。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_zh": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力",
-          "title_en": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow we trained our most capable vision-language model Benchmark results Inference speed on CPU and GPU How to use LFM2.5-VL-3B LFM2.5-VL-3B demo Get Started Citation LFM2.5-VL-3B is our most capable vision-language model you can run on your own hardware. It understands documents and screens alike, grounds objects, and can call tools. It answers directly instead of reasoning, so responses stay fast in real-time and ",
-          "recommend_reason_zh": "LFM2.5-VL-3B是Liquid AI的边缘视觉语言模型，预训练约34T tokens、视觉数据增至4倍，词表扩到128K；在M5 Max上解码228 tokens/s、仅占3GB内存，也能在Galaxy S26 Ultra上跑20 tokens/s。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8772,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T14:00:51Z",
-      "latest_at": "2026-08-12T14:00:51Z",
-      "primary_item": {
-        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-        "title": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "title_zh": "LFM2.5-VL-3B：为边缘端提供更好更快的视觉能力",
-        "title_en": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow we trained our most capable vision-language model Benchmark results Inference speed on CPU and GPU How to use LFM2.5-VL-3B LFM2.5-VL-3B demo Get Started Citation LFM2.5-VL-3B is our most capable vision-language model you can run on your own hardware. It understands documents and screens alike, grounds objects, and can call tools. It answers directly instead of reasoning, so responses stay fast in real-time and ",
-        "recommend_reason_zh": "LFM2.5-VL-3B是Liquid AI的边缘视觉语言模型，预训练约34T tokens、视觉数据增至4倍，词表扩到128K；在M5 Max上解码228 tokens/s、仅占3GB内存，也能在Galaxy S26 Ultra上跑20 tokens/s。",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "边缘端视觉模型，与内容变现无直接关联，暂不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_6c26056e744f",
-      "title": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-      "url": "https://www.aibase.com/news/30279",
-      "primary_url": "https://www.aibase.com/news/30279",
+      "story_id": "story_2a89c494b2df",
+      "title": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+      "url": "https://www.aibase.com/news/30312",
+      "primary_url": "https://www.aibase.com/news/30312",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1f78550d0ff6c05f0960107b02f22f2a241a4c8f",
-          "title": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-          "title_zh": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
+          "id": "790e1ca1a670f1393d2a80e31c992911c213da47",
+          "title": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+          "title_zh": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
           "title_en": null,
-          "title_original": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-          "summary": "Game developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nGame developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nGame developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nExplore AI Fronti",
-          "recommend_reason_zh": "Saber Interactive前首席编剧Stella Sacco指控新作《Rideshare Stimulator》用ChatGPT顶替编剧，CEO Matthew Karch否认并称剧情“全由人类撰写”，却承认实验模式必然融入AI，双方各执一词。",
-          "url": "https://www.aibase.com/news/30279",
+          "title_original": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+          "summary": "Recently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nRecently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nRecently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nExplore AI Fronti",
+          "recommend_reason_zh": "欧洲AI编程新星Lovable完成4000万美元C轮融资，估值升至133亿美元，由Menlo Ventures与Scaleup Europe Fund领投。其年经常性收入已超5亿美元，平台托管约6000万项目，月访问量达9亿。",
+          "url": "https://www.aibase.com/news/30312",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T16:05:01.553770Z"
+          "published_at": "2026-08-13T14:05:59.188952Z"
         }
       ],
       "source_count": 1,
@@ -1069,252 +1644,50 @@
       ],
       "items": [
         {
-          "id": "1f78550d0ff6c05f0960107b02f22f2a241a4c8f",
-          "title": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-          "title_zh": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
+          "id": "790e1ca1a670f1393d2a80e31c992911c213da47",
+          "title": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+          "title_zh": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
           "title_en": null,
-          "title_original": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-          "summary": "Game developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nGame developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nGame developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nExplore AI Fronti",
-          "recommend_reason_zh": "Saber Interactive前首席编剧Stella Sacco指控新作《Rideshare Stimulator》用ChatGPT顶替编剧，CEO Matthew Karch否认并称剧情“全由人类撰写”，却承认实验模式必然融入AI，双方各执一词。",
-          "url": "https://www.aibase.com/news/30279",
+          "title_original": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+          "summary": "Recently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nRecently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nRecently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nExplore AI Fronti",
+          "recommend_reason_zh": "欧洲AI编程新星Lovable完成4000万美元C轮融资，估值升至133亿美元，由Menlo Ventures与Scaleup Europe Fund领投。其年经常性收入已超5亿美元，平台托管约6000万项目，月访问量达9亿。",
+          "url": "https://www.aibase.com/news/30312",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T16:05:01.553770Z"
+          "published_at": "2026-08-13T14:05:59.188952Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8781,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T16:05:01.553770Z",
-      "latest_at": "2026-08-12T16:05:01.553770Z",
-      "primary_item": {
-        "id": "1f78550d0ff6c05f0960107b02f22f2a241a4c8f",
-        "title": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-        "title_zh": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-        "title_en": null,
-        "title_original": "Saber 否认用 AI 顶替游戏编剧，前首席编剧当场回怼：你不能两头都占",
-        "summary": "Game developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nGame developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nGame developer Saber Interactive is in the midst of a controversy over the credit for the script of its new game, \"Rideshare Stimulator.\" The game, announced la\nExplore AI Fronti",
-        "recommend_reason_zh": "Saber Interactive前首席编剧Stella Sacco指控新作《Rideshare Stimulator》用ChatGPT顶替编剧，CEO Matthew Karch否认并称剧情“全由人类撰写”，却承认实验模式必然融入AI，双方各执一词。",
-        "url": "https://www.aibase.com/news/30279",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "行业口水战，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_49365c8a72d6",
-      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_en": null,
-          "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_en": null,
-          "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6646,
-      "importance": 0.6646,
-      "importance_score": 0.6646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7779,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T02:05:42Z",
-      "latest_at": "2026-08-12T05:41:30.137000Z",
+      "earliest_at": "2026-08-13T14:05:59.188952Z",
+      "latest_at": "2026-08-13T14:05:59.188952Z",
       "primary_item": {
-        "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+        "id": "790e1ca1a670f1393d2a80e31c992911c213da47",
+        "title": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+        "title_zh": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
         "title_en": null,
-        "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "曝光AI造假案例，但无直接变现路径，仅提醒警惕，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_9aab89425ec2",
-      "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-      "url": "https://www.aibase.com/news/30283",
-      "primary_url": "https://www.aibase.com/news/30283",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "title_zh": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "title_en": null,
-          "title_original": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "summary": "Lin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nLin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nLin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nExplore AI Fronti",
-          "recommend_reason_zh": "前通义千问负责人Lin Junyang官宣创业，成立Pragmatik Labs，主攻数字与物理世界融合的AI agent；首轮融资数亿美元，估值20亿美元，高榕、红杉各投1亿，腾讯投2000万。",
-          "url": "https://www.aibase.com/news/30283",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T16:05:01.553770Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "title_zh": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "title_en": null,
-          "title_original": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "summary": "Lin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nLin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nLin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nExplore AI Fronti",
-          "recommend_reason_zh": "前通义千问负责人Lin Junyang官宣创业，成立Pragmatik Labs，主攻数字与物理世界融合的AI agent；首轮融资数亿美元，估值20亿美元，高榕、红杉各投1亿，腾讯投2000万。",
-          "url": "https://www.aibase.com/news/30283",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T16:05:01.553770Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T16:05:01.553770Z",
-      "latest_at": "2026-08-12T16:05:01.553770Z",
-      "primary_item": {
-        "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-        "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-        "title_zh": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-        "title_en": null,
-        "title_original": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-        "summary": "Lin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nLin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nLin Junyang, former head of Alibaba's Qwen, recently officially announced his entrepreneurial activities on a foreign social platform, announcing the establishm\nExplore AI Fronti",
-        "recommend_reason_zh": "前通义千问负责人Lin Junyang官宣创业，成立Pragmatik Labs，主攻数字与物理世界融合的AI agent；首轮融资数亿美元，估值20亿美元，高榕、红杉各投1亿，腾讯投2000万。",
-        "url": "https://www.aibase.com/news/30283",
+        "title_original": "估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资",
+        "summary": "Recently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nRecently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nRecently, the highly anticipated AI programming star Lovable in Europe has officially confirmed a new round of substantial financing. The company successfully s\nExplore AI Fronti",
+        "recommend_reason_zh": "欧洲AI编程新星Lovable完成4000万美元C轮融资，估值升至133亿美元，由Menlo Ventures与Scaleup Europe Fund领投。其年经常性收入已超5亿美元，平台托管约6000万项目，月访问量达9亿。",
+        "url": "https://www.aibase.com/news/30312",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1324,501 +1697,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     },
     {
-      "story_id": "story_81b35863b7b0",
-      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "primary_url": "https://x.ai/news/grok-4-6",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
-          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-          "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-          "title_en": "Introducing Grok 4.6",
-          "title_original": "Introducing Grok 4.6",
-          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:00:00Z"
-        },
-        {
-          "id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
-          "title": "Grok 4.6发布，专注长时运行代理与交互视觉任务",
-          "title_zh": "Grok 4.6发布，专注长时运行代理与交互视觉任务",
-          "title_en": null,
-          "title_original": "Grok 4.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "x.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T16:36:26.909000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "x.ai",
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
-          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-          "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-          "title_en": "Introducing Grok 4.6",
-          "title_original": "Introducing Grok 4.6",
-          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:00:00Z"
-        },
-        {
-          "id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
-          "title": "Grok 4.6发布，专注长时运行代理与交互视觉任务",
-          "title_zh": "Grok 4.6发布，专注长时运行代理与交互视觉任务",
-          "title_en": null,
-          "title_original": "Grok 4.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "x.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T16:36:26.909000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6566,
-      "importance": 0.6566,
-      "importance_score": 0.6566,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7165,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T00:00:00Z",
-      "latest_at": "2026-08-12T16:36:26.909000Z",
-      "primary_item": {
-        "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
-        "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-        "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-        "title_en": "Introducing Grok 4.6",
-        "title_original": "Introducing Grok 4.6",
-        "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-        "recommend_reason_zh": null,
-        "url": "https://x.ai/news/grok-4-6",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "模型更新但未直接指向内容生产或变现路径，暂不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_a9f021589299",
-      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-      "url": "https://www.aibase.com/news/30278",
-      "primary_url": "https://www.aibase.com/news/30278",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "summary": "According to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nExplore AI Fronti",
-          "recommend_reason_zh": "Google Gemma4全球下载量突破3亿，官方于Google I/O Shanghai公布。该模型4月发布，定位高级推理与智能体工作流，获全球开发者广泛采用。此里程碑预示AI新纪元。",
-          "url": "https://www.aibase.com/news/30278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T15:05:01.553770Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "summary": "According to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nExplore AI Fronti",
-          "recommend_reason_zh": "Google Gemma4全球下载量突破3亿，官方于Google I/O Shanghai公布。该模型4月发布，定位高级推理与智能体工作流，获全球开发者广泛采用。此里程碑预示AI新纪元。",
-          "url": "https://www.aibase.com/news/30278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T15:05:01.553770Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T15:05:01.553770Z",
-      "latest_at": "2026-08-12T15:05:01.553770Z",
-      "primary_item": {
-        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_en": null,
-        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "summary": "According to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nExplore AI Fronti",
-        "recommend_reason_zh": "Google Gemma4全球下载量突破3亿，官方于Google I/O Shanghai公布。该模型4月发布，定位高级推理与智能体工作流，获全球开发者广泛采用。此里程碑预示AI新纪元。",
-        "url": "https://www.aibase.com/news/30278",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛AI技术新闻，下载量数据与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_cfc084392657",
-      "title": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-      "url": "https://www.aibase.com/news/30274",
-      "primary_url": "https://www.aibase.com/news/30274",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ac8a6314224da12ab5223fdaa4463df8195edc6",
-          "title": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-          "title_zh": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-          "title_en": null,
-          "title_original": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-          "summary": "Recently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nRecently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nRecently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nExplore AI Fronti",
-          "recommend_reason_zh": "River AI由前OpenAI研究员、xAI联合创始人Igor Babuschkin创立仅两个月，即获11亿美元融资，General Catalyst与AMP PBC领投，NVIDIA参投，聚焦重塑AI智能体为个性化“守护天使”。",
-          "url": "https://www.aibase.com/news/30274",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T15:05:01.553770Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ac8a6314224da12ab5223fdaa4463df8195edc6",
-          "title": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-          "title_zh": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-          "title_en": null,
-          "title_original": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-          "summary": "Recently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nRecently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nRecently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nExplore AI Fronti",
-          "recommend_reason_zh": "River AI由前OpenAI研究员、xAI联合创始人Igor Babuschkin创立仅两个月，即获11亿美元融资，General Catalyst与AMP PBC领投，NVIDIA参投，聚焦重塑AI智能体为个性化“守护天使”。",
-          "url": "https://www.aibase.com/news/30274",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T15:05:01.553770Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T15:05:01.553770Z",
-      "latest_at": "2026-08-12T15:05:01.553770Z",
-      "primary_item": {
-        "id": "8ac8a6314224da12ab5223fdaa4463df8195edc6",
-        "title": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-        "title_zh": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-        "title_en": null,
-        "title_original": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
-        "summary": "Recently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nRecently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nRecently, the field of artificial intelligence has once again witnessed a massive funding round. River AI, a startup founded just two months ago by Igor Babusch\nExplore AI Fronti",
-        "recommend_reason_zh": "River AI由前OpenAI研究员、xAI联合创始人Igor Babuschkin创立仅两个月，即获11亿美元融资，General Catalyst与AMP PBC领投，NVIDIA参投，聚焦重塑AI智能体为个性化“守护天使”。",
-        "url": "https://www.aibase.com/news/30274",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "融资新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_88d5ec31d539",
-      "title": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61 / Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://news.ycombinator.com/item?id=49275385",
-      "primary_url": "https://news.ycombinator.com/item?id=49275385",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e0f5ec037a6aedba052ff81206ada382dcc5bd8c",
-          "title": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61 / Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_zh": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61",
-          "title_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_original": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49275385",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T22:36:49.350000Z"
-        },
-        {
-          "id": "e214a4a36bae4164539feda78c397eb0141993eb",
-          "title": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_zh": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_en": null,
-          "title_original": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T18:12:03.734000Z"
-        },
-        {
-          "id": "668aa3498d79f617de9f9f8d3c5d6989a706d17c",
-          "title": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分 / Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_zh": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_original": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T16:54:25Z"
-        },
-        {
-          "id": "d41645ac518fb3bf8956d0258232edaa544443da",
-          "title": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分 / SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-          "title_zh": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_en": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-          "title_original": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T16:54:25Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "artificialanalysis.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e0f5ec037a6aedba052ff81206ada382dcc5bd8c",
-          "title": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61 / Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_zh": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61",
-          "title_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_original": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49275385",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T22:36:49.350000Z"
-        },
-        {
-          "id": "e214a4a36bae4164539feda78c397eb0141993eb",
-          "title": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_zh": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_en": null,
-          "title_original": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T18:12:03.734000Z"
-        },
-        {
-          "id": "668aa3498d79f617de9f9f8d3c5d6989a706d17c",
-          "title": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分 / Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_zh": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "title_original": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T16:54:25Z"
-        },
-        {
-          "id": "d41645ac518fb3bf8956d0258232edaa544443da",
-          "title": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分 / SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-          "title_zh": "SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分",
-          "title_en": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-          "title_original": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T16:54:25Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5946,
-      "importance": 0.5946,
-      "importance_score": 0.5946,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9932,
-        "story_heat": 0.75,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T16:54:25Z",
-      "latest_at": "2026-08-12T22:36:49.350000Z",
-      "primary_item": {
-        "id": "e0f5ec037a6aedba052ff81206ada382dcc5bd8c",
-        "title": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61 / Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-        "title_zh": "Grok 4.6 在 Artificial Analysis Intelligence Index 上得分 61",
-        "title_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-        "title_original": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49275385",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "模型榜单分数，无内容生产或变现路径，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
-      }
-    },
-    {
-      "story_id": "story_628145e0f8a2",
-      "title": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-      "primary_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+      "story_id": "story_08f58e5058d2",
+      "title": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+      "primary_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
       "source": "TechCrunch AI",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
-          "title": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "title_zh": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude",
-          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
+          "title": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "title_zh": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍",
+          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-12T22:26:37Z"
+          "published_at": "2026-08-13T19:22:40Z"
         },
         {
-          "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
-          "title": "部分 Claude 用户恼火：Anthropic 的新水印会让他们在工作和课堂上作弊被抓。 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "title_zh": "部分 Claude 用户恼火：Anthropic 的新水印会让他们在工作和课堂上作弊被抓。",
-          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "id": "a4b6405fe42e30ccbd34a7e082e867231c5b745a",
+          "title": "OpenAI 推出“Ultrafast”新模式，让 GPT 5.6 Sol 运行速度提升 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "title_zh": "OpenAI 推出“Ultrafast”新模式，让 GPT 5.6 Sol 运行速度提升 14 倍",
+          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
           "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-12T22:26:37Z"
+          "published_at": "2026-08-13T19:22:40Z"
         }
       ],
       "source_count": 2,
@@ -1828,45 +1744,45 @@
       ],
       "items": [
         {
-          "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
-          "title": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "title_zh": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude",
-          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
+          "title": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "title_zh": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍",
+          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-12T22:26:37Z"
+          "published_at": "2026-08-13T19:22:40Z"
         },
         {
-          "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
-          "title": "部分 Claude 用户恼火：Anthropic 的新水印会让他们在工作和课堂上作弊被抓。 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "title_zh": "部分 Claude 用户恼火：Anthropic 的新水印会让他们在工作和课堂上作弊被抓。",
-          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "id": "a4b6405fe42e30ccbd34a7e082e867231c5b745a",
+          "title": "OpenAI 推出“Ultrafast”新模式，让 GPT 5.6 Sol 运行速度提升 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "title_zh": "OpenAI 推出“Ultrafast”新模式，让 GPT 5.6 Sol 运行速度提升 14 倍",
+          "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+          "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
           "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-12T22:26:37Z"
+          "published_at": "2026-08-13T19:22:40Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5721,
-      "importance": 0.5721,
-      "importance_score": 0.5721,
+      "score": 0.5643,
+      "importance": 0.5643,
+      "importance_score": 0.5643,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9908,
+        "recency": 0.9477,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -1876,27 +1792,27 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T22:26:37Z",
-      "latest_at": "2026-08-12T22:26:37Z",
+      "earliest_at": "2026-08-13T19:22:40Z",
+      "latest_at": "2026-08-13T19:22:40Z",
       "primary_item": {
-        "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
-        "title": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "title_zh": "一些 Claude 用户不满 Anthropic 新加水印，这会让人发现他们在工作和课堂上使用 Claude",
-        "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
+        "title": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "title_zh": "OpenAI 推出 \"Ultrafast\" 新模式，GPT-5.6 Sol 提速 14 倍",
+        "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "泛AI产品争议，与内容变现无直接关联，不占注意力。",
+      "persona_score": 30,
+      "persona_review": "模型提速是技术新闻，未直接关联内容生产或变现路径，暂不占用行动时间。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-12T23:28:25.707539Z"
+        "scored_at": "2026-08-13T23:27:44.734598Z"
       }
     }
   ]

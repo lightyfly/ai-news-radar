@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:28:54.879304Z",
+  "generated_at": "2026-08-13T23:28:17.859433Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_094f6572bd5f",
-      "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 与 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "story_id": "story_3fd84efeedff",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "插件1.0总算落地，但'登陆'和'可用'之间还隔着配置文档的距离。"
+          "review": "低成本的智能体性能？先晒出完整基准和成本明细，别只给营销话术。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方更新有细节，但无论文代码，等第三方验证。"
+          "score": 25,
+          "review": "官方博客指南，无论文无代码无评测，性能数字待验证。"
         },
         "pragmatic": {
           "score": 62,
-          "review": "官方工具更新，对AI编程提效有帮助，但未直接涉及内容变现，可间接提升效率，值得关注。"
+          "review": "官方更新，但未提内容变现路径，仅对技术型创作者有间接价值，可暂缓。"
         }
       }
     },
     {
-      "story_id": "story_a43aa2b59b44",
-      "title": "大促失灵、活动亏钱：流量变现的底层逻辑，彻底变了",
-      "url": "https://www.yunyingpai.com/channel/1061597.html",
+      "story_id": "story_230b99496aae",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "流量红利见顶是老话，但把锅全甩给平台，自己选品和定价的锅呢？"
+          "score": 72,
+          "review": "编程智能体确实能打，但'最强'这词在自家后院喊喊就好。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅行业观点文章，无论文无数据无代码，流量逻辑变化缺乏实证支撑。"
+          "score": 45,
+          "review": "官方博客有细节数字，但无论文无代码，等第三方复现再定论。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "行业动态，指出流量变现逻辑变化，但缺具体案例和行动路径，可作思路参考。"
+          "score": 55,
+          "review": "官方模型更新，对编程和智能体有提升，但未直接指向内容变现路径，可留意后续应用案例。"
         }
       }
     },
     {
-      "story_id": "story_fdae5f4986f9",
-      "title": "用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "story_id": "story_c2a711833862",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "教人写提示词？这教程怕是给刚学会开机的用户准备的。"
+          "score": 72,
+          "review": "把表格变应用听着新鲜，但得看 demo 是不是只挑了最简单的场景。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客教程，无论文代码评测，仅入门指导，证据不足。"
+          "score": 35,
+          "review": "官方博客宣称功能，无技术细节与评测，待实际体验验证。"
         },
         "pragmatic": {
           "score": 45,
-          "review": "官方教程，但偏基础操作，对内容变现的直接帮助有限，可作工具入门参考。"
+          "review": "工具更新，能提升数据展示效率，但直接变现路径不明确，可留意后续案例。"
         }
       }
     }
