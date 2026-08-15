@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-14T22:43:33.930295Z",
+  "generated_at": "2026-08-15T22:41:52.617227Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 11,
   "items": [
     {
-      "story_id": "story_3ded9ed73b65",
-      "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "story_id": "story_e27bfcf013b4",
+      "title": "OAuth应用支持多个重定向URI与Token刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.6 现已登陆 GitHub Copilot",
-          "title_en": "Grok 4.6 is now available in GitHub Copilot",
-          "title_original": "Grok 4.6 is now available in GitHub Copilot",
-          "summary": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nGrok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows.\nIn our internal testing, Grok 4.6 showed strong results across terminal-based coding tasks in Visual Studio Code and Copilot CLI. It performed especially well on long",
-          "recommend_reason_zh": "Grok 4.6是xAI最新推理模型，现已登陆GitHub Copilot，专为agentic coding设计，在Visual Studio Code和Copilot CLI的终端编码任务中表现强劲，尤其擅长复杂多步长时程工作流。",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth应用支持多个重定向URI与Token刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth应用支持多个重定向URI与Token刷新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
+          "summary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nWe’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development:\nOAuth apps can now request a short-lived token during the user authentication flow. If an app opts in, they get an access token that lives for eight hours and a refresh token that’s valid for six months.",
+          "recommend_reason_zh": "GitHub为OAuth apps和GitHub Apps发布更新：OAuth apps可选用八小时访问令牌与六个月刷新令牌，并注册最多十个回调URI；两者均可启用通配符匹配。注意单URI应用的默认通配符，建议审查。",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "source_count": 1,
@@ -32,118 +32,31 @@
       ],
       "items": [
         {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.6 现已登陆 GitHub Copilot",
-          "title_en": "Grok 4.6 is now available in GitHub Copilot",
-          "title_original": "Grok 4.6 is now available in GitHub Copilot",
-          "summary": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nGrok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows.\nIn our internal testing, Grok 4.6 showed strong results across terminal-based coding tasks in Visual Studio Code and Copilot CLI. It performed especially well on long",
-          "recommend_reason_zh": "Grok 4.6是xAI最新推理模型，现已登陆GitHub Copilot，专为agentic coding设计，在Visual Studio Code和Copilot CLI的终端编码任务中表现强劲，尤其擅长复杂多步长时程工作流。",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth应用支持多个重定向URI与Token刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth应用支持多个重定向URI与Token刷新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
+          "summary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nWe’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development:\nOAuth apps can now request a short-lived token during the user authentication flow. If an app opts in, they get an access token that lives for eight hours and a refresh token that’s valid for six months.",
+          "recommend_reason_zh": "GitHub为OAuth apps和GitHub Apps发布更新：OAuth apps可选用八小时访问令牌与六个月刷新令牌，并注册最多十个回调URI；两者均可启用通配符匹配。注意单URI应用的默认通配符，建议审查。",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9113,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:17:46Z",
-      "latest_at": "2026-08-14T16:17:46Z",
-      "primary_item": {
-        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-        "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-        "title_zh": "Grok 4.6 现已登陆 GitHub Copilot",
-        "title_en": "Grok 4.6 is now available in GitHub Copilot",
-        "title_original": "Grok 4.6 is now available in GitHub Copilot",
-        "summary": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nGrok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows.\nIn our internal testing, Grok 4.6 showed strong results across terminal-based coding tasks in Visual Studio Code and Copilot CLI. It performed especially well on long",
-        "recommend_reason_zh": "Grok 4.6是xAI最新推理模型，现已登陆GitHub Copilot，专为agentic coding设计，在Visual Studio Code和Copilot CLI的终端编码任务中表现强劲，尤其擅长复杂多步长时程工作流。",
-        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "工具更新，对AI编程有帮助，但与内容变现无直接关联，暂不测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_203ecf6e9943",
-      "title": "如何用 Agent 应用把软件交付工作流引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
-          "title": "如何用 Agent 应用把软件交付工作流引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-          "title_zh": "如何用 Agent 应用把软件交付工作流引入 GitHub",
-          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
-          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
-          "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nHow many tabs do you have open alongside your pull request?\nImagine picking up a new issue in your produ",
-          "recommend_reason_zh": "本文展示如何用四个GitHub Agent Apps（Amplitude、Endor Labs、LaunchDarkly、PagerDuty）在GitHub内完成功能交付。以将‘invite your teammates’步骤改为可选为例，通过Amplitude发现团队用户留存更高而个人用户无此关联，随后用Endor Labs检查依赖、LaunchDarkly配置开关、PagerDuty确认部署。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
-          "title": "如何用 Agent 应用把软件交付工作流引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-          "title_zh": "如何用 Agent 应用把软件交付工作流引入 GitHub",
-          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
-          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
-          "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nHow many tabs do you have open alongside your pull request?\nImagine picking up a new issue in your produ",
-          "recommend_reason_zh": "本文展示如何用四个GitHub Agent Apps（Amplitude、Endor Labs、LaunchDarkly、PagerDuty）在GitHub内完成功能交付。以将‘invite your teammates’步骤改为可选为例，通过Amplitude发现团队用户留存更高而个人用户无此关联，随后用Endor Labs检查依赖、LaunchDarkly配置开关、PagerDuty确认部署。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9074,
+        "recency": 0.7074,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -154,857 +67,741 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T16:00:00Z",
-      "latest_at": "2026-08-14T16:00:00Z",
+      "earliest_at": "2026-08-14T22:43:44Z",
+      "latest_at": "2026-08-14T22:43:44Z",
       "primary_item": {
-        "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
-        "title": "如何用 Agent 应用把软件交付工作流引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-        "title_zh": "如何用 Agent 应用把软件交付工作流引入 GitHub",
-        "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
-        "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
-        "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nHow many tabs do you have open alongside your pull request?\nImagine picking up a new issue in your produ",
-        "recommend_reason_zh": "本文展示如何用四个GitHub Agent Apps（Amplitude、Endor Labs、LaunchDarkly、PagerDuty）在GitHub内完成功能交付。以将‘invite your teammates’步骤改为可选为例，通过Amplitude发现团队用户留存更高而个人用户无此关联，随后用Endor Labs检查依赖、LaunchDarkly配置开关、PagerDuty确认部署。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-        "source": "GitHub AI & ML",
+        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+        "title": "OAuth应用支持多个重定向URI与Token刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+        "title_zh": "OAuth应用支持多个重定向URI与Token刷新",
+        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
+        "summary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nWe’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development:\nOAuth apps can now request a short-lived token during the user authentication flow. If an app opts in, they get an access token that lives for eight hours and a refresh token that’s valid for six months.",
+        "recommend_reason_zh": "GitHub为OAuth apps和GitHub Apps发布更新：OAuth apps可选用八小时访问令牌与六个月刷新令牌，并注册最多十个回调URI；两者均可启用通配符匹配。注意单URI应用的默认通配符，建议审查。",
+        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 30,
-      "persona_review": "面向开发者工作流，非内容变现直接路径，暂不占用注意力。",
+      "persona_review": "技术开发更新，与内容变现无直接关联，除非用于自建工具，否则不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
+        "scored_at": "2026-08-15T22:57:46.181417Z"
       }
     },
     {
-      "story_id": "story_e5e76630b687",
-      "title": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_fe87bc97dd0a",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nLeading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switch",
-          "recommend_reason_zh": "OpenAI将GPT-5.6 Luna的输入价格从$1降至$0.20，Anthropic的Claude Opus 5定价为Fable 5的一半；自7月中旬美企模型价格跌近25%，本文讲述DeepSeek等中国对手带来的降价压力。",
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "Cursor 被 SpaceX 正式收购，始于4月的流程完成；双方将借助全球最大GPU集群训练模型，本周三发布的 Grok 4.6 已初步展示成果，旨在以更低成本提供更强模型。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nLeading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switch",
-          "recommend_reason_zh": "OpenAI将GPT-5.6 Luna的输入价格从$1降至$0.20，Anthropic的Claude Opus 5定价为Fable 5的一半；自7月中旬美企模型价格跌近25%，本文讲述DeepSeek等中国对手带来的降价压力。",
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8874,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T14:27:14Z",
-      "latest_at": "2026-08-14T14:27:14Z",
-      "primary_item": {
-        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-        "title": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_zh": "中国AI对手步步紧逼，OpenAI与Anthropic掀起价格战",
-        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nLeading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switch",
-        "recommend_reason_zh": "OpenAI将GPT-5.6 Luna的输入价格从$1降至$0.20，Anthropic的Claude Opus 5定价为Fable 5的一半；自7月中旬美企模型价格跌近25%，本文讲述DeepSeek等中国对手带来的降价压力。",
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "价格战影响API成本，但未直接给出创作者可用的变现路径，暂不行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_0ce2047b51cc",
-      "title": "AI企业也能按Token融资：广东首推“Token贷”",
-      "url": "https://www.aibase.com/news/30365",
-      "primary_url": "https://www.aibase.com/news/30365",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
-          "title": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_en": null,
-          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
-          "summary": "On August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nExplore AI Fronti",
-          "recommend_reason_zh": "8月14日广东首个代币经济金融产品‘Token Loan’落地广州海珠区，贷款额按合同金额和Token消耗核定，中国银行广州分行已试审，累计规模2800万元。",
-          "url": "https://www.aibase.com/news/30365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
-          "title": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_en": null,
-          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
-          "summary": "On August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nExplore AI Fronti",
-          "recommend_reason_zh": "8月14日广东首个代币经济金融产品‘Token Loan’落地广州海珠区，贷款额按合同金额和Token消耗核定，中国银行广州分行已试审，累计规模2800万元。",
-          "url": "https://www.aibase.com/news/30365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T17:43:33.930295Z",
-      "latest_at": "2026-08-14T17:43:33.930295Z",
-      "primary_item": {
-        "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
-        "title": "AI企业也能按Token融资：广东首推“Token贷”",
-        "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
-        "title_en": null,
-        "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
-        "summary": "On August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nExplore AI Fronti",
-        "recommend_reason_zh": "8月14日广东首个代币经济金融产品‘Token Loan’落地广州海珠区，贷款额按合同金额和Token消耗核定，中国银行广州分行已试审，累计规模2800万元。",
-        "url": "https://www.aibase.com/news/30365",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "融资模式创新，但与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_0276dc6b6132",
-      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\n2. Attention ≠ Adoption 3. Open weights shift where value accumulates 4. Qwen has become the community's base model 5. Small models remain the practical layer 6. Agents are the new user Looking forward Notes on method In the AI world, time feels compressed. A few months after our spr",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
+          "published_at": "2026-08-15T20:05:54.703000Z"
         },
         {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
       ],
       "items": [
         {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\n2. Attention ≠ Adoption 3. Open weights shift where value accumulates 4. Qwen has become the community's base model 5. Small models remain the practical layer 6. Agents are the new user Looking forward Notes on method In the AI world, time feels compressed. A few months after our spr",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "Cursor 被 SpaceX 正式收购，始于4月的流程完成；双方将借助全球最大GPU集群训练模型，本周三发布的 Grok 4.6 已初步展示成果，旨在以更低成本提供更强模型。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7202,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T00:00:00Z",
-      "latest_at": "2026-08-14T00:00:00Z",
-      "primary_item": {
-        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-        "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-        "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-        "title_en": "State of Open Models: Summer 2026 Observations",
-        "title_original": "State of Open Models: Summer 2026 Observations",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\n2. Attention ≠ Adoption 3. Open weights shift where value accumulates 4. Qwen has become the community's base model 5. Small models remain the practical layer 6. Agents are the new user Looking forward Notes on method In the AI world, time feels compressed. A few months after our spr",
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "泛模型生态观察，无直接内容变现路径，不占今日注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_c0648d9766a4",
-      "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": "Cursor is now a part of SpaceX",
-          "title_original": "Cursor is now a part of SpaceX",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": "Cursor 正式被 SpaceX 收购，4 月启动的流程完成，将使用全球最大 GPU 集群，并发布 Grok 4.6，展示更低成本更强模型的成果。",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": "Cursor is now a part of SpaceX",
-          "title_original": "Cursor is now a part of SpaceX",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": "Cursor 正式被 SpaceX 收购，4 月启动的流程完成，将使用全球最大 GPU 集群，并发布 Grok 4.6，展示更低成本更强模型的成果。",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
-        "story_heat": 0.0,
+        "recency": 0.9632,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-14T12:00:00Z",
-      "latest_at": "2026-08-14T12:00:00Z",
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
       "primary_item": {
-        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-        "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
         "title_zh": "Cursor 正式被 SpaceX 收购",
-        "title_en": "Cursor is now a part of SpaceX",
-        "title_original": "Cursor is now a part of SpaceX",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "recommend_reason_zh": "Cursor 正式被 SpaceX 收购，4 月启动的流程完成，将使用全球最大 GPU 集群，并发布 Grok 4.6，展示更低成本更强模型的成果。",
+        "title_en": null,
+        "title_original": "Cursor 正式被 SpaceX 收购",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "recommend_reason_zh": "Cursor 被 SpaceX 正式收购，始于4月的流程完成；双方将借助全球最大GPU集群训练模型，本周三发布的 Grok 4.6 已初步展示成果，旨在以更低成本提供更强模型。",
         "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Cursor Blog",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
+      "persona_score": 12,
       "persona_review": "收购新闻与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
+        "scored_at": "2026-08-15T22:57:46.181417Z"
       }
     },
     {
-      "story_id": "story_7877e29da15e",
-      "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-      "url": "https://www.aibase.com/news/30364",
-      "primary_url": "https://www.aibase.com/news/30364",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e50ea4ab6859",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
-          "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "title_en": null,
-          "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "summary": "Microsoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nExplore AI Fronti",
-          "recommend_reason_zh": "Copilot语音模式中的黄色小怪Mico上线不到一年即被移除，转岗至Learn Live学习平台。文章回顾去年10月Mustafa Suleiman赋予其“身份感”的尝试，并对比Clippy、Cortana、Rover等历年被弃虚拟助手，值得一读。",
-          "url": "https://www.aibase.com/news/30364",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:33.930295Z"
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_zh": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
+          "recommend_reason_zh": "一项对Amazon上14,419本自出版书籍的研究显示，AI生成书占目录20%却仅贡献12%销售额，且人类作者在八个类型中有七个每本收入下降，为AI版权诉讼提供了市场损害数据。",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
-          "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "title_en": null,
-          "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "summary": "Microsoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nExplore AI Fronti",
-          "recommend_reason_zh": "Copilot语音模式中的黄色小怪Mico上线不到一年即被移除，转岗至Learn Live学习平台。文章回顾去年10月Mustafa Suleiman赋予其“身份感”的尝试，并对比Clippy、Cortana、Rover等历年被弃虚拟助手，值得一读。",
-          "url": "https://www.aibase.com/news/30364",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T17:43:33.930295Z"
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_zh": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
+          "recommend_reason_zh": "一项对Amazon上14,419本自出版书籍的研究显示，AI生成书占目录20%却仅贡献12%销售额，且人类作者在八个类型中有七个每本收入下降，为AI版权诉讼提供了市场损害数据。",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8447,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T17:43:33.930295Z",
-      "latest_at": "2026-08-14T17:43:33.930295Z",
+      "earliest_at": "2026-08-15T11:00:50Z",
+      "latest_at": "2026-08-15T11:00:50Z",
       "primary_item": {
-        "id": "ca4af3cca400e2aac9ca17a95b4c319e26e4f7a1",
-        "title": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-        "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-        "title_en": null,
-        "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-        "summary": "Microsoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nExplore AI Fronti",
-        "recommend_reason_zh": "Copilot语音模式中的黄色小怪Mico上线不到一年即被移除，转岗至Learn Live学习平台。文章回顾去年10月Mustafa Suleiman赋予其“身份感”的尝试，并对比Clippy、Cortana、Rover等历年被弃虚拟助手，值得一读。",
-        "url": "https://www.aibase.com/news/30364",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "237f5929662e76d04e6158b8f564028e5c415071",
+        "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+        "title_zh": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+        "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
+        "recommend_reason_zh": "一项对Amazon上14,419本自出版书籍的研究显示，AI生成书占目录20%却仅贡献12%销售额，且人类作者在八个类型中有七个每本收入下降，为AI版权诉讼提供了市场损害数据。",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "品牌形象调整，与内容变现无直接关联，不占注意力。",
+      "persona_score": 62,
+      "persona_review": "行业动态，AI书冲击亚马逊市场，对创作者是警示，可关注但非直接机会。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
+        "scored_at": "2026-08-15T22:57:46.181417Z"
       }
     },
     {
-      "story_id": "story_b8125cc46db3",
-      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_01c472791cae",
+      "title": "AI在药物发现中的应用——它是什么、进展如何、未来走向 / AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": "未来Claude模型将在生成文本中加入水印，利用“cold and...”后选overcast还是grey这类低风险随机选择嵌入不可见模式，以符合EU AI Act；本文详解其运作机制及对输出质量的影响。",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
+          "id": "2482d8bb344b37476f7a3c5191ab942296699936",
+          "title": "AI在药物发现中的应用——它是什么、进展如何、未来走向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——它是什么、进展如何、未来走向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
+          "summary": "For example, it helps me install academic software, debug things. It helps me take a large dataset and write scripts to ask questions. It helps me go through experiment drafts to see if I'm missing things. It helps me remember obscure formulas I use every 6 months. It has not, at least in my experience, come up with anything truly novel. A concrete example: AlphaFold is great...to come up with a starting model for a chimeric fusion or something. What would have taken me 1-2 hours fumbling around",
+          "recommend_reason_zh": "AlphaFold将嵌合融合蛋白的起始模型构建从1-2小时的PDB/CIF文件摸索缩短为一次快速提示，但作者坦言AI尚未带来真正新颖的产出，本文就此评估了药物发现中AI的实际能力与局限。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:42:14.106000Z"
         },
         {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "AI在药物发现中的应用——它是什么、进展如何、未来走向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——它是什么、进展如何、未来走向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
+          "title": "AI 药物研发——它是什么、进展如何、路在何方 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI 药物研发——它是什么、进展如何、路在何方",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么，AI制药的真实进展到底如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI制药的真实进展到底如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2482d8bb344b37476f7a3c5191ab942296699936",
+          "title": "AI在药物发现中的应用——它是什么、进展如何、未来走向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——它是什么、进展如何、未来走向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
+          "summary": "For example, it helps me install academic software, debug things. It helps me take a large dataset and write scripts to ask questions. It helps me go through experiment drafts to see if I'm missing things. It helps me remember obscure formulas I use every 6 months. It has not, at least in my experience, come up with anything truly novel. A concrete example: AlphaFold is great...to come up with a starting model for a chimeric fusion or something. What would have taken me 1-2 hours fumbling around",
+          "recommend_reason_zh": "AlphaFold将嵌合融合蛋白的起始模型构建从1-2小时的PDB/CIF文件摸索缩短为一次快速提示，但作者坦言AI尚未带来真正新颖的产出，本文就此评估了药物发现中AI的实际能力与局限。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:42:14.106000Z"
+        },
+        {
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "AI在药物发现中的应用——它是什么、进展如何、未来走向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——它是什么、进展如何、未来走向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
+          "title": "AI 药物研发——它是什么、进展如何、路在何方 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI 药物研发——它是什么、进展如何、路在何方",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么，AI制药的真实进展到底如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI制药的真实进展到底如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T22:42:14.106000Z",
+      "primary_item": {
+        "id": "2482d8bb344b37476f7a3c5191ab942296699936",
+        "title": "AI在药物发现中的应用——它是什么、进展如何、未来走向 / AI in drug discovery – what it is, where we stand and the path forward",
+        "title_zh": "AI在药物发现中的应用——它是什么、进展如何、未来走向",
+        "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+        "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
+        "summary": "For example, it helps me install academic software, debug things. It helps me take a large dataset and write scripts to ask questions. It helps me go through experiment drafts to see if I'm missing things. It helps me remember obscure formulas I use every 6 months. It has not, at least in my experience, come up with anything truly novel. A concrete example: AlphaFold is great...to come up with a starting model for a chimeric fusion or something. What would have taken me 1-2 hours fumbling around",
+        "recommend_reason_zh": "AlphaFold将嵌合融合蛋白的起始模型构建从1-2小时的PDB/CIF文件摸索缩短为一次快速提示，但作者坦言AI尚未带来真正新颖的产出，本文就此评估了药物发现中AI的实际能力与局限。",
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "泛AI技术综述，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:57:46.181417Z"
+      }
+    },
+    {
+      "story_id": "story_e676b61085b8",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "davidepiffer.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": null,
+          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T18:13:02Z"
+        },
+        {
+          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI has access to a vastly larger working memory than the human brain",
+          "title_original": "AI has access to a vastly larger working memory than the human brain",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "davidepiffer.com"
+      ],
+      "items": [
+        {
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": null,
+          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T18:13:02Z"
+        },
+        {
+          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI has access to a vastly larger working memory than the human brain",
+          "title_original": "AI has access to a vastly larger working memory than the human brain",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9521,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T19:18:02.348000Z",
+      "primary_item": {
+        "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+        "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+        "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+        "title_en": null,
+        "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "source": "davidepiffer.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "泛AI技术评论，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:57:46.181417Z"
+      }
+    },
+    {
+      "story_id": "story_461e5611a9d5",
+      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "source": "allen.bargi.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": null,
+          "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": "Working with AI feels more like leadership than coding",
+          "title_original": "Working with AI feels more like leadership than coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)",
+        "allen.bargi.org"
+      ],
+      "items": [
+        {
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": null,
+          "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": "Working with AI feels more like leadership than coding",
+          "title_original": "Working with AI feels more like leadership than coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9162,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:39:41Z",
+      "latest_at": "2026-08-15T16:38:01.653000Z",
+      "primary_item": {
+        "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+        "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "title_en": null,
+        "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+        "source": "allen.bargi.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "泛AI职业观点，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:57:46.181417Z"
+      }
+    },
+    {
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": "未来Claude模型将在生成文本中加入水印，利用“cold and...”后选overcast还是grey这类低风险随机选择嵌入不可见模式，以符合EU AI Act；本文详解其运作机制及对输出质量的影响。",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7115,
-      "importance": 0.7115,
-      "importance_score": 0.7115,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9528,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T19:22:48.546000Z",
-      "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-        "title_zh": "Claude 文本水印机制如何运作",
-        "title_en": "How Claude's text watermark works",
-        "title_original": "How Claude's text watermark works",
-        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-        "recommend_reason_zh": "未来Claude模型将在生成文本中加入水印，利用“cold and...”后选overcast还是grey这类低风险随机选择嵌入不可见模式，以符合EU AI Act；本文详解其运作机制及对输出质量的影响。",
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "技术机制说明，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_2f9d3471ca3a",
-      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-      "url": "https://www.aibase.com/news/30361",
-      "primary_url": "https://www.aibase.com/news/30361",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_en": null,
-          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "summary": "Within 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nWithin 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nWithin 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nExplore AI Fronti",
-          "recommend_reason_zh": "Qwen Open Platform上线4天吸引超200家伙伴申请，覆盖物流、房产、本地生活、金融、汽车等十余领域，依托AI支付与一键迁移能力加速智能体落地。",
-          "url": "https://www.aibase.com/news/30361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-          "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "title_en": null,
-          "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-          "summary": "Within 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nWithin 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nWithin 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nExplore AI Fronti",
-          "recommend_reason_zh": "Qwen Open Platform上线4天吸引超200家伙伴申请，覆盖物流、房产、本地生活、金融、汽车等十余领域，依托AI支付与一键迁移能力加速智能体落地。",
-          "url": "https://www.aibase.com/news/30361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T16:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:43:33.930295Z",
-      "latest_at": "2026-08-14T16:43:33.930295Z",
-      "primary_item": {
-        "id": "cd98aeb2f37ebaedf975c8255fafc2ff07713bdd",
-        "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "title_zh": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "title_en": null,
-        "title_original": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-        "summary": "Within 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nWithin 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nWithin 4 days of its launch, the Qwen Open Platform has received more than 200 applications from ecosystem partners. The platform was officially launched on Aug\nExplore AI Fronti",
-        "recommend_reason_zh": "Qwen Open Platform上线4天吸引超200家伙伴申请，覆盖物流、房产、本地生活、金融、汽车等十余领域，依托AI支付与一键迁移能力加速智能体落地。",
-        "url": "https://www.aibase.com/news/30361",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "平台生态动态，但缺具体变现路径或案例，暂不构成可行动机会。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_d693a039f349",
-      "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-      "url": "https://www.aibase.com/news/30351",
-      "primary_url": "https://www.aibase.com/news/30351",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
-          "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-          "title_zh": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-          "title_en": null,
-          "title_original": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-          "summary": "The highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nThe highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nThe highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nExplore AI Fronti",
-          "recommend_reason_zh": "美国司法部上诉要求禁止Google向浏览器付费换取默认搜索引擎地位，涉及每年超260亿美元；Mozilla美国市场85%收入依赖这笔款项，Firefox因此陷入生存危机。反垄断裁决的连锁反应，值得细读。",
-          "url": "https://www.aibase.com/news/30351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T14:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
-          "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-          "title_zh": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-          "title_en": null,
-          "title_original": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-          "summary": "The highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nThe highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nThe highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nExplore AI Fronti",
-          "recommend_reason_zh": "美国司法部上诉要求禁止Google向浏览器付费换取默认搜索引擎地位，涉及每年超260亿美元；Mozilla美国市场85%收入依赖这笔款项，Firefox因此陷入生存危机。反垄断裁决的连锁反应，值得细读。",
-          "url": "https://www.aibase.com/news/30351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T14:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T14:43:33.930295Z",
-      "latest_at": "2026-08-14T14:43:33.930295Z",
-      "primary_item": {
-        "id": "d6340518c14a07d57d67c2dfa742c301ff8ff570",
-        "title": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-        "title_zh": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-        "title_en": null,
-        "title_original": "​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
-        "summary": "The highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nThe highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nThe highly anticipated Google antitrust case has reached a critical turning point, as the U.S. Department of Justice is working hard to prevent Google from payi\nExplore AI Fronti",
-        "recommend_reason_zh": "美国司法部上诉要求禁止Google向浏览器付费换取默认搜索引擎地位，涉及每年超260亿美元；Mozilla美国市场85%收入依赖这笔款项，Firefox因此陷入生存危机。反垄断裁决的连锁反应，值得细读。",
-        "url": "https://www.aibase.com/news/30351",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛科技监管新闻，与AI内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_18cc8e6fbb9e",
-      "title": "Google将允许用户移除其AI生成内容上的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-          "title": "Google将允许用户移除其AI生成内容上的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "title_zh": "Google将允许用户移除其AI生成内容上的可见水印",
-          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
-          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:13:40Z"
-        },
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "Google 现在允许用户移除 AI 内容中的可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "title_zh": "Google 现在允许用户移除 AI 内容中的可见水印",
-          "title_en": "Google will now allow users to remove visible watermarks from AI content",
-          "title_original": "Google will now allow users to remove visible watermarks from AI content",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Engadget",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-          "title": "Google将允许用户移除其AI生成内容上的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "title_zh": "Google将允许用户移除其AI生成内容上的可见水印",
-          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
-          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:13:40Z"
-        },
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "Google 现在允许用户移除 AI 内容中的可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "title_zh": "Google 现在允许用户移除 AI 内容中的可见水印",
-          "title_en": "Google will now allow users to remove visible watermarks from AI content",
-          "title_original": "Google will now allow users to remove visible watermarks from AI content",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6326,
-      "importance": 0.6326,
-      "importance_score": 0.6326,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9104,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8839,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1013,793 +810,226 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T16:13:40Z",
-      "latest_at": "2026-08-14T19:04:42Z",
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:08:55Z",
       "primary_item": {
-        "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-        "title": "Google将允许用户移除其AI生成内容上的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-        "title_zh": "Google将允许用户移除其AI生成内容上的可见水印",
-        "title_en": "Google will now allow users to remove visible watermark from its AI generations",
-        "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+        "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+        "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "title_zh": "二手书销售火爆，是因为AI吗？",
+        "title_en": "Secondhand book sales are booming. Is it because of AI?",
+        "title_original": "Secondhand book sales are booming. Is it because of AI?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "泛商业新闻，未提供可复制的AI变现路径，仅作背景参考。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:57:46.181417Z"
+      }
+    },
+    {
+      "story_id": "story_d572412cd374",
+      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
+      "source": "sankalp.bearblog.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": null,
+          "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "sankalp.bearblog.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T13:58:02.713000Z"
+        },
+        {
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "sankalp.bearblog.dev"
+      ],
+      "items": [
+        {
+          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": null,
+          "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "sankalp.bearblog.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T13:58:02.713000Z"
+        },
+        {
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8815,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:00:02Z",
+      "latest_at": "2026-08-15T13:58:02.713000Z",
+      "primary_item": {
+        "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+        "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "title_en": null,
+        "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sankalp.bearblog.dev/autoresearch",
+        "source": "sankalp.bearblog.dev",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 30,
-      "persona_review": "工具规则变化，但移除水印与创作者变现无直接关联，暂不测试。",
+      "persona_review": "技术性能优化案例，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
+        "scored_at": "2026-08-15T22:57:46.181417Z"
       }
     },
     {
-      "story_id": "story_8ae2b3866565",
-      "title": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-      "url": "https://www.aibase.com/news/30352",
-      "primary_url": "https://www.aibase.com/news/30352",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "905bbaea674b7bc6d60500aa7675db70c00dd70b",
-          "title": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-          "title_zh": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-          "title_en": null,
-          "title_original": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-          "summary": "The National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nThe National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nThe National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nExplore AI Fronti",
-          "recommend_reason_zh": "贾樟柯新片《敦煌妈妈》备案立项，讲述独居母亲借AI缓解孤独并横穿中国，由Zhao Tao、Liao Fan主演，预计2027年上映，再次以普通人命运回应时代变迁。",
-          "url": "https://www.aibase.com/news/30352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T14:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "905bbaea674b7bc6d60500aa7675db70c00dd70b",
-          "title": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-          "title_zh": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-          "title_en": null,
-          "title_original": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-          "summary": "The National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nThe National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nThe National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nExplore AI Fronti",
-          "recommend_reason_zh": "贾樟柯新片《敦煌妈妈》备案立项，讲述独居母亲借AI缓解孤独并横穿中国，由Zhao Tao、Liao Fan主演，预计2027年上映，再次以普通人命运回应时代变迁。",
-          "url": "https://www.aibase.com/news/30352",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T14:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T14:43:33.930295Z",
-      "latest_at": "2026-08-14T14:43:33.930295Z",
-      "primary_item": {
-        "id": "905bbaea674b7bc6d60500aa7675db70c00dd70b",
-        "title": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-        "title_zh": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-        "title_en": null,
-        "title_original": "​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国",
-        "summary": "The National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nThe National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nThe National Film Administration has officially announced the registration and approval of the script outline for the film \"Dunhuang Mama\" by Jia Zhangke on Jul\nExplore AI Fronti",
-        "recommend_reason_zh": "贾樟柯新片《敦煌妈妈》备案立项，讲述独居母亲借AI缓解孤独并横穿中国，由Zhao Tao、Liao Fan主演，预计2027年上映，再次以普通人命运回应时代变迁。",
-        "url": "https://www.aibase.com/news/30352",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "电影题材涉及AI，但与创作者变现无直接关联，属泛娱乐新闻，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_799bed7143da",
-      "title": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-      "url": "https://www.aibase.com/news/30354",
-      "primary_url": "https://www.aibase.com/news/30354",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "74cd6942e81f56a541b083d7290d73f620d7e126",
-          "title": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-          "title_zh": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-          "title_en": null,
-          "title_original": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-          "summary": "On August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nOn August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nOn August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nExplore AI Frontiers",
-          "recommend_reason_zh": "Baidu Wenku的GenFlow官宣中文名Kuku AI并独立运营，覆盖PC、网页、小程序与企业版，月活已超1亿，AI办公应用月活超2500万，一文读懂其产品矩阵。",
-          "url": "https://www.aibase.com/news/30354",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T14:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "74cd6942e81f56a541b083d7290d73f620d7e126",
-          "title": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-          "title_zh": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-          "title_en": null,
-          "title_original": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-          "summary": "On August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nOn August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nOn August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nExplore AI Frontiers",
-          "recommend_reason_zh": "Baidu Wenku的GenFlow官宣中文名Kuku AI并独立运营，覆盖PC、网页、小程序与企业版，月活已超1亿，AI办公应用月活超2500万，一文读懂其产品矩阵。",
-          "url": "https://www.aibase.com/news/30354",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T14:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T14:43:33.930295Z",
-      "latest_at": "2026-08-14T14:43:33.930295Z",
-      "primary_item": {
-        "id": "74cd6942e81f56a541b083d7290d73f620d7e126",
-        "title": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-        "title_zh": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-        "title_en": null,
-        "title_original": "百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版",
-        "summary": "On August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nOn August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nOn August 14, during Baidu's AI Day open day, Baidu Wenku's general-purpose AI agent GenFlow officially announced its Chinese name \"Kuku AI\" and simultaneously\nExplore AI Frontiers",
-        "recommend_reason_zh": "Baidu Wenku的GenFlow官宣中文名Kuku AI并独立运营，覆盖PC、网页、小程序与企业版，月活已超1亿，AI办公应用月活超2500万，一文读懂其产品矩阵。",
-        "url": "https://www.aibase.com/news/30354",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "产品发布属行业动态，但未提供变现路径或案例，暂不测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_ab4c865810ad",
-      "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-      "url": "https://www.aibase.com/news/30347",
-      "primary_url": "https://www.aibase.com/news/30347",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1172c6daa9ab6602e32ca149e2a6ff51510b3d22",
-          "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-          "title_zh": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-          "title_en": null,
-          "title_original": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-          "summary": "The highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nThe highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nThe highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nExplore AI Frontiers",
-          "recommend_reason_zh": "OpenAI年化营收破400亿美元，7月环比增超20%，加速年内IPO，估值或破万亿；Anthropic年化营收470亿美元，但会计差异致难直接比较。",
-          "url": "https://www.aibase.com/news/30347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T11:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1172c6daa9ab6602e32ca149e2a6ff51510b3d22",
-          "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-          "title_zh": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-          "title_en": null,
-          "title_original": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-          "summary": "The highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nThe highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nThe highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nExplore AI Frontiers",
-          "recommend_reason_zh": "OpenAI年化营收破400亿美元，7月环比增超20%，加速年内IPO，估值或破万亿；Anthropic年化营收470亿美元，但会计差异致难直接比较。",
-          "url": "https://www.aibase.com/news/30347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T11:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T11:43:33.930295Z",
-      "latest_at": "2026-08-14T11:43:33.930295Z",
-      "primary_item": {
-        "id": "1172c6daa9ab6602e32ca149e2a6ff51510b3d22",
-        "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-        "title_zh": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-        "title_en": null,
-        "title_original": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
-        "summary": "The highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nThe highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nThe highly anticipated OpenAI is accelerating its plan to go public in the United States later this year, with widespread expectations that its valuation could\nExplore AI Frontiers",
-        "recommend_reason_zh": "OpenAI年化营收破400亿美元，7月环比增超20%，加速年内IPO，估值或破万亿；Anthropic年化营收470亿美元，但会计差异致难直接比较。",
-        "url": "https://www.aibase.com/news/30347",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "泛公司营收新闻，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_dce79a086a50",
-      "title": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
-      "url": "https://www.byhand.ai",
-      "primary_url": "https://www.byhand.ai",
-      "source": "www.byhand.ai",
+      "story_id": "story_b004ea508d1a",
+      "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+      "url": "https://chenxiachan.github.io/thoughtdag",
+      "primary_url": "https://chenxiachan.github.io/thoughtdag",
+      "source": "chenxiachan.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
-          "title_zh": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
           "title_en": null,
-          "title_original": "亲手打造的AI",
+          "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
+          "published_at": "2026-08-15T21:09:54.519000Z"
         },
         {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
-          "title": "Tom Yeh 的 AI by Hand 专栏手写讲解AI，订阅者数万",
-          "title_zh": "Tom Yeh 的 AI by Hand 专栏手写讲解AI，订阅者数万",
-          "title_en": "AI by Hand",
-          "title_original": "AI by Hand",
+          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.byhand.ai"
-      ],
-      "items": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
-          "title_zh": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
-          "title_en": null,
-          "title_original": "亲手打造的AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
-          "title": "Tom Yeh 的 AI by Hand 专栏手写讲解AI，订阅者数万",
-          "title_zh": "Tom Yeh 的 AI by Hand 专栏手写讲解AI，订阅者数万",
-          "title_en": "AI by Hand",
-          "title_original": "AI by Hand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9747,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:58:59Z",
-      "latest_at": "2026-08-14T20:56:57.601000Z",
-      "primary_item": {
-        "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-        "title": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
-        "title_zh": "Prof. Tom Yeh 的 AI by Hand 订阅者达数万",
-        "title_en": null,
-        "title_original": "亲手打造的AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.byhand.ai",
-        "source": "www.byhand.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "订阅数案例，但缺变现路径和收入证据，仅可作内容形式参考。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_3d0ee750d14d",
-      "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "source": "blog.google",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": null,
-          "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "ecdd5d39c9dfb4382bbaeac1e8fe46ec12ca5bf1",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google is making private AI practical with homomorphic encryption",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": "Google is making private AI practical with homomorphic encryption",
-          "title_original": "Google is making private AI practical with homomorphic encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.google"
-      ],
-      "items": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": null,
-          "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "ecdd5d39c9dfb4382bbaeac1e8fe46ec12ca5bf1",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google is making private AI practical with homomorphic encryption",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": "Google is making private AI practical with homomorphic encryption",
-          "title_original": "Google is making private AI practical with homomorphic encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9527,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:43:10Z",
-      "latest_at": "2026-08-14T19:22:21.717000Z",
-      "primary_item": {
-        "id": "f41976f167970f859103f965ef83cfd41f741414",
-        "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "title_en": null,
-        "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-        "source": "blog.google",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "技术新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_53497b5460da",
-      "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-      "url": "https://www.aibase.com/news/30345",
-      "primary_url": "https://www.aibase.com/news/30345",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "76382c10bd6fac1b833993b4d4b65535b0cd5d32",
-          "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-          "title_zh": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-          "title_en": null,
-          "title_original": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-          "summary": "Elon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nElon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nElon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nExplore AI Frontiers",
-          "recommend_reason_zh": "马斯克在SpaceX员工会上称，SpaceX AI（原xAI）数据中心电力容量2027年底将达10GW，较此前增约7倍，且已建成“全球最强训练集群”，计划明年再扩10倍。",
-          "url": "https://www.aibase.com/news/30345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T11:43:33.930295Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "76382c10bd6fac1b833993b4d4b65535b0cd5d32",
-          "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-          "title_zh": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-          "title_en": null,
-          "title_original": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-          "summary": "Elon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nElon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nElon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nExplore AI Frontiers",
-          "recommend_reason_zh": "马斯克在SpaceX员工会上称，SpaceX AI（原xAI）数据中心电力容量2027年底将达10GW，较此前增约7倍，且已建成“全球最强训练集群”，计划明年再扩10倍。",
-          "url": "https://www.aibase.com/news/30345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T11:43:33.930295Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T11:43:33.930295Z",
-      "latest_at": "2026-08-14T11:43:33.930295Z",
-      "primary_item": {
-        "id": "76382c10bd6fac1b833993b4d4b65535b0cd5d32",
-        "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-        "title_zh": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-        "title_en": null,
-        "title_original": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
-        "summary": "Elon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nElon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nElon Musk estimated at a SpaceX employee meeting that the power capacity of SpaceX AI (formerly xAI) data centers will increase by about seven times before the\nExplore AI Frontiers",
-        "recommend_reason_zh": "马斯克在SpaceX员工会上称，SpaceX AI（原xAI）数据中心电力容量2027年底将达10GW，较此前增约7倍，且已建成“全球最强训练集群”，计划明年再扩10倍。",
-        "url": "https://www.aibase.com/news/30345",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛AI基础设施新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_02ec0b642bd2",
-      "title": "当天才失灵：人工智能实验室的智力傲慢",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "primary_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "source": "weightythoughts.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-          "title": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": null,
-          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "weightythoughts.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:10:19.001000Z"
-        },
-        {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
-          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "url": "https://chenxiachan.github.io/thoughtdag",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-14T14:34:49Z"
+          "published_at": "2026-08-15T04:42:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "weightythoughts.com"
+        "chenxiachan.github.io"
       ],
       "items": [
         {
-          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-          "title": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
           "title_en": null,
-          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
+          "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "weightythoughts.com",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-14T16:10:19.001000Z"
+          "published_at": "2026-08-15T21:09:54.519000Z"
         },
         {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
-          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "url": "https://chenxiachan.github.io/thoughtdag",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-14T14:34:49Z"
+          "published_at": "2026-08-15T04:42:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.4419,
+      "importance": 0.4419,
+      "importance_score": 0.4419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9097,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T14:34:49Z",
-      "latest_at": "2026-08-14T16:10:19.001000Z",
-      "primary_item": {
-        "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-        "title": "当天才失灵：人工智能实验室的智力傲慢",
-        "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-        "title_en": null,
-        "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "source": "weightythoughts.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "泛AI技术评论，无内容变现路径，不占今天注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
-      }
-    },
-    {
-      "story_id": "story_298c63614044",
-      "title": "现在可以关闭Google Gemini的可见水印了 / You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "primary_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-          "title": "现在可以关闭Google Gemini的可见水印了 / You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_zh": "现在可以关闭Google Gemini的可见水印了",
-          "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:39:32Z"
-        },
-        {
-          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
-          "title": "现在你可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
-          "title_zh": "现在你可以关闭 Google Gemini 的可见水印",
-          "title_en": "You can now turn off Google Gemini’s visible watermarks",
-          "title_original": "You can now turn off Google Gemini’s visible watermarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:39:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-          "title": "现在可以关闭Google Gemini的可见水印了 / You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_zh": "现在可以关闭Google Gemini的可见水印了",
-          "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:39:32Z"
-        },
-        {
-          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
-          "title": "现在你可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
-          "title_zh": "现在你可以关闭 Google Gemini 的可见水印",
-          "title_en": "You can now turn off Google Gemini’s visible watermarks",
-          "title_original": "You can now turn off Google Gemini’s visible watermarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:39:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.9161,
+        "recency": 0.9781,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -1808,99 +1038,213 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T16:39:32Z",
-      "latest_at": "2026-08-14T16:39:32Z",
+      "earliest_at": "2026-08-15T04:42:07Z",
+      "latest_at": "2026-08-15T21:09:54.519000Z",
       "primary_item": {
-        "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-        "title": "现在可以关闭Google Gemini的可见水印了 / You can now turn off Google Gemini&#8217;s visible watermarks",
-        "title_zh": "现在可以关闭Google Gemini的可见水印了",
-        "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
-        "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+        "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "title_en": null,
+        "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://chenxiachan.github.io/thoughtdag",
+        "source": "chenxiachan.github.io",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "工具更新，去水印利于内容复用，但变现路径不明确，可小测。",
+      "persona_score": 30,
+      "persona_review": "技术工具，与内容变现无直接关联，暂不测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
+        "scored_at": "2026-08-15T22:57:46.181417Z"
       }
     },
     {
-      "story_id": "story_b235d2a8da13",
-      "title": "LLM生成的GPU内核的合约级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://news.ycombinator.com/item?id=49301417",
-      "primary_url": "https://news.ycombinator.com/item?id=49301417",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_6a65f744a5e9",
+      "title": "Cloudflare的AI精神错乱",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "source": "opensauce.it",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-          "title": "LLM生成的GPU内核的合约级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM生成的GPU内核的合约级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": null,
+          "title_original": "Cloudflare的AI精神错乱",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49301417",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T22:45:18.858000Z"
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
         },
         {
-          "id": "b2703adee8c9fbc2be4242177bed198d1e37b2ab",
-          "title": "LLM生成的GPU内核的合约级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM生成的GPU内核的合约级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
+          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": "Cloudflare's AI Psychosis",
+          "title_original": "Cloudflare's AI Psychosis",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.12700",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:57:14Z"
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:40Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
+        "opensauce.it"
+      ],
+      "items": [
+        {
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": null,
+          "title_original": "Cloudflare的AI精神错乱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
+        },
+        {
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
+          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": "Cloudflare's AI Psychosis",
+          "title_original": "Cloudflare's AI Psychosis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4405,
+      "importance": 0.4405,
+      "importance_score": 0.4405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9706,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:08:40Z",
+      "latest_at": "2026-08-15T20:37:59.382000Z",
+      "primary_item": {
+        "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+        "title": "Cloudflare的AI精神错乱",
+        "title_zh": "Cloudflare的AI精神错乱",
+        "title_en": null,
+        "title_original": "Cloudflare的AI精神错乱",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://opensauce.it/cloudflare-ai-psychosis",
+        "source": "opensauce.it",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "泛AI技术评论，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:57:46.181417Z"
+      }
+    },
+    {
+      "story_id": "story_dfcb40835c8c",
+      "title": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "primary_url": "https://news.ycombinator.com/item?id=49314594",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49314594",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:42:14.106000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-          "title": "LLM生成的GPU内核的合约级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM生成的GPU内核的合约级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49301417",
+          "url": "https://news.ycombinator.com/item?id=49314594",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-14T22:45:18.858000Z"
+          "published_at": "2026-08-15T22:42:14.106000Z"
         },
         {
-          "id": "b2703adee8c9fbc2be4242177bed198d1e37b2ab",
-          "title": "LLM生成的GPU内核的合约级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM生成的GPU内核的合约级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.12700",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:57:14Z"
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
         }
       ],
       "item_count": 2,
@@ -1922,27 +1266,27 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T16:57:14Z",
-      "latest_at": "2026-08-14T22:45:18.858000Z",
+      "earliest_at": "2026-08-15T21:42:39Z",
+      "latest_at": "2026-08-15T22:42:14.106000Z",
       "primary_item": {
-        "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-        "title": "LLM生成的GPU内核的合约级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "title_zh": "LLM生成的GPU内核的合约级验证器",
-        "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+        "title": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "title_zh": "Show HN：为38美元的Thermalright Trofeo Vision LCD打造实时Claude用量HUD",
+        "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49301417",
+        "url": "https://news.ycombinator.com/item?id=49314594",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "技术验证器与内容变现无直接关联，不占注意力。",
+      "persona_score": 18,
+      "persona_review": "硬件DIY项目，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:09:47.136888Z"
+        "scored_at": "2026-08-15T22:57:46.181417Z"
       }
     }
   ]

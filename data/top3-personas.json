@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:10:20.944894Z",
+  "generated_at": "2026-08-15T22:58:03.050863Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_298c63614044",
-      "title": "现在可以关闭Google Gemini的可见水印了 / You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "story_id": "story_e50ea4ab6859",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "关掉水印是省事，可AI生成内容的溯源又少了一层，真当没人惦记？"
+          "score": 45,
+          "review": "AI书海战术把亚马逊变成垃圾场，人类作者收入下滑，这锅AI背得有点冤。"
         },
         "paper-police": {
           "score": 25,
-          "review": "官方功能更新，无技术细节或评测，仅媒体转述，证据薄弱。"
+          "review": "仅媒体转述，无原始数据或研究支撑，收入下降因果未证。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "工具更新，去水印利于内容复用，但变现路径不明确，可小测。"
+          "score": 62,
+          "review": "行业动态，AI书冲击亚马逊市场，对创作者是警示，可关注但非直接机会。"
         }
       }
     },
     {
-      "story_id": "story_3ded9ed73b65",
-      "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "模型进IDE是好事，但别指望它替你写代码，顶多帮你写点注释。"
+          "score": 55,
+          "review": "二手书火不火，AI背锅侠又上线了？先拿数据说话，别拿情怀当销量。"
         },
         "paper-police": {
-          "score": 65,
-          "review": "官方更新有据可查，但缺论文和代码，性能待验证。"
+          "score": 25,
+          "review": "只有新闻标题，无论文无数据，AI关联性纯属猜测，证据不足。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "工具更新，对AI编程有帮助，但与内容变现无直接关联，暂不测试。"
+          "score": 35,
+          "review": "泛商业新闻，未提供可复制的AI变现路径，仅作背景参考。"
         }
       }
     },
     {
-      "story_id": "story_2f9d3471ca3a",
-      "title": "超200家伙伴抢先入驻，千问开放平台加速AI智能体落地",
-      "url": "https://www.aibase.com/news/30361",
+      "story_id": "story_e27bfcf013b4",
+      "title": "OAuth应用支持多个重定向URI与Token刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "伙伴数量听着唬人，但入驻和落地是两码事，先跑通再说。"
+          "score": 70,
+          "review": "多URI和刷新是刚需，但GitHub这波更新晚了三年，竞品早玩剩了。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有官方宣传数字，无论文无代码无第三方评测，伙伴数量难验证。"
+          "score": 30,
+          "review": "官方博客宣称功能，无代码无评测，等文档和实现验证。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "平台生态动态，但缺具体变现路径或案例，暂不构成可行动机会。"
+          "score": 30,
+          "review": "技术开发更新，与内容变现无直接关联，除非用于自建工具，否则不占注意力。"
         }
       }
     }
