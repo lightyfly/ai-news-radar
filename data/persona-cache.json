@@ -2844,6 +2844,96 @@
       "review": "官方博客宣称功能，无代码无评测，等文档和实现验证。",
       "title_hash": "b9e21ee0",
       "scored_at": "2026-08-15T22:58:03.050809Z"
+    },
+    "story_0bf300873ab5|pragmatic|ccc085fd": {
+      "score": 20,
+      "review": "泛技术研究，无直接变现路径，不占注意力。",
+      "title_hash": "1e988a23",
+      "scored_at": "2026-08-16T22:57:38.421665Z"
+    },
+    "story_3b5298dc1984|pragmatic|ccc085fd": {
+      "score": 88,
+      "review": "真实案例，展示AI工具在内容运营中的实际应用，值得测试其工作流。",
+      "title_hash": "7ec00257",
+      "scored_at": "2026-08-16T22:57:39.970193Z"
+    },
+    "story_1e07c512b23d|pragmatic|ccc085fd": {
+      "score": 22,
+      "review": "融资估值预测与创作者变现无直接关联，不占注意力。",
+      "title_hash": "18d2c9e7",
+      "scored_at": "2026-08-16T22:57:41.410256Z"
+    },
+    "story_02084b7684a5|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛AI商业新闻，与个人创作者变现无直接关联，不占注意力。",
+      "title_hash": "553b021d",
+      "scored_at": "2026-08-16T22:57:42.644291Z"
+    },
+    "story_a23b56bee6e9|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "融资并购新闻，与创作者变现无直接关联，不占注意力。",
+      "title_hash": "3123249e",
+      "scored_at": "2026-08-16T22:57:43.624215Z"
+    },
+    "story_96d24a4f2679|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "融资担保调整与创作者变现无直接关联，不占注意力。",
+      "title_hash": "3a0b7279",
+      "scored_at": "2026-08-16T22:57:44.663944Z"
+    },
+    "story_6ea5c9d0c11e|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "泛AI技术讨论，与内容变现无直接关联，不占今日注意力。",
+      "title_hash": "79878542",
+      "scored_at": "2026-08-16T22:57:45.705268Z"
+    },
+    "story_ad56c119c312|pragmatic|ccc085fd": {
+      "score": 55,
+      "review": "Claude系统提示更新，可能影响AI内容生成质量，但未直接关联变现路径，可关注后续创作者反馈。",
+      "title_hash": "0ea55ac4",
+      "scored_at": "2026-08-16T22:57:46.907453Z"
+    },
+    "story_7a8d440461c0|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "泛AI技术实验，无内容变现路径，不占注意力。",
+      "title_hash": "c9bbbc77",
+      "scored_at": "2026-08-16T22:57:47.785317Z"
+    },
+    "story_3b5298dc1984|cynic|f4237a62": {
+      "score": 72,
+      "review": "粉丝数唬人，但运营细节和成本避而不谈，水分得挤一挤。",
+      "title_hash": "7ec00257",
+      "scored_at": "2026-08-16T22:57:48.821080Z"
+    },
+    "story_3b5298dc1984|paper-police|966065bf": {
+      "score": 20,
+      "review": "个人经验分享，无论文代码benchmark，仅算说法，证据薄弱。",
+      "title_hash": "7ec00257",
+      "scored_at": "2026-08-16T22:57:49.960343Z"
+    },
+    "story_ad56c119c312|cynic|f4237a62": {
+      "score": 55,
+      "review": "系统提示更新算哪门子新闻？没给具体改动细节，营销味比干货重。",
+      "title_hash": "0ea55ac4",
+      "scored_at": "2026-08-16T22:57:51.175516Z"
+    },
+    "story_ad56c119c312|paper-police|966065bf": {
+      "score": 25,
+      "review": "官方文档更新无评测数据，仅描述变更，缺论文代码和第三方验证。",
+      "title_hash": "0ea55ac4",
+      "scored_at": "2026-08-16T22:57:52.398985Z"
+    },
+    "story_1e07c512b23d|cynic|f4237a62": {
+      "score": 35,
+      "review": "2028年两千亿营收？先把今年财报的窟窿填上再画饼。",
+      "title_hash": "18d2c9e7",
+      "scored_at": "2026-08-16T22:57:53.552382Z"
+    },
+    "story_1e07c512b23d|paper-police|966065bf": {
+      "score": 10,
+      "review": "只有营收预测数字，无论文无代码无评测，纯属内部估值传闻。",
+      "title_hash": "18d2c9e7",
+      "scored_at": "2026-08-16T22:57:55.007706Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:58:03.050863Z",
+  "generated_at": "2026-08-16T22:57:55.007761Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_e50ea4ab6859",
-      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "story_id": "story_3b5298dc1984",
+      "title": "我如何用 Codex 运营我的150万+粉丝内容业务 | Riley Brown / How I Run My 1.5M+ Follower Content Business With Codex | Riley Brown",
+      "url": "https://creatoreconomy.so/p/how-i-run-my-content-business-with-codex-riley-brown",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "AI书海战术把亚马逊变成垃圾场，人类作者收入下滑，这锅AI背得有点冤。"
+          "score": 72,
+          "review": "粉丝数唬人，但运营细节和成本避而不谈，水分得挤一挤。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "仅媒体转述，无原始数据或研究支撑，收入下降因果未证。"
+          "score": 20,
+          "review": "个人经验分享，无论文代码benchmark，仅算说法，证据薄弱。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "行业动态，AI书冲击亚马逊市场，对创作者是警示，可关注但非直接机会。"
+          "score": 88,
+          "review": "真实案例，展示AI工具在内容运营中的实际应用，值得测试其工作流。"
         }
       }
     },
     {
-      "story_id": "story_67a9736d0220",
-      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "story_id": "story_ad56c119c312",
+      "title": "Claude核心系统提示更新，覆盖网页版与移动应用",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "二手书火不火，AI背锅侠又上线了？先拿数据说话，别拿情怀当销量。"
+          "review": "系统提示更新算哪门子新闻？没给具体改动细节，营销味比干货重。"
         },
         "paper-police": {
           "score": 25,
-          "review": "只有新闻标题，无论文无数据，AI关联性纯属猜测，证据不足。"
+          "review": "官方文档更新无评测数据，仅描述变更，缺论文代码和第三方验证。"
         },
         "pragmatic": {
-          "score": 35,
-          "review": "泛商业新闻，未提供可复制的AI变现路径，仅作背景参考。"
+          "score": 55,
+          "review": "Claude系统提示更新，可能影响AI内容生成质量，但未直接关联变现路径，可关注后续创作者反馈。"
         }
       }
     },
     {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth应用支持多个重定向URI与Token刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "story_id": "story_1e07c512b23d",
+      "title": "Anthropic IPO估值取决于2028年1900-2000亿美元营收预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "url": "https://news.ycombinator.com/item?id=49323620",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "多URI和刷新是刚需，但GitHub这波更新晚了三年，竞品早玩剩了。"
+          "score": 35,
+          "review": "2028年两千亿营收？先把今年财报的窟窿填上再画饼。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称功能，无代码无评测，等文档和实现验证。"
+          "score": 10,
+          "review": "只有营收预测数字，无论文无代码无评测，纯属内部估值传闻。"
         },
         "pragmatic": {
-          "score": 30,
-          "review": "技术开发更新，与内容变现无直接关联，除非用于自建工具，否则不占注意力。"
+          "score": 22,
+          "review": "融资估值预测与创作者变现无直接关联，不占注意力。"
         }
       }
     }
