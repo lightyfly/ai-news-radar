@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:57:55.007761Z",
+  "generated_at": "2026-08-17T23:07:45.982280Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_3b5298dc1984",
-      "title": "我如何用 Codex 运营我的150万+粉丝内容业务 | Riley Brown / How I Run My 1.5M+ Follower Content Business With Codex | Riley Brown",
-      "url": "https://creatoreconomy.so/p/how-i-run-my-content-business-with-codex-riley-brown",
+      "story_id": "story_d2e9966c6dee",
+      "title": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+      "url": "https://www.yunyingpai.com/xhs/1061673.html",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "粉丝数唬人，但运营细节和成本避而不谈，水分得挤一挤。"
+          "score": 45,
+          "review": "字数论又来了，200字是玄学还是数据？先晒出样本量再说。"
         },
         "paper-police": {
           "score": 20,
-          "review": "个人经验分享，无论文代码benchmark，仅算说法，证据薄弱。"
+          "review": "仅一篇运营派文章，无数据支撑，无复现可能，属经验之谈。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "真实案例，展示AI工具在内容运营中的实际应用，值得测试其工作流。"
+          "score": 72,
+          "review": "案例观察，揭示小红书转化笔记字数规律，可测试优化现有笔记内容。"
         }
       }
     },
     {
-      "story_id": "story_ad56c119c312",
-      "title": "Claude核心系统提示更新，覆盖网页版与移动应用",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "story_id": "story_98a2acea3dca",
+      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+      "url": "https://www.aibase.com/news/30398",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "系统提示更新算哪门子新闻？没给具体改动细节，营销味比干货重。"
+          "review": "排队到明年？先看看有多少是真需求，多少是凑热闹。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方文档更新无评测数据，仅描述变更，缺论文代码和第三方验证。"
+          "score": 15,
+          "review": "仅官方说法，无论文代码评测，排期到明年只是宣传话术。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "Claude系统提示更新，可能影响AI内容生成质量，但未直接关联变现路径，可关注后续创作者反馈。"
+          "score": 62,
+          "review": "平台生态机会，商家智能体需求旺，可评估接单或工具开发，但需验证收益。"
         }
       }
     },
     {
-      "story_id": "story_1e07c512b23d",
-      "title": "Anthropic IPO估值取决于2028年1900-2000亿美元营收预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "url": "https://news.ycombinator.com/item?id=49323620",
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何让 Agentic 工作流可视化、可操控且成本高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "2028年两千亿营收？先把今年财报的窟窿填上再画饼。"
+          "score": 72,
+          "review": "画布可视化不新鲜，但GitHub把成本效率摆上台面，总算没光吹概念。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "只有营收预测数字，无论文无代码无评测，纯属内部估值传闻。"
+          "score": 45,
+          "review": "官方博客有细节但无代码无评测，成本效率缺数据支撑。"
         },
         "pragmatic": {
-          "score": 22,
-          "review": "融资估值预测与创作者变现无直接关联，不占注意力。"
+          "score": 45,
+          "review": "官方工具更新，但主要面向开发者，对内容创作者变现路径不直接，可暂缓。"
         }
       }
     }

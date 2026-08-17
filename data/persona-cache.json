@@ -1,78 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_3d95ed8d3af8|pragmatic|ccc085fd": {
-      "score": 55,
-      "review": "工具使用案例，但缺少内容变现或增长数据，可参考工作流但非直接机会。",
-      "title_hash": "1b2217ad",
-      "scored_at": "2026-07-27T00:10:50.600612Z"
-    },
-    "story_b171ba4f1505|pragmatic|ccc085fd": {
-      "score": 55,
-      "review": "AI音乐工具更新，MIDI导出对视频配乐有实用价值，但需测试工作流是否提升效率。",
-      "title_hash": "f33dd33c",
-      "scored_at": "2026-07-27T00:10:51.879449Z"
-    },
-    "story_ac9556f6e6f5|pragmatic|ccc085fd": {
-      "score": 5,
-      "review": "纯理论计算机科学内容，与AI内容变现无关，不占用注意力。",
-      "title_hash": "9bf76eb2",
-      "scored_at": "2026-07-27T00:10:52.892526Z"
-    },
-    "story_5cac93a795bf|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "学术演讲PDF，与AI内容变现无直接关联，不占用注意力。",
-      "title_hash": "1e394b90",
-      "scored_at": "2026-07-27T00:10:53.851297Z"
-    },
-    "story_635975c99eb1|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "标题抽象，内容与AI内容变现无直接关联，不占用注意力。",
-      "title_hash": "1bf01974",
-      "scored_at": "2026-07-27T00:10:54.986986Z"
-    },
-    "story_68c90fc1b6d7|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "工具技巧类，但未涉及内容变现或获客，对创作者直接帮助有限。",
-      "title_hash": "dfcd2407",
-      "scored_at": "2026-07-27T00:10:56.178579Z"
-    },
-    "story_3d95ed8d3af8|cynic|f4237a62": {
-      "score": 65,
-      "review": "系统听起来不错，但OpenAI内部工具和公开版Codex是两回事。",
-      "title_hash": "1b2217ad",
-      "scored_at": "2026-07-27T00:10:57.265988Z"
-    },
-    "story_3d95ed8d3af8|paper-police|966065bf": {
-      "score": 10,
-      "review": "只有个人经验分享，无论文无代码无benchmark，无法验证。",
-      "title_hash": "1b2217ad",
-      "scored_at": "2026-07-27T00:10:58.147855Z"
-    },
-    "story_b171ba4f1505|cynic|f4237a62": {
-      "score": 65,
-      "review": "MIDI导出算新功能？隔壁免费工具早有了，Suno这波更新诚意不足。",
-      "title_hash": "f33dd33c",
-      "scored_at": "2026-07-27T00:10:59.425502Z"
-    },
-    "story_b171ba4f1505|paper-police|966065bf": {
-      "score": 12,
-      "review": "只有X帖子宣称新功能，无论文无代码无评测，无法验证。",
-      "title_hash": "f33dd33c",
-      "scored_at": "2026-07-27T00:11:00.560922Z"
-    },
-    "story_68c90fc1b6d7|cynic|f4237a62": {
-      "score": 35,
-      "review": "把API调用包装成订阅漏洞，Cursor迟早封掉这后门。",
-      "title_hash": "dfcd2407",
-      "scored_at": "2026-07-27T00:11:01.791002Z"
-    },
-    "story_68c90fc1b6d7|paper-police|966065bf": {
-      "score": 5,
-      "review": "无论文无代码无评测，仅一个标题，无法验证其真实性。",
-      "title_hash": "dfcd2407",
-      "scored_at": "2026-07-27T00:11:03.045174Z"
-    },
     "story_2a8e05bf7e66|pragmatic|ccc085fd": {
       "score": 25,
       "review": "面向开发者的工具更新，与内容创作者变现无直接关联，不占用注意力。",
@@ -2934,6 +2862,162 @@
       "review": "只有营收预测数字，无论文无代码无评测，纯属内部估值传闻。",
       "title_hash": "18d2c9e7",
       "scored_at": "2026-08-16T22:57:55.007706Z"
+    },
+    "story_5646c2e72f66|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "技术优化案例，与内容变现无直接关联，不占注意力。",
+      "title_hash": "3ab52e20",
+      "scored_at": "2026-08-17T23:07:16.226773Z"
+    },
+    "story_13ad5c9c5494|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "代码托管服务与内容变现无直接关联，仅对AI工具生态有间接影响，不值得投入注意力。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-17T23:07:17.596785Z"
+    },
+    "story_b3a579450c1c|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI安全技术讨论，与内容变现无直接关联，不占注意力。",
+      "title_hash": "8ea1091d",
+      "scored_at": "2026-08-17T23:07:18.661406Z"
+    },
+    "story_e8417ef9f36f|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "官方工具更新，但主要面向开发者，对内容创作者变现路径不直接，可暂缓。",
+      "title_hash": "15a2d4fc",
+      "scored_at": "2026-08-17T23:07:20.102296Z"
+    },
+    "story_07b36a6c9f2c|pragmatic|ccc085fd": {
+      "score": 20,
+      "review": "官方项目合作，与内容变现无直接关联，不占注意力。",
+      "title_hash": "00ac048f",
+      "scored_at": "2026-08-17T23:07:21.373488Z"
+    },
+    "story_31dbd9b65f22|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI训练数据来源新闻，与创作者变现无直接关联，不占今日注意力。",
+      "title_hash": "5738e771",
+      "scored_at": "2026-08-17T23:07:22.815598Z"
+    },
+    "story_3fb9b8caeae7|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "基础设施新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "7a381040",
+      "scored_at": "2026-08-17T23:07:23.908856Z"
+    },
+    "story_be6ad864c0ec|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛行业动态，与创作者变现无直接关联，不占注意力。",
+      "title_hash": "3170b19f",
+      "scored_at": "2026-08-17T23:07:25.061960Z"
+    },
+    "story_be56974e4c46|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "AI工厂合作属基础设施新闻，与个人创作者变现无直接关联，不占注意力。",
+      "title_hash": "e846e0df",
+      "scored_at": "2026-08-17T23:07:26.217533Z"
+    },
+    "story_f74afed454d1|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "泛政策构想，无直接内容变现路径，暂不占用注意力。",
+      "title_hash": "9b10c531",
+      "scored_at": "2026-08-17T23:07:27.689517Z"
+    },
+    "story_92ad1be47cb2|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "泛AI使用指南，与内容变现无直接关联，仅当涉及工具效率提升时略有关联。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T23:07:28.854355Z"
+    },
+    "story_d2e9966c6dee|pragmatic|ccc085fd": {
+      "score": 72,
+      "review": "案例观察，揭示小红书转化笔记字数规律，可测试优化现有笔记内容。",
+      "title_hash": "5fd26e21",
+      "scored_at": "2026-08-17T23:07:30.274958Z"
+    },
+    "story_2cdd61062b3a|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "行业动态，反映AI内容冲击，但未提供创作者可用的机会或应对策略，参考价值有限。",
+      "title_hash": "31d0e1c4",
+      "scored_at": "2026-08-17T23:07:31.437520Z"
+    },
+    "story_be3f625d8d7f|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "企业组织转型新闻，与个人创作者变现无直接关联，不占注意力。",
+      "title_hash": "5b7af86c",
+      "scored_at": "2026-08-17T23:07:32.430001Z"
+    },
+    "story_16a84261d17f|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "工具更新，跨设备办公提升效率，但未直接指向内容变现路径，可留意后续应用。",
+      "title_hash": "bd2a8b19",
+      "scored_at": "2026-08-17T23:07:33.536311Z"
+    },
+    "story_008aca6e8b2b|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛AI新闻，与创作者变现无直接关联，不占注意力。",
+      "title_hash": "71be83f8",
+      "scored_at": "2026-08-17T23:07:34.780887Z"
+    },
+    "story_98a2acea3dca|pragmatic|ccc085fd": {
+      "score": 62,
+      "review": "平台生态机会，商家智能体需求旺，可评估接单或工具开发，但需验证收益。",
+      "title_hash": "61d303dc",
+      "scored_at": "2026-08-17T23:07:36.008993Z"
+    },
+    "story_d11d05f89a66|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "法律技术新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "7c2189d3",
+      "scored_at": "2026-08-17T23:07:37.015149Z"
+    },
+    "story_a40740f5bec6|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "工具更新，但去水印功能对内容变现的直接帮助有限，需看是否用于原创素材处理。",
+      "title_hash": "1f530095",
+      "scored_at": "2026-08-17T23:07:38.240632Z"
+    },
+    "story_6c5172ba1412|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "泛行业观察，缺乏可操作案例或数据，对变现帮助有限。",
+      "title_hash": "9e7f0b11",
+      "scored_at": "2026-08-17T23:07:39.152463Z"
+    },
+    "story_d2e9966c6dee|cynic|f4237a62": {
+      "score": 45,
+      "review": "字数论又来了，200字是玄学还是数据？先晒出样本量再说。",
+      "title_hash": "5fd26e21",
+      "scored_at": "2026-08-17T23:07:40.293836Z"
+    },
+    "story_d2e9966c6dee|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅一篇运营派文章，无数据支撑，无复现可能，属经验之谈。",
+      "title_hash": "5fd26e21",
+      "scored_at": "2026-08-17T23:07:41.347963Z"
+    },
+    "story_98a2acea3dca|cynic|f4237a62": {
+      "score": 55,
+      "review": "排队到明年？先看看有多少是真需求，多少是凑热闹。",
+      "title_hash": "61d303dc",
+      "scored_at": "2026-08-17T23:07:42.502836Z"
+    },
+    "story_98a2acea3dca|paper-police|966065bf": {
+      "score": 15,
+      "review": "仅官方说法，无论文代码评测，排期到明年只是宣传话术。",
+      "title_hash": "61d303dc",
+      "scored_at": "2026-08-17T23:07:43.653410Z"
+    },
+    "story_e8417ef9f36f|cynic|f4237a62": {
+      "score": 72,
+      "review": "画布可视化不新鲜，但GitHub把成本效率摆上台面，总算没光吹概念。",
+      "title_hash": "15a2d4fc",
+      "scored_at": "2026-08-17T23:07:45.001183Z"
+    },
+    "story_e8417ef9f36f|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客有细节但无代码无评测，成本效率缺数据支撑。",
+      "title_hash": "15a2d4fc",
+      "scored_at": "2026-08-17T23:07:45.982190Z"
     }
   }
 }
