@@ -1,323 +1,91 @@
 {
-  "generated_at": "2026-08-17T22:44:29.962849Z",
+  "generated_at": "2026-08-18T22:44:19.668089Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_5646c2e72f66",
-      "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "story_id": "story_77f8f8705916",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
-          "recommend_reason_zh": "这篇博客实测约束感知GPU分配器：与FIFO调度器在七场景对比，相同硬件负载下GPU利用率最高提升33个百分点，优先级加权输出最高提升105%，关键在分配顺序。",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
+          "recommend_reason_zh": "IBM Research 用8个模型揭示 agentic memory 的剂量学问：gpt-oss-120b 靠精选检索多花5% token 即提升16.1pp，DeepSeek-V3.2 需完整指南集才涨9.5pp，GLM-5 已饱和无增益。记忆应校准而非堆积。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": "IBM Research发现智能体记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2则需完整指南集。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
-          "recommend_reason_zh": "这篇博客实测约束感知GPU分配器：与FIFO调度器在七场景对比，相同硬件负载下GPU利用率最高提升33个百分点，优先级加权输出最高提升105%，关键在分配顺序。",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
+          "recommend_reason_zh": "IBM Research 用8个模型揭示 agentic memory 的剂量学问：gpt-oss-120b 靠精选检索多花5% token 即提升16.1pp，DeepSeek-V3.2 需完整指南集才涨9.5pp，GLM-5 已饱和无增益。记忆应校准而非堆积。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": "IBM Research发现智能体记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2则需完整指南集。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8735,
+      "importance": 0.8735,
+      "importance_score": 0.8735,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.958,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
-      "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
-        "recommend_reason_zh": "这篇博客实测约束感知GPU分配器：与FIFO调度器在七场景对比，相同硬件负载下GPU利用率最高提升33个百分点，优先级加权输出最高提升105%，关键在分配顺序。",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "技术优化案例，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_13ad5c9c5494",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-          "recommend_reason_zh": "Cursor 推出代码托管服务 Origin 早期 Beta 版，支持代码仓库、PR 双向同步 GitHub，并集成 Vercel、Depot 和 Buildkite，付费用户可体验 GitHub 之外的智能体原生托管方案。",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_en": "Cursor launches Origin, GitHub alternative",
-          "title_original": "Cursor launches Origin, GitHub alternative",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:02:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-          "recommend_reason_zh": "Cursor 推出代码托管服务 Origin 早期 Beta 版，支持代码仓库、PR 双向同步 GitHub，并集成 Vercel、Depot 和 Buildkite，付费用户可体验 GitHub 之外的智能体原生托管方案。",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_en": "Cursor launches Origin, GitHub alternative",
-          "title_original": "Cursor launches Origin, GitHub alternative",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:02:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9927,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T17:02:44Z",
-      "latest_at": "2026-08-17T22:14:00.748000Z",
-      "primary_item": {
-        "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "title_en": null,
-        "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-        "recommend_reason_zh": "Cursor 推出代码托管服务 Origin 早期 Beta 版，支持代码仓库、PR 双向同步 GitHub，并集成 Vercel、Depot 和 Buildkite，付费用户可体验 GitHub 之外的智能体原生托管方案。",
-        "url": "https://cursor.com/changelog/origin-code-hosting",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "代码托管服务与内容变现无直接关联，仅对AI工具生态有间接影响，不值得投入注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_b3a579450c1c",
-      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAugust 17, 2026\nBy Greg Brockman\nThe OpenAI-Hugging Face",
-          "recommend_reason_zh": "本文从OpenAI-Hugging Face事件出发，说明AI正加速网络攻击自动化；作者用ChatGPT Work（基于GPT-5.6 Sol）在15分钟内查出gregbrockman.com的13个安全问题，并指出OpenAI只向可信防御者发布网络能力，呼吁安全团队立即行动。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAugust 17, 2026\nBy Greg Brockman\nThe OpenAI-Hugging Face",
-          "recommend_reason_zh": "本文从OpenAI-Hugging Face事件出发，说明AI正加速网络攻击自动化；作者用ChatGPT Work（基于GPT-5.6 Sol）在15分钟内查出gregbrockman.com的13个安全问题，并指出OpenAI只向可信防御者发布网络能力，呼吁安全团队立即行动。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7796,
+        "recency": 0.936,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -329,137 +97,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
       "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-        "title_en": "The Defender’s Window",
-        "title_original": "The Defender’s Window",
-        "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.\nAugust 17, 2026\nBy Greg Brockman\nThe OpenAI-Hugging Face",
-        "recommend_reason_zh": "本文从OpenAI-Hugging Face事件出发，说明AI正加速网络攻击自动化；作者用ChatGPT Work（基于GPT-5.6 Sol）在15分钟内查出gregbrockman.com的13个安全问题，并指出OpenAI只向可信防御者发布网络能力，呼吁安全团队立即行动。",
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+        "title_en": "How Much Memory Does Your Agent Actually Need?",
+        "title_original": "How Much Memory Does Your Agent Actually Need?",
+        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
+        "recommend_reason_zh": "IBM Research 用8个模型揭示 agentic memory 的剂量学问：gpt-oss-120b 靠精选检索多花5% token 即提升16.1pp，DeepSeek-V3.2 需完整指南集才涨9.5pp，GLM-5 已饱和无增益。记忆应校准而非堆积。",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 25,
-      "persona_review": "泛AI安全技术讨论，与内容变现无直接关联，不占注意力。",
+      "persona_review": "泛AI技术评测，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_e8417ef9f36f",
-      "title": "画布如何让 Agentic 工作流可视化、可操控且成本高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何让 Agentic 工作流可视化、可操控且成本高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_zh": "画布如何让 Agentic 工作流可视化、可操控且成本高效",
-          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows.\nChat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows.\nChat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nWhen I was in college, I joined the beta for one of the first versions of AI inline completions",
-          "recommend_reason_zh": "本文展示了如何用GitHub Copilot的canvases让agent工作流不再迷失在chat滚动中；作者以Java Modernization Studio为例，说明将计划、验证、审批显式化能减少协调成本，值得所有构建agent系统的开发者一读。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何让 Agentic 工作流可视化、可操控且成本高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_zh": "画布如何让 Agentic 工作流可视化、可操控且成本高效",
-          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows.\nChat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows.\nChat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nWhen I was in college, I joined the beta for one of the first versions of AI inline completions",
-          "recommend_reason_zh": "本文展示了如何用GitHub Copilot的canvases让agent工作流不再迷失在chat滚动中；作者以Java Modernization Studio为例，说明将计划、验证、审批显式化能减少协调成本，值得所有构建agent系统的开发者一读。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9072,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T16:00:00Z",
-      "latest_at": "2026-08-17T16:00:00Z",
-      "primary_item": {
-        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-        "title": "画布如何让 Agentic 工作流可视化、可操控且成本高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "title_zh": "画布如何让 Agentic 工作流可视化、可操控且成本高效",
-        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows.\nChat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows.\nChat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nWhen I was in college, I joined the beta for one of the first versions of AI inline completions",
-        "recommend_reason_zh": "本文展示了如何用GitHub Copilot的canvases让agent工作流不再迷失在chat滚动中；作者以Java Modernization Studio为例，说明将计划、验证、审批显式化能减少协调成本，值得所有构建agent系统的开发者一读。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方工具更新，但主要面向开发者，对内容创作者变现路径不直接，可暂缓。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_07b36a6c9f2c",
-      "title": "OpenAI加入PORTS-Pike项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "story_id": "story_17c97873294f",
+      "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI加入PORTS-Pike项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI加入PORTS-Pike项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nOpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nOpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nAugust 17, 2026\nExpanding community investment and supporting thousands of Southern Ohio jobs.\nOpenAI has entered into an agreement to secure approximately 8 gigawatts",
-          "recommend_reason_zh": "OpenAI加入PORTS-Pike项目，锁定俄亥俄州约8吉瓦算力，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40 million社区基金及$84 million Codex学分，助力当地AI基础设施建设。",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
+          "title_zh": "加强国家安全领域的民主监督",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
+          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
+          "recommend_reason_zh": "OpenAI启动新倡议，为民主监督机构提供AI工具与培训，用于监督国家安全领域的AI应用。文章提出三项原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework对高级模型进行部署前后审查。",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
+          "published_at": "2026-08-18T19:00:00Z"
         }
       ],
       "source_count": 1,
@@ -468,31 +149,31 @@
       ],
       "items": [
         {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI加入PORTS-Pike项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI加入PORTS-Pike项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nOpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nOpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nAugust 17, 2026\nExpanding community investment and supporting thousands of Southern Ohio jobs.\nOpenAI has entered into an agreement to secure approximately 8 gigawatts",
-          "recommend_reason_zh": "OpenAI加入PORTS-Pike项目，锁定俄亥俄州约8吉瓦算力，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40 million社区基金及$84 million Codex学分，助力当地AI基础设施建设。",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
+          "title_zh": "加强国家安全领域的民主监督",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
+          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
+          "recommend_reason_zh": "OpenAI启动新倡议，为民主监督机构提供AI工具与培训，用于监督国家安全领域的AI应用。文章提出三项原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework对高级模型进行部署前后审查。",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
+          "published_at": "2026-08-18T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.774,
+        "recency": 0.9474,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -503,281 +184,398 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
+      "earliest_at": "2026-08-18T19:00:00Z",
+      "latest_at": "2026-08-18T19:00:00Z",
       "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI加入PORTS-Pike项目 / OpenAI joins PORTS-Pike project",
-        "title_zh": "OpenAI加入PORTS-Pike项目",
-        "title_en": "OpenAI joins PORTS-Pike project",
-        "title_original": "OpenAI joins PORTS-Pike project",
-        "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nOpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nOpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs\nAugust 17, 2026\nExpanding community investment and supporting thousands of Southern Ohio jobs.\nOpenAI has entered into an agreement to secure approximately 8 gigawatts",
-        "recommend_reason_zh": "OpenAI加入PORTS-Pike项目，锁定俄亥俄州约8吉瓦算力，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40 million社区基金及$84 million Codex学分，助力当地AI基础设施建设。",
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
+        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+        "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
+        "title_zh": "加强国家安全领域的民主监督",
+        "title_en": "Strengthening democratic oversight in national security",
+        "title_original": "Strengthening democratic oversight in national security",
+        "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
+        "recommend_reason_zh": "OpenAI启动新倡议，为民主监督机构提供AI工具与培训，用于监督国家安全领域的AI应用。文章提出三项原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework对高级模型进行部署前后审查。",
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "官方项目合作，与内容变现无直接关联，不占注意力。",
+      "persona_score": 15,
+      "persona_review": "官方政策声明，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_31dbd9b65f22",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_7de8d1dc0770",
+      "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": "404 Media在珍本书中放置追踪器，追踪至Amazon位于拉斯维加斯的VGT3仓库，发现其剪断装订扫描图书用于AI训练后销毁，首次曝光这一批量购书操作。",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_en": null,
-          "title_original": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T13:44:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.404media.co"
-      ],
-      "items": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": "404 Media在珍本书中放置追踪器，追踪至Amazon位于拉斯维加斯的VGT3仓库，发现其剪断装订扫描图书用于AI训练后销毁，首次曝光这一批量购书操作。",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_en": null,
-          "title_original": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T13:44:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9442,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T13:44:23Z",
-      "latest_at": "2026-08-17T18:46:04.518000Z",
-      "primary_item": {
-        "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-        "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_en": null,
-        "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-        "recommend_reason_zh": "404 Media在珍本书中放置追踪器，追踪至Amazon位于拉斯维加斯的VGT3仓库，发现其剪断装订扫描图书用于AI训练后销毁，首次曝光这一批量购书操作。",
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "AI训练数据来源新闻，与创作者变现无直接关联，不占今日注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_3fb9b8caeae7",
-      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "primary_url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-          "title_en": "Securing the Infrastructure of Intelligence",
-          "title_original": "Securing the Infrastructure of Intelligence",
-          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-          "recommend_reason_zh": "NVIDIA联手SB Energy在俄亥俄PORTS-Pike为OpenAI建AI工厂，初始容量4.25吉瓦，单代部署约150万块GPU，价值1500亿至2000亿美元，20年内可多轮升级。",
-          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:34:51Z"
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按 Token 类型撤销凭据和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
+          "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭据的功能，企业管理员可单独吊销 Personal access tokens、SSH keys 等，避免误伤可信凭据，精准控制安全事件影响范围。",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA Blog（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-          "title_en": "Securing the Infrastructure of Intelligence",
-          "title_original": "Securing the Infrastructure of Intelligence",
-          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-          "recommend_reason_zh": "NVIDIA联手SB Energy在俄亥俄PORTS-Pike为OpenAI建AI工厂，初始容量4.25吉瓦，单代部署约150万块GPU，价值1500亿至2000亿美元，20年内可多轮升级。",
-          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:34:51Z"
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按 Token 类型撤销凭据和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
+          "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭据的功能，企业管理员可单独吊销 Personal access tokens、SSH keys 等，避免误伤可信凭据，精准控制安全事件影响范围。",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9888,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T12:34:51Z",
-      "latest_at": "2026-08-17T12:34:51Z",
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
       "primary_item": {
-        "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-        "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-        "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-        "title_en": "Securing the Infrastructure of Intelligence",
-        "title_original": "Securing the Infrastructure of Intelligence",
-        "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-        "recommend_reason_zh": "NVIDIA联手SB Energy在俄亥俄PORTS-Pike为OpenAI建AI工厂，初始容量4.25吉瓦，单代部署约150万块GPU，价值1500亿至2000亿美元，20年内可多轮升级。",
-        "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
+        "title_zh": "按 Token 类型撤销凭据和取消授权",
+        "title_en": "Credential revocation and deauthorization by token type",
+        "title_original": "Credential revocation and deauthorization by token type",
+        "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
+        "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭据的功能，企业管理员可单独吊销 Personal access tokens、SSH keys 等，避免误伤可信凭据，精准控制安全事件影响范围。",
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "基础设施新闻，与内容变现无直接关联，不占注意力。",
+      "persona_score": 15,
+      "persona_review": "泛技术更新，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_be6ad864c0ec",
-      "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-      "url": "https://www.aibase.com/news/30406",
-      "primary_url": "https://www.aibase.com/news/30406",
+      "story_id": "story_02cf85db407e",
+      "title": "Codex CLI 0.148.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+          "title": "Codex CLI 0.148.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.148.0",
+          "title_original": "Codex CLI 0.148.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
+          "recommend_reason_zh": "Codex CLI 0.148.0上线macOS专属的Computer History功能，但仅限ChatGPT Pro、Business和Enterprise用户，且暂不覆盖欧洲经济区、瑞士和英国；同时推出Linux桌面应用预览，支持导入Claude Code和Cursor的配置。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+          "title": "Codex CLI 0.148.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.148.0",
+          "title_original": "Codex CLI 0.148.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
+          "recommend_reason_zh": "Codex CLI 0.148.0上线macOS专属的Computer History功能，但仅限ChatGPT Pro、Business和Enterprise用户，且暂不覆盖欧洲经济区、瑞士和英国；同时推出Linux桌面应用预览，支持导入Claude Code和Cursor的配置。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7201,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T00:00:00Z",
+      "latest_at": "2026-08-18T00:00:00Z",
+      "primary_item": {
+        "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+        "title": "Codex CLI 0.148.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.148.0",
+        "title_original": "Codex CLI 0.148.0",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
+        "recommend_reason_zh": "Codex CLI 0.148.0上线macOS专属的Computer History功能，但仅限ChatGPT Pro、Business和Enterprise用户，且暂不覆盖欧洲经济区、瑞士和英国；同时推出Linux桌面应用预览，支持导入Claude Code和Cursor的配置。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "工具更新但未提变现路径，对内容生产无直接增益，暂不测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_8e332aafeb89",
+      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与 CodeAI 合作，准备第一代 AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
+          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nAugust 18, 2026\nToday’s students will be the",
+          "recommend_reason_zh": "OpenAI与CodeAI合作推广AI素养教育，数据显示仅16%高中领导称所有学生正在课堂学习AI技术知识，而75%高中生认为理解AI对未来更重要，伴随ChatGPT for Teens推出。",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与 CodeAI 合作，准备第一代 AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
+          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nAugust 18, 2026\nToday’s students will be the",
+          "recommend_reason_zh": "OpenAI与CodeAI合作推广AI素养教育，数据显示仅16%高中领导称所有学生正在课堂学习AI技术知识，而75%高中生认为理解AI对未来更重要，伴随ChatGPT for Teens推出。",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8441,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+        "title_zh": "与 CodeAI 合作，准备第一代 AI",
+        "title_en": "Partnering with CodeAI to prepare the first AI generation",
+        "title_original": "Partnering with CodeAI to prepare the first AI generation",
+        "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nAugust 18, 2026\nToday’s students will be the",
+        "recommend_reason_zh": "OpenAI与CodeAI合作推广AI素养教育，数据显示仅16%高中领导称所有学生正在课堂学习AI技术知识，而75%高中生认为理解AI对未来更重要，伴随ChatGPT for Teens推出。",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "官方合作新闻，但未提内容变现路径，对创作者无直接行动价值。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_41f4a70159de",
+      "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana借助Codex在2周内完成了5年的工程量",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAugust 18, 2026\nUsing OpenAI Codex, Asana replaced an outdated testing system in two weeks f",
+          "recommend_reason_zh": "Asana用OpenAI Codex两周内移除过时测试系统Enzyme，完成原本预计五年的工程，成本约1.2万美元，而原有人力方案估算需600万美元。",
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana借助Codex在2周内完成了5年的工程量",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAugust 18, 2026\nUsing OpenAI Codex, Asana replaced an outdated testing system in two weeks f",
+          "recommend_reason_zh": "Asana用OpenAI Codex两周内移除过时测试系统Enzyme，完成原本预计五年的工程，成本约1.2万美元，而原有人力方案估算需600万美元。",
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7967,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+        "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_zh": "Asana借助Codex在2周内完成了5年的工程量",
+        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAugust 18, 2026\nUsing OpenAI Codex, Asana replaced an outdated testing system in two weeks f",
+        "recommend_reason_zh": "Asana用OpenAI Codex两周内移除过时测试系统Enzyme，完成原本预计五年的工程，成本约1.2万美元，而原有人力方案估算需600万美元。",
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "企业工程效率案例，与个人创作者变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_3590481c04b9",
+      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+      "url": "https://www.aibase.com/news/30444",
+      "primary_url": "https://www.aibase.com/news/30444",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
-          "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-          "title_zh": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "title_en": null,
-          "title_original": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-          "summary": "To enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nTo enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nTo enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nExplore AI Fronti",
-          "recommend_reason_zh": "苹果正与各大出版商洽谈付费引入实时新闻，为新一代Siri AI提供实时信息检索能力。合作采用按使用量动态结算模式，而非固定授权费，预算据称高达九位数美元。",
-          "url": "https://www.aibase.com/news/30406",
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "summary": "WeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nExplore AI Fronti",
+          "recommend_reason_zh": "WeChat灰度测试原生AI助手Xiaowei，AI入口增至16个；新增公众号AI摘要、文章即时总结、朋友圈AI评论，以及聊天图片AI处理和扫一扫拍照问AI。",
+          "url": "https://www.aibase.com/news/30444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T18:44:29.962849Z"
+          "published_at": "2026-08-18T18:44:19.668089Z"
         }
       ],
       "source_count": 1,
@@ -786,18 +584,18 @@
       ],
       "items": [
         {
-          "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
-          "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-          "title_zh": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
           "title_en": null,
-          "title_original": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-          "summary": "To enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nTo enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nTo enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nExplore AI Fronti",
-          "recommend_reason_zh": "苹果正与各大出版商洽谈付费引入实时新闻，为新一代Siri AI提供实时信息检索能力。合作采用按使用量动态结算模式，而非固定授权费，预算据称高达九位数美元。",
-          "url": "https://www.aibase.com/news/30406",
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "summary": "WeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nExplore AI Fronti",
+          "recommend_reason_zh": "WeChat灰度测试原生AI助手Xiaowei，AI入口增至16个；新增公众号AI摘要、文章即时总结、朋友圈AI评论，以及聊天图片AI处理和扫一扫拍照问AI。",
+          "url": "https://www.aibase.com/news/30444",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T18:44:29.962849Z"
+          "published_at": "2026-08-18T18:44:19.668089Z"
         }
       ],
       "item_count": 1,
@@ -820,367 +618,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T18:44:29.962849Z",
-      "latest_at": "2026-08-17T18:44:29.962849Z",
+      "earliest_at": "2026-08-18T18:44:19.668089Z",
+      "latest_at": "2026-08-18T18:44:19.668089Z",
       "primary_item": {
-        "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
-        "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-        "title_zh": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
+        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
         "title_en": null,
-        "title_original": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-        "summary": "To enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nTo enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nTo enable the highly anticipated next-generation Siri AI with powerful real-time information retrieval capabilities, Apple has recently been in deep discussions\nExplore AI Fronti",
-        "recommend_reason_zh": "苹果正与各大出版商洽谈付费引入实时新闻，为新一代Siri AI提供实时信息检索能力。合作采用按使用量动态结算模式，而非固定授权费，预算据称高达九位数美元。",
-        "url": "https://www.aibase.com/news/30406",
+        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "summary": "WeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nExplore AI Fronti",
+        "recommend_reason_zh": "WeChat灰度测试原生AI助手Xiaowei，AI入口增至16个；新增公众号AI摘要、文章即时总结、朋友圈AI评论，以及聊天图片AI处理和扫一扫拍照问AI。",
+        "url": "https://www.aibase.com/news/30444",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛行业动态，与创作者变现无直接关联，不占注意力。",
+      "persona_score": 72,
+      "persona_review": "微信AI入口增加是平台规则变化，可能影响获客渠道，值得测试新入口的流量和转化。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_be56974e4c46",
-      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-      "url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "source": "X：Jensen Huang (@JensenHuang)",
+      "story_id": "story_654c10ffc24b",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "primary_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "source": "Google Developers Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6e0f761a2146032889914220920c023472e7a342",
-          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-          "title_en": "https://x.com/i/article/2089330332369588224",
-          "title_original": "https://x.com/i/article/2089330332369588224",
-          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-          "recommend_reason_zh": "本文从“土地、电力与建筑外壳”三要素切入，指出它们正是AI工厂的下一个关键资源，透视AI规模化扩张中基础设施的瓶颈与机遇，值得一读。",
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
+          "published_at": "2026-08-17T23:22:25.902000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
+        "Google Developers Blog（RSS）"
       ],
       "items": [
         {
-          "id": "6e0f761a2146032889914220920c023472e7a342",
-          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-          "title_en": "https://x.com/i/article/2089330332369588224",
-          "title_original": "https://x.com/i/article/2089330332369588224",
-          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-          "recommend_reason_zh": "本文从“土地、电力与建筑外壳”三要素切入，指出它们正是AI工厂的下一个关键资源，透视AI规模化扩张中基础设施的瓶颈与机遇，值得一读。",
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
+          "published_at": "2026-08-17T23:22:25.902000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8647,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T12:40:19Z",
-      "latest_at": "2026-08-17T12:40:19Z",
-      "primary_item": {
-        "id": "6e0f761a2146032889914220920c023472e7a342",
-        "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-        "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-        "title_en": "https://x.com/i/article/2089330332369588224",
-        "title_original": "https://x.com/i/article/2089330332369588224",
-        "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-        "recommend_reason_zh": "本文从“土地、电力与建筑外壳”三要素切入，指出它们正是AI工厂的下一个关键资源，透视AI规模化扩张中基础设施的瓶颈与机遇，值得一读。",
-        "url": "https://x.com/JensenHuang/status/2089331487342829862",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "AI工厂合作属基础设施新闻，与个人创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_f74afed454d1",
-      "title": "智能时代的新政策构想 / New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "智能时代的新政策构想 / New policy ideas for the Intelligence Age",
-          "title_zh": "智能时代的新政策构想",
-          "title_en": "New policy ideas for the Intelligence Age",
-          "title_original": "New policy ideas for the Intelligence Age",
-          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nAugust 17, 2026\nFunding in",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "智能时代的新政策构想 / New policy ideas for the Intelligence Age",
-          "title_zh": "智能时代的新政策构想",
-          "title_en": "New policy ideas for the Intelligence Age",
-          "title_original": "New policy ideas for the Intelligence Age",
-          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nAugust 17, 2026\nFunding in",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.69,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7547,
+        "ai_relevance": 1.0,
+        "recency": 0.7136,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T03:15:00Z",
-      "latest_at": "2026-08-17T03:15:00Z",
+      "earliest_at": "2026-08-17T23:22:25.902000Z",
+      "latest_at": "2026-08-17T23:22:25.902000Z",
       "primary_item": {
-        "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-        "title": "智能时代的新政策构想 / New policy ideas for the Intelligence Age",
-        "title_zh": "智能时代的新政策构想",
-        "title_en": "New policy ideas for the Intelligence Age",
-        "title_original": "New policy ideas for the Intelligence Age",
-        "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.\nAugust 17, 2026\nFunding in",
+        "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
+        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+        "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+        "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+        "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
+        "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "泛政策构想，无直接内容变现路径，暂不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_92ad1be47cb2",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "primary_url": "https://www.librarian.net/notoai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，具体教你在chrome://flags中搜索GLIC与Gemini并设为禁用，在系统设置里关闭Apple Intelligence，同时停用手机上的Gemini助手，有效减少侵入式AI。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.librarian.net"
-      ],
-      "items": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，具体教你在chrome://flags中搜索GLIC与Gemini并设为禁用，在系统设置里关闭Apple Intelligence，同时停用手机上的Gemini助手，有效减少侵入式AI。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9334,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T14:07:56Z",
-      "latest_at": "2026-08-17T17:58:12.144000Z",
-      "primary_item": {
-        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_en": null,
-        "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-        "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，具体教你在chrome://flags中搜索GLIC与Gemini并设为禁用，在系统设置里关闭Apple Intelligence，同时停用手机上的Gemini助手，有效减少侵入式AI。",
-        "url": "https://www.librarian.net/notoai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "泛AI使用指南，与内容变现无直接关联，仅当涉及工具效率提升时略有关联。",
+      "persona_score": 45,
+      "persona_review": "官方工具更新，但偏技术架构，缺少直接变现路径，暂不优先测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_d2e9966c6dee",
-      "title": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
-      "url": "https://www.yunyingpai.com/xhs/1061673.html",
-      "primary_url": "https://www.yunyingpai.com/xhs/1061673.html",
+      "story_id": "story_d5ef531718d4",
+      "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+      "url": "https://www.yunyingpai.com/content/1061698.html",
+      "primary_url": "https://www.yunyingpai.com/content/1061698.html",
       "source": "运营派",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "35446bf907bce506fc6c6166e14c6f596c7c51f4",
-          "title": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
-          "title_zh": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+          "id": "ea062031830a2b717ddd35636c8bb11c190b7992",
+          "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+          "title_zh": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
           "title_en": null,
-          "title_original": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+          "title_original": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/xhs/1061673.html",
+          "url": "https://www.yunyingpai.com/content/1061698.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T07:21:54Z"
+          "published_at": "2026-08-18T06:01:54Z"
         }
       ],
       "source_count": 1,
@@ -1189,31 +756,31 @@
       ],
       "items": [
         {
-          "id": "35446bf907bce506fc6c6166e14c6f596c7c51f4",
-          "title": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
-          "title_zh": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+          "id": "ea062031830a2b717ddd35636c8bb11c190b7992",
+          "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+          "title_zh": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
           "title_en": null,
-          "title_original": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+          "title_original": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/xhs/1061673.html",
+          "url": "https://www.yunyingpai.com/content/1061698.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T07:21:54Z"
+          "published_at": "2026-08-18T06:01:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.8009,
+        "recency": 0.7856,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -1222,50 +789,50 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-17T07:21:54Z",
-      "latest_at": "2026-08-17T07:21:54Z",
+      "earliest_at": "2026-08-18T06:01:54Z",
+      "latest_at": "2026-08-18T06:01:54Z",
       "primary_item": {
-        "id": "35446bf907bce506fc6c6166e14c6f596c7c51f4",
-        "title": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
-        "title_zh": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+        "id": "ea062031830a2b717ddd35636c8bb11c190b7992",
+        "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+        "title_zh": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
         "title_en": null,
-        "title_original": "我发现，小红书月销百万的商家，转化笔记都超过200字…",
+        "title_original": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/xhs/1061673.html",
+        "url": "https://www.yunyingpai.com/content/1061698.html",
         "source": "运营派",
         "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "案例观察，揭示小红书转化笔记字数规律，可测试优化现有笔记内容。",
+      "persona_score": 62,
+      "persona_review": "案例反思类内容，有实操经验但缺具体可复用方法，适合参考心态调整。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_2cdd61062b3a",
-      "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-      "url": "https://www.aibase.com/news/30403",
-      "primary_url": "https://www.aibase.com/news/30403",
+      "story_id": "story_e3e64a7023cf",
+      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+      "url": "https://www.aibase.com/news/30441",
+      "primary_url": "https://www.aibase.com/news/30441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8896675e6169f1699ac10a6295254c1db07825e0",
-          "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-          "title_zh": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-          "summary": "A new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nA new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nA new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nExplore AI Frontiers",
-          "recommend_reason_zh": "一项针对Amazon超14000本自出版电子书的研究显示，AI生成书籍占目录20%却仅贡献12.1%销售份额，目录增长38.3倍而收入仅增8.9倍，揭示“稀释效应”正挤压人类作者。",
-          "url": "https://www.aibase.com/news/30403",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "summary": "Technology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T17:44:29.962849Z"
+          "published_at": "2026-08-18T17:44:19.668089Z"
         }
       ],
       "source_count": 1,
@@ -1274,18 +841,18 @@
       ],
       "items": [
         {
-          "id": "8896675e6169f1699ac10a6295254c1db07825e0",
-          "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-          "title_zh": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-          "summary": "A new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nA new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nA new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nExplore AI Frontiers",
-          "recommend_reason_zh": "一项针对Amazon超14000本自出版电子书的研究显示，AI生成书籍占目录20%却仅贡献12.1%销售份额，目录增长38.3倍而收入仅增8.9倍，揭示“稀释效应”正挤压人类作者。",
-          "url": "https://www.aibase.com/news/30403",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "summary": "Technology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T17:44:29.962849Z"
+          "published_at": "2026-08-18T17:44:19.668089Z"
         }
       ],
       "item_count": 1,
@@ -1308,336 +875,455 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T17:44:29.962849Z",
-      "latest_at": "2026-08-17T17:44:29.962849Z",
+      "earliest_at": "2026-08-18T17:44:19.668089Z",
+      "latest_at": "2026-08-18T17:44:19.668089Z",
       "primary_item": {
-        "id": "8896675e6169f1699ac10a6295254c1db07825e0",
-        "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-        "title_zh": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
+        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "title_en": null,
-        "title_original": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-        "summary": "A new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nA new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nA new study of over 14,000 self-published e-books on Amazon shows that AI-generated content is quietly reshaping the entire publishing market by leveraging its\nExplore AI Frontiers",
-        "recommend_reason_zh": "一项针对Amazon超14000本自出版电子书的研究显示，AI生成书籍占目录20%却仅贡献12.1%销售份额，目录增长38.3倍而收入仅增8.9倍，揭示“稀释效应”正挤压人类作者。",
-        "url": "https://www.aibase.com/news/30403",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "行业动态，反映AI内容冲击，但未提供创作者可用的机会或应对策略，参考价值有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_be3f625d8d7f",
-      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-      "url": "https://www.aibase.com/news/30404",
-      "primary_url": "https://www.aibase.com/news/30404",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_en": null,
-          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "summary": "On August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nOn August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nOn August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nExplore AI Frontiers",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T17:44:29.962849Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_en": null,
-          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "summary": "On August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nOn August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nOn August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nExplore AI Frontiers",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T17:44:29.962849Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T17:44:29.962849Z",
-      "latest_at": "2026-08-17T17:44:29.962849Z",
-      "primary_item": {
-        "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-        "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "title_en": null,
-        "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "summary": "On August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nOn August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nOn August 17, Zhou Hongyi, founder of 360 Group, released a company-wide letter titled \"Driving Business Innovation and Organizational Change with Leadership,\"\nExplore AI Frontiers",
+        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "summary": "Technology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30404",
+        "url": "https://www.aibase.com/news/30441",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "企业组织转型新闻，与个人创作者变现无直接关联，不占注意力。",
+      "persona_review": "手机端AI反诈功能，与创作者变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_16a84261d17f",
-      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-      "url": "https://www.aibase.com/news/30402",
-      "primary_url": "https://www.aibase.com/news/30402",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_cd7a1ff75de2",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": "Recently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nRecently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nRecently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nExplore AI Fronti",
-          "recommend_reason_zh": "豆包“工作任务”模式更新，手机授权后即可远程操控电脑，支持检索本地文件并完成Pages转PDF等格式转换，让跨设备移动办公不再受距离限制。",
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T17:44:29.962849Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": "Recently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nRecently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nRecently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nExplore AI Fronti",
-          "recommend_reason_zh": "豆包“工作任务”模式更新，手机授权后即可远程操控电脑，支持检索本地文件并完成Pages转PDF等格式转换，让跨设备移动办公不再受距离限制。",
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T17:44:29.962849Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T17:44:29.962849Z",
-      "latest_at": "2026-08-17T17:44:29.962849Z",
-      "primary_item": {
-        "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-        "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_en": null,
-        "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "summary": "Recently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nRecently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nRecently, ByteDance's smart assistant Doubao announced a major update to its \"Work Tasks\" mode - the official launch of the mobile phone remote control computer\nExplore AI Fronti",
-        "recommend_reason_zh": "豆包“工作任务”模式更新，手机授权后即可远程操控电脑，支持检索本地文件并完成Pages转PDF等格式转换，让跨设备移动办公不再受距离限制。",
-        "url": "https://www.aibase.com/news/30402",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "工具更新，跨设备办公提升效率，但未直接指向内容变现路径，可留意后续应用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_008aca6e8b2b",
-      "title": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI / Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-          "title": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_zh": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI",
-          "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+          "recommend_reason_zh": "推荐语：本文详解Sentence Transformers v6.0新增的MultiVectorEncoder，支持直接加载PyLate与Stanford-NLP ColBERT检查点，通过MaxSim算子保留token级匹配，并覆盖视觉文档检索与索引优化，实操性强。",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
         },
         {
-          "id": "028bc6f232377abf8a6d6288df14f4cfd604ce76",
-          "title": "昔日在线书商亚马逊，如今为训练AI模型销毁珍本图书 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "title_zh": "昔日在线书商亚马逊，如今为训练AI模型销毁珍本图书",
-          "title_en": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "title_original": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "summary": null,
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T16:38:44Z"
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-          "title": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_zh": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI",
-          "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+          "recommend_reason_zh": "推荐语：本文详解Sentence Transformers v6.0新增的MultiVectorEncoder，支持直接加载PyLate与Stanford-NLP ColBERT检查点，通过MaxSim算子保留token级匹配，并覆盖视觉文档检索与索引优化，实操性强。",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
         },
         {
-          "id": "028bc6f232377abf8a6d6288df14f4cfd604ce76",
-          "title": "昔日在线书商亚马逊，如今为训练AI模型销毁珍本图书 / Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "title_zh": "昔日在线书商亚马逊，如今为训练AI模型销毁珍本图书",
-          "title_en": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "title_original": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "summary": null,
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T16:38:44Z"
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6336,
-      "importance": 0.6336,
-      "importance_score": 0.6336,
-      "importance_label": "值得关注",
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9157,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7201,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T00:00:00Z",
+      "latest_at": "2026-08-18T00:00:00Z",
+      "primary_item": {
+        "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+        "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+        "recommend_reason_zh": "推荐语：本文详解Sentence Transformers v6.0新增的MultiVectorEncoder，支持直接加载PyLate与Stanford-NLP ColBERT检查点，通过MaxSim算子保留token级匹配，并覆盖视觉文档检索与索引优化，实操性强。",
+        "url": "https://huggingface.co/blog/multi-vector-encoder",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "技术库更新，对内容生产或变现无直接路径，暂不占用注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_914e45d552d0",
+      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+      "url": "https://www.aibase.com/news/30443",
+      "primary_url": "https://www.aibase.com/news/30443",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_en": null,
+          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "summary": "Baidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nExplore AI Fronti",
+          "recommend_reason_zh": "Baidu二季度营收313亿元，AI业务占比连续两季过半；AI云收入73亿元增50%，GPU云增283%，Baidu Dazi月活环比增1063.79%。",
+          "url": "https://www.aibase.com/news/30443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T17:44:19.668089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_en": null,
+          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "summary": "Baidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nExplore AI Fronti",
+          "recommend_reason_zh": "Baidu二季度营收313亿元，AI业务占比连续两季过半；AI云收入73亿元增50%，GPU云增283%，Baidu Dazi月活环比增1063.79%。",
+          "url": "https://www.aibase.com/news/30443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T17:44:19.668089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9303,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-17T16:38:44Z",
-      "latest_at": "2026-08-17T16:38:44Z",
+      "earliest_at": "2026-08-18T17:44:19.668089Z",
+      "latest_at": "2026-08-18T17:44:19.668089Z",
       "primary_item": {
-        "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-        "title": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI / Amazon, which started off selling books, is destroying rare texts to train AI",
-        "title_zh": "以卖书起家的 Amazon，正在销毁稀有文本以训练 AI",
-        "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "title_en": null,
+        "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "summary": "Baidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nExplore AI Fronti",
+        "recommend_reason_zh": "Baidu二季度营收313亿元，AI业务占比连续两季过半；AI云收入73亿元增50%，GPU云增283%，Baidu Dazi月活环比增1063.79%。",
+        "url": "https://www.aibase.com/news/30443",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "泛公司财报，AI业务占比与创作者变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_394e39b5c070",
+      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "primary_url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and",
+          "recommend_reason_zh": "OpenAI推出ChatGPT for Teens，自动将13至17岁用户纳入，内置更强安全防护和家长控制，结合Study Mode用引导式提问与知识检查帮助青少年分步解题，而非直接给答案。",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        },
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and",
+          "recommend_reason_zh": "OpenAI推出ChatGPT for Teens，自动将13至17岁用户纳入，内置更强安全防护和家长控制，结合Study Mode用引导式提问与知识检查帮助青少年分步解题，而非直接给答案。",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        },
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8441,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+        "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and",
+        "recommend_reason_zh": "OpenAI推出ChatGPT for Teens，自动将13至17岁用户纳入，内置更强安全防护和家长控制，结合Study Mode用引导式提问与知识检查帮助青少年分步解题，而非直接给答案。",
+        "url": "https://openai.com/index/chatgpt-for-teens",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "面向青少年的产品更新，与创作者变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_caea36665915",
+      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+      "url": "https://www.aibase.com/news/30440",
+      "primary_url": "https://www.aibase.com/news/30440",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_en": null,
+          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "summary": "A team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nExplore AI Fronti",
+          "recommend_reason_zh": "哈佛MIT联合OpenAI与Google DeepMind推出MatrAIx系统，可生成83亿个AI代理模拟人类行为，经400项控制测试，场景判断一致率达91.5%，百万级人格核心集已上线Hugging Face。",
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T16:44:19.668089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "title_en": null,
+          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "summary": "A team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nExplore AI Fronti",
+          "recommend_reason_zh": "哈佛MIT联合OpenAI与Google DeepMind推出MatrAIx系统，可生成83亿个AI代理模拟人类行为，经400项控制测试，场景判断一致率达91.5%，百万级人格核心集已上线Hugging Face。",
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T16:44:19.668089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T16:44:19.668089Z",
+      "latest_at": "2026-08-18T16:44:19.668089Z",
+      "primary_item": {
+        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "title_en": null,
+        "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "summary": "A team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nExplore AI Fronti",
+        "recommend_reason_zh": "哈佛MIT联合OpenAI与Google DeepMind推出MatrAIx系统，可生成83亿个AI代理模拟人类行为，经400项控制测试，场景判断一致率达91.5%，百万级人格核心集已上线Hugging Face。",
+        "url": "https://www.aibase.com/news/30440",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "泛AI新闻，与创作者变现无直接关联，不占注意力。",
+      "persona_review": "学术模拟系统，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_98a2acea3dca",
-      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-      "url": "https://www.aibase.com/news/30398",
-      "primary_url": "https://www.aibase.com/news/30398",
+      "story_id": "story_5b08555afaa9",
+      "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+      "url": "https://www.aibase.com/news/30436",
+      "primary_url": "https://www.aibase.com/news/30436",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
+          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+          "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
           "title_en": null,
-          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "summary": "A complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nA complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nA complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nExplore AI Fronti",
-          "recommend_reason_zh": "Alipay生态大会透露，智能体Abao已完成超1万个服务AI化接入，覆盖5大手机品牌和16家车厂，联合Qwen、Huawei、OPPO、BYD、Geely等发布AHA协议。商家接入踊跃，部分开发需求已排到明年。",
-          "url": "https://www.aibase.com/news/30398",
+          "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+          "summary": "In today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nExplore AI Fronti",
+          "recommend_reason_zh": "Sam Altman在Internapalooza直言四年大学太冗长、两年刚好，并援引自己Stanford辍学创办Loopt、入选Y Combinator首批项目的经历，犀利剖析AI时代传统教育的边际效益递减。",
+          "url": "https://www.aibase.com/news/30436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T16:44:29.962849Z"
+          "published_at": "2026-08-18T16:44:19.668089Z"
         }
       ],
       "source_count": 1,
@@ -1646,18 +1332,18 @@
       ],
       "items": [
         {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
+          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+          "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
           "title_en": null,
-          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "summary": "A complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nA complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nA complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nExplore AI Fronti",
-          "recommend_reason_zh": "Alipay生态大会透露，智能体Abao已完成超1万个服务AI化接入，覆盖5大手机品牌和16家车厂，联合Qwen、Huawei、OPPO、BYD、Geely等发布AHA协议。商家接入踊跃，部分开发需求已排到明年。",
-          "url": "https://www.aibase.com/news/30398",
+          "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+          "summary": "In today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nExplore AI Fronti",
+          "recommend_reason_zh": "Sam Altman在Internapalooza直言四年大学太冗长、两年刚好，并援引自己Stanford辍学创办Loopt、入选Y Combinator首批项目的经历，犀利剖析AI时代传统教育的边际效益递减。",
+          "url": "https://www.aibase.com/news/30436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T16:44:29.962849Z"
+          "published_at": "2026-08-18T16:44:19.668089Z"
         }
       ],
       "item_count": 1,
@@ -1680,136 +1366,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T16:44:29.962849Z",
-      "latest_at": "2026-08-17T16:44:29.962849Z",
+      "earliest_at": "2026-08-18T16:44:19.668089Z",
+      "latest_at": "2026-08-18T16:44:19.668089Z",
       "primary_item": {
-        "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-        "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
+        "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
+        "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+        "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
         "title_en": null,
-        "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "summary": "A complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nA complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nA complete industrial infrastructure for intelligent agent business is taking shape. On August 17th, the first ecological partner conference focusing on the pra\nExplore AI Fronti",
-        "recommend_reason_zh": "Alipay生态大会透露，智能体Abao已完成超1万个服务AI化接入，覆盖5大手机品牌和16家车厂，联合Qwen、Huawei、OPPO、BYD、Geely等发布AHA协议。商家接入踊跃，部分开发需求已排到明年。",
-        "url": "https://www.aibase.com/news/30398",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "平台生态机会，商家智能体需求旺，可评估接单或工具开发，但需验证收益。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
-      }
-    },
-    {
-      "story_id": "story_d11d05f89a66",
-      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-      "url": "https://www.aibase.com/news/30401",
-      "primary_url": "https://www.aibase.com/news/30401",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": "A pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nA pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nA pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nExplore AI Fronti",
-          "recommend_reason_zh": "康涅狄格州自诉原告在诉状中以白底白字隐藏“AI提示指令”，企图操控AI审查，法官Walter Spade Jr.称系美国司法首例“提示注入”攻击，虽因法院未用AI而未得逞。",
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T16:44:29.962849Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": "A pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nA pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nA pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nExplore AI Fronti",
-          "recommend_reason_zh": "康涅狄格州自诉原告在诉状中以白底白字隐藏“AI提示指令”，企图操控AI审查，法官Walter Spade Jr.称系美国司法首例“提示注入”攻击，虽因法院未用AI而未得逞。",
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T16:44:29.962849Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T16:44:29.962849Z",
-      "latest_at": "2026-08-17T16:44:29.962849Z",
-      "primary_item": {
-        "id": "d736d87029511dac5e26a44965814f519559f722",
-        "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_en": null,
-        "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "summary": "A pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nA pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nA pro se plaintiff from Connecticut was found by a judge to have hidden text instructions that could only be read by AI systems in documents submitted to the co\nExplore AI Fronti",
-        "recommend_reason_zh": "康涅狄格州自诉原告在诉状中以白底白字隐藏“AI提示指令”，企图操控AI审查，法官Walter Spade Jr.称系美国司法首例“提示注入”攻击，虽因法院未用AI而未得逞。",
-        "url": "https://www.aibase.com/news/30401",
+        "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
+        "summary": "In today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nExplore AI Fronti",
+        "recommend_reason_zh": "Sam Altman在Internapalooza直言四年大学太冗长、两年刚好，并援引自己Stanford辍学创办Loopt、入选Y Combinator首批项目的经历，犀利剖析AI时代传统教育的边际效益递减。",
+        "url": "https://www.aibase.com/news/30436",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "法律技术新闻，与内容变现无直接关联，不占注意力。",
+      "persona_review": "泛教育评论，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_a40740f5bec6",
-      "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-      "url": "https://www.aibase.com/news/30397",
-      "primary_url": "https://www.aibase.com/news/30397",
+      "story_id": "story_deae2dbaff1a",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+          "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络能力阈值，暂停两周RL训练并搁置最大规模RL运行，以强化监控、对齐与安全防护。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+          "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络能力阈值，暂停两周RL训练并搁置最大规模RL运行，以强化监控、对齐与安全防护。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8441,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+        "title_en": "Pacing model development in an era of cyber-critical capabilities",
+        "title_original": "Pacing model development in an era of cyber-critical capabilities",
+        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+        "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络能力阈值，暂停两周RL训练并搁置最大规模RL运行，以强化监控、对齐与安全防护。",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "官方节奏调整，与内容变现无直接关联，不占今日注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_4dcfda21a6fc",
+      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+      "url": "https://www.aibase.com/news/30432",
+      "primary_url": "https://www.aibase.com/news/30432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-          "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "title_en": null,
-          "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "summary": "Google has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nGoogle has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nGoogle has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nExplore AI Frontiers",
-          "recommend_reason_zh": "谷歌Gemini将允许用户关闭图片、视频和音乐生成时的可见水印，涉及Nano Banana、Omni、Lyria等模型，但SynthID隐形水印与C2PA元数据仍保留以保障透明。",
-          "url": "https://www.aibase.com/news/30397",
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "summary": "Vercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nExplore AI Fronti",
+          "recommend_reason_zh": "Vercel Labs 开源的编程语言 Zero 已获 5,310 星，专为 AI Agent 设计：以图代替文本源码，编译器验证补丁，人类只在循环外偶尔查看文本投影。",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T16:44:29.962849Z"
+          "published_at": "2026-08-18T15:44:19.668089Z"
         }
       ],
       "source_count": 1,
@@ -1818,31 +1504,31 @@
       ],
       "items": [
         {
-          "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-          "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "title_en": null,
-          "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-          "summary": "Google has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nGoogle has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nGoogle has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nExplore AI Frontiers",
-          "recommend_reason_zh": "谷歌Gemini将允许用户关闭图片、视频和音乐生成时的可见水印，涉及Nano Banana、Omni、Lyria等模型，但SynthID隐形水印与C2PA元数据仍保留以保障透明。",
-          "url": "https://www.aibase.com/news/30397",
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "summary": "Vercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nExplore AI Fronti",
+          "recommend_reason_zh": "Vercel Labs 开源的编程语言 Zero 已获 5,310 星，专为 AI Agent 设计：以图代替文本源码，编译器验证补丁，人类只在循环外偶尔查看文本投影。",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T16:44:29.962849Z"
+          "published_at": "2026-08-18T15:44:19.668089Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1852,128 +1538,128 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T16:44:29.962849Z",
-      "latest_at": "2026-08-17T16:44:29.962849Z",
+      "earliest_at": "2026-08-18T15:44:19.668089Z",
+      "latest_at": "2026-08-18T15:44:19.668089Z",
       "primary_item": {
-        "id": "ae71ee183b21119f28bb609babe8380b6adea5e1",
-        "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-        "title_zh": "谷歌AI大动作：图片视频水印终于可以去掉了！",
+        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
         "title_en": null,
-        "title_original": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-        "summary": "Google has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nGoogle has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nGoogle has recently released a new feature that has caught the attention of both creators and regular users. According to official announcements, users will be\nExplore AI Frontiers",
-        "recommend_reason_zh": "谷歌Gemini将允许用户关闭图片、视频和音乐生成时的可见水印，涉及Nano Banana、Omni、Lyria等模型，但SynthID隐形水印与C2PA元数据仍保留以保障透明。",
-        "url": "https://www.aibase.com/news/30397",
+        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "summary": "Vercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nExplore AI Fronti",
+        "recommend_reason_zh": "Vercel Labs 开源的编程语言 Zero 已获 5,310 星，专为 AI Agent 设计：以图代替文本源码，编译器验证补丁，人类只在循环外偶尔查看文本投影。",
+        "url": "https://www.aibase.com/news/30432",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "工具更新，但去水印功能对内容变现的直接帮助有限，需看是否用于原创素材处理。",
+      "persona_score": 18,
+      "persona_review": "技术框架新闻，对内容变现无直接路径，暂不占用注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     },
     {
-      "story_id": "story_6c5172ba1412",
-      "title": "AI;DR：读者拒绝看AI生成的文章",
-      "url": "https://news.ycombinator.com/item?id=49336573",
-      "primary_url": "https://news.ycombinator.com/item?id=49336573",
+      "story_id": "story_14fdaae3bf7f",
+      "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
+      "url": "https://news.ycombinator.com/item?id=49351330",
+      "primary_url": "https://news.ycombinator.com/item?id=49351330",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1693180253aaaa0059164b4f962e90cc10a4f048",
-          "title": "AI;DR：读者拒绝看AI生成的文章",
-          "title_zh": "AI;DR：读者拒绝看AI生成的文章",
-          "title_en": "AI;DR (AI; Didn't Read)",
-          "title_original": "AI;DR (AI; Didn't Read)",
+          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
+          "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
+          "title_zh": "挪威应该收购 OpenAI",
+          "title_en": "Norway Should Buy OpenAI",
+          "title_original": "Norway Should Buy OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49336573",
+          "url": "https://news.ycombinator.com/item?id=49351330",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T22:46:15.565000Z"
+          "published_at": "2026-08-18T22:44:40.452000Z"
         },
         {
-          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
-          "title": "AI;DR（AI；没读）",
-          "title_zh": "AI;DR（AI；没读）",
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
           "title_en": null,
-          "title_original": "AI;DR（AI；没读）",
+          "title_original": "挪威应该收购OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "www.rickmanelius.com",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T20:22:04.245000Z"
+          "published_at": "2026-08-18T20:22:24.343000Z"
         },
         {
-          "id": "6360d9a0c37f20f0f6bfbede22713980d7868a5a",
-          "title": "AI;DR（AI；没读） / AI;DR (AI; Didn't Read)",
-          "title_zh": "AI;DR（AI；没读）",
-          "title_en": "AI;DR (AI; Didn't Read)",
-          "title_original": "AI;DR (AI; Didn't Read)",
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "挪威应该收购OpenAI / Norway Should Buy OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
+          "title_en": "Norway Should Buy OpenAI",
+          "title_original": "Norway Should Buy OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:47:15Z"
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "www.rickmanelius.com"
+        "www.onethousandmeans.com"
       ],
       "items": [
         {
-          "id": "1693180253aaaa0059164b4f962e90cc10a4f048",
-          "title": "AI;DR：读者拒绝看AI生成的文章",
-          "title_zh": "AI;DR：读者拒绝看AI生成的文章",
-          "title_en": "AI;DR (AI; Didn't Read)",
-          "title_original": "AI;DR (AI; Didn't Read)",
+          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
+          "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
+          "title_zh": "挪威应该收购 OpenAI",
+          "title_en": "Norway Should Buy OpenAI",
+          "title_original": "Norway Should Buy OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49336573",
+          "url": "https://news.ycombinator.com/item?id=49351330",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T22:46:15.565000Z"
+          "published_at": "2026-08-18T22:44:40.452000Z"
         },
         {
-          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
-          "title": "AI;DR（AI；没读）",
-          "title_zh": "AI;DR（AI；没读）",
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
           "title_en": null,
-          "title_original": "AI;DR（AI；没读）",
+          "title_original": "挪威应该收购OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "www.rickmanelius.com",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T20:22:04.245000Z"
+          "published_at": "2026-08-18T20:22:24.343000Z"
         },
         {
-          "id": "6360d9a0c37f20f0f6bfbede22713980d7868a5a",
-          "title": "AI;DR（AI；没读） / AI;DR (AI; Didn't Read)",
-          "title_zh": "AI;DR（AI；没读）",
-          "title_en": "AI;DR (AI; Didn't Read)",
-          "title_original": "AI;DR (AI; Didn't Read)",
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "挪威应该收购OpenAI / Norway Should Buy OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
+          "title_en": "Norway Should Buy OpenAI",
+          "title_original": "Norway Should Buy OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:47:15Z"
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
         }
       ],
       "item_count": 3,
@@ -1995,27 +1681,198 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T19:47:15Z",
-      "latest_at": "2026-08-17T22:46:15.565000Z",
+      "earliest_at": "2026-08-18T19:30:29Z",
+      "latest_at": "2026-08-18T22:44:40.452000Z",
       "primary_item": {
-        "id": "1693180253aaaa0059164b4f962e90cc10a4f048",
-        "title": "AI;DR：读者拒绝看AI生成的文章",
-        "title_zh": "AI;DR：读者拒绝看AI生成的文章",
-        "title_en": "AI;DR (AI; Didn't Read)",
-        "title_original": "AI;DR (AI; Didn't Read)",
+        "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
+        "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
+        "title_zh": "挪威应该收购 OpenAI",
+        "title_en": "Norway Should Buy OpenAI",
+        "title_original": "Norway Should Buy OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49336573",
+        "url": "https://news.ycombinator.com/item?id=49351330",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "泛行业观察，缺乏可操作案例或数据，对变现帮助有限。",
+      "persona_score": 15,
+      "persona_review": "纯宏观评论，与内容变现无关，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T23:07:15.045105Z"
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_34a8c6a0add1",
+      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+      "url": "https://www.aibase.com/news/30434",
+      "primary_url": "https://www.aibase.com/news/30434",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_en": null,
+          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "summary": "Sam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI的Sam Altman发文警告企业，其AI模型成功攻破Hugging Face已成网络安全分水岭，并列出10项亟需落实的防御措施。",
+          "url": "https://www.aibase.com/news/30434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T15:44:19.668089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "title_en": null,
+          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "summary": "Sam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI的Sam Altman发文警告企业，其AI模型成功攻破Hugging Face已成网络安全分水岭，并列出10项亟需落实的防御措施。",
+          "url": "https://www.aibase.com/news/30434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T15:44:19.668089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T15:44:19.668089Z",
+      "latest_at": "2026-08-18T15:44:19.668089Z",
+      "primary_item": {
+        "id": "f83591abed7de311be34b00e2db89cff34da7523",
+        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "title_en": null,
+        "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "summary": "Sam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI的Sam Altman发文警告企业，其AI模型成功攻破Hugging Face已成网络安全分水岭，并列出10项亟需落实的防御措施。",
+        "url": "https://www.aibase.com/news/30434",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "泛安全新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
+      }
+    },
+    {
+      "story_id": "story_800a8bc6e180",
+      "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+      "url": "https://www.aibase.com/news/30429",
+      "primary_url": "https://www.aibase.com/news/30429",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
+          "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_zh": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_en": null,
+          "title_original": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "summary": "Copyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nExplore AI Fronti",
+          "recommend_reason_zh": "独立音乐出版商Round Hill Music将Anthropic与Suno告上美国加州联邦法院，索赔或超10亿美元，指其未经授权使用至少500首经典歌词训练Claude与AI音乐系统，涉及James Brown、The Kinks等，后续涉案歌曲或达数万首。",
+          "url": "https://www.aibase.com/news/30429",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:44:19.668089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
+          "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_zh": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "title_en": null,
+          "title_original": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "summary": "Copyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nExplore AI Fronti",
+          "recommend_reason_zh": "独立音乐出版商Round Hill Music将Anthropic与Suno告上美国加州联邦法院，索赔或超10亿美元，指其未经授权使用至少500首经典歌词训练Claude与AI音乐系统，涉及James Brown、The Kinks等，后续涉案歌曲或达数万首。",
+          "url": "https://www.aibase.com/news/30429",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T14:44:19.668089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T14:44:19.668089Z",
+      "latest_at": "2026-08-18T14:44:19.668089Z",
+      "primary_item": {
+        "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
+        "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "title_zh": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "title_en": null,
+        "title_original": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "summary": "Copyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nExplore AI Fronti",
+        "recommend_reason_zh": "独立音乐出版商Round Hill Music将Anthropic与Suno告上美国加州联邦法院，索赔或超10亿美元，指其未经授权使用至少500首经典歌词训练Claude与AI音乐系统，涉及James Brown、The Kinks等，后续涉案歌曲或达数万首。",
+        "url": "https://www.aibase.com/news/30429",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 12,
+      "persona_review": "版权诉讼与创作者变现无直接关联，不提供可操作机会，按低分过滤。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T22:59:13.197680Z"
       }
     }
   ]
