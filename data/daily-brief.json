@@ -1,179 +1,62 @@
 {
-  "generated_at": "2026-08-18T22:44:19.668089Z",
+  "generated_at": "2026-08-19T22:45:07.526883Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_77f8f8705916",
-      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
+      "story_id": "story_c773429fa020",
+      "title": "GitHub Copilot 应用入门：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
-          "recommend_reason_zh": "IBM Research 用8个模型揭示 agentic memory 的剂量学问：gpt-oss-120b 靠精选检索多花5% token 即提升16.1pp，DeepSeek-V3.2 需完整指南集才涨9.5pp，GLM-5 已饱和无增益。记忆应校准而非堆积。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "GitHub Copilot 应用入门：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "GitHub Copilot 应用入门：管理工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nIf you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nIf you’re juggling multiple Copilot sessions, use the My work pane to track what’s in flight, what’s done, and what’s next.\nThis is the third post in our GitHub Copilot app for Beginners series. If you’re just joining us, check out, GitHub Copilot app ",
+          "recommend_reason_zh": "GitHub Copilot app初学者系列第三篇，详解My work pane如何集中管理多个会话任务：用内置视图筛选中进行、已完成事项，还能自建过滤器并按Assignee: Me查看分配给你的issue。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need？",
-          "title_original": "How Much Memory Does Your Agent Actually Need？",
-          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-          "recommend_reason_zh": "IBM Research发现智能体记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2则需完整指南集。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
-          "recommend_reason_zh": "IBM Research 用8个模型揭示 agentic memory 的剂量学问：gpt-oss-120b 靠精选检索多花5% token 即提升16.1pp，DeepSeek-V3.2 需完整指南集才涨9.5pp，GLM-5 已饱和无增益。记忆应校准而非堆积。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_en": "How Much Memory Does Your Agent Actually Need？",
-          "title_original": "How Much Memory Does Your Agent Actually Need？",
-          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-          "recommend_reason_zh": "IBM Research发现智能体记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2则需完整指南集。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8735,
-      "importance": 0.8735,
-      "importance_score": 0.8735,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.936,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-        "title_en": "How Much Memory Does Your Agent Actually Need?",
-        "title_original": "How Much Memory Does Your Agent Actually Need?",
-        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
-        "recommend_reason_zh": "IBM Research 用8个模型揭示 agentic memory 的剂量学问：gpt-oss-120b 靠精选检索多花5% token 即提升16.1pp，DeepSeek-V3.2 需完整指南集才涨9.5pp，GLM-5 已饱和无增益。记忆应校准而非堆积。",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "泛AI技术评测，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_17c97873294f",
-      "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全领域的民主监督",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
-          "recommend_reason_zh": "OpenAI启动新倡议，为民主监督机构提供AI工具与培训，用于监督国家安全领域的AI应用。文章提出三项原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework对高级模型进行部署前后审查。",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "published_at": "2026-08-19T17:50:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全领域的民主监督",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
-          "recommend_reason_zh": "OpenAI启动新倡议，为民主监督机构提供AI工具与培训，用于监督国家安全领域的AI应用。文章提出三项原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework对高级模型进行部署前后审查。",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "GitHub Copilot 应用入门：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "GitHub Copilot 应用入门：管理工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nIf you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nIf you’re juggling multiple Copilot sessions, use the My work pane to track what’s in flight, what’s done, and what’s next.\nThis is the third post in our GitHub Copilot app for Beginners series. If you’re just joining us, check out, GitHub Copilot app ",
+          "recommend_reason_zh": "GitHub Copilot app初学者系列第三篇，详解My work pane如何集中管理多个会话任务：用内置视图筛选中进行、已完成事项，还能自建过滤器并按Assignee: Me查看分配给你的issue。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "published_at": "2026-08-19T17:50:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9474,
+        "recency": 0.9315,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -184,50 +67,224 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T19:00:00Z",
-      "latest_at": "2026-08-18T19:00:00Z",
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
       "primary_item": {
-        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全领域的民主监督 / Strengthening democratic oversight in national security",
-        "title_zh": "加强国家安全领域的民主监督",
-        "title_en": "Strengthening democratic oversight in national security",
-        "title_original": "Strengthening democratic oversight in national security",
-        "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
-        "recommend_reason_zh": "OpenAI启动新倡议，为民主监督机构提供AI工具与培训，用于监督国家安全领域的AI应用。文章提出三项原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework对高级模型进行部署前后审查。",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "source": "OpenAI News",
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "GitHub Copilot 应用入门：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "GitHub Copilot 应用入门：管理工作",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
+        "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nIf you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nIf you’re juggling multiple Copilot sessions, use the My work pane to track what’s in flight, what’s done, and what’s next.\nThis is the third post in our GitHub Copilot app for Beginners series. If you’re just joining us, check out, GitHub Copilot app ",
+        "recommend_reason_zh": "GitHub Copilot app初学者系列第三篇，详解My work pane如何集中管理多个会话任务：用内置视图筛选中进行、已完成事项，还能自建过滤器并按Assignee: Me查看分配给你的issue。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "官方政策声明，与内容变现无直接关联，不占注意力。",
+      "persona_score": 45,
+      "persona_review": "官方工具教程，对内容创作者变现无直接帮助，仅当涉及自动化工作流时值得一看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_7de8d1dc0770",
-      "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "story_id": "story_be580d9263f2",
+      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+          "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nBenchmark results Speed and size on real edge hardware How to use QAD GGUFs Get Started with QAD GGUFs Citation Today, we release QAD Q4_0 GGUFs. These are updated 4-bit checkpoints for LFM2.5-230M, LFM2.5-350M, LFM2.5-1.2B-Instruct, and LFM2.5-2.6B. They allow developers to run LFM2.5 models at Q4_0 memory and speed without the usual quality drop:\nFor all four models, we compare their released GGUFs produced with ",
+          "recommend_reason_zh": "Liquid AI发布LFM2.5系列QAD Q4_0量化检查点，在GPQA等基准上保留BF16性能的96.5%至97.4%，且解码吞吐比Q5_K_M高4-33%，适合边缘设备部署。",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T13:48:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+          "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nBenchmark results Speed and size on real edge hardware How to use QAD GGUFs Get Started with QAD GGUFs Citation Today, we release QAD Q4_0 GGUFs. These are updated 4-bit checkpoints for LFM2.5-230M, LFM2.5-350M, LFM2.5-1.2B-Instruct, and LFM2.5-2.6B. They allow developers to run LFM2.5 models at Q4_0 memory and speed without the usual quality drop:\nFor all four models, we compare their released GGUFs produced with ",
+          "recommend_reason_zh": "Liquid AI发布LFM2.5系列QAD Q4_0量化检查点，在GPQA等基准上保留BF16性能的96.5%至97.4%，且解码吞吐比Q5_K_M高4-33%，适合边缘设备部署。",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T13:48:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8789,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T13:48:49Z",
+      "latest_at": "2026-08-19T13:48:49Z",
+      "primary_item": {
+        "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+        "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+        "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "title_original": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nBenchmark results Speed and size on real edge hardware How to use QAD GGUFs Get Started with QAD GGUFs Citation Today, we release QAD Q4_0 GGUFs. These are updated 4-bit checkpoints for LFM2.5-230M, LFM2.5-350M, LFM2.5-1.2B-Instruct, and LFM2.5-2.6B. They allow developers to run LFM2.5 models at Q4_0 memory and speed without the usual quality drop:\nFor all four models, we compare their released GGUFs produced with ",
+        "recommend_reason_zh": "Liquid AI发布LFM2.5系列QAD Q4_0量化检查点，在GPQA等基准上保留BF16性能的96.5%至97.4%，且解码吞吐比Q5_K_M高4-33%，适合边缘设备部署。",
+        "url": "https://huggingface.co/blog/LiquidAI/qad",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "量化技术更新，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_65f7ae8f351a",
+      "title": "5种用Search提升学习的新方法 / 5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "5种用Search提升学习的新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "5种用Search提升学习的新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.\nHere’s how you can use Google Search tools to study for classes and standardized tests.\nHere’s how you can use Google Search tools to study for classes and standardized tests.\nAug 19, 2026\nWe’re introducing tools to help you learn new concepts, tackle tricky subjects, and organize your study sessions with AI in Search.\nAwaneesh Verma\nDistinguished Product Manager, Search\nYour browser does not support the audi",
+          "recommend_reason_zh": "Google Search新增AI学习工具：可生成pH标尺等互动模拟，提供覆盖ACT、SAT等九大考试的自定义练习测验，并整合The Princeton Review等权威内容，Lens拍照解题功能也即将上线。",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "5种用Search提升学习的新方法 / 5 new ways to level up your learning with Search",
+          "title_zh": "5种用Search提升学习的新方法",
+          "title_en": "5 new ways to level up your learning with Search",
+          "title_original": "5 new ways to level up your learning with Search",
+          "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.\nHere’s how you can use Google Search tools to study for classes and standardized tests.\nHere’s how you can use Google Search tools to study for classes and standardized tests.\nAug 19, 2026\nWe’re introducing tools to help you learn new concepts, tackle tricky subjects, and organize your study sessions with AI in Search.\nAwaneesh Verma\nDistinguished Product Manager, Search\nYour browser does not support the audi",
+          "recommend_reason_zh": "Google Search新增AI学习工具：可生成pH标尺等互动模拟，提供覆盖ACT、SAT等九大考试的自定义练习测验，并整合The Princeton Review等权威内容，Lens拍照解题功能也即将上线。",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9473,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
+      "primary_item": {
+        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+        "title": "5种用Search提升学习的新方法 / 5 new ways to level up your learning with Search",
+        "title_zh": "5种用Search提升学习的新方法",
+        "title_en": "5 new ways to level up your learning with Search",
+        "title_original": "5 new ways to level up your learning with Search",
+        "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.\nHere’s how you can use Google Search tools to study for classes and standardized tests.\nHere’s how you can use Google Search tools to study for classes and standardized tests.\nAug 19, 2026\nWe’re introducing tools to help you learn new concepts, tackle tricky subjects, and organize your study sessions with AI in Search.\nAwaneesh Verma\nDistinguished Product Manager, Search\nYour browser does not support the audi",
+        "recommend_reason_zh": "Google Search新增AI学习工具：可生成pH标尺等互动模拟，提供覆盖ACT、SAT等九大考试的自定义练习测验，并整合The Princeton Review等权威内容，Lens拍照解题功能也即将上线。",
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "官方更新但偏工具功能，与内容变现路径关联弱，暂不测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_24b8f639b701",
+      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按 Token 类型撤销凭据和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
-          "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
-          "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭据的功能，企业管理员可单独吊销 Personal access tokens、SSH keys 等，避免误伤可信凭据，精准控制安全事件影响范围。",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
+          "summary": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see whether open findings are trending up or down and which repositories are driving the change.\nWith this re",
+          "recommend_reason_zh": "GitHub组织级Code Quality仪表板新增Trends标签，展示仓库代码质量随时间变化，支持Enterprise Cloud和Team plans，但不支持Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-19T12:56:57Z"
         }
       ],
       "source_count": 1,
@@ -236,31 +293,31 @@
       ],
       "items": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按 Token 类型撤销凭据和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
-          "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
-          "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭据的功能，企业管理员可单独吊销 Personal access tokens、SSH keys 等，避免误伤可信凭据，精准控制安全事件影响范围。",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
+          "summary": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see whether open findings are trending up or down and which repositories are driving the change.\nWith this re",
+          "recommend_reason_zh": "GitHub组织级Code Quality仪表板新增Trends标签，展示仓库代码质量随时间变化，支持Enterprise Cloud和Team plans，但不支持Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-19T12:56:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9888,
+        "recency": 0.868,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -271,170 +328,83 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
+      "earliest_at": "2026-08-19T12:56:57Z",
+      "latest_at": "2026-08-19T12:56:57Z",
       "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "按 Token 类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
-        "title_zh": "按 Token 类型撤销凭据和取消授权",
-        "title_en": "Credential revocation and deauthorization by token type",
-        "title_original": "Credential revocation and deauthorization by token type",
-        "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
-        "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭据的功能，企业管理员可单独吊销 Personal access tokens、SSH keys 等，避免误伤可信凭据，精准控制安全事件影响范围。",
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+        "title_zh": "跟踪组织代码质量趋势",
+        "title_en": "Track organization code quality trends",
+        "title_original": "Track organization code quality trends",
+        "summary": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see whether open findings are trending up or down and which repositories are driving the change.\nWith this re",
+        "recommend_reason_zh": "GitHub组织级Code Quality仪表板新增Trends标签，展示仓库代码质量随时间变化，支持Enterprise Cloud和Team plans，但不支持Enterprise Server。",
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "泛技术更新，与内容变现无直接关联，不占注意力。",
+      "persona_score": 25,
+      "persona_review": "GitHub代码质量工具更新，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_02cf85db407e",
-      "title": "Codex CLI 0.148.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_57fc147b8fa7",
+      "title": "GitHub Copilot for JetBrains 的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
-          "title": "Codex CLI 0.148.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.148.0",
-          "title_original": "Codex CLI 0.148.0",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
-          "recommend_reason_zh": "Codex CLI 0.148.0上线macOS专属的Computer History功能，但仅限ChatGPT Pro、Business和Enterprise用户，且暂不覆盖欧洲经济区、瑞士和英国；同时推出Linux桌面应用预览，支持导入Claude Code和Cursor的配置。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "summary": "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s…\nGitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s Copilot plan.\nAdministrators can ma",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains新增企业托管设置，管理员可集中管控插件、MCP服务器访问及OpenTelemetry，并支持禁用Bypass Approvals权限绕过模式。",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
+          "published_at": "2026-08-18T23:33:07Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
-          "title": "Codex CLI 0.148.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.148.0",
-          "title_original": "Codex CLI 0.148.0",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
-          "recommend_reason_zh": "Codex CLI 0.148.0上线macOS专属的Computer History功能，但仅限ChatGPT Pro、Business和Enterprise用户，且暂不覆盖欧洲经济区、瑞士和英国；同时推出Linux桌面应用预览，支持导入Claude Code和Cursor的配置。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "summary": "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s…\nGitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s Copilot plan.\nAdministrators can ma",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains新增企业托管设置，管理员可集中管控插件、MCP服务器访问及OpenTelemetry，并支持禁用Bypass Approvals权限绕过模式。",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
+          "published_at": "2026-08-18T23:33:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7201,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T00:00:00Z",
-      "latest_at": "2026-08-18T00:00:00Z",
-      "primary_item": {
-        "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
-        "title": "Codex CLI 0.148.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.148.0",
-        "title_original": "Codex CLI 0.148.0",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
-        "recommend_reason_zh": "Codex CLI 0.148.0上线macOS专属的Computer History功能，但仅限ChatGPT Pro、Business和Enterprise用户，且暂不覆盖欧洲经济区、瑞士和英国；同时推出Linux桌面应用预览，支持导入Claude Code和Cursor的配置。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "工具更新但未提变现路径，对内容生产无直接增益，暂不测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_8e332aafeb89",
-      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与 CodeAI 合作，准备第一代 AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nAugust 18, 2026\nToday’s students will be the",
-          "recommend_reason_zh": "OpenAI与CodeAI合作推广AI素养教育，数据显示仅16%高中领导称所有学生正在课堂学习AI技术知识，而75%高中生认为理解AI对未来更重要，伴随ChatGPT for Teens推出。",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与 CodeAI 合作，准备第一代 AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nAugust 18, 2026\nToday’s students will be the",
-          "recommend_reason_zh": "OpenAI与CodeAI合作推广AI素养教育，数据显示仅16%高中领导称所有学生正在课堂学习AI技术知识，而75%高中生认为理解AI对未来更重要，伴随ChatGPT for Teens推出。",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8441,
+        "recency": 0.7153,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -445,137 +415,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
+      "earliest_at": "2026-08-18T23:33:07Z",
+      "latest_at": "2026-08-18T23:33:07Z",
       "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-        "title_zh": "与 CodeAI 合作，准备第一代 AI",
-        "title_en": "Partnering with CodeAI to prepare the first AI generation",
-        "title_original": "Partnering with CodeAI to prepare the first AI generation",
-        "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nOpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.\nAugust 18, 2026\nToday’s students will be the",
-        "recommend_reason_zh": "OpenAI与CodeAI合作推广AI素养教育，数据显示仅16%高中领导称所有学生正在课堂学习AI技术知识，而75%高中生认为理解AI对未来更重要，伴随ChatGPT for Teens推出。",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI News",
+        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+        "title": "GitHub Copilot for JetBrains 的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 的企业托管设置",
+        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "summary": "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s…\nGitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s Copilot plan.\nAdministrators can ma",
+        "recommend_reason_zh": "GitHub Copilot for JetBrains新增企业托管设置，管理员可集中管控插件、MCP服务器访问及OpenTelemetry，并支持禁用Bypass Approvals权限绕过模式。",
+        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "官方合作新闻，但未提内容变现路径，对创作者无直接行动价值。",
+      "persona_score": 30,
+      "persona_review": "企业级工具设置更新，对个人创作者变现无直接帮助，暂不占用注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_41f4a70159de",
-      "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cf8446af2124",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana借助Codex在2周内完成了5年的工程量",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAugust 18, 2026\nUsing OpenAI Codex, Asana replaced an outdated testing system in two weeks f",
-          "recommend_reason_zh": "Asana用OpenAI Codex两周内移除过时测试系统Enzyme，完成原本预计五年的工程，成本约1.2万美元，而原有人力方案估算需600万美元。",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "recommend_reason_zh": "在Mac上仅用30秒就能生成5秒480P视频，内存仅需3.9 GiB，不靠CUDA、不上云。FastMetal把FastWan-QAD系列引入Apple Silicon，DiT、DMD采样器和解码器均通过MLX在Metal上以INT8运行，并有1.3B等三个模型。",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Sky Computing Lab (@haoailab)"
       ],
       "items": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana借助Codex在2周内完成了5年的工程量",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAugust 18, 2026\nUsing OpenAI Codex, Asana replaced an outdated testing system in two weeks f",
-          "recommend_reason_zh": "Asana用OpenAI Codex两周内移除过时测试系统Enzyme，完成原本预计五年的工程，成本约1.2万美元，而原有人力方案估算需600万美元。",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "recommend_reason_zh": "在Mac上仅用30秒就能生成5秒480P视频，内存仅需3.9 GiB，不靠CUDA、不上云。FastMetal把FastWan-QAD系列引入Apple Silicon，DiT、DMD采样器和解码器均通过MLX在Metal上以INT8运行，并有1.3B等三个模型。",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
-      "importance_label": "官方更新",
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7967,
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.971,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T07:00:00Z",
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
       "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana借助Codex在2周内完成了5年的工程量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_zh": "Asana借助Codex在2周内完成了5年的工程量",
-        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAsana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.\nAugust 18, 2026\nUsing OpenAI Codex, Asana replaced an outdated testing system in two weeks f",
-        "recommend_reason_zh": "Asana用OpenAI Codex两周内移除过时测试系统Enzyme，完成原本预计五年的工程，成本约1.2万美元，而原有人力方案估算需600万美元。",
-        "url": "https://openai.com/index/asana",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+        "recommend_reason_zh": "在Mac上仅用30秒就能生成5秒480P视频，内存仅需3.9 GiB，不靠CUDA、不上云。FastMetal把FastWan-QAD系列引入Apple Silicon，DiT、DMD采样器和解码器均通过MLX在Metal上以INT8运行，并有1.3B等三个模型。",
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "企业工程效率案例，与个人创作者变现无直接关联，不占注意力。",
+      "persona_score": 45,
+      "persona_review": "本地生成视频工具，能降低制作成本，但缺变现路径，可留意后续案例。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_3590481c04b9",
-      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-      "url": "https://www.aibase.com/news/30444",
-      "primary_url": "https://www.aibase.com/news/30444",
+      "story_id": "story_9d19a0dc02ff",
+      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+      "url": "https://www.aibase.com/news/30476",
+      "primary_url": "https://www.aibase.com/news/30476",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "summary": "WeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nExplore AI Fronti",
-          "recommend_reason_zh": "WeChat灰度测试原生AI助手Xiaowei，AI入口增至16个；新增公众号AI摘要、文章即时总结、朋友圈AI评论，以及聊天图片AI处理和扫一扫拍照问AI。",
-          "url": "https://www.aibase.com/news/30444",
+          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "summary": "According to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nAccording to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nAccording to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nExplore AI Fronti",
+          "recommend_reason_zh": "这篇报道聚焦9月1日实施的国内首个人工与AI客服协同国家标准，针对AI客服答非所问、隐藏人工通道等痛点，并援引中消协数据——今年售后服务投诉占26.79%，解释标准出台背景。",
+          "url": "https://www.aibase.com/news/30476",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:44:19.668089Z"
+          "published_at": "2026-08-19T18:45:07.526883Z"
         }
       ],
       "source_count": 1,
@@ -584,18 +553,18 @@
       ],
       "items": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "summary": "WeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nExplore AI Fronti",
-          "recommend_reason_zh": "WeChat灰度测试原生AI助手Xiaowei，AI入口增至16个；新增公众号AI摘要、文章即时总结、朋友圈AI评论，以及聊天图片AI处理和扫一扫拍照问AI。",
-          "url": "https://www.aibase.com/news/30444",
+          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "summary": "According to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nAccording to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nAccording to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nExplore AI Fronti",
+          "recommend_reason_zh": "这篇报道聚焦9月1日实施的国内首个人工与AI客服协同国家标准，针对AI客服答非所问、隐藏人工通道等痛点，并援引中消协数据——今年售后服务投诉占26.79%，解释标准出台背景。",
+          "url": "https://www.aibase.com/news/30476",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:44:19.668089Z"
+          "published_at": "2026-08-19T18:45:07.526883Z"
         }
       ],
       "item_count": 1,
@@ -618,169 +587,83 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:44:19.668089Z",
-      "latest_at": "2026-08-18T18:44:19.668089Z",
+      "earliest_at": "2026-08-19T18:45:07.526883Z",
+      "latest_at": "2026-08-19T18:45:07.526883Z",
       "primary_item": {
-        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+        "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
         "title_en": null,
-        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-        "summary": "WeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nWeChat has added three new high-frequency scenario entries in the recent gray-scale test of its native AI assistant \"Xiaowei,\" bringing the total number of AI e\nExplore AI Fronti",
-        "recommend_reason_zh": "WeChat灰度测试原生AI助手Xiaowei，AI入口增至16个；新增公众号AI摘要、文章即时总结、朋友圈AI评论，以及聊天图片AI处理和扫一扫拍照问AI。",
-        "url": "https://www.aibase.com/news/30444",
+        "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "summary": "According to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nAccording to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nAccording to CCTV News, the first national standard in China on the collaborative mechanism between human and AI customer service, \"Requirements for Collaborati\nExplore AI Fronti",
+        "recommend_reason_zh": "这篇报道聚焦9月1日实施的国内首个人工与AI客服协同国家标准，针对AI客服答非所问、隐藏人工通道等痛点，并援引中消协数据——今年售后服务投诉占26.79%，解释标准出台背景。",
+        "url": "https://www.aibase.com/news/30476",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "微信AI入口增加是平台规则变化，可能影响获客渠道，值得测试新入口的流量和转化。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_654c10ffc24b",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "primary_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25.902000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25.902000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7136,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T23:22:25.902000Z",
-      "latest_at": "2026-08-17T23:22:25.902000Z",
-      "primary_item": {
-        "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-        "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-        "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
-        "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
-        "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "官方工具更新，但偏技术架构，缺少直接变现路径，暂不优先测试。",
+      "persona_review": "行业标准出台，间接影响客服外包和AI工具合规，但短期变现路径不明确。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_d5ef531718d4",
-      "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-      "url": "https://www.yunyingpai.com/content/1061698.html",
-      "primary_url": "https://www.yunyingpai.com/content/1061698.html",
-      "source": "运营派",
+      "story_id": "story_b61e5b423e38",
+      "title": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它 / My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+      "url": "https://creatoreconomy.so/p/my-mom-survived-breast-cancer-three",
+      "primary_url": "https://creatoreconomy.so/p/my-mom-survived-breast-cancer-three",
+      "source": "Creator Science",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "ea062031830a2b717ddd35636c8bb11c190b7992",
-          "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-          "title_zh": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-          "title_en": null,
-          "title_original": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+          "id": "2f1fd53bb40694b5c0fc9256bb294649bbb0502d",
+          "title": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它 / My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+          "title_zh": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它",
+          "title_en": "My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+          "title_original": "My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/content/1061698.html",
-          "source": "运营派",
+          "url": "https://creatoreconomy.so/p/my-mom-survived-breast-cancer-three",
+          "source": "Creator Science",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T06:01:54Z"
+          "published_at": "2026-08-19T13:03:33Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "运营派"
+        "Creator Science"
       ],
       "items": [
         {
-          "id": "ea062031830a2b717ddd35636c8bb11c190b7992",
-          "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-          "title_zh": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-          "title_en": null,
-          "title_original": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+          "id": "2f1fd53bb40694b5c0fc9256bb294649bbb0502d",
+          "title": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它 / My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+          "title_zh": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它",
+          "title_en": "My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+          "title_original": "My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/content/1061698.html",
-          "source": "运营派",
+          "url": "https://creatoreconomy.so/p/my-mom-survived-breast-cancer-three",
+          "source": "Creator Science",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T06:01:54Z"
+          "published_at": "2026-08-19T13:03:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.7856,
+        "recency": 0.8694,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -789,627 +672,50 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T06:01:54Z",
-      "latest_at": "2026-08-18T06:01:54Z",
+      "earliest_at": "2026-08-19T13:03:33Z",
+      "latest_at": "2026-08-19T13:03:33Z",
       "primary_item": {
-        "id": "ea062031830a2b717ddd35636c8bb11c190b7992",
-        "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-        "title_zh": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-        "title_en": null,
-        "title_original": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
+        "id": "2f1fd53bb40694b5c0fc9256bb294649bbb0502d",
+        "title": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它 / My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+        "title_zh": "我的母亲三次战胜乳腺癌。现在，我们借助AI再次迎战它",
+        "title_en": "My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
+        "title_original": "My Mom Survived Breast Cancer Three Times. Now We're Fighting It Again With AI's Help",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/content/1061698.html",
-        "source": "运营派",
+        "url": "https://creatoreconomy.so/p/my-mom-survived-breast-cancer-three",
+        "source": "Creator Science",
         "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "案例反思类内容，有实操经验但缺具体可复用方法，适合参考心态调整。",
+      "persona_score": 15,
+      "persona_review": "个人抗癌故事，与AI内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_e3e64a7023cf",
-      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-      "url": "https://www.aibase.com/news/30441",
-      "primary_url": "https://www.aibase.com/news/30441",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "summary": "Technology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:44:19.668089Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "summary": "Technology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:44:19.668089Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T17:44:19.668089Z",
-      "latest_at": "2026-08-18T17:44:19.668089Z",
-      "primary_item": {
-        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_en": null,
-        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "summary": "Technology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nTechnology media Android Authority disclosed on August 17 that, after Google and Samsung, vivo will become the third smartphone manufacturer to support the \"Sca\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "手机端AI反诈功能，与创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_cd7a1ff75de2",
-      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
-          "recommend_reason_zh": "推荐语：本文详解Sentence Transformers v6.0新增的MultiVectorEncoder，支持直接加载PyLate与Stanford-NLP ColBERT检查点，通过MaxSim算子保留token级匹配，并覆盖视觉文档检索与索引优化，实操性强。",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
-        },
-        {
-          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
-          "recommend_reason_zh": "推荐语：本文详解Sentence Transformers v6.0新增的MultiVectorEncoder，支持直接加载PyLate与Stanford-NLP ColBERT检查点，通过MaxSim算子保留token级匹配，并覆盖视觉文档检索与索引优化，实操性强。",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
-        },
-        {
-          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7201,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:00:00Z",
-      "latest_at": "2026-08-18T00:00:00Z",
-      "primary_item": {
-        "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-        "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
-        "recommend_reason_zh": "推荐语：本文详解Sentence Transformers v6.0新增的MultiVectorEncoder，支持直接加载PyLate与Stanford-NLP ColBERT检查点，通过MaxSim算子保留token级匹配，并覆盖视觉文档检索与索引优化，实操性强。",
-        "url": "https://huggingface.co/blog/multi-vector-encoder",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "技术库更新，对内容生产或变现无直接路径，暂不占用注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_914e45d552d0",
-      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-      "url": "https://www.aibase.com/news/30443",
-      "primary_url": "https://www.aibase.com/news/30443",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_en": null,
-          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "summary": "Baidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nExplore AI Fronti",
-          "recommend_reason_zh": "Baidu二季度营收313亿元，AI业务占比连续两季过半；AI云收入73亿元增50%，GPU云增283%，Baidu Dazi月活环比增1063.79%。",
-          "url": "https://www.aibase.com/news/30443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:44:19.668089Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_en": null,
-          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "summary": "Baidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nExplore AI Fronti",
-          "recommend_reason_zh": "Baidu二季度营收313亿元，AI业务占比连续两季过半；AI云收入73亿元增50%，GPU云增283%，Baidu Dazi月活环比增1063.79%。",
-          "url": "https://www.aibase.com/news/30443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:44:19.668089Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9303,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T17:44:19.668089Z",
-      "latest_at": "2026-08-18T17:44:19.668089Z",
-      "primary_item": {
-        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-        "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
-        "title_en": null,
-        "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
-        "summary": "Baidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nBaidu released its second-quarter 2026 financial report, with total revenue for the quarter reaching 31.3 billion yuan; general business revenue was 25.2 billio\nExplore AI Fronti",
-        "recommend_reason_zh": "Baidu二季度营收313亿元，AI业务占比连续两季过半；AI云收入73亿元增50%，GPU云增283%，Baidu Dazi月活环比增1063.79%。",
-        "url": "https://www.aibase.com/news/30443",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "泛公司财报，AI业务占比与创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_394e39b5c070",
-      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "primary_url": "https://openai.com/index/chatgpt-for-teens",
+      "story_id": "story_5eb7373b87f5",
+      "title": "为前沿模型提供零数据保留服务 / Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and",
-          "recommend_reason_zh": "OpenAI推出ChatGPT for Teens，自动将13至17岁用户纳入，内置更强安全防护和家长控制，结合Study Mode用引导式提问与知识检查帮助青少年分步解题，而非直接给答案。",
-          "url": "https://openai.com/index/chatgpt-for-teens",
+          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+          "title": "为前沿模型提供零数据保留服务 / Offering Zero Data Retention for frontier models",
+          "title_zh": "为前沿模型提供零数据保留服务",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nAugust 19, 2026\nP",
+          "recommend_reason_zh": "OpenAI重申API客户Zero Data Retention承诺，并预览Private Safety Processing，可在不向人员暴露内容的前提下跨交互识别风险，客户数据默认不用于训练模型。",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and",
-          "recommend_reason_zh": "OpenAI推出ChatGPT for Teens，自动将13至17岁用户纳入，内置更强安全防护和家长控制，结合Study Mode用引导式提问与知识检查帮助青少年分步解题，而非直接给答案。",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8441,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
-        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-        "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.\nChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and",
-        "recommend_reason_zh": "OpenAI推出ChatGPT for Teens，自动将13至17岁用户纳入，内置更强安全防护和家长控制，结合Study Mode用引导式提问与知识检查帮助青少年分步解题，而非直接给答案。",
-        "url": "https://openai.com/index/chatgpt-for-teens",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "面向青少年的产品更新，与创作者变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_caea36665915",
-      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-      "url": "https://www.aibase.com/news/30440",
-      "primary_url": "https://www.aibase.com/news/30440",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "title_en": null,
-          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "summary": "A team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nExplore AI Fronti",
-          "recommend_reason_zh": "哈佛MIT联合OpenAI与Google DeepMind推出MatrAIx系统，可生成83亿个AI代理模拟人类行为，经400项控制测试，场景判断一致率达91.5%，百万级人格核心集已上线Hugging Face。",
-          "url": "https://www.aibase.com/news/30440",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:44:19.668089Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "title_en": null,
-          "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "summary": "A team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nExplore AI Fronti",
-          "recommend_reason_zh": "哈佛MIT联合OpenAI与Google DeepMind推出MatrAIx系统，可生成83亿个AI代理模拟人类行为，经400项控制测试，场景判断一致率达91.5%，百万级人格核心集已上线Hugging Face。",
-          "url": "https://www.aibase.com/news/30440",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:44:19.668089Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T16:44:19.668089Z",
-      "latest_at": "2026-08-18T16:44:19.668089Z",
-      "primary_item": {
-        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-        "title_zh": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-        "title_en": null,
-        "title_original": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-        "summary": "A team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nA team led by Harvard University and the Massachusetts Institute of Technology, with participation from OpenAI and Google DeepMind, has launched the MatrAIx sys\nExplore AI Fronti",
-        "recommend_reason_zh": "哈佛MIT联合OpenAI与Google DeepMind推出MatrAIx系统，可生成83亿个AI代理模拟人类行为，经400项控制测试，场景判断一致率达91.5%，百万级人格核心集已上线Hugging Face。",
-        "url": "https://www.aibase.com/news/30440",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "学术模拟系统，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_5b08555afaa9",
-      "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-      "url": "https://www.aibase.com/news/30436",
-      "primary_url": "https://www.aibase.com/news/30436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_en": null,
-          "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "summary": "In today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nExplore AI Fronti",
-          "recommend_reason_zh": "Sam Altman在Internapalooza直言四年大学太冗长、两年刚好，并援引自己Stanford辍学创办Loopt、入选Y Combinator首批项目的经历，犀利剖析AI时代传统教育的边际效益递减。",
-          "url": "https://www.aibase.com/news/30436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:44:19.668089Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "title_en": null,
-          "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "summary": "In today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nExplore AI Fronti",
-          "recommend_reason_zh": "Sam Altman在Internapalooza直言四年大学太冗长、两年刚好，并援引自己Stanford辍学创办Loopt、入选Y Combinator首批项目的经历，犀利剖析AI时代传统教育的边际效益递减。",
-          "url": "https://www.aibase.com/news/30436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:44:19.668089Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T16:44:19.668089Z",
-      "latest_at": "2026-08-18T16:44:19.668089Z",
-      "primary_item": {
-        "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-        "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "title_zh": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "title_en": null,
-        "title_original": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "summary": "In today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nIn today's era of rapid artificial intelligence development, traditional education and career planning are facing unprecedented intense challenges. Recently, Sa\nExplore AI Fronti",
-        "recommend_reason_zh": "Sam Altman在Internapalooza直言四年大学太冗长、两年刚好，并援引自己Stanford辍学创办Loopt、入选Y Combinator首批项目的经历，犀利剖析AI时代传统教育的边际效益递减。",
-        "url": "https://www.aibase.com/news/30436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛教育评论，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
-      }
-    },
-    {
-      "story_id": "story_deae2dbaff1a",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "title_en": "Pacing model development in an era of cyber-critical capabilities",
-          "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
-          "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络能力阈值，暂停两周RL训练并搁置最大规模RL运行，以强化监控、对齐与安全防护。",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
+          "published_at": "2026-08-19T19:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1418,31 +724,31 @@
       ],
       "items": [
         {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "title_en": "Pacing model development in an era of cyber-critical capabilities",
-          "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
-          "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络能力阈值，暂停两周RL训练并搁置最大规模RL运行，以强化监控、对齐与安全防护。",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+          "title": "为前沿模型提供零数据保留服务 / Offering Zero Data Retention for frontier models",
+          "title_zh": "为前沿模型提供零数据保留服务",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nAugust 19, 2026\nP",
+          "recommend_reason_zh": "OpenAI重申API客户Zero Data Retention承诺，并预览Private Safety Processing，可在不向人员暴露内容的前提下跨交互识别风险，客户数据默认不用于训练模型。",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
+          "published_at": "2026-08-19T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8441,
+        "recency": 0.9473,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -1452,50 +758,335 @@
         "official_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
       "primary_item": {
-        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-        "title_en": "Pacing model development in an era of cyber-critical capabilities",
-        "title_original": "Pacing model development in an era of cyber-critical capabilities",
-        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
-        "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络能力阈值，暂停两周RL训练并搁置最大规模RL运行，以强化监控、对齐与安全防护。",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+        "title": "为前沿模型提供零数据保留服务 / Offering Zero Data Retention for frontier models",
+        "title_zh": "为前沿模型提供零数据保留服务",
+        "title_en": "Offering Zero Data Retention for frontier models",
+        "title_original": "Offering Zero Data Retention for frontier models",
+        "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.\nAugust 19, 2026\nP",
+        "recommend_reason_zh": "OpenAI重申API客户Zero Data Retention承诺，并预览Private Safety Processing，可在不向人员暴露内容的前提下跨交互识别风险，客户数据默认不用于训练模型。",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "官方节奏调整，与内容变现无直接关联，不占今日注意力。",
+      "persona_score": 30,
+      "persona_review": "官方数据政策更新，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_4dcfda21a6fc",
-      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-      "url": "https://www.aibase.com/news/30432",
-      "primary_url": "https://www.aibase.com/news/30432",
+      "story_id": "story_5de36c6f8e14",
+      "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+          "title_zh": "OpenRouter 宣布加入 Stripe",
+          "title_en": "OpenRouter is Joining Stripe",
+          "title_original": "OpenRouter is Joining Stripe",
+          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T00:00:00Z"
+        },
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "title_zh": "OpenRouter 将加入 Stripe",
+          "title_en": null,
+          "title_original": "OpenRouter 将加入 Stripe",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+          "title_zh": "OpenRouter 宣布加入 Stripe",
+          "title_en": "OpenRouter is Joining Stripe",
+          "title_original": "OpenRouter is Joining Stripe",
+          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T00:00:00Z"
+        },
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "title_zh": "OpenRouter 将加入 Stripe",
+          "title_en": null,
+          "title_original": "OpenRouter 将加入 Stripe",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.72,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T00:00:00Z",
+      "latest_at": "2026-08-19T18:46:11.132000Z",
+      "primary_item": {
+        "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+        "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+        "title_zh": "OpenRouter 宣布加入 Stripe",
+        "title_en": "OpenRouter is Joining Stripe",
+        "title_original": "OpenRouter is Joining Stripe",
+        "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "行业并购新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_eadd8d231bf2",
+      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_en": null,
+          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_en": null,
+          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.731,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T01:03:29Z",
+      "latest_at": "2026-08-19T01:03:29Z",
+      "primary_item": {
+        "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "title_en": null,
+        "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "模型更新但未提内容变现路径，对创作者直接帮助有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_a1d53a8b4673",
+      "title": "一个被严重低估的小红书投放策略：人群追投",
+      "url": "https://www.yunyingpai.com/content/1061701.html",
+      "primary_url": "https://www.yunyingpai.com/content/1061701.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "4b1873481c7bf2700c223d3478037131d42995a2",
+          "title": "一个被严重低估的小红书投放策略：人群追投",
+          "title_zh": "一个被严重低估的小红书投放策略：人群追投",
+          "title_en": null,
+          "title_original": "一个被严重低估的小红书投放策略：人群追投",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/content/1061701.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T03:12:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "4b1873481c7bf2700c223d3478037131d42995a2",
+          "title": "一个被严重低估的小红书投放策略：人群追投",
+          "title_zh": "一个被严重低估的小红书投放策略：人群追投",
+          "title_en": null,
+          "title_original": "一个被严重低估的小红书投放策略：人群追投",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/content/1061701.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T03:12:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.7541,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T03:12:32Z",
+      "latest_at": "2026-08-19T03:12:32Z",
+      "primary_item": {
+        "id": "4b1873481c7bf2700c223d3478037131d42995a2",
+        "title": "一个被严重低估的小红书投放策略：人群追投",
+        "title_zh": "一个被严重低估的小红书投放策略：人群追投",
+        "title_en": null,
+        "title_original": "一个被严重低估的小红书投放策略：人群追投",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/content/1061701.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "小红书人群追投是已验证的投放策略，适合测试，能直接提升内容获客效率。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_ea0ed8c5e2fe",
+      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+      "url": "https://www.aibase.com/news/30474",
+      "primary_url": "https://www.aibase.com/news/30474",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "title_en": null,
-          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "summary": "Vercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nExplore AI Fronti",
-          "recommend_reason_zh": "Vercel Labs 开源的编程语言 Zero 已获 5,310 星，专为 AI Agent 设计：以图代替文本源码，编译器验证补丁，人类只在循环外偶尔查看文本投影。",
-          "url": "https://www.aibase.com/news/30432",
+          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "summary": "According to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nAccording to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nAccording to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nExplore AI Frontiers",
+          "recommend_reason_zh": "OpenAI在Georgia建数据中心遭千人抗议，为灭火砸出7100万美元编程学分和8000万美元社区投资，Meta设10亿美元基金，Zuckerberg写6500字长文辩解，硅谷巨头正用真金白银换取AI基建的公众支持。",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:44:19.668089Z"
+          "published_at": "2026-08-19T16:45:07.526883Z"
         }
       ],
       "source_count": 1,
@@ -1504,31 +1095,31 @@
       ],
       "items": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "title_en": null,
-          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "summary": "Vercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nExplore AI Fronti",
-          "recommend_reason_zh": "Vercel Labs 开源的编程语言 Zero 已获 5,310 星，专为 AI Agent 设计：以图代替文本源码，编译器验证补丁，人类只在循环外偶尔查看文本投影。",
-          "url": "https://www.aibase.com/news/30432",
+          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "summary": "According to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nAccording to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nAccording to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nExplore AI Frontiers",
+          "recommend_reason_zh": "OpenAI在Georgia建数据中心遭千人抗议，为灭火砸出7100万美元编程学分和8000万美元社区投资，Meta设10亿美元基金，Zuckerberg写6500字长文辩解，硅谷巨头正用真金白银换取AI基建的公众支持。",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:44:19.668089Z"
+          "published_at": "2026-08-19T16:45:07.526883Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.917,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1538,193 +1129,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T15:44:19.668089Z",
-      "latest_at": "2026-08-18T15:44:19.668089Z",
+      "earliest_at": "2026-08-19T16:45:07.526883Z",
+      "latest_at": "2026-08-19T16:45:07.526883Z",
       "primary_item": {
-        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
         "title_en": null,
-        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-        "summary": "Vercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nVercel Labs has open-sourced the experimental programming language Zero on GitHub, which has received 5,310 stars and 339 forks. However, its real selling point\nExplore AI Fronti",
-        "recommend_reason_zh": "Vercel Labs 开源的编程语言 Zero 已获 5,310 星，专为 AI Agent 设计：以图代替文本源码，编译器验证补丁，人类只在循环外偶尔查看文本投影。",
-        "url": "https://www.aibase.com/news/30432",
+        "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "summary": "According to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nAccording to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nAccording to the Wall Street Journal, U.S. tech companies are seeking public support for data center construction through open days, job commitments, and large\nExplore AI Frontiers",
+        "recommend_reason_zh": "OpenAI在Georgia建数据中心遭千人抗议，为灭火砸出7100万美元编程学分和8000万美元社区投资，Meta设10亿美元基金，Zuckerberg写6500字长文辩解，硅谷巨头正用真金白银换取AI基建的公众支持。",
+        "url": "https://www.aibase.com/news/30474",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "技术框架新闻，对内容变现无直接路径，暂不占用注意力。",
+      "persona_review": "泛行业新闻，与个人创作者变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_14fdaae3bf7f",
-      "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
-      "url": "https://news.ycombinator.com/item?id=49351330",
-      "primary_url": "https://news.ycombinator.com/item?id=49351330",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_fe9df585279b",
+      "title": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发 / Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "primary_url": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
-          "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
-          "title_zh": "挪威应该收购 OpenAI",
-          "title_en": "Norway Should Buy OpenAI",
-          "title_original": "Norway Should Buy OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49351330",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T22:44:40.452000Z"
-        },
-        {
-          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
-          "title": "挪威应该收购OpenAI",
-          "title_zh": "挪威应该收购OpenAI",
-          "title_en": null,
-          "title_original": "挪威应该收购OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "www.onethousandmeans.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T20:22:24.343000Z"
-        },
-        {
-          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
-          "title": "挪威应该收购OpenAI / Norway Should Buy OpenAI",
-          "title_zh": "挪威应该收购OpenAI",
-          "title_en": "Norway Should Buy OpenAI",
-          "title_original": "Norway Should Buy OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T19:30:29Z"
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发 / Replit expands access to software creation with GPT-5.6 Luna",
+          "title_zh": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发",
+          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nReplit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nReplit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nAugust 19, 2026\nReplit is introducing Free Mode, powered by GPT‑5.6 Luna, so anyone can t",
+          "recommend_reason_zh": "Replit推出由GPT-5.6 Luna驱动的Free Mode，免除token消耗，让任何人快速把想法变成可运行软件；复杂推理可切换GPT-5.6 Sol并保留上下文，软件创作因此向数百万用户开放。",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.onethousandmeans.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
-          "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
-          "title_zh": "挪威应该收购 OpenAI",
-          "title_en": "Norway Should Buy OpenAI",
-          "title_original": "Norway Should Buy OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49351330",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T22:44:40.452000Z"
-        },
-        {
-          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
-          "title": "挪威应该收购OpenAI",
-          "title_zh": "挪威应该收购OpenAI",
-          "title_en": null,
-          "title_original": "挪威应该收购OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "www.onethousandmeans.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T20:22:24.343000Z"
-        },
-        {
-          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
-          "title": "挪威应该收购OpenAI / Norway Should Buy OpenAI",
-          "title_zh": "挪威应该收购OpenAI",
-          "title_en": "Norway Should Buy OpenAI",
-          "title_original": "Norway Should Buy OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T19:30:29Z"
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发 / Replit expands access to software creation with GPT-5.6 Luna",
+          "title_zh": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发",
+          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nReplit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nReplit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nAugust 19, 2026\nReplit is introducing Free Mode, powered by GPT‑5.6 Luna, so anyone can t",
+          "recommend_reason_zh": "Replit推出由GPT-5.6 Luna驱动的Free Mode，免除token消耗，让任何人快速把想法变成可运行软件；复杂推理可切换GPT-5.6 Sol并保留上下文，软件创作因此向数百万用户开放。",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7965,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T19:30:29Z",
-      "latest_at": "2026-08-18T22:44:40.452000Z",
+      "earliest_at": "2026-08-19T07:00:00Z",
+      "latest_at": "2026-08-19T07:00:00Z",
       "primary_item": {
-        "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
-        "title": "挪威应该收购 OpenAI / Norway Should Buy OpenAI",
-        "title_zh": "挪威应该收购 OpenAI",
-        "title_en": "Norway Should Buy OpenAI",
-        "title_original": "Norway Should Buy OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49351330",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+        "title": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发 / Replit expands access to software creation with GPT-5.6 Luna",
+        "title_zh": "Replit 借助 GPT-5.6 Luna 让更多人投身软件开发",
+        "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+        "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+        "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nReplit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nReplit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.\nAugust 19, 2026\nReplit is introducing Free Mode, powered by GPT‑5.6 Luna, so anyone can t",
+        "recommend_reason_zh": "Replit推出由GPT-5.6 Luna驱动的Free Mode，免除token消耗，让任何人快速把想法变成可运行软件；复杂推理可切换GPT-5.6 Sol并保留上下文，软件创作因此向数百万用户开放。",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "纯宏观评论，与内容变现无关，不占注意力。",
+      "persona_score": 35,
+      "persona_review": "官方更新但未提内容变现路径，仅泛AI开发工具，暂不测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_34a8c6a0add1",
-      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-      "url": "https://www.aibase.com/news/30434",
-      "primary_url": "https://www.aibase.com/news/30434",
+      "story_id": "story_45688a44d097",
+      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "url": "https://www.aibase.com/news/30471",
+      "primary_url": "https://www.aibase.com/news/30471",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f83591abed7de311be34b00e2db89cff34da7523",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
           "title_en": null,
-          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "summary": "Sam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI的Sam Altman发文警告企业，其AI模型成功攻破Hugging Face已成网络安全分水岭，并列出10项亟需落实的防御措施。",
-          "url": "https://www.aibase.com/news/30434",
+          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "summary": "On August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nOn August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nOn August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nExplore AI Fronti",
+          "recommend_reason_zh": "Mozilla为Firefox测试版AI智能窗口新增标签组自动推荐、重复标签一键关闭，并接入Exa实现网页检索与来源展示，还支持用自然语言搜索浏览历史。",
+          "url": "https://www.aibase.com/news/30471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:44:19.668089Z"
+          "published_at": "2026-08-19T15:45:07.526883Z"
         }
       ],
       "source_count": 1,
@@ -1733,18 +1267,18 @@
       ],
       "items": [
         {
-          "id": "f83591abed7de311be34b00e2db89cff34da7523",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
           "title_en": null,
-          "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "summary": "Sam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI的Sam Altman发文警告企业，其AI模型成功攻破Hugging Face已成网络安全分水岭，并列出10项亟需落实的防御措施。",
-          "url": "https://www.aibase.com/news/30434",
+          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "summary": "On August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nOn August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nOn August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nExplore AI Fronti",
+          "recommend_reason_zh": "Mozilla为Firefox测试版AI智能窗口新增标签组自动推荐、重复标签一键关闭，并接入Exa实现网页检索与来源展示，还支持用自然语言搜索浏览历史。",
+          "url": "https://www.aibase.com/news/30471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:44:19.668089Z"
+          "published_at": "2026-08-19T15:45:07.526883Z"
         }
       ],
       "item_count": 1,
@@ -1767,50 +1301,251 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T15:44:19.668089Z",
-      "latest_at": "2026-08-18T15:44:19.668089Z",
+      "earliest_at": "2026-08-19T15:45:07.526883Z",
+      "latest_at": "2026-08-19T15:45:07.526883Z",
       "primary_item": {
-        "id": "f83591abed7de311be34b00e2db89cff34da7523",
-        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-        "title_zh": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+        "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
         "title_en": null,
-        "title_original": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-        "summary": "Sam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nSam Altman, CEO and co-founder of OpenAI, issued a cybersecurity alert to enterprises: the successful hacking of Hugging Face by its AI models has become a \"wat\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI的Sam Altman发文警告企业，其AI模型成功攻破Hugging Face已成网络安全分水岭，并列出10项亟需落实的防御措施。",
-        "url": "https://www.aibase.com/news/30434",
+        "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+        "summary": "On August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nOn August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nOn August 19, Mozilla announced a series of new features for the AI \"Smart Window\" in Firefox testing, further enhancing AI-assisted browsing and information ma\nExplore AI Fronti",
+        "recommend_reason_zh": "Mozilla为Firefox测试版AI智能窗口新增标签组自动推荐、重复标签一键关闭，并接入Exa实现网页检索与来源展示，还支持用自然语言搜索浏览历史。",
+        "url": "https://www.aibase.com/news/30471",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "泛安全新闻，与内容变现无直接关联，不占注意力。",
+      "persona_score": 45,
+      "persona_review": "浏览器功能更新，与内容变现无直接关联，除非用于提升创作效率，暂不测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     },
     {
-      "story_id": "story_800a8bc6e180",
-      "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-      "url": "https://www.aibase.com/news/30429",
-      "primary_url": "https://www.aibase.com/news/30429",
+      "story_id": "story_ad1cf550f418",
+      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_en": null,
+          "title_original": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+          "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络安全阈值，暂停RL训练两周并强化监控、对齐与安全防护，最大规模前沿RL运行仍搁置。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        },
+        {
+          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
+          "title": "在网络关键能力时代推进模型开发",
+          "title_zh": "在网络关键能力时代推进模型开发",
+          "title_en": null,
+          "title_original": "在网络关键能力时代推进模型开发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "title_en": null,
+          "title_original": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+          "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络安全阈值，暂停RL训练两周并强化监控、对齐与安全防护，最大规模前沿RL运行仍搁置。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        },
+        {
+          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
+          "title": "在网络关键能力时代推进模型开发",
+          "title_zh": "在网络关键能力时代推进模型开发",
+          "title_en": null,
+          "title_original": "在网络关键能力时代推进模型开发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T21:42:09.969000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6899,
+      "importance": 0.6899,
+      "importance_score": 0.6899,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.985,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T21:42:09.969000Z",
+      "latest_at": "2026-08-19T21:42:09.969000Z",
+      "primary_item": {
+        "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+        "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "title_en": null,
+        "title_original": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+        "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face事件及新模型Astra或达关键网络安全阈值，暂停RL训练两周并强化监控、对齐与安全防护，最大规模前沿RL运行仍搁置。",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "泛 AI 技术安全新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nCodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning , which helps you find and remediate security issues in your code.\nGitHub Actions\nJavaScript/TypeScr",
+          "recommend_reason_zh": "CodeQL 2.26.3 新增 JavaScript、TypeScript 和 Vue 源建模，并提升了多个 GitHub Actions 查询的准确性，值得静态分析用户关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nCodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning , which helps you find and remediate security issues in your code.\nGitHub Actions\nJavaScript/TypeScr",
+          "recommend_reason_zh": "CodeQL 2.26.3 新增 JavaScript、TypeScript 和 Vue 源建模，并提升了多个 GitHub Actions 查询的准确性，值得静态分析用户关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9772,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nCodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning , which helps you find and remediate security issues in your code.\nGitHub Actions\nJavaScript/TypeScr",
+        "recommend_reason_zh": "CodeQL 2.26.3 新增 JavaScript、TypeScript 和 Vue 源建模，并提升了多个 GitHub Actions 查询的准确性，值得静态分析用户关注。",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "代码安全工具更新，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_24f9b1fc80b9",
+      "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+      "url": "https://www.aibase.com/news/30468",
+      "primary_url": "https://www.aibase.com/news/30468",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
-          "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "title_zh": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+          "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "title_zh": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
           "title_en": null,
-          "title_original": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "summary": "Copyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nExplore AI Fronti",
-          "recommend_reason_zh": "独立音乐出版商Round Hill Music将Anthropic与Suno告上美国加州联邦法院，索赔或超10亿美元，指其未经授权使用至少500首经典歌词训练Claude与AI音乐系统，涉及James Brown、The Kinks等，后续涉案歌曲或达数万首。",
-          "url": "https://www.aibase.com/news/30429",
+          "title_original": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "summary": "Tencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nTencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nTencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nExplore AI Fronti",
+          "recommend_reason_zh": "Tencent的Tusi平台推出付费\"一键上架\"功能，用户用自然语言生成安卓应用后，可在线完成软著申请、备案及合规文件，一键提交上架应用宝。目前仅限安卓应用，需购买899元或7999元开发者权益包解锁。",
+          "url": "https://www.aibase.com/news/30468",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:44:19.668089Z"
+          "published_at": "2026-08-19T15:45:07.526883Z"
         }
       ],
       "source_count": 1,
@@ -1819,18 +1554,104 @@
       ],
       "items": [
         {
-          "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
-          "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "title_zh": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+          "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "title_zh": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
           "title_en": null,
-          "title_original": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "summary": "Copyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nExplore AI Fronti",
-          "recommend_reason_zh": "独立音乐出版商Round Hill Music将Anthropic与Suno告上美国加州联邦法院，索赔或超10亿美元，指其未经授权使用至少500首经典歌词训练Claude与AI音乐系统，涉及James Brown、The Kinks等，后续涉案歌曲或达数万首。",
-          "url": "https://www.aibase.com/news/30429",
+          "title_original": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "summary": "Tencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nTencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nTencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nExplore AI Fronti",
+          "recommend_reason_zh": "Tencent的Tusi平台推出付费\"一键上架\"功能，用户用自然语言生成安卓应用后，可在线完成软著申请、备案及合规文件，一键提交上架应用宝。目前仅限安卓应用，需购买899元或7999元开发者权益包解锁。",
+          "url": "https://www.aibase.com/news/30468",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T14:44:19.668089Z"
+          "published_at": "2026-08-19T15:45:07.526883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T15:45:07.526883Z",
+      "latest_at": "2026-08-19T15:45:07.526883Z",
+      "primary_item": {
+        "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+        "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+        "title_zh": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+        "title_en": null,
+        "title_original": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+        "summary": "Tencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nTencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nTencent has launched a paid feature called \"One-Stop App Listing\" for its AI application generation platform \"Tusi\": After users generate an Android app using n\nExplore AI Fronti",
+        "recommend_reason_zh": "Tencent的Tusi平台推出付费\"一键上架\"功能，用户用自然语言生成安卓应用后，可在线完成软著申请、备案及合规文件，一键提交上架应用宝。目前仅限安卓应用，需购买899元或7999元开发者权益包解锁。",
+        "url": "https://www.aibase.com/news/30468",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "工具更新，AI生成应用上架应用宝，对做工具类产品的创作者是机会，但变现路径尚不清晰，可小规模测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_8712d546c2e6",
+      "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+      "url": "https://www.aibase.com/news/30466",
+      "primary_url": "https://www.aibase.com/news/30466",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "title_zh": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "title_en": null,
+          "title_original": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "summary": "On August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nOn August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nOn August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nExplore AI Fronti",
+          "recommend_reason_zh": "千问APP与Taobao Flash Sales于8月29日上线七夕AI送花助手，支持花语翻译、季节推荐等四维度匹配，还能生成AI电子贺卡，并同步推出五题情侣默契度测试。",
+          "url": "https://www.aibase.com/news/30466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T14:45:07.526883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "title_zh": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "title_en": null,
+          "title_original": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "summary": "On August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nOn August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nOn August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nExplore AI Fronti",
+          "recommend_reason_zh": "千问APP与Taobao Flash Sales于8月29日上线七夕AI送花助手，支持花语翻译、季节推荐等四维度匹配，还能生成AI电子贺卡，并同步推出五题情侣默契度测试。",
+          "url": "https://www.aibase.com/news/30466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T14:45:07.526883Z"
         }
       ],
       "item_count": 1,
@@ -1852,27 +1673,112 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T14:44:19.668089Z",
-      "latest_at": "2026-08-18T14:44:19.668089Z",
+      "earliest_at": "2026-08-19T14:45:07.526883Z",
+      "latest_at": "2026-08-19T14:45:07.526883Z",
       "primary_item": {
-        "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
-        "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-        "title_zh": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+        "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+        "title_zh": "千问APP上线七夕AI送花助手 还能测情侣默契度",
         "title_en": null,
-        "title_original": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-        "summary": "Copyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nCopyright lawsuits in the field of artificial intelligence are on the rise again. Independent music publisher Round Hill Music recently filed a lawsuit with the\nExplore AI Fronti",
-        "recommend_reason_zh": "独立音乐出版商Round Hill Music将Anthropic与Suno告上美国加州联邦法院，索赔或超10亿美元，指其未经授权使用至少500首经典歌词训练Claude与AI音乐系统，涉及James Brown、The Kinks等，后续涉案歌曲或达数万首。",
-        "url": "https://www.aibase.com/news/30429",
+        "title_original": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+        "summary": "On August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nOn August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nOn August 29th, the Qwen APP collaborated with Taobao Flash Sales to launch the \"Flower Delivery Assistant Skill\" for the Qixi Festival, and simultaneously laun\nExplore AI Fronti",
+        "recommend_reason_zh": "千问APP与Taobao Flash Sales于8月29日上线七夕AI送花助手，支持花语翻译、季节推荐等四维度匹配，还能生成AI电子贺卡，并同步推出五题情侣默契度测试。",
+        "url": "https://www.aibase.com/news/30466",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 12,
-      "persona_review": "版权诉讼与创作者变现无直接关联，不提供可操作机会，按低分过滤。",
+      "persona_score": 25,
+      "persona_review": "泛AI产品功能更新，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T22:59:13.197680Z"
+        "scored_at": "2026-08-19T22:57:56.913016Z"
+      }
+    },
+    {
+      "story_id": "story_b5a519af505f",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_zh": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_en": null,
+          "title_original": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "summary": "The Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nThe Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nThe Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nExplore AI Frontiers",
+          "recommend_reason_zh": "Japanese Cabinet Office 8月18日发布生成式AI开发者指导草案，要求披露训练数据来源与收集方法，虽不具法律约束力，但明确避免盗版网站并建立版权内容通知系统，是观察日本AI监管风向的重要参考。",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T14:45:07.526883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_zh": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "title_en": null,
+          "title_original": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "summary": "The Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nThe Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nThe Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nExplore AI Frontiers",
+          "recommend_reason_zh": "Japanese Cabinet Office 8月18日发布生成式AI开发者指导草案，要求披露训练数据来源与收集方法，虽不具法律约束力，但明确避免盗版网站并建立版权内容通知系统，是观察日本AI监管风向的重要参考。",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T14:45:07.526883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T14:45:07.526883Z",
+      "latest_at": "2026-08-19T14:45:07.526883Z",
+      "primary_item": {
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "title_zh": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "title_en": null,
+        "title_original": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "summary": "The Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nThe Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nThe Japanese Cabinet Office released a draft guideline for generative AI developers on August 18, requiring developers to disclose training data and collection\nExplore AI Frontiers",
+        "recommend_reason_zh": "Japanese Cabinet Office 8月18日发布生成式AI开发者指导草案，要求披露训练数据来源与收集方法，虽不具法律约束力，但明确避免盗版网站并建立版权内容通知系统，是观察日本AI监管风向的重要参考。",
+        "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "政策草案，影响AI工具合规，但未直接涉及内容变现路径，暂不行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-19T22:57:56.913016Z"
       }
     }
   ]

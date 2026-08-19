@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:59:41.890923Z",
+  "generated_at": "2026-08-19T22:58:26.149895Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_3590481c04b9",
-      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-      "url": "https://www.aibase.com/news/30444",
+      "story_id": "story_a1d53a8b4673",
+      "title": "一个被严重低估的小红书投放策略：人群追投",
+      "url": "https://www.yunyingpai.com/content/1061701.html",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "入口多不代表智能，转账撤回是补课，AI 还是摆设。"
+          "score": 62,
+          "review": "追投策略不算新，但把人群包玩明白的确实少，水分在案例选择性展示。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅媒体描述功能，无官方文档或评测，证据不足。"
+          "review": "只有运营派一篇博客，无数据无案例，策略有效性无从验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "微信AI入口增加是平台规则变化，可能影响获客渠道，值得测试新入口的流量和转化。"
+          "score": 82,
+          "review": "小红书人群追投是已验证的投放策略，适合测试，能直接提升内容获客效率。"
         }
       }
     },
     {
-      "story_id": "story_d5ef531718d4",
-      "title": "写了七百多篇小红书干货以后，我越来越不相信方法论了",
-      "url": "https://www.yunyingpai.com/content/1061698.html",
+      "story_id": "story_24f9b1fc80b9",
+      "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+      "url": "https://www.aibase.com/news/30468",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "干货写多了才悟出方法论是玄学，这反思本身倒挺干货。"
+          "review": "一键上架听着美，审核和合规的坑怕是没提，先跑通再说。"
         },
         "paper-police": {
           "score": 15,
-          "review": "个人经验谈无数据支撑，方法论质疑缺实证，仅算行业观点。"
+          "review": "仅官方宣称，无技术细节或评测，证据不足。"
         },
         "pragmatic": {
           "score": 62,
-          "review": "案例反思类内容，有实操经验但缺具体可复用方法，适合参考心态调整。"
+          "review": "工具更新，AI生成应用上架应用宝，对做工具类产品的创作者是机会，但变现路径尚不清晰，可小规模测试。"
         }
       }
     },
     {
-      "story_id": "story_654c10ffc24b",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "story_id": "story_c773429fa020",
+      "title": "GitHub Copilot 应用入门：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "零信任是安全标配，不是新卖点。ADK 若真能落地，先跑通再说。"
+          "score": 62,
+          "review": "入门教程也配叫官方更新？教人点按钮的活儿，水分比干货多。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无论文代码，零信任实现待验证。"
+          "score": 30,
+          "review": "官方博客教程，无性能数据无代码，仅入门指导，证据薄弱。"
         },
         "pragmatic": {
           "score": 45,
-          "review": "官方工具更新，但偏技术架构，缺少直接变现路径，暂不优先测试。"
+          "review": "官方工具教程，对内容创作者变现无直接帮助，仅当涉及自动化工作流时值得一看。"
         }
       }
     }
