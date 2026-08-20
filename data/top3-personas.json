@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:58:26.149895Z",
+  "generated_at": "2026-08-20T23:05:15.700132Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_a1d53a8b4673",
-      "title": "一个被严重低估的小红书投放策略：人群追投",
-      "url": "https://www.yunyingpai.com/content/1061701.html",
+      "story_id": "story_68a4cbd67e6a",
+      "title": "拆解一下小红书种草大赏三个全场大奖",
+      "url": "https://www.yunyingpai.com/product-operation/1061724.html",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "追投策略不算新，但把人群包玩明白的确实少，水分在案例选择性展示。"
+          "review": "拆解三个案例就敢称大赏，样本量小得可怜，水分得挤挤。"
         },
         "paper-police": {
           "score": 20,
-          "review": "只有运营派一篇博客，无数据无案例，策略有效性无从验证。"
+          "review": "只有营销案例分析，无论文无代码无数据，无法验证其方法论有效性。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "小红书人群追投是已验证的投放策略，适合测试，能直接提升内容获客效率。"
+          "score": 72,
+          "review": "案例拆解，可提炼种草内容策略，适合小红书创作者参考测试。"
         }
       }
     },
     {
-      "story_id": "story_24f9b1fc80b9",
-      "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
-      "url": "https://www.aibase.com/news/30468",
+      "story_id": "story_eaf39713ae16",
+      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+      "url": "https://www.aibase.com/news/30500",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "一键上架听着美，审核和合规的坑怕是没提，先跑通再说。"
+          "score": 70,
+          "review": "营收数字硬，但可灵AI的200%增长基数小，别急着封神。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "仅官方宣称，无技术细节或评测，证据不足。"
+          "score": 20,
+          "review": "营收数字来自财报，但可灵AI商业化收入增长超200%缺乏技术细节和独立验证。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "工具更新，AI生成应用上架应用宝，对做工具类产品的创作者是机会，但变现路径尚不清晰，可小规模测试。"
+          "score": 55,
+          "review": "平台财报数据，可灵AI商业化增长是信号，但缺具体变现路径，仅作背景参考。"
         }
       }
     },
     {
-      "story_id": "story_c773429fa020",
-      "title": "GitHub Copilot 应用入门：管理工作 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "story_id": "story_a4fea9f5c87a",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "url": "https://mistral.ai/news/agentic-search",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "入门教程也配叫官方更新？教人点按钮的活儿，水分比干货多。"
+          "score": 72,
+          "review": "多步检索是实打实的进步，但'复杂文档'的基准没晒，水分得自己挤。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客教程，无性能数据无代码，仅入门指导，证据薄弱。"
+          "score": 45,
+          "review": "官方博客给了细节和数字，但无论文无代码，等第三方复现再定论。"
         },
         "pragmatic": {
           "score": 45,
-          "review": "官方工具教程，对内容创作者变现无直接帮助，仅当涉及自动化工作流时值得一看。"
+          "review": "官方工具更新，但未直接展示内容变现路径，需观察实际应用案例。"
         }
       }
     }
