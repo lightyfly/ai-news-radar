@@ -1,116 +1,29 @@
 {
-  "generated_at": "2026-08-20T22:48:22.975014Z",
+  "generated_at": "2026-08-21T22:44:54.588167Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_666a236350be",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow does DSpark work Training and Architecture Quality parity Inference Speed Up on CPU and GPU How to use LFM2.5-DSpark Get Started Citation Today, we release DSpark draft model checkpoints for three models from our LFM2.5 family: LFM2.5-1.2B-Instruct, LFM2.5-2.6B, and LFM2.5-8B-A1B. These add a speculative decoding path that trades a minimal memory increase for a large decoding speedup without changing output qua",
-          "recommend_reason_zh": "Liquid AI发布DSpark草稿模型，仅约300M参数，为LFM2.5三款模型提速且不牺牲质量，LFM2.5-2.6B延迟降57%，MacBook上约140 tok/s。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow does DSpark work Training and Architecture Quality parity Inference Speed Up on CPU and GPU How to use LFM2.5-DSpark Get Started Citation Today, we release DSpark draft model checkpoints for three models from our LFM2.5 family: LFM2.5-1.2B-Instruct, LFM2.5-2.6B, and LFM2.5-8B-A1B. These add a speculative decoding path that trades a minimal memory increase for a large decoding speedup without changing output qua",
-          "recommend_reason_zh": "Liquid AI发布DSpark草稿模型，仅约300M参数，为LFM2.5三款模型提速且不牺牲质量，LFM2.5-2.6B延迟降57%，MacBook上约140 tok/s。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.918,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:52:57Z",
-      "latest_at": "2026-08-20T16:52:57Z",
-      "primary_item": {
-        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-        "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow does DSpark work Training and Architecture Quality parity Inference Speed Up on CPU and GPU How to use LFM2.5-DSpark Get Started Citation Today, we release DSpark draft model checkpoints for three models from our LFM2.5 family: LFM2.5-1.2B-Instruct, LFM2.5-2.6B, and LFM2.5-8B-A1B. These add a speculative decoding path that trades a minimal memory increase for a large decoding speedup without changing output qua",
-        "recommend_reason_zh": "Liquid AI发布DSpark草稿模型，仅约300M参数，为LFM2.5三款模型提速且不牺牲质量，LFM2.5-2.6B延迟降57%，MacBook上约140 tok/s。",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "模型推理速度提升，但未直接关联内容生产或变现路径，优先级低。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_13b553da3c26",
-      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "story_id": "story_f852499667bc",
+      "title": "GitHub Copilot 在 Slack 中的全新体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-          "title_en": "Windows 11 arm64 VS2026 image generally available",
-          "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "GitHub Copilot 在 Slack 中的全新体验 / The new GitHub Copilot experience in Slack",
+          "title_zh": "GitHub Copilot 在 Slack 中的全新体验",
+          "title_en": "The new GitHub Copilot experience in Slack",
+          "title_original": "The new GitHub Copilot experience in Slack",
+          "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to…\nThe GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to plan changes, investigate problems, and hand off coding tasks from the conversations where your team coordinates work. GitHub is also a launch part",
+          "recommend_reason_zh": "GitHub Copilot进驻Slack公开预览，团队可@GitHub规划变更、排查问题并异步交接编码任务，还能创建专属代码频道协作审查，面向Business和Enterprise计划开放。",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-21T16:07:15Z"
         }
       ],
       "source_count": 1,
@@ -119,118 +32,31 @@
       ],
       "items": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-          "title_en": "Windows 11 arm64 VS2026 image generally available",
-          "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "GitHub Copilot 在 Slack 中的全新体验 / The new GitHub Copilot experience in Slack",
+          "title_zh": "GitHub Copilot 在 Slack 中的全新体验",
+          "title_en": "The new GitHub Copilot experience in Slack",
+          "title_original": "The new GitHub Copilot experience in Slack",
+          "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to…\nThe GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to plan changes, investigate problems, and hand off coding tasks from the conversations where your team coordinates work. GitHub is also a launch part",
+          "recommend_reason_zh": "GitHub Copilot进驻Slack公开预览，团队可@GitHub规划变更、排查问题并异步交接编码任务，还能创建专属代码频道协作审查，面向Business和Enterprise计划开放。",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-21T16:07:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9313,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
-      "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-        "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-        "title_en": "Windows 11 arm64 VS2026 image generally available",
-        "title_original": "Windows 11 arm64 VS2026 image generally available",
-        "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "开发工具镜像更新，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_4a9843552c46",
-      "title": "介绍人工智能期货 / Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "primary_url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-          "title": "介绍人工智能期货 / Introducing AI Futures",
-          "title_zh": "介绍人工智能期货",
-          "title_en": "Introducing AI Futures",
-          "title_original": "Introducing AI Futures",
-          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nAugust 20, 2026\nBy Dean Ball\nThe post below reflects the views of it",
-          "recommend_reason_zh": "OpenAI新设Strategic Futures团队并推出AI Futures博客，聚焦变革性AI对权力、治理、经济与个人自由的影响；文章援引James Madison与David Hume，论证国家传统上依赖士兵与税收支撑，而自主系统和数据中心产出可能打破这一根基，值得深思。",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-          "title": "介绍人工智能期货 / Introducing AI Futures",
-          "title_zh": "介绍人工智能期货",
-          "title_en": "Introducing AI Futures",
-          "title_original": "Introducing AI Futures",
-          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nAugust 20, 2026\nBy Dean Ball\nThe post below reflects the views of it",
-          "recommend_reason_zh": "OpenAI新设Strategic Futures团队并推出AI Futures博客，聚焦变革性AI对权力、治理、经济与个人自由的影响；文章援引James Madison与David Hume，论证国家传统上依赖士兵与税收支撑，而自主系统和数据中心产出可能打破这一根基，值得深思。",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7959,
+        "recency": 0.9087,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -241,50 +67,137 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T07:00:00Z",
-      "latest_at": "2026-08-20T07:00:00Z",
+      "earliest_at": "2026-08-21T16:07:15Z",
+      "latest_at": "2026-08-21T16:07:15Z",
       "primary_item": {
-        "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
-        "title": "介绍人工智能期货 / Introducing AI Futures",
-        "title_zh": "介绍人工智能期货",
-        "title_en": "Introducing AI Futures",
-        "title_original": "Introducing AI Futures",
-        "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nAugust 20, 2026\nBy Dean Ball\nThe post below reflects the views of it",
-        "recommend_reason_zh": "OpenAI新设Strategic Futures团队并推出AI Futures博客，聚焦变革性AI对权力、治理、经济与个人自由的影响；文章援引James Madison与David Hume，论证国家传统上依赖士兵与税收支撑，而自主系统和数据中心产出可能打破这一根基，值得深思。",
-        "url": "https://openai.com/index/introducing-ai-futures",
-        "source": "OpenAI News",
+        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+        "title": "GitHub Copilot 在 Slack 中的全新体验 / The new GitHub Copilot experience in Slack",
+        "title_zh": "GitHub Copilot 在 Slack 中的全新体验",
+        "title_en": "The new GitHub Copilot experience in Slack",
+        "title_original": "The new GitHub Copilot experience in Slack",
+        "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to…\nThe GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to plan changes, investigate problems, and hand off coding tasks from the conversations where your team coordinates work. GitHub is also a launch part",
+        "recommend_reason_zh": "GitHub Copilot进驻Slack公开预览，团队可@GitHub规划变更、排查问题并异步交接编码任务，还能创建专属代码频道协作审查，面向Business和Enterprise计划开放。",
+        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "官方工具更新，但面向开发者协作，非内容创作者变现直接路径，可暂缓。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_99aa6c57026b",
+      "title": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "title_zh": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作",
+          "title_en": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "title_original": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "summary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot…\nTurn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot cloud agent session. Anyone in the conversation can ask questions, add context, and help plan or steer the work. Participants wit",
+          "recommend_reason_zh": "在Microsoft Teams中通过@GitHub即可启动GitHub Copilot云代理会话，全员可提问或引导编码，并自动创建代码频道同步进度；公开预览面向付费计划，AI额度单独计费，仓库管理员还可为代理创建的PR增设额外审批。",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:03:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "title_zh": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作",
+          "title_en": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "title_original": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "summary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot…\nTurn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot cloud agent session. Anyone in the conversation can ask questions, add context, and help plan or steer the work. Participants wit",
+          "recommend_reason_zh": "在Microsoft Teams中通过@GitHub即可启动GitHub Copilot云代理会话，全员可提问或引导编码，并自动创建代码频道同步进度；公开预览面向付费计划，AI额度单独计费，仓库管理员还可为代理创建的PR增设额外审批。",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:03:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9079,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T16:03:36Z",
+      "latest_at": "2026-08-21T16:03:36Z",
+      "primary_item": {
+        "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+        "title": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "title_zh": "在 Microsoft Teams 中与 GitHub Copilot 共享 agentic 工作",
+        "title_en": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "title_original": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "summary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot…\nTurn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot cloud agent session. Anyone in the conversation can ask questions, add context, and help plan or steer the work. Participants wit",
+        "recommend_reason_zh": "在Microsoft Teams中通过@GitHub即可启动GitHub Copilot云代理会话，全员可提问或引导编码，并自动创建代码频道同步进度；公开预览面向付费计划，AI额度单独计费，仓库管理员还可为代理创建的PR增设额外审批。",
+        "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 30,
-      "persona_review": "官方战略概念，与内容变现无直接路径，暂不占用注意力。",
+      "persona_review": "企业协作工具更新，对个人创作者变现路径不直接，暂不占用注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     },
     {
-      "story_id": "story_185e96d8c2f8",
-      "title": "Code scanning 新增了已缓解警报的关闭原因 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_6b026b4e90dc",
+      "title": "更完善的屏蔽用户管理工具 / Better tools for managing blocked users",
+      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "Code scanning 新增了已缓解警报的关闭原因 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "Code scanning 新增了已缓解警报的关闭原因",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
-          "summary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nYou can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network policy, mitigate its risk.\nThe new dismissal reason helps you distinguish mitigated vulnerabilities from alerts marked Won’t fix , align dismis",
-          "recommend_reason_zh": "GitHub code scanning 新增告警关闭原因 Mitigated：当漏洞仍在代码中、但已有 Web 应用防火墙或网络策略等外部控制缓解风险时，可用它与 Won't fix 区分，以对齐正式例外与风险接受流程、减少外部跟踪。",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "更完善的屏蔽用户管理工具 / Better tools for managing blocked users",
+          "title_zh": "更完善的屏蔽用户管理工具",
+          "title_en": "Better tools for managing blocked users",
+          "title_original": "Better tools for managing blocked users",
+          "summary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nManaging blocked users is now faster and clearer for personal accounts and organizations. With this update, you can:\nThe updated experience also clearly separates searching the blocked-user list from blocking a new user, helping you find cases faster and avoid accidental blocks.\nTo get started, go to Settings ",
+          "recommend_reason_zh": "GitHub更新封禁用户管理工具，支持按用户名、全名或邮箱搜索，可排序分页长列表，并区分搜索与封禁操作，帮助管理员更快定位、避免误封。",
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-21T17:28:36Z"
         }
       ],
       "source_count": 1,
@@ -293,31 +206,31 @@
       ],
       "items": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "Code scanning 新增了已缓解警报的关闭原因 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "Code scanning 新增了已缓解警报的关闭原因",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
-          "summary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nYou can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network policy, mitigate its risk.\nThe new dismissal reason helps you distinguish mitigated vulnerabilities from alerts marked Won’t fix , align dismis",
-          "recommend_reason_zh": "GitHub code scanning 新增告警关闭原因 Mitigated：当漏洞仍在代码中、但已有 Web 应用防火墙或网络策略等外部控制缓解风险时，可用它与 Won't fix 区分，以对齐正式例外与风险接受流程、减少外部跟踪。",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "更完善的屏蔽用户管理工具 / Better tools for managing blocked users",
+          "title_zh": "更完善的屏蔽用户管理工具",
+          "title_en": "Better tools for managing blocked users",
+          "title_original": "Better tools for managing blocked users",
+          "summary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nManaging blocked users is now faster and clearer for personal accounts and organizations. With this update, you can:\nThe updated experience also clearly separates searching the blocked-user list from blocking a new user, helping you find cases faster and avoid accidental blocks.\nTo get started, go to Settings ",
+          "recommend_reason_zh": "GitHub更新封禁用户管理工具，支持按用户名、全名或邮箱搜索，可排序分页长列表，并区分搜索与封禁操作，帮助管理员更快定位、避免误封。",
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-21T17:28:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8965,
+        "recency": 0.9267,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -328,223 +241,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
+      "earliest_at": "2026-08-21T17:28:36Z",
+      "latest_at": "2026-08-21T17:28:36Z",
       "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "Code scanning 新增了已缓解警报的关闭原因 / Code scanning adds a mitigated alert dismissal reason",
-        "title_zh": "Code scanning 新增了已缓解警报的关闭原因",
-        "title_en": "Code scanning adds a mitigated alert dismissal reason",
-        "title_original": "Code scanning adds a mitigated alert dismissal reason",
-        "summary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nYou can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network policy, mitigate its risk.\nThe new dismissal reason helps you distinguish mitigated vulnerabilities from alerts marked Won’t fix , align dismis",
-        "recommend_reason_zh": "GitHub code scanning 新增告警关闭原因 Mitigated：当漏洞仍在代码中、但已有 Web 应用防火墙或网络策略等外部控制缓解风险时，可用它与 Won't fix 区分，以对齐正式例外与风险接受流程、减少外部跟踪。",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+        "title": "更完善的屏蔽用户管理工具 / Better tools for managing blocked users",
+        "title_zh": "更完善的屏蔽用户管理工具",
+        "title_en": "Better tools for managing blocked users",
+        "title_original": "Better tools for managing blocked users",
+        "summary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nManaging blocked users is now faster and clearer for personal accounts and organizations. With this update, you can:\nThe updated experience also clearly separates searching the blocked-user list from blocking a new user, helping you find cases faster and avoid accidental blocks.\nTo get started, go to Settings ",
+        "recommend_reason_zh": "GitHub更新封禁用户管理工具，支持按用户名、全名或邮箱搜索，可排序分页长列表，并区分搜索与封禁操作，帮助管理员更快定位、避免误封。",
+        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 15,
-      "persona_review": "GitHub代码扫描更新，与内容变现无关，不占注意力。",
+      "persona_review": "平台工具更新，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     },
     {
-      "story_id": "story_a4fea9f5c87a",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-      "url": "https://mistral.ai/news/agentic-search",
-      "primary_url": "https://mistral.ai/news/agentic-search",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-          "recommend_reason_zh": "本文介绍Agentic Search，一个帮助AI系统在复杂文档中导航、阅读并验证信息的检索层，旨在让AI获得更准确、高效的结果。",
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-          "recommend_reason_zh": "本文介绍Agentic Search，一个帮助AI系统在复杂文档中导航、阅读并验证信息的检索层，旨在让AI获得更准确、高效的结果。",
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9069,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:02:07.300000Z",
-      "latest_at": "2026-08-20T16:02:07.300000Z",
-      "primary_item": {
-        "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-        "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-        "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-        "title_original": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-        "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-        "recommend_reason_zh": "本文介绍Agentic Search，一个帮助AI系统在复杂文档中导航、阅读并验证信息的检索层，旨在让AI获得更准确、高效的结果。",
-        "url": "https://mistral.ai/news/agentic-search",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方工具更新，但未直接展示内容变现路径，需观察实际应用案例。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_c5030fa07ae8",
-      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-          "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nA dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart from GitHub code scanning runs. Code Quality analysis runs on dynamic/github-code-quality/codeql and shows github",
-          "recommend_reason_zh": "GitHub Code Quality 现推出独立工作流路径，run 历史与用量报告可区分其与 code scanning，actor 显示为 github-code-quality，无需重配置即可生效。",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-          "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nA dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart from GitHub code scanning runs. Code Quality analysis runs on dynamic/github-code-quality/codeql and shows github",
-          "recommend_reason_zh": "GitHub Code Quality 现推出独立工作流路径，run 历史与用量报告可区分其与 code scanning，actor 显示为 github-code-quality，无需重配置即可生效。",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8868,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-        "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nA dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart from GitHub code scanning runs. Code Quality analysis runs on dynamic/github-code-quality/codeql and shows github",
-        "recommend_reason_zh": "GitHub Code Quality 现推出独立工作流路径，run 历史与用量报告可区分其与 code scanning，actor 显示为 github-code-quality，无需重配置即可生效。",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "开发者工具更新，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
+      "story_id": "story_3e69e9d70dac",
+      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+      "url": "https://www.aibase.com/news/30537",
+      "primary_url": "https://www.aibase.com/news/30537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": "Tongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nExplore AI Fronti",
-          "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版本仅需8GB内存即可本地运行。",
-          "url": "https://www.aibase.com/news/30504",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+          "recommend_reason_zh": "字节Seed完成新一轮组织重构，新建四个一级部门并统一向吴永辉汇报，其中Pretrain Data整合文本、编程、视觉等数据团队，Horizon RL专注强化学习提升模型智能上限，同时面向B端优化Agentic模型能力。",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:48:22.975014Z"
+          "published_at": "2026-08-21T18:44:54.588167Z"
         }
       ],
       "source_count": 1,
@@ -553,18 +293,362 @@
       ],
       "items": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": "Tongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nExplore AI Fronti",
-          "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版本仅需8GB内存即可本地运行。",
-          "url": "https://www.aibase.com/news/30504",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+          "recommend_reason_zh": "字节Seed完成新一轮组织重构，新建四个一级部门并统一向吴永辉汇报，其中Pretrain Data整合文本、编程、视觉等数据团队，Horizon RL专注强化学习提升模型智能上限，同时面向B端优化Agentic模型能力。",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T16:48:22.975014Z"
+          "published_at": "2026-08-21T18:44:54.588167Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T18:44:54.588167Z",
+      "latest_at": "2026-08-21T18:44:54.588167Z",
+      "primary_item": {
+        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_en": null,
+        "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+        "recommend_reason_zh": "字节Seed完成新一轮组织重构，新建四个一级部门并统一向吴永辉汇报，其中Pretrain Data整合文本、编程、视觉等数据团队，Horizon RL专注强化学习提升模型智能上限，同时面向B端优化Agentic模型能力。",
+        "url": "https://www.aibase.com/news/30537",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "大厂内部研发调整，与个人创作者变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_a1a025194e2c",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_original": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+          "recommend_reason_zh": "Ling-2.6-1T FP8冷启动约8.52分钟，权重加载占启动时间的93.2%，每个TP rank读约120GB；Weight Cache Daemon以CUDA IPC零拷贝把权重常驻GPU内存，让SGLang权重加载从分钟级降至秒级，目标冷启动小于10秒。",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_original": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+          "recommend_reason_zh": "Ling-2.6-1T FP8冷启动约8.52分钟，权重加载占启动时间的93.2%，每个TP rank读约120GB；Weight Cache Daemon以CUDA IPC零拷贝把权重常驻GPU内存，让SGLang权重加载从分钟级降至秒级，目标冷启动小于10秒。",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9329,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T17:56:25.415000Z",
+      "latest_at": "2026-08-21T17:56:25.415000Z",
+      "primary_item": {
+        "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+        "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+        "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+        "title_original": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+        "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+        "recommend_reason_zh": "Ling-2.6-1T FP8冷启动约8.52分钟，权重加载占启动时间的93.2%，每个TP rank读约120GB；Weight Cache Daemon以CUDA IPC零拷贝把权重常驻GPU内存，让SGLang权重加载从分钟级降至秒级，目标冷启动小于10秒。",
+        "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "纯技术基建更新，不直接改善内容生产或变现路径，低优先级。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_530af6e18d4c",
+      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+      "url": "https://www.aibase.com/news/30535",
+      "primary_url": "https://www.aibase.com/news/30535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_en": null,
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "summary": "RayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nExplore AI Fronti",
+          "recommend_reason_zh": "RayNeo iO定价2499元，首发1996元，支持0-1000度近视镜片，仅重34克，透光率达93%，并据Counterpoint数据登顶2026年Q1全球AR眼镜出货量第一。",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T17:44:54.588167Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_en": null,
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "summary": "RayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nExplore AI Fronti",
+          "recommend_reason_zh": "RayNeo iO定价2499元，首发1996元，支持0-1000度近视镜片，仅重34克，透光率达93%，并据Counterpoint数据登顶2026年Q1全球AR眼镜出货量第一。",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T17:44:54.588167Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9303,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T17:44:54.588167Z",
+      "latest_at": "2026-08-21T17:44:54.588167Z",
+      "primary_item": {
+        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_en": null,
+        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "summary": "RayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nExplore AI Fronti",
+        "recommend_reason_zh": "RayNeo iO定价2499元，首发1996元，支持0-1000度近视镜片，仅重34克，透光率达93%，并据Counterpoint数据登顶2026年Q1全球AR眼镜出货量第一。",
+        "url": "https://www.aibase.com/news/30535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "硬件新品，与内容变现无直接关联，除非后续有创作者工作流案例，暂不测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_85ec019c932d",
+      "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_zh": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等",
+          "title_en": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_original": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nYou can now pin saved views ⁠ to the repository issues sidebar, making the views you use most just one click away, even when the sidebar is collapsed.\nYou can now see profile avatars for reactions on issues.\nYou can now adjust the Issues Dashboard density to see more issues at once\nYou can now hide closed sub-issues, making i",
+          "recommend_reason_zh": "GitHub 仓库 issues 侧边栏现已支持固定保存视图，折叠后一键可达；还新增反应头像、调节 Issues Dashboard 密度、隐藏已关闭子问题，issue 依赖 REST API 端点按权限过滤。",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_zh": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等",
+          "title_en": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_original": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nYou can now pin saved views ⁠ to the repository issues sidebar, making the views you use most just one click away, even when the sidebar is collapsed.\nYou can now see profile avatars for reactions on issues.\nYou can now adjust the Issues Dashboard density to see more issues at once\nYou can now hide closed sub-issues, making i",
+          "recommend_reason_zh": "GitHub 仓库 issues 侧边栏现已支持固定保存视图，折叠后一键可达；还新增反应头像、调节 Issues Dashboard 密度、隐藏已关闭子问题，issue 依赖 REST API 端点按权限过滤。",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7147,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T23:29:34Z",
+      "latest_at": "2026-08-20T23:29:34Z",
+      "primary_item": {
+        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+        "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+        "title_zh": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等",
+        "title_en": "Pinning saved views to the repository issues sidebar is generally available and more",
+        "title_original": "Pinning saved views to the repository issues sidebar is generally available and more",
+        "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nYou can now pin saved views ⁠ to the repository issues sidebar, making the views you use most just one click away, even when the sidebar is collapsed.\nYou can now see profile avatars for reactions on issues.\nYou can now adjust the Issues Dashboard density to see more issues at once\nYou can now hide closed sub-issues, making i",
+        "recommend_reason_zh": "GitHub 仓库 issues 侧边栏现已支持固定保存视图，折叠后一键可达；还新增反应头像、调节 Issues Dashboard 密度、隐藏已关闭子问题，issue 依赖 REST API 端点按权限过滤。",
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "GitHub功能更新，与AI内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_905b51b78524",
+      "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+      "url": "https://www.aibase.com/news/30533",
+      "primary_url": "https://www.aibase.com/news/30533",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b4934413b6222572539508e765a783f252dafa6",
+          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "title_zh": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "title_en": null,
+          "title_original": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "summary": "Korean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nKorean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nKorean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nExplore AI Fronti",
+          "recommend_reason_zh": "Kakao董事会批准拆分方案，拟设立Kakao AI专注KakaoTalk与AI业务，原公司更名Kakao X聚焦投资金融科技等；按净资产账面价值36%与64%比例分割，Kakao AI将把约5000万用户的KakaoTalk升级为智能体AI界面。",
+          "url": "https://www.aibase.com/news/30533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T16:44:54.588167Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b4934413b6222572539508e765a783f252dafa6",
+          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "title_zh": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "title_en": null,
+          "title_original": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "summary": "Korean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nKorean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nKorean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nExplore AI Fronti",
+          "recommend_reason_zh": "Kakao董事会批准拆分方案，拟设立Kakao AI专注KakaoTalk与AI业务，原公司更名Kakao X聚焦投资金融科技等；按净资产账面价值36%与64%比例分割，Kakao AI将把约5000万用户的KakaoTalk升级为智能体AI界面。",
+          "url": "https://www.aibase.com/news/30533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T16:44:54.588167Z"
         }
       ],
       "item_count": 1,
@@ -587,307 +671,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T16:48:22.975014Z",
-      "latest_at": "2026-08-20T16:48:22.975014Z",
+      "earliest_at": "2026-08-21T16:44:54.588167Z",
+      "latest_at": "2026-08-21T16:44:54.588167Z",
       "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "id": "8b4934413b6222572539508e765a783f252dafa6",
+        "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+        "title_zh": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
         "title_en": null,
-        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "summary": "Tongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nExplore AI Fronti",
-        "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版本仅需8GB内存即可本地运行。",
-        "url": "https://www.aibase.com/news/30504",
+        "title_original": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+        "summary": "Korean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nKorean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nKorean internet giant Kakao announced on August 21 that its board of directors has approved a spin-off plan, aiming to establish a new company \"Kakao AI\" to foc\nExplore AI Fronti",
+        "recommend_reason_zh": "Kakao董事会批准拆分方案，拟设立Kakao AI专注KakaoTalk与AI业务，原公司更名Kakao X聚焦投资金融科技等；按净资产账面价值36%与64%比例分割，Kakao AI将把约5000万用户的KakaoTalk升级为智能体AI界面。",
+        "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "技术优化新闻，未涉及内容生产或变现路径，低优先级。",
+      "persona_score": 25,
+      "persona_review": "公司架构调整，与个人创作者变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     },
     {
-      "story_id": "story_6bffb665747e",
-      "title": "在审计日志中追踪 GitHub Code Quality 的启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审计日志中追踪 GitHub Code Quality 的启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审计日志中追踪 GitHub Code Quality 的启用变更",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
-          "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nGitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history:\nEach event captures the repository, the actor who made the change, and when it happened. Because Code Quality billing counts a",
-          "recommend_reason_zh": "GitHub Code Quality新增三个审计日志事件，记录仓库启用、禁用或更改设置的完整历史，含操作者与时间，方便追踪有效提交者计费范围变化。",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审计日志中追踪 GitHub Code Quality 的启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审计日志中追踪 GitHub Code Quality 的启用变更",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
-          "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nGitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history:\nEach event captures the repository, the actor who made the change, and when it happened. Because Code Quality billing counts a",
-          "recommend_reason_zh": "GitHub Code Quality新增三个审计日志事件，记录仓库启用、禁用或更改设置的完整历史，含操作者与时间，方便追踪有效提交者计费范围变化。",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8867,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
-      "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审计日志中追踪 GitHub Code Quality 的启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-        "title_zh": "在审计日志中追踪 GitHub Code Quality 的启用变更",
-        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
-        "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nGitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history:\nEach event captures the repository, the actor who made the change, and when it happened. Because Code Quality billing counts a",
-        "recommend_reason_zh": "GitHub Code Quality新增三个审计日志事件，记录仓库启用、禁用或更改设置的完整历史，含操作者与时间，方便追踪有效提交者计费范围变化。",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "GitHub审计日志更新，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_a623b326864e",
-      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
-      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-      "primary_url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
-          "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-          "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-          "title_original": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-          "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
-          "recommend_reason_zh": "AlloyDB ScaNN通过全新四级树索引将向量搜索扩展至100亿规模，查询复杂度降至O(N^1/4)，并优化内存使用，值得关注。",
-          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
-          "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-          "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-          "title_original": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-          "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
-          "recommend_reason_zh": "AlloyDB ScaNN通过全新四级树索引将向量搜索扩展至100亿规模，查询复杂度降至O(N^1/4)，并优化内存使用，值得关注。",
-          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9064,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T16:00:00Z",
-      "latest_at": "2026-08-20T16:00:00Z",
-      "primary_item": {
-        "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
-        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
-        "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-        "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-        "title_original": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-        "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
-        "recommend_reason_zh": "AlloyDB ScaNN通过全新四级树索引将向量搜索扩展至100亿规模，查询复杂度降至O(N^1/4)，并优化内存使用，值得关注。",
-        "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-        "source": "Google Cloud：Databases（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "技术架构新闻，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_68a4cbd67e6a",
-      "title": "拆解一下小红书种草大赏三个全场大奖",
-      "url": "https://www.yunyingpai.com/product-operation/1061724.html",
-      "primary_url": "https://www.yunyingpai.com/product-operation/1061724.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "bc4804c793a4a9291e28a04d58152d4e51e43ea0",
-          "title": "拆解一下小红书种草大赏三个全场大奖",
-          "title_zh": "拆解一下小红书种草大赏三个全场大奖",
-          "title_en": null,
-          "title_original": "拆解一下小红书种草大赏三个全场大奖",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/product-operation/1061724.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T02:02:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "bc4804c793a4a9291e28a04d58152d4e51e43ea0",
-          "title": "拆解一下小红书种草大赏三个全场大奖",
-          "title_zh": "拆解一下小红书种草大赏三个全场大奖",
-          "title_en": null,
-          "title_original": "拆解一下小红书种草大赏三个全场大奖",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/product-operation/1061724.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T02:02:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7409,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T02:02:32Z",
-      "latest_at": "2026-08-20T02:02:32Z",
-      "primary_item": {
-        "id": "bc4804c793a4a9291e28a04d58152d4e51e43ea0",
-        "title": "拆解一下小红书种草大赏三个全场大奖",
-        "title_zh": "拆解一下小红书种草大赏三个全场大奖",
-        "title_en": null,
-        "title_original": "拆解一下小红书种草大赏三个全场大奖",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/product-operation/1061724.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "案例拆解，可提炼种草内容策略，适合小红书创作者参考测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_eaf39713ae16",
-      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-      "url": "https://www.aibase.com/news/30500",
-      "primary_url": "https://www.aibase.com/news/30500",
+      "story_id": "story_7b114e120e12",
+      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+      "url": "https://www.aibase.com/news/30531",
+      "primary_url": "https://www.aibase.com/news/30531",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
           "title_en": null,
-          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "summary": "Kuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nExplore AI Fronti",
-          "recommend_reason_zh": "快手Q2营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破亿覆盖224国，企业客户近5万——一文看懂AI业务如何驱动增长。",
-          "url": "https://www.aibase.com/news/30500",
+          "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "summary": "OpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nOpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nOpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI开源Codex Harness，公开了Codex智能体运行时的Agent Loop、线程生命周期与工具执行等核心框架，开发者可经双向JSON-RPC协议将它集成进自建IDE等客户端。",
+          "url": "https://www.aibase.com/news/30531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T14:48:22.975014Z"
+          "published_at": "2026-08-21T15:44:54.588167Z"
         }
       ],
       "source_count": 1,
@@ -896,18 +723,334 @@
       ],
       "items": [
         {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
           "title_en": null,
-          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "summary": "Kuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nExplore AI Fronti",
-          "recommend_reason_zh": "快手Q2营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破亿覆盖224国，企业客户近5万——一文看懂AI业务如何驱动增长。",
-          "url": "https://www.aibase.com/news/30500",
+          "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "summary": "OpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nOpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nOpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI开源Codex Harness，公开了Codex智能体运行时的Agent Loop、线程生命周期与工具执行等核心框架，开发者可经双向JSON-RPC协议将它集成进自建IDE等客户端。",
+          "url": "https://www.aibase.com/news/30531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T14:48:22.975014Z"
+          "published_at": "2026-08-21T15:44:54.588167Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T15:44:54.588167Z",
+      "latest_at": "2026-08-21T15:44:54.588167Z",
+      "primary_item": {
+        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+        "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+        "title_en": null,
+        "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+        "summary": "OpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nOpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nOpenAI has further opened up the core capabilities of Codex Harness, making the intelligent agent operating framework for different product forms of Codex avail\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI开源Codex Harness，公开了Codex智能体运行时的Agent Loop、线程生命周期与工具执行等核心框架，开发者可经双向JSON-RPC协议将它集成进自建IDE等客户端。",
+        "url": "https://www.aibase.com/news/30531",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "AI编程工具开源，与内容变现无直接关联，除非用于开发自动化工具，否则不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_6330aea85a01",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+          "recommend_reason_zh": "本文宣布Claude Mythos 5现已用于Claude Security，并将集成至合作伙伴的防御工具，同时启动3500万美元基金加固开源软件安全，扩展Cyber Verification Program，展现安全防护新思路。",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        },
+        {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "为更多防御者带来Claude Mythos 5的网络安全能力 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "为更多防御者带来Claude Mythos 5的网络安全能力",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T22:32:08.485000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：Blog（网页）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+          "recommend_reason_zh": "本文宣布Claude Mythos 5现已用于Claude Security，并将集成至合作伙伴的防御工具，同时启动3500万美元基金加固开源软件安全，扩展Cyber Verification Program，展现安全防护新思路。",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        },
+        {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "为更多防御者带来Claude Mythos 5的网络安全能力 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "为更多防御者带来Claude Mythos 5的网络安全能力",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T22:32:08.485000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6476,
+      "importance": 0.6476,
+      "importance_score": 0.6476,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9334,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T17:58:29.461000Z",
+      "latest_at": "2026-08-21T22:32:08.485000Z",
+      "primary_item": {
+        "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+        "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+        "recommend_reason_zh": "本文宣布Claude Mythos 5现已用于Claude Security，并将集成至合作伙伴的防御工具，同时启动3500万美元基金加固开源软件安全，扩展Cyber Verification Program，展现安全防护新思路。",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "泛AI安全能力新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_1942460359a8",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "5ff43635197f7c87ff88b1a4f3d731bc00a56f89",
+          "title": "DeepSeek-v4-flash-vision-exp支持图片描述、截图文字识别与图表分析",
+          "title_zh": "DeepSeek-v4-flash-vision-exp支持图片描述、截图文字识别与图表分析",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T11:49:31.581000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "DeepSeek：API 更新日志",
+        "api-docs.deepseek.com"
+      ],
+      "items": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "5ff43635197f7c87ff88b1a4f3d731bc00a56f89",
+          "title": "DeepSeek-v4-flash-vision-exp支持图片描述、截图文字识别与图表分析",
+          "title_zh": "DeepSeek-v4-flash-vision-exp支持图片描述、截图文字识别与图表分析",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T11:49:31.581000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6461,
+      "importance": 0.6461,
+      "importance_score": 0.6461,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8251,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T09:26:04.727000Z",
+      "latest_at": "2026-08-21T11:49:31.581000Z",
+      "primary_item": {
+        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "模型发布但未提内容生产或变现用途，暂不占注意力，等具体工作流案例。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_776e3d1fe586",
+      "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+      "url": "https://www.aibase.com/news/30529",
+      "primary_url": "https://www.aibase.com/news/30529",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
+          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "title_en": null,
+          "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "summary": "When building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nWhen building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nWhen building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nExplore AI Fronti",
+          "recommend_reason_zh": "Mistral推出Agentic Search，以多步检索循环取代传统RAG的固定文本块抓取，提供五类文件系统级工具，将复杂文档查询准确率提升至86%，值得企业AI团队关注。",
+          "url": "https://www.aibase.com/news/30529",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T14:44:54.588167Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
+          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "title_en": null,
+          "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "summary": "When building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nWhen building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nWhen building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nExplore AI Fronti",
+          "recommend_reason_zh": "Mistral推出Agentic Search，以多步检索循环取代传统RAG的固定文本块抓取，提供五类文件系统级工具，将复杂文档查询准确率提升至86%，值得企业AI团队关注。",
+          "url": "https://www.aibase.com/news/30529",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T14:44:54.588167Z"
         }
       ],
       "item_count": 1,
@@ -929,50 +1072,163 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T14:48:22.975014Z",
-      "latest_at": "2026-08-20T14:48:22.975014Z",
+      "earliest_at": "2026-08-21T14:44:54.588167Z",
+      "latest_at": "2026-08-21T14:44:54.588167Z",
       "primary_item": {
-        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
+        "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+        "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
         "title_en": null,
-        "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "summary": "Kuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nExplore AI Fronti",
-        "recommend_reason_zh": "快手Q2营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破亿覆盖224国，企业客户近5万——一文看懂AI业务如何驱动增长。",
-        "url": "https://www.aibase.com/news/30500",
+        "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+        "summary": "When building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nWhen building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nWhen building AI systems, enterprises often face a pain point: core business data and proprietary knowledge are typically isolated behind lengthy documents, fin\nExplore AI Fronti",
+        "recommend_reason_zh": "Mistral推出Agentic Search，以多步检索循环取代传统RAG的固定文本块抓取，提供五类文件系统级工具，将复杂文档查询准确率提升至86%，值得企业AI团队关注。",
+        "url": "https://www.aibase.com/news/30529",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "平台财报数据，可灵AI商业化增长是信号，但缺具体变现路径，仅作背景参考。",
+      "persona_score": 25,
+      "persona_review": "泛AI技术新闻，未涉及内容生产或变现路径，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     },
     {
-      "story_id": "story_20942fdcc0cb",
-      "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-      "url": "https://www.aibase.com/news/30495",
-      "primary_url": "https://www.aibase.com/news/30495",
+      "story_id": "story_add75f6c3581",
+      "title": "超100万人点击了LinkedIn的AI垃圾按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "6756e72878779c3d928d041573e09c137779388d",
+          "title": "超100万人点击了LinkedIn的AI垃圾按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+          "title_zh": "超100万人点击了LinkedIn的AI垃圾按钮",
+          "title_en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "title_original": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-21T21:25:50Z"
+        },
+        {
+          "id": "cee8a8422106c89004bbabd1be9e97d8fd0902dd",
+          "title": "超过一百万人点击了LinkedIn的AI垃圾按钮 / Over one million people have clicked LinkedIn’s AI slop button",
+          "title_zh": "超过一百万人点击了LinkedIn的AI垃圾按钮",
+          "title_en": "Over one million people have clicked LinkedIn’s AI slop button",
+          "title_original": "Over one million people have clicked LinkedIn’s AI slop button",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T21:25:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "6756e72878779c3d928d041573e09c137779388d",
+          "title": "超100万人点击了LinkedIn的AI垃圾按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+          "title_zh": "超100万人点击了LinkedIn的AI垃圾按钮",
+          "title_en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "title_original": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-21T21:25:50Z"
+        },
+        {
+          "id": "cee8a8422106c89004bbabd1be9e97d8fd0902dd",
+          "title": "超过一百万人点击了LinkedIn的AI垃圾按钮 / Over one million people have clicked LinkedIn’s AI slop button",
+          "title_zh": "超过一百万人点击了LinkedIn的AI垃圾按钮",
+          "title_en": "Over one million people have clicked LinkedIn’s AI slop button",
+          "title_original": "Over one million people have clicked LinkedIn’s AI slop button",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T21:25:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6121,
+      "importance": 0.6121,
+      "importance_score": 0.6121,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9811,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T21:25:50Z",
+      "latest_at": "2026-08-21T21:25:50Z",
+      "primary_item": {
+        "id": "6756e72878779c3d928d041573e09c137779388d",
+        "title": "超100万人点击了LinkedIn的AI垃圾按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+        "title_zh": "超100万人点击了LinkedIn的AI垃圾按钮",
+        "title_en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "title_original": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "平台功能使用数据，与内容变现无直接关联，仅作背景参考。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_561e92e77f55",
+      "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+      "url": "https://www.aibase.com/news/30526",
+      "primary_url": "https://www.aibase.com/news/30526",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
+          "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+          "title_zh": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
           "title_en": null,
-          "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "summary": "OpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nOpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nOpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI升级Codex安全防护，针对误删文件等风险新增路径验证与独立临时目录，修复因错误使用$HOME变量导致的清理误操作，开发者执行代码任务时更安全。",
-          "url": "https://www.aibase.com/news/30495",
+          "title_original": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+          "summary": "SAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nSAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nSAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nExplore AI Fronti",
+          "recommend_reason_zh": "SAP与Team Liquid合作推出AI语音应用，将比赛和训练中的多声道语音自动分离、转录并做情绪分析，生成带时间戳的结构化数据，助力职业战队复盘与策略优化。",
+          "url": "https://www.aibase.com/news/30526",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T11:48:22.975014Z"
+          "published_at": "2026-08-21T14:44:54.588167Z"
         }
       ],
       "source_count": 1,
@@ -981,18 +1237,331 @@
       ],
       "items": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
+          "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+          "title_zh": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
           "title_en": null,
-          "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "summary": "OpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nOpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nOpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI升级Codex安全防护，针对误删文件等风险新增路径验证与独立临时目录，修复因错误使用$HOME变量导致的清理误操作，开发者执行代码任务时更安全。",
-          "url": "https://www.aibase.com/news/30495",
+          "title_original": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+          "summary": "SAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nSAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nSAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nExplore AI Fronti",
+          "recommend_reason_zh": "SAP与Team Liquid合作推出AI语音应用，将比赛和训练中的多声道语音自动分离、转录并做情绪分析，生成带时间戳的结构化数据，助力职业战队复盘与策略优化。",
+          "url": "https://www.aibase.com/news/30526",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T11:48:22.975014Z"
+          "published_at": "2026-08-21T14:44:54.588167Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T14:44:54.588167Z",
+      "latest_at": "2026-08-21T14:44:54.588167Z",
+      "primary_item": {
+        "id": "d6dab1ee27ce17441dd1f90277b18c57b68446c4",
+        "title": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+        "title_zh": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+        "title_en": null,
+        "title_original": "SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析",
+        "summary": "SAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nSAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nSAP has recently collaborated with the professional esports club Team Liquid to develop an AI voice intelligent application, aiming to convert in-game and train\nExplore AI Fronti",
+        "recommend_reason_zh": "SAP与Team Liquid合作推出AI语音应用，将比赛和训练中的多声道语音自动分离、转录并做情绪分析，生成带时间戳的结构化数据，助力职业战队复盘与策略优化。",
+        "url": "https://www.aibase.com/news/30526",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "电竞数据分析与个人创作者变现无关，属泛行业动态，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_2f5672e7bb6d",
+      "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+      "url": "https://www.aibase.com/news/30525",
+      "primary_url": "https://www.aibase.com/news/30525",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
+          "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+          "title_zh": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+          "title_en": null,
+          "title_original": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+          "summary": "Recently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nRecently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nRecently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nExplore AI Fronti",
+          "recommend_reason_zh": "Doubao任务模式大更新，推出技能、连接器与工作伙伴三项功能，目前已有超200个技能和连接器，支持用户自定义技能，并通过Feishu连接器在应用内直接处理任务，避免反复切换页面。",
+          "url": "https://www.aibase.com/news/30525",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T14:44:54.588167Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
+          "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+          "title_zh": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+          "title_en": null,
+          "title_original": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+          "summary": "Recently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nRecently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nRecently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nExplore AI Fronti",
+          "recommend_reason_zh": "Doubao任务模式大更新，推出技能、连接器与工作伙伴三项功能，目前已有超200个技能和连接器，支持用户自定义技能，并通过Feishu连接器在应用内直接处理任务，避免反复切换页面。",
+          "url": "https://www.aibase.com/news/30525",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T14:44:54.588167Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T14:44:54.588167Z",
+      "latest_at": "2026-08-21T14:44:54.588167Z",
+      "primary_item": {
+        "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
+        "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+        "title_zh": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+        "title_en": null,
+        "title_original": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+        "summary": "Recently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nRecently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nRecently, the task mode of Doubao has undergone a major update, with three new features—skills, connectors, and work partners—now launched, further enhancing Do\nExplore AI Fronti",
+        "recommend_reason_zh": "Doubao任务模式大更新，推出技能、连接器与工作伙伴三项功能，目前已有超200个技能和连接器，支持用户自定义技能，并通过Feishu连接器在应用内直接处理任务，避免反复切换页面。",
+        "url": "https://www.aibase.com/news/30525",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "豆包升级为办公平台，新增技能和连接器，可提升内容生产工作流效率，值得测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_b3525f341319",
+      "title": "AI 提升了作业成绩，随后考试成绩却下滑了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+      "primary_url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
+          "title": "AI 提升了作业成绩，随后考试成绩却下滑了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "title_zh": "AI 提升了作业成绩，随后考试成绩却下滑了",
+          "title_en": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "title_original": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:00:00Z"
+        },
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": null,
+          "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI boosted homework scores, then exam scores dropped: Study",
+          "title_original": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:25:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "canews24.online"
+      ],
+      "items": [
+        {
+          "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
+          "title": "AI 提升了作业成绩，随后考试成绩却下滑了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "title_zh": "AI 提升了作业成绩，随后考试成绩却下滑了",
+          "title_en": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "title_original": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:00:00Z"
+        },
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": null,
+          "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI boosted homework scores, then exam scores dropped: Study",
+          "title_original": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:25:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9611,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T15:25:42Z",
+      "latest_at": "2026-08-21T20:00:00Z",
+      "primary_item": {
+        "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
+        "title": "AI 提升了作业成绩，随后考试成绩却下滑了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
+        "title_zh": "AI 提升了作业成绩，随后考试成绩却下滑了",
+        "title_en": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+        "title_original": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "泛教育新闻，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_580a72f5784e",
+      "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+      "url": "https://www.aibase.com/news/30524",
+      "primary_url": "https://www.aibase.com/news/30524",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
+          "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_zh": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_en": null,
+          "title_original": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "summary": "As large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nAs large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nAs large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nExplore AI Fronti",
+          "recommend_reason_zh": "xAI的Grok Build全面上线，支持网页、iOS与Android，订阅用户用自然语言描述想法即可实时生成并运行应用，自7月早期测试以来迭代显著提速。",
+          "url": "https://www.aibase.com/news/30524",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T11:44:54.588167Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
+          "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_zh": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "title_en": null,
+          "title_original": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+          "summary": "As large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nAs large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nAs large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nExplore AI Fronti",
+          "recommend_reason_zh": "xAI的Grok Build全面上线，支持网页、iOS与Android，订阅用户用自然语言描述想法即可实时生成并运行应用，自7月早期测试以来迭代显著提速。",
+          "url": "https://www.aibase.com/news/30524",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T11:44:54.588167Z"
         }
       ],
       "item_count": 1,
@@ -1014,448 +1583,278 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T11:48:22.975014Z",
-      "latest_at": "2026-08-20T11:48:22.975014Z",
+      "earliest_at": "2026-08-21T11:44:54.588167Z",
+      "latest_at": "2026-08-21T11:44:54.588167Z",
       "primary_item": {
-        "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-        "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-        "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "id": "2de5185532d8a7ef7eac44ac381866d91f65b4e8",
+        "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+        "title_zh": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
         "title_en": null,
-        "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-        "summary": "OpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nOpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nOpenAI announced an upgrade to the security system of its AI coding agent Codex, implementing multiple security measures to reduce the risk of potential destruc\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI升级Codex安全防护，针对误删文件等风险新增路径验证与独立临时目录，修复因错误使用$HOME变量导致的清理误操作，开发者执行代码任务时更安全。",
-        "url": "https://www.aibase.com/news/30495",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "安全防护更新，对内容变现无直接帮助，除非涉及自动化交付，暂不测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_796e9c69bcbe",
-      "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-      "url": "https://www.aibase.com/news/30494",
-      "primary_url": "https://www.aibase.com/news/30494",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_en": null,
-          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "summary": "Market research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nMarket research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nMarket research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nExplore AI Fronti",
-          "recommend_reason_zh": "CounterPoint Research新报告预测，2026-2032年全球可穿戴设备累计收入将超1万亿美元，年复合增长12%；其中智能眼镜到2032年收入或达440亿美元，占总额约五分之一，支持通讯、翻译、导航等功能，值得关注。",
-          "url": "https://www.aibase.com/news/30494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T10:48:22.975014Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_en": null,
-          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "summary": "Market research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nMarket research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nMarket research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nExplore AI Fronti",
-          "recommend_reason_zh": "CounterPoint Research新报告预测，2026-2032年全球可穿戴设备累计收入将超1万亿美元，年复合增长12%；其中智能眼镜到2032年收入或达440亿美元，占总额约五分之一，支持通讯、翻译、导航等功能，值得关注。",
-          "url": "https://www.aibase.com/news/30494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T10:48:22.975014Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T10:48:22.975014Z",
-      "latest_at": "2026-08-20T10:48:22.975014Z",
-      "primary_item": {
-        "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-        "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "title_en": null,
-        "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "summary": "Market research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nMarket research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nMarket research firm CounterPoint Research recently released a new forecast report indicating that the cumulative revenue of global consumer wearable devices wi\nExplore AI Fronti",
-        "recommend_reason_zh": "CounterPoint Research新报告预测，2026-2032年全球可穿戴设备累计收入将超1万亿美元，年复合增长12%；其中智能眼镜到2032年收入或达440亿美元，占总额约五分之一，支持通讯、翻译、导航等功能，值得关注。",
-        "url": "https://www.aibase.com/news/30494",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "行业预测，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_82b715fa8ad8",
-      "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-      "url": "https://www.aibase.com/news/30493",
-      "primary_url": "https://www.aibase.com/news/30493",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_en": null,
-          "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "summary": "Meta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nMeta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nMeta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nExplore AI Frontiers",
-          "recommend_reason_zh": "Meta推出Mac版AI助手，支持屏幕共享与跨应用语音输入，能基于屏幕内容提供建议或生成内容，对标Google Gemini、OpenAI ChatGPT等竞品，标志其从问答工具向智能生产力助手转型。",
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T10:48:22.975014Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_en": null,
-          "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "summary": "Meta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nMeta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nMeta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nExplore AI Frontiers",
-          "recommend_reason_zh": "Meta推出Mac版AI助手，支持屏幕共享与跨应用语音输入，能基于屏幕内容提供建议或生成内容，对标Google Gemini、OpenAI ChatGPT等竞品，标志其从问答工具向智能生产力助手转型。",
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T10:48:22.975014Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T10:48:22.975014Z",
-      "latest_at": "2026-08-20T10:48:22.975014Z",
-      "primary_item": {
-        "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-        "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "title_en": null,
-        "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "summary": "Meta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nMeta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nMeta announced the launch of a desktop application for its AI chatbot, further enhancing the application capabilities of Meta AI in productivity scenarios. The\nExplore AI Frontiers",
-        "recommend_reason_zh": "Meta推出Mac版AI助手，支持屏幕共享与跨应用语音输入，能基于屏幕内容提供建议或生成内容，对标Google Gemini、OpenAI ChatGPT等竞品，标志其从问答工具向智能生产力助手转型。",
-        "url": "https://www.aibase.com/news/30493",
+        "title_original": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+        "summary": "As large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nAs large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nAs large models penetrate deeper into the application layer and productivity, the barriers to developing AI-native applications are being completely broken down\nExplore AI Fronti",
+        "recommend_reason_zh": "xAI的Grok Build全面上线，支持网页、iOS与Android，订阅用户用自然语言描述想法即可实时生成并运行应用，自7月早期测试以来迭代显著提速。",
+        "url": "https://www.aibase.com/news/30524",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 35,
-      "persona_review": "工具更新但未提内容变现路径，对创作者直接帮助有限。",
+      "persona_review": "泛AI产品更新，与内容变现无直接关联，暂不占用注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     },
     {
-      "story_id": "story_d343d6dbf0c6",
-      "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-      "url": "https://www.aibase.com/news/30492",
-      "primary_url": "https://www.aibase.com/news/30492",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_634f11907d5e",
+      "title": "我正在变得对人工智能视而不见",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "cymerys.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-          "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "title_zh": "我正在变得对人工智能视而不见",
           "title_en": null,
-          "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "summary": "Recently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nRecently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nRecently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI 首席财务官 Sara Ferial 曝光内部底牌：最迟2027年上市，今年3月已融资1220亿美元，6月秘密递交IPO招股书，对手Anthropic或9月上市，这场AI对决值得关注。",
-          "url": "https://www.aibase.com/news/30492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T10:48:22.975014Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-          "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_en": null,
-          "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "summary": "Recently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nRecently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nRecently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI 首席财务官 Sara Ferial 曝光内部底牌：最迟2027年上市，今年3月已融资1220亿美元，6月秘密递交IPO招股书，对手Anthropic或9月上市，这场AI对决值得关注。",
-          "url": "https://www.aibase.com/news/30492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T10:48:22.975014Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T10:48:22.975014Z",
-      "latest_at": "2026-08-20T10:48:22.975014Z",
-      "primary_item": {
-        "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-        "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "title_en": null,
-        "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "summary": "Recently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nRecently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nRecently, a major announcement about the AI giant OpenAI has sparked widespread attention in the tech industry. At an internal all-hands meeting, OpenAI's Chief\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI 首席财务官 Sara Ferial 曝光内部底牌：最迟2027年上市，今年3月已融资1220亿美元，6月秘密递交IPO招股书，对手Anthropic或9月上市，这场AI对决值得关注。",
-        "url": "https://www.aibase.com/news/30492",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "上市传闻与内容变现无关，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_77a1302ad563",
-      "title": "Show HN: Huzzah – AI 编程的全新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://news.ycombinator.com/item?id=49378768",
-      "primary_url": "https://news.ycombinator.com/item?id=49378768",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "58d5030655071466d34f216ca4cccb4d742365de",
-          "title": "Show HN: Huzzah – AI 编程的全新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN: Huzzah – AI 编程的全新方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
+          "title_original": "我正在变得对人工智能视而不见",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49378768",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T22:50:07.172000Z"
-        },
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_en": null,
-          "title_original": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
+          "published_at": "2026-08-21T16:37:38.437000Z"
         },
         {
-          "id": "d1228089491d21db3f5633bff383b76fa7f9e748",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
+          "id": "0ae14d4d112fdeecba044d1481ea6e1d1fd6c8fd",
+          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
+          "title_zh": "我正在变得对人工智能视而不见",
+          "title_en": "I'm becoming AI-blind",
+          "title_original": "I'm becoming AI-blind",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-20T19:05:36Z"
+          "published_at": "2026-08-21T11:48:05Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.danielvaughn.dev"
+        "cymerys.com"
       ],
       "items": [
         {
-          "id": "58d5030655071466d34f216ca4cccb4d742365de",
-          "title": "Show HN: Huzzah – AI 编程的全新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN: Huzzah – AI 编程的全新方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49378768",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T22:50:07.172000Z"
-        },
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "title_zh": "我正在变得对人工智能视而不见",
           "title_en": null,
-          "title_original": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "title_original": "我正在变得对人工智能视而不见",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
+          "published_at": "2026-08-21T16:37:38.437000Z"
         },
         {
-          "id": "d1228089491d21db3f5633bff383b76fa7f9e748",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-          "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-          "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
+          "id": "0ae14d4d112fdeecba044d1481ea6e1d1fd6c8fd",
+          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
+          "title_zh": "我正在变得对人工智能视而不见",
+          "title_en": "I'm becoming AI-blind",
+          "title_original": "I'm becoming AI-blind",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-20T19:05:36Z"
+          "published_at": "2026-08-21T11:48:05Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5,
+        "recency": 0.9154,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-20T19:05:36Z",
-      "latest_at": "2026-08-20T22:50:07.172000Z",
+      "earliest_at": "2026-08-21T11:48:05Z",
+      "latest_at": "2026-08-21T16:37:38.437000Z",
       "primary_item": {
-        "id": "58d5030655071466d34f216ca4cccb4d742365de",
-        "title": "Show HN: Huzzah – AI 编程的全新方法 / Show HN: Huzzah – a novel approach to coding with AI",
-        "title_zh": "Show HN: Huzzah – AI 编程的全新方法",
-        "title_en": "Show HN: Huzzah – a novel approach to coding with AI",
-        "title_original": "Show HN: Huzzah – a novel approach to coding with AI",
+        "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+        "title": "我正在变得对人工智能视而不见",
+        "title_zh": "我正在变得对人工智能视而不见",
+        "title_en": null,
+        "title_original": "我正在变得对人工智能视而不见",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49378768",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "source": "cymerys.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "AI编程新方法，但未提内容生产或变现路径，暂不测试。",
+      "persona_score": 15,
+      "persona_review": "泛AI体验评论，无内容变现路径或案例，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     },
     {
-      "story_id": "story_5ee4e916b509",
-      "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-      "url": "https://www.aibase.com/news/30489",
-      "primary_url": "https://www.aibase.com/news/30489",
+      "story_id": "story_cb8188eda400",
+      "title": "自托管AI软件工厂：一条提示自动生成并部署应用",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "primary_url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
+          "title": "自托管AI软件工厂：一条提示自动生成并部署应用",
+          "title_zh": "自托管AI软件工厂：一条提示自动生成并部署应用",
+          "title_en": "A self hosted AI software factory",
+          "title_original": "A self hosted AI software factory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:27:52Z"
+        },
+        {
+          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "title": "构建一个（几乎）完全自托管、沙盒化的智能体软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_zh": "构建一个（几乎）完全自托管、沙盒化的智能体软件工厂",
+          "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:27:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
+          "title": "自托管AI软件工厂：一条提示自动生成并部署应用",
+          "title_zh": "自托管AI软件工厂：一条提示自动生成并部署应用",
+          "title_en": "A self hosted AI software factory",
+          "title_original": "A self hosted AI software factory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:27:52Z"
+        },
+        {
+          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "title": "构建一个（几乎）完全自托管、沙盒化的智能体软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_zh": "构建一个（几乎）完全自托管、沙盒化的智能体软件工厂",
+          "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:27:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9133,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T16:27:52Z",
+      "latest_at": "2026-08-21T16:27:52Z",
+      "primary_item": {
+        "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
+        "title": "自托管AI软件工厂：一条提示自动生成并部署应用",
+        "title_zh": "自托管AI软件工厂：一条提示自动生成并部署应用",
+        "title_en": "A self hosted AI software factory",
+        "title_original": "A self hosted AI software factory",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "偏技术自托管方案，未直接关联内容变现或获客，暂不测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T23:04:43.962227Z"
+      }
+    },
+    {
+      "story_id": "story_63917d286fbf",
+      "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+      "url": "https://www.aibase.com/news/30517",
+      "primary_url": "https://www.aibase.com/news/30517",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
-          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+          "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "title_zh": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
           "title_en": null,
-          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30489",
+          "title_original": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "summary": "The demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nExplore AI Frontiers",
+          "recommend_reason_zh": "Micro1成立四年，年化营收8个月从1亿美元飙至5亿美元，净收入预计1.5至2亿，毛利率高达80%至90%，展示AI训练数据市场的爆发力，值得关注。",
+          "url": "https://www.aibase.com/news/30517",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T09:48:22.975014Z"
+          "published_at": "2026-08-21T09:44:54.588167Z"
         }
       ],
       "source_count": 1,
@@ -1464,18 +1863,18 @@
       ],
       "items": [
         {
-          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
-          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+          "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "title_zh": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
           "title_en": null,
-          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30489",
+          "title_original": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "summary": "The demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nExplore AI Frontiers",
+          "recommend_reason_zh": "Micro1成立四年，年化营收8个月从1亿美元飙至5亿美元，净收入预计1.5至2亿，毛利率高达80%至90%，展示AI训练数据市场的爆发力，值得关注。",
+          "url": "https://www.aibase.com/news/30517",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T09:48:22.975014Z"
+          "published_at": "2026-08-21T09:44:54.588167Z"
         }
       ],
       "item_count": 1,
@@ -1497,369 +1896,27 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T09:48:22.975014Z",
-      "latest_at": "2026-08-20T09:48:22.975014Z",
+      "earliest_at": "2026-08-21T09:44:54.588167Z",
+      "latest_at": "2026-08-21T09:44:54.588167Z",
       "primary_item": {
-        "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
-        "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-        "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+        "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+        "title_zh": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
         "title_en": null,
-        "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30489",
+        "title_original": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+        "summary": "The demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nExplore AI Frontiers",
+        "recommend_reason_zh": "Micro1成立四年，年化营收8个月从1亿美元飙至5亿美元，净收入预计1.5至2亿，毛利率高达80%至90%，展示AI训练数据市场的爆发力，值得关注。",
+        "url": "https://www.aibase.com/news/30517",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 25,
-      "persona_review": "融资收购新闻，与内容变现无直接关联，不占注意力。",
+      "persona_review": "泛行业融资数据，与个人创作者变现路径无关，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_cd43b590ecb7",
-      "title": "请不要粘贴AI生成的内容",
-      "url": "https://dontpastetheai.com",
-      "primary_url": "https://dontpastetheai.com",
-      "source": "dontpastetheai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-          "title": "请不要粘贴AI生成的内容",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": null,
-          "title_original": "请不要粘贴AI生成的内容",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dontpastetheai.com",
-          "source": "dontpastetheai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T09:26:10.003000Z"
-        },
-        {
-          "id": "8b7d8cb69ba7e00cf712c09872d3f48ca111d56a",
-          "title": "请不要粘贴AI生成的内容 / Don't paste the AI, please",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": "Don't paste the AI, please",
-          "title_original": "Don't paste the AI, please",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "dontpastetheai.com"
-      ],
-      "items": [
-        {
-          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-          "title": "请不要粘贴AI生成的内容",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": null,
-          "title_original": "请不要粘贴AI生成的内容",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dontpastetheai.com",
-          "source": "dontpastetheai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T09:26:10.003000Z"
-        },
-        {
-          "id": "8b7d8cb69ba7e00cf712c09872d3f48ca111d56a",
-          "title": "请不要粘贴AI生成的内容 / Don't paste the AI, please",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": "Don't paste the AI, please",
-          "title_original": "Don't paste the AI, please",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8244,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T08:20:44Z",
-      "latest_at": "2026-08-20T09:26:10.003000Z",
-      "primary_item": {
-        "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-        "title": "请不要粘贴AI生成的内容",
-        "title_zh": "请不要粘贴AI生成的内容",
-        "title_en": null,
-        "title_original": "请不要粘贴AI生成的内容",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dontpastetheai.com",
-        "source": "dontpastetheai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "泛AI内容质量讨论，无具体变现路径或案例，对创作者收入帮助有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_03b7db85d82e",
-      "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-      "url": "https://github.com/zachahn/vomit",
-      "primary_url": "https://github.com/zachahn/vomit",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
-          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "title_zh": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "title_en": null,
-          "title_original": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/zachahn/vomit",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T18:30:20Z"
-        },
-        {
-          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
-          "title": "使用另一个大型语言模型（LLM）清理Claude5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
-          "title_zh": "使用另一个大型语言模型（LLM）清理Claude5的代币呕吐物",
-          "title_en": "Vomit: Clean up Claude 5's token output with a separate LLM",
-          "title_original": "Vomit: Clean up Claude 5's token output with a separate LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/zachahn/vomit",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T15:26:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
-          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "title_zh": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "title_en": null,
-          "title_original": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/zachahn/vomit",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T18:30:20Z"
-        },
-        {
-          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
-          "title": "使用另一个大型语言模型（LLM）清理Claude5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
-          "title_zh": "使用另一个大型语言模型（LLM）清理Claude5的代币呕吐物",
-          "title_en": "Vomit: Clean up Claude 5's token output with a separate LLM",
-          "title_original": "Vomit: Clean up Claude 5's token output with a separate LLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/zachahn/vomit",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T15:26:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.435,
-      "importance": 0.435,
-      "importance_score": 0.435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9398,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T15:26:02Z",
-      "latest_at": "2026-08-20T18:30:20Z",
-      "primary_item": {
-        "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
-        "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-        "title_zh": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-        "title_en": null,
-        "title_original": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/zachahn/vomit",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "技术向工具，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
-      }
-    },
-    {
-      "story_id": "story_4a57a1875c86",
-      "title": "DiffusionGemma 技术报告",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "primary_url": "https://arxiv.org/abs/2608.00146",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "88bb0113384a0a2e1b4e4348b299cb06f6ea0b5e",
-          "title": "DiffusionGemma 技术报告",
-          "title_zh": "DiffusionGemma 技术报告",
-          "title_en": null,
-          "title_original": "DiffusionGemma 技术报告",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.00146",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T18:14:18.037000Z"
-        },
-        {
-          "id": "33741b0ad204bbf9f8abf0c05863101ab0f5318a",
-          "title": "DiffusionGemma 技术报告 / DiffusionGemma Technical Report",
-          "title_zh": "DiffusionGemma 技术报告",
-          "title_en": "DiffusionGemma Technical Report",
-          "title_original": "DiffusionGemma Technical Report",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.00146",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T13:24:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "88bb0113384a0a2e1b4e4348b299cb06f6ea0b5e",
-          "title": "DiffusionGemma 技术报告",
-          "title_zh": "DiffusionGemma 技术报告",
-          "title_en": null,
-          "title_original": "DiffusionGemma 技术报告",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.00146",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T18:14:18.037000Z"
-        },
-        {
-          "id": "33741b0ad204bbf9f8abf0c05863101ab0f5318a",
-          "title": "DiffusionGemma 技术报告 / DiffusionGemma Technical Report",
-          "title_zh": "DiffusionGemma 技术报告",
-          "title_en": "DiffusionGemma Technical Report",
-          "title_original": "DiffusionGemma Technical Report",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.00146",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T13:24:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4343,
-      "importance": 0.4343,
-      "importance_score": 0.4343,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9362,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T13:24:32Z",
-      "latest_at": "2026-08-20T18:14:18.037000Z",
-      "primary_item": {
-        "id": "88bb0113384a0a2e1b4e4348b299cb06f6ea0b5e",
-        "title": "DiffusionGemma 技术报告",
-        "title_zh": "DiffusionGemma 技术报告",
-        "title_en": null,
-        "title_original": "DiffusionGemma 技术报告",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2608.00146",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "技术报告，无内容生产或变现用途，不占今天注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:04:47.032809Z"
+        "scored_at": "2026-08-21T23:04:43.962227Z"
       }
     }
   ]

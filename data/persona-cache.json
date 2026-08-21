@@ -1,162 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_4960da0a8a33|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "开发者工具更新，与内容创作者变现无直接关联，不占用今日注意力。",
-      "title_hash": "2385d0a6",
-      "scored_at": "2026-07-30T23:37:19.919635Z"
-    },
-    "story_8adecfb05166|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "IDE工具更新，与内容变现无直接关联，不占注意力。",
-      "title_hash": "d9cd5cd3",
-      "scored_at": "2026-07-30T23:37:20.936427Z"
-    },
-    "story_6f833287598b|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "官方更新但未提及内容生产或变现改进，对创作者无直接行动价值。",
-      "title_hash": "aba9bfd8",
-      "scored_at": "2026-07-30T23:37:22.103222Z"
-    },
-    "story_6613dc91bfab|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "泛政治法律新闻，与AI内容变现无直接关联，不占注意力。",
-      "title_hash": "8c09269b",
-      "scored_at": "2026-07-30T23:37:23.179348Z"
-    },
-    "story_1874745eca9c|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "纯技术更新，与AI内容变现无直接关联，不占用注意力。",
-      "title_hash": "94d3e4f3",
-      "scored_at": "2026-07-30T23:37:24.186236Z"
-    },
-    "story_19984c444ae4|pragmatic|ccc085fd": {
-      "score": 42,
-      "review": "官方产品更新，但未直接说明对内容生产或变现的具体改进，行动路径不清晰。",
-      "title_hash": "ecbf4bcb",
-      "scored_at": "2026-07-30T23:37:25.336111Z"
-    },
-    "story_308ff24165b2|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "机器人技术更新，与个人创作者的内容变现无直接关联，不占注意力。",
-      "title_hash": "2dd7d5a3",
-      "scored_at": "2026-07-30T23:37:26.525026Z"
-    },
-    "story_790c059d6976|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "开发者工具更新，与AI内容变现无直接关联，不占用注意力。",
-      "title_hash": "bddc9c60",
-      "scored_at": "2026-07-30T23:37:27.446462Z"
-    },
-    "story_ba2568b4b3aa|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "产品升级新闻，未提及内容变现或创作者收入，与AI自媒体增长无关。",
-      "title_hash": "a5c0b5f5",
-      "scored_at": "2026-07-30T23:37:28.676235Z"
-    },
-    "story_d92303817a35|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "泛AI应用开发内容，与个人创作者内容变现无直接关联，不占注意力。",
-      "title_hash": "9d2de49e",
-      "scored_at": "2026-07-30T23:37:29.794206Z"
-    },
-    "story_4500861bbc86|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "AI产品更新但无内容变现路径，不涉及创作者增长或收入，低优先级。",
-      "title_hash": "114556de",
-      "scored_at": "2026-07-30T23:37:31.005934Z"
-    },
-    "story_3119a40d1542|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "泛技术管理话题，与AI内容变现无直接关联，不占用注意力。",
-      "title_hash": "09505d12",
-      "scored_at": "2026-07-30T23:37:32.035755Z"
-    },
-    "story_1952fed86a09|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "Perplexity产品更新，但未直接关联内容生产或变现，暂不测试。",
-      "title_hash": "d6a4b56f",
-      "scored_at": "2026-07-30T23:37:33.152901Z"
-    },
-    "story_82dd5606b7f5|pragmatic|ccc085fd": {
-      "score": 15,
-      "review": "GitHub企业功能更新，与个人创作者内容变现无直接关联。",
-      "title_hash": "efcc1082",
-      "scored_at": "2026-07-30T23:37:34.342631Z"
-    },
-    "story_daff13293afd|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "纯数学理论突破，与内容变现、视频制作或获客转化无关，不占注意力。",
-      "title_hash": "b8f97a37",
-      "scored_at": "2026-07-30T23:37:35.405818Z"
-    },
-    "story_a314f7fdcee9|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "技术安全事件，与内容变现无直接关联，不占用注意力。",
-      "title_hash": "73ef3eaa",
-      "scored_at": "2026-07-30T23:37:36.400424Z"
-    },
-    "story_dcc00e44fb95|pragmatic|ccc085fd": {
-      "score": 15,
-      "review": "公司纠纷新闻，与个人创作者内容变现无关，不占用注意力。",
-      "title_hash": "9a427392",
-      "scored_at": "2026-07-30T23:37:37.524703Z"
-    },
-    "story_d4e6577f50e6|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "大公司财报，与个人创作者内容变现无关，不占注意力。",
-      "title_hash": "0d1a440b",
-      "scored_at": "2026-07-30T23:37:38.585529Z"
-    },
-    "story_9a2fc20fc216|pragmatic|ccc085fd": {
-      "score": 45,
-      "review": "AI协作工具更新，但未直接关联内容变现或获客，可观察但暂不测试。",
-      "title_hash": "1b7b481a",
-      "scored_at": "2026-07-30T23:37:39.947864Z"
-    },
-    "story_76dcc46b082f|pragmatic|ccc085fd": {
-      "score": 15,
-      "review": "企业收购新闻，与个人创作者内容变现无关，不占用注意力。",
-      "title_hash": "2601f0c3",
-      "scored_at": "2026-07-30T23:37:41.283045Z"
-    },
-    "story_9a2fc20fc216|cynic|f4237a62": {
-      "score": 55,
-      "review": "人机双写？不就是AI协作编辑换个马甲，demo好看但实际体验看运气。",
-      "title_hash": "1b7b481a",
-      "scored_at": "2026-07-30T23:37:42.713502Z"
-    },
-    "story_9a2fc20fc216|paper-police|966065bf": {
-      "score": 8,
-      "review": "只有新闻稿，无论文无代码无评测，无法验证人机双写效果。",
-      "title_hash": "1b7b481a",
-      "scored_at": "2026-07-30T23:37:43.918065Z"
-    },
-    "story_19984c444ae4|cynic|f4237a62": {
-      "score": 65,
-      "review": "价格降了，但性能曲线斜率比PPT还陡，建议把‘前沿’改成‘前缘’。",
-      "title_hash": "ecbf4bcb",
-      "scored_at": "2026-07-30T23:37:45.185320Z"
-    },
-    "story_19984c444ae4|paper-police|966065bf": {
-      "score": 12,
-      "review": "仅有官方博客宣称，无论文无代码无第三方评测，无法验证性价比。",
-      "title_hash": "ecbf4bcb",
-      "scored_at": "2026-07-30T23:37:46.411729Z"
-    },
-    "story_4960da0a8a33|cynic|f4237a62": {
-      "score": 72,
-      "review": "堆叠会话听着唬人，其实就是多标签页，PR集成倒是实用。",
-      "title_hash": "2385d0a6",
-      "scored_at": "2026-07-30T23:37:47.471623Z"
-    },
-    "story_4960da0a8a33|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方博客宣称功能，无论文无代码无评测，待验证。",
-      "title_hash": "2385d0a6",
-      "scored_at": "2026-07-30T23:37:48.654402Z"
-    },
     "story_d85b98c3abe3|pragmatic|ccc085fd": {
       "score": 30,
       "review": "官方宏观愿景声明，无具体变现路径或工具细节，暂不占用行动时间。",
@@ -3024,6 +2868,162 @@
       "review": "官方博客给了细节和数字，但无论文无代码，等第三方复现再定论。",
       "title_hash": "4e22f2c7",
       "scored_at": "2026-08-20T23:05:15.700070Z"
+    },
+    "story_f852499667bc|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "官方工具更新，但面向开发者协作，非内容创作者变现直接路径，可暂缓。",
+      "title_hash": "f844c8fc",
+      "scored_at": "2026-08-21T23:04:45.394934Z"
+    },
+    "story_99aa6c57026b|pragmatic|ccc085fd": {
+      "score": 30,
+      "review": "企业协作工具更新，对个人创作者变现路径不直接，暂不占用注意力。",
+      "title_hash": "c2faf236",
+      "scored_at": "2026-08-21T23:04:46.761752Z"
+    },
+    "story_6b026b4e90dc|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "平台工具更新，与内容变现无直接关联，不占注意力。",
+      "title_hash": "22f9602f",
+      "scored_at": "2026-08-21T23:04:47.985272Z"
+    },
+    "story_3e69e9d70dac|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "大厂内部研发调整，与个人创作者变现无直接关联，不占注意力。",
+      "title_hash": "c4d10510",
+      "scored_at": "2026-08-21T23:04:49.334860Z"
+    },
+    "story_a1a025194e2c|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "纯技术基建更新，不直接改善内容生产或变现路径，低优先级。",
+      "title_hash": "30c571cc",
+      "scored_at": "2026-08-21T23:04:50.547334Z"
+    },
+    "story_530af6e18d4c|pragmatic|ccc085fd": {
+      "score": 45,
+      "review": "硬件新品，与内容变现无直接关联，除非后续有创作者工作流案例，暂不测试。",
+      "title_hash": "0fece306",
+      "scored_at": "2026-08-21T23:04:51.695393Z"
+    },
+    "story_85ec019c932d|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "GitHub功能更新，与AI内容变现无直接关联，不占注意力。",
+      "title_hash": "8c3efd18",
+      "scored_at": "2026-08-21T23:04:52.685592Z"
+    },
+    "story_905b51b78524|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "公司架构调整，与个人创作者变现无直接关联，不占注意力。",
+      "title_hash": "c59918ee",
+      "scored_at": "2026-08-21T23:04:53.883357Z"
+    },
+    "story_7b114e120e12|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "AI编程工具开源，与内容变现无直接关联，除非用于开发自动化工具，否则不占注意力。",
+      "title_hash": "614a7d6a",
+      "scored_at": "2026-08-21T23:04:55.140166Z"
+    },
+    "story_6330aea85a01|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "泛AI安全能力新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "42daabd4",
+      "scored_at": "2026-08-21T23:04:56.249904Z"
+    },
+    "story_1942460359a8|pragmatic|ccc085fd": {
+      "score": 55,
+      "review": "模型发布但未提内容生产或变现用途，暂不占注意力，等具体工作流案例。",
+      "title_hash": "6cd3a0f5",
+      "scored_at": "2026-08-21T23:04:57.494431Z"
+    },
+    "story_776e3d1fe586|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛AI技术新闻，未涉及内容生产或变现路径，不占注意力。",
+      "title_hash": "15c91ae7",
+      "scored_at": "2026-08-21T23:04:58.822375Z"
+    },
+    "story_add75f6c3581|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "平台功能使用数据，与内容变现无直接关联，仅作背景参考。",
+      "title_hash": "a0bf1086",
+      "scored_at": "2026-08-21T23:05:00.622700Z"
+    },
+    "story_561e92e77f55|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "电竞数据分析与个人创作者变现无关，属泛行业动态，不占注意力。",
+      "title_hash": "fe9c7e57",
+      "scored_at": "2026-08-21T23:05:02.453993Z"
+    },
+    "story_2f5672e7bb6d|pragmatic|ccc085fd": {
+      "score": 62,
+      "review": "豆包升级为办公平台，新增技能和连接器，可提升内容生产工作流效率，值得测试。",
+      "title_hash": "20aad83e",
+      "scored_at": "2026-08-21T23:05:04.557089Z"
+    },
+    "story_b3525f341319|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "泛教育新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "938c6229",
+      "scored_at": "2026-08-21T23:05:06.308532Z"
+    },
+    "story_580a72f5784e|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "泛AI产品更新，与内容变现无直接关联，暂不占用注意力。",
+      "title_hash": "852837ab",
+      "scored_at": "2026-08-21T23:05:08.162821Z"
+    },
+    "story_634f11907d5e|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "泛AI体验评论，无内容变现路径或案例，不占注意力。",
+      "title_hash": "c7fadb9d",
+      "scored_at": "2026-08-21T23:05:10.148540Z"
+    },
+    "story_cb8188eda400|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "偏技术自托管方案，未直接关联内容变现或获客，暂不测试。",
+      "title_hash": "4bd96175",
+      "scored_at": "2026-08-21T23:05:11.845455Z"
+    },
+    "story_63917d286fbf|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "泛行业融资数据，与个人创作者变现路径无关，不占注意力。",
+      "title_hash": "9a9c245b",
+      "scored_at": "2026-08-21T23:05:13.381849Z"
+    },
+    "story_2f5672e7bb6d|cynic|f4237a62": {
+      "score": 55,
+      "review": "技能和连接器听着像把旧功能重新包装，工作伙伴是PPT还是真能干活？",
+      "title_hash": "20aad83e",
+      "scored_at": "2026-08-21T23:05:15.119609Z"
+    },
+    "story_2f5672e7bb6d|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方发布功能但无论文代码，性能无第三方验证，仅算产品公告。",
+      "title_hash": "20aad83e",
+      "scored_at": "2026-08-21T23:05:16.918618Z"
+    },
+    "story_1942460359a8|cynic|f4237a62": {
+      "score": 72,
+      "review": "名字越长水分越多，但至少真发了API，能跑起来就算数。",
+      "title_hash": "6cd3a0f5",
+      "scored_at": "2026-08-21T23:05:18.645915Z"
+    },
+    "story_1942460359a8|paper-police|966065bf": {
+      "score": 0,
+      "review": "仅更新日志提及，无论文无代码无评测，查无实据。",
+      "title_hash": "6cd3a0f5",
+      "scored_at": "2026-08-21T23:05:20.199683Z"
+    },
+    "story_f852499667bc|cynic|f4237a62": {
+      "score": 70,
+      "review": "Copilot进Slack算实用，但别吹成革命，聊天里写代码早不新鲜。",
+      "title_hash": "f844c8fc",
+      "scored_at": "2026-08-21T23:05:21.730409Z"
+    },
+    "story_f852499667bc|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方博客宣称新体验，无技术细节无代码无评测，仅凭 changelog 难证实力。",
+      "title_hash": "f844c8fc",
+      "scored_at": "2026-08-21T23:05:23.210589Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:05:15.700132Z",
+  "generated_at": "2026-08-21T23:05:23.210649Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_68a4cbd67e6a",
-      "title": "拆解一下小红书种草大赏三个全场大奖",
-      "url": "https://www.yunyingpai.com/product-operation/1061724.html",
+      "story_id": "story_2f5672e7bb6d",
+      "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+      "url": "https://www.aibase.com/news/30525",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "拆解三个案例就敢称大赏，样本量小得可怜，水分得挤挤。"
+          "score": 55,
+          "review": "技能和连接器听着像把旧功能重新包装，工作伙伴是PPT还是真能干活？"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有营销案例分析，无论文无代码无数据，无法验证其方法论有效性。"
+          "score": 30,
+          "review": "官方发布功能但无论文代码，性能无第三方验证，仅算产品公告。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "案例拆解，可提炼种草内容策略，适合小红书创作者参考测试。"
+          "score": 62,
+          "review": "豆包升级为办公平台，新增技能和连接器，可提升内容生产工作流效率，值得测试。"
         }
       }
     },
     {
-      "story_id": "story_eaf39713ae16",
-      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-      "url": "https://www.aibase.com/news/30500",
+      "story_id": "story_1942460359a8",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "营收数字硬，但可灵AI的200%增长基数小，别急着封神。"
+          "score": 72,
+          "review": "名字越长水分越多，但至少真发了API，能跑起来就算数。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "营收数字来自财报，但可灵AI商业化收入增长超200%缺乏技术细节和独立验证。"
+          "score": 0,
+          "review": "仅更新日志提及，无论文无代码无评测，查无实据。"
         },
         "pragmatic": {
           "score": 55,
-          "review": "平台财报数据，可灵AI商业化增长是信号，但缺具体变现路径，仅作背景参考。"
+          "review": "模型发布但未提内容生产或变现用途，暂不占注意力，等具体工作流案例。"
         }
       }
     },
     {
-      "story_id": "story_a4fea9f5c87a",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-      "url": "https://mistral.ai/news/agentic-search",
+      "story_id": "story_f852499667bc",
+      "title": "GitHub Copilot 在 Slack 中的全新体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "多步检索是实打实的进步，但'复杂文档'的基准没晒，水分得自己挤。"
+          "score": 70,
+          "review": "Copilot进Slack算实用，但别吹成革命，聊天里写代码早不新鲜。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了细节和数字，但无论文无代码，等第三方复现再定论。"
+          "score": 35,
+          "review": "官方博客宣称新体验，无技术细节无代码无评测，仅凭 changelog 难证实力。"
         },
         "pragmatic": {
           "score": 45,
-          "review": "官方工具更新，但未直接展示内容变现路径，需观察实际应用案例。"
+          "review": "官方工具更新，但面向开发者协作，非内容创作者变现直接路径，可暂缓。"
         }
       }
     }
