@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:05:23.210649Z",
+  "generated_at": "2026-08-22T23:02:51.601046Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_2f5672e7bb6d",
-      "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
-      "url": "https://www.aibase.com/news/30525",
+      "story_id": "story_581a82f8f059",
+      "title": "小红书大字报笔记正在替代达人笔记",
+      "url": "https://www.yunyingpai.com/news/1061758.html",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "技能和连接器听着像把旧功能重新包装，工作伙伴是PPT还是真能干活？"
+          "review": "大字报笔记能火，说明平台算法比用户更爱标题党，内容质量先放一边。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方发布功能但无论文代码，性能无第三方验证，仅算产品公告。"
+          "score": 20,
+          "review": "只有运营派一篇行业观察，无数据无案例，属自媒体观点，证据薄弱。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "豆包升级为办公平台，新增技能和连接器，可提升内容生产工作流效率，值得测试。"
+          "score": 72,
+          "review": "行业动态，指出小红书内容形式变化，可测试大字报笔记的流量和转化效果。"
         }
       }
     },
     {
-      "story_id": "story_1942460359a8",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "story_id": "story_ce8fd18a4317",
+      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "名字越长水分越多，但至少真发了API，能跑起来就算数。"
+          "score": 55,
+          "review": "A/B测试藏着掖着，怕不是怕用户发现工作量没降多少。"
         },
         "paper-police": {
-          "score": 0,
-          "review": "仅更新日志提及，无论文无代码无评测，查无实据。"
+          "score": 10,
+          "review": "推特爆料无数据无复现，A/B测试细节全无，只能算传闻。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "模型发布但未提内容生产或变现用途，暂不占注意力，等具体工作流案例。"
+          "score": 35,
+          "review": "工具更新但未涉及变现路径，对创作者收入无直接帮助，暂不测试。"
         }
       }
     },
     {
-      "story_id": "story_f852499667bc",
-      "title": "GitHub Copilot 在 Slack 中的全新体验 / The new GitHub Copilot experience in Slack",
-      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "story_id": "story_ede39af7c879",
+      "title": "MCP发布新路线图 聚焦五大优先领域",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "Copilot进Slack算实用，但别吹成革命，聊天里写代码早不新鲜。"
+          "score": 62,
+          "review": "路线图画得挺圆，五大领域听着唬人，先拿出一个能落地的再说。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称新体验，无技术细节无代码无评测，仅凭 changelog 难证实力。"
+          "score": 20,
+          "review": "官方博客画饼，无论文无代码无评测，路线图不等于成果。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "官方工具更新，但面向开发者协作，非内容创作者变现直接路径，可暂缓。"
+          "score": 25,
+          "review": "泛技术路线图，与内容变现无直接关联，不占注意力。"
         }
       }
     }
