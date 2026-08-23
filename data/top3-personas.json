@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:02:51.601046Z",
+  "generated_at": "2026-08-23T23:07:59.345459Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_581a82f8f059",
-      "title": "小红书大字报笔记正在替代达人笔记",
-      "url": "https://www.yunyingpai.com/news/1061758.html",
+      "story_id": "story_e1c4bdda1c5d",
+      "title": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel / How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
+      "url": "https://creatoreconomy.so/p/how-to-build-better-ai-evals-with-claude-code-shreya-hamel",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "大字报笔记能火，说明平台算法比用户更爱标题党，内容质量先放一边。"
+          "review": "五步就能建好评测？先晒出你的评测集和基线再谈。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有运营派一篇行业观察，无数据无案例，属自媒体观点，证据薄弱。"
+          "score": 35,
+          "review": "只有博客标题和摘要，无论文代码或评测数据，方法论细节待验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "行业动态，指出小红书内容形式变化，可测试大字报笔记的流量和转化效果。"
+          "score": 35,
+          "review": "AI评测方法偏技术，与内容变现无直接关联，除非用于优化内容生产流程，否则不占注意力。"
         }
       }
     },
     {
-      "story_id": "story_ce8fd18a4317",
-      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "story_id": "story_6f10fd227f6b",
+      "title": "用代码训练AI作画 / Training AI to Paint with Code",
+      "url": "https://news.ycombinator.com/item?id=49411800",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "A/B测试藏着掖着，怕不是怕用户发现工作量没降多少。"
+          "review": "标题像教程，内容怕是又拿现成模型套壳，代码呢？"
         },
         "paper-police": {
-          "score": 10,
-          "review": "推特爆料无数据无复现，A/B测试细节全无，只能算传闻。"
+          "score": 20,
+          "review": "只有标题和链接，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
           "score": 35,
-          "review": "工具更新但未涉及变现路径，对创作者收入无直接帮助，暂不测试。"
+          "review": "泛技术教程，未涉及内容变现路径，对创作者帮助有限。"
         }
       }
     },
     {
-      "story_id": "story_ede39af7c879",
-      "title": "MCP发布新路线图 聚焦五大优先领域",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "story_id": "story_40d699f454ea",
+      "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
+      "url": "https://news.ycombinator.com/item?id=49410932",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "路线图画得挺圆，五大领域听着唬人，先拿出一个能落地的再说。"
+          "score": 72,
+          "review": "把提示词写进文件就叫方法论？至少比空谈强，但离'提升质量'还差个验证。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方博客画饼，无论文无代码无评测，路线图不等于成果。"
+          "score": 25,
+          "review": "只有博客经验谈，无代码无评测，无法验证效果。"
         },
         "pragmatic": {
           "score": 25,
-          "review": "泛技术路线图，与内容变现无直接关联，不占注意力。"
+          "review": "技术写作技巧，与内容变现无直接关联，不占注意力。"
         }
       }
     }

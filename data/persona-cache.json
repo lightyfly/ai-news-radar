@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_10739ae4d797|pragmatic|ccc085fd": {
-      "score": 20,
-      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
-      "title_hash": "c1ef9263",
-      "scored_at": "2026-08-01T23:31:50.180221Z"
-    },
-    "story_e2eeec323e5b|pragmatic|ccc085fd": {
-      "score": 45,
-      "review": "行业法律动态，影响AI音乐工具合规性，但短期无直接变现路径，可留意后续。",
-      "title_hash": "beade55b",
-      "scored_at": "2026-08-01T23:31:51.505885Z"
-    },
-    "story_5f7b5ebc21a9|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "技术突破但无内容变现路径，对创作者无直接帮助。",
-      "title_hash": "b9280565",
-      "scored_at": "2026-08-01T23:31:52.775997Z"
-    },
-    "story_8c9e60cd6b83|pragmatic|ccc085fd": {
-      "score": 15,
-      "review": "泛技术安全新闻，与内容变现无直接关联，不占注意力。",
-      "title_hash": "f2e722b5",
-      "scored_at": "2026-08-01T23:31:54.328343Z"
-    },
-    "story_d1e0cd7477c4|pragmatic|ccc085fd": {
-      "score": 18,
-      "review": "泛AI批判观点，无具体变现路径或案例，不占注意力。",
-      "title_hash": "11e5e1df",
-      "scored_at": "2026-08-01T23:31:55.408675Z"
-    },
-    "story_40fa12abd4dd|pragmatic|ccc085fd": {
-      "score": 15,
-      "review": "个人写作偏好声明，无内容变现方法或工具，与AI变现关联弱。",
-      "title_hash": "1fb673f8",
-      "scored_at": "2026-08-01T23:31:56.734265Z"
-    },
-    "story_817116dbd893|pragmatic|ccc085fd": {
-      "score": 45,
-      "review": "工具成本信息变化，影响AI接单报价核算，值得关注但非直接变现机会。",
-      "title_hash": "221b92bb",
-      "scored_at": "2026-08-01T23:31:58.112137Z"
-    },
-    "story_38cfb64c6a71|pragmatic|ccc085fd": {
-      "score": 30,
-      "review": "泛AI技术评论，未涉及具体变现路径或工具，对创作者帮助有限。",
-      "title_hash": "b67d9c75",
-      "scored_at": "2026-08-01T23:31:59.388483Z"
-    },
-    "story_394f1b3fc7fd|pragmatic|ccc085fd": {
-      "score": 25,
-      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
-      "title_hash": "db3851bc",
-      "scored_at": "2026-08-01T23:32:00.521909Z"
-    },
-    "story_03b9f05044c9|pragmatic|ccc085fd": {
-      "score": 25,
-      "review": "泛AI技术新闻，与内容变现无直接关联，不占注意力。",
-      "title_hash": "a26059df",
-      "scored_at": "2026-08-01T23:32:01.762348Z"
-    },
-    "story_e2eeec323e5b|cynic|f4237a62": {
-      "score": 72,
-      "review": "法院判得对，但Suno训练数据来源早该自查，现在才挨打算晚的。",
-      "title_hash": "beade55b",
-      "scored_at": "2026-08-01T23:32:03.288811Z"
-    },
-    "story_e2eeec323e5b|paper-police|966065bf": {
-      "score": 35,
-      "review": "仅有媒体报道，无判决书原文或法律分析，证据不足。",
-      "title_hash": "beade55b",
-      "scored_at": "2026-08-01T23:32:04.899653Z"
-    },
-    "story_817116dbd893|cynic|f4237a62": {
-      "score": 35,
-      "review": "删成本数据是怕用户算账？透明度先降级，再谈信任。",
-      "title_hash": "221b92bb",
-      "scored_at": "2026-08-01T23:32:06.828117Z"
-    },
-    "story_817116dbd893|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅论坛与HN讨论，无官方公告或文档，成本信息移除细节待证实。",
-      "title_hash": "221b92bb",
-      "scored_at": "2026-08-01T23:32:08.226493Z"
-    },
-    "story_38cfb64c6a71|cynic|f4237a62": {
-      "score": 72,
-      "review": "标题是常识，但正文没给硬数据，七分真三分吹。",
-      "title_hash": "b67d9c75",
-      "scored_at": "2026-08-01T23:32:13.370099Z"
-    },
-    "story_38cfb64c6a71|paper-police|966065bf": {
-      "score": 20,
-      "review": "观点文章无数据支撑，仅个人论断，缺论文代码和评测。",
-      "title_hash": "b67d9c75",
-      "scored_at": "2026-08-01T23:32:15.154928Z"
-    },
     "story_b38530d36a8f|pragmatic|ccc085fd": {
       "score": 72,
       "review": "案例：3.6万订阅者内容机器，有规模但缺具体变现路径，可测试其工作流。",
@@ -2928,6 +2832,90 @@
       "review": "官方博客画饼，无论文无代码无评测，路线图不等于成果。",
       "title_hash": "4038d2b5",
       "scored_at": "2026-08-22T23:02:51.600992Z"
+    },
+    "story_e1c4bdda1c5d|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "AI评测方法偏技术，与内容变现无直接关联，除非用于优化内容生产流程，否则不占注意力。",
+      "title_hash": "f62afc79",
+      "scored_at": "2026-08-23T23:07:43.728883Z"
+    },
+    "story_e76d4359eb9a|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "宏观安全警告，无直接变现路径，不占注意力。",
+      "title_hash": "7a57ddc7",
+      "scored_at": "2026-08-23T23:07:45.040126Z"
+    },
+    "story_fa8a07601060|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "AI安全事件，与内容变现无直接关联，不占注意力。",
+      "title_hash": "9651b7a4",
+      "scored_at": "2026-08-23T23:07:46.406575Z"
+    },
+    "story_674b087cecd1|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "宏观就业评论，与内容变现无直接关联，不占注意力。",
+      "title_hash": "552eecea",
+      "scored_at": "2026-08-23T23:07:47.406409Z"
+    },
+    "story_6f10fd227f6b|pragmatic|ccc085fd": {
+      "score": 35,
+      "review": "泛技术教程，未涉及内容变现路径，对创作者帮助有限。",
+      "title_hash": "503e9a62",
+      "scored_at": "2026-08-23T23:07:48.759213Z"
+    },
+    "story_de869c952dfe|pragmatic|ccc085fd": {
+      "score": 18,
+      "review": "芯片技术新闻，与内容变现无直接关联，不占注意力。",
+      "title_hash": "02890d83",
+      "scored_at": "2026-08-23T23:07:49.713822Z"
+    },
+    "story_40d699f454ea|pragmatic|ccc085fd": {
+      "score": 25,
+      "review": "技术写作技巧，与内容变现无直接关联，不占注意力。",
+      "title_hash": "3702267d",
+      "scored_at": "2026-08-23T23:07:50.939585Z"
+    },
+    "story_87449c42d39a|pragmatic|ccc085fd": {
+      "score": 15,
+      "review": "泛技术统计预测，与内容变现无直接关联，不占注意力。",
+      "title_hash": "a4db9248",
+      "scored_at": "2026-08-23T23:07:52.032884Z"
+    },
+    "story_e1c4bdda1c5d|cynic|f4237a62": {
+      "score": 55,
+      "review": "五步就能建好评测？先晒出你的评测集和基线再谈。",
+      "title_hash": "f62afc79",
+      "scored_at": "2026-08-23T23:07:53.446272Z"
+    },
+    "story_e1c4bdda1c5d|paper-police|966065bf": {
+      "score": 35,
+      "review": "只有博客标题和摘要，无论文代码或评测数据，方法论细节待验证。",
+      "title_hash": "f62afc79",
+      "scored_at": "2026-08-23T23:07:54.750394Z"
+    },
+    "story_6f10fd227f6b|cynic|f4237a62": {
+      "score": 55,
+      "review": "标题像教程，内容怕是又拿现成模型套壳，代码呢？",
+      "title_hash": "503e9a62",
+      "scored_at": "2026-08-23T23:07:55.787128Z"
+    },
+    "story_6f10fd227f6b|paper-police|966065bf": {
+      "score": 20,
+      "review": "只有标题和链接，无论文无代码无评测，证据不足。",
+      "title_hash": "503e9a62",
+      "scored_at": "2026-08-23T23:07:56.918098Z"
+    },
+    "story_40d699f454ea|cynic|f4237a62": {
+      "score": 72,
+      "review": "把提示词写进文件就叫方法论？至少比空谈强，但离'提升质量'还差个验证。",
+      "title_hash": "3702267d",
+      "scored_at": "2026-08-23T23:07:58.298166Z"
+    },
+    "story_40d699f454ea|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有博客经验谈，无代码无评测，无法验证效果。",
+      "title_hash": "3702267d",
+      "scored_at": "2026-08-23T23:07:59.345411Z"
     }
   }
 }
