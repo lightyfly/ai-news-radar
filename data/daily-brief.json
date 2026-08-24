@@ -1,64 +1,354 @@
 {
-  "generated_at": "2026-08-23T22:41:41.296136Z",
+  "generated_at": "2026-08-24T22:47:17.361844Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 16,
   "items": [
     {
-      "story_id": "story_e1c4bdda1c5d",
-      "title": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel / How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-      "url": "https://creatoreconomy.so/p/how-to-build-better-ai-evals-with-claude-code-shreya-hamel",
-      "primary_url": "https://creatoreconomy.so/p/how-to-build-better-ai-evals-with-claude-code-shreya-hamel",
-      "source": "Creator Science",
-      "source_name": "OPML RSS",
+      "story_id": "story_35aa593beb9e",
+      "title": "Codex MCP server 命令已被弃用 / Codex MCP server command deprecated",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "402a0df06823eda8f847133a578b0b3af526f6fb",
-          "title": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel / How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-          "title_zh": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel",
-          "title_en": "How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-          "title_original": "How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-          "summary": "Watch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something new. Plus, their new free skill to build evals in Claude Code.\nWatch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something new. Plus, their new free skill to build evals in Claude Code.\nWatch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something ne",
-          "recommend_reason_zh": "Shreya和Hamel现场审计作者自建评测，指出其缺少bottom-up evals，并演示免费Error Discovery skill在Claude Code中将失败案例转化为可复用评测的5步方法。",
-          "url": "https://creatoreconomy.so/p/how-to-build-better-ai-evals-with-claude-code-shreya-hamel",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-23T14:03:00Z"
+          "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
+          "title": "Codex MCP server 命令已被弃用 / Codex MCP server command deprecated",
+          "title_zh": "Codex MCP server 命令已被弃用",
+          "title_en": "Codex MCP server command deprecated",
+          "title_original": "Codex MCP server command deprecated",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nThe codex mcp-server command is now deprecated. Use the Codex app\nserver instead. To use Codex from Claude Code, use the Codex\nplugin for Claude Code .\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s availabl",
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Creator Science"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "402a0df06823eda8f847133a578b0b3af526f6fb",
-          "title": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel / How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-          "title_zh": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel",
-          "title_en": "How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-          "title_original": "How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-          "summary": "Watch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something new. Plus, their new free skill to build evals in Claude Code.\nWatch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something new. Plus, their new free skill to build evals in Claude Code.\nWatch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something ne",
-          "recommend_reason_zh": "Shreya和Hamel现场审计作者自建评测，指出其缺少bottom-up evals，并演示免费Error Discovery skill在Claude Code中将失败案例转化为可复用评测的5步方法。",
-          "url": "https://creatoreconomy.so/p/how-to-build-better-ai-evals-with-claude-code-shreya-hamel",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-23T14:03:00Z"
+          "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
+          "title": "Codex MCP server 命令已被弃用 / Codex MCP server command deprecated",
+          "title_zh": "Codex MCP server 命令已被弃用",
+          "title_en": "Codex MCP server command deprecated",
+          "title_original": "Codex MCP server command deprecated",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nThe codex mcp-server command is now deprecated. Use the Codex app\nserver instead. To use Codex from Claude Code, use the Codex\nplugin for Claude Code .\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s availabl",
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7196,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T00:00:00Z",
+      "latest_at": "2026-08-24T00:00:00Z",
+      "primary_item": {
+        "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
+        "title": "Codex MCP server 命令已被弃用 / Codex MCP server command deprecated",
+        "title_zh": "Codex MCP server 命令已被弃用",
+        "title_en": "Codex MCP server command deprecated",
+        "title_original": "Codex MCP server command deprecated",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nThe codex mcp-server command is now deprecated. Use the Codex app\nserver instead. To use Codex from Claude Code, use the Codex\nplugin for Claude Code .\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s availabl",
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "工具弃用通知，对内容变现无直接帮助，除非你正用Codex做自动化，否则不值得关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_a31e711ee9db",
+      "title": "Codex CLI 0.149.1 命令行工具 / Codex CLI 0.149.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1 命令行工具 / Codex CLI 0.149.1",
+          "title_zh": "Codex CLI 0.149.1 命令行工具",
+          "title_en": "Codex CLI 0.149.1",
+          "title_original": "Codex CLI 0.149.1",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nThe codex mcp-server command is now deprecated. Use the Codex app\nserver instead. To use Codex from Claude Code, use the Codex\nplugin for Claude Code .\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s availabl",
+          "recommend_reason_zh": "Codex CLI 0.149.1弃用codex mcp-server命令，新增Apple Messages插件、Site共同编辑与URL编辑，GitLab集成进入beta，并提供共享线程快照和统一置顶线程。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1 命令行工具 / Codex CLI 0.149.1",
+          "title_zh": "Codex CLI 0.149.1 命令行工具",
+          "title_en": "Codex CLI 0.149.1",
+          "title_original": "Codex CLI 0.149.1",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nThe codex mcp-server command is now deprecated. Use the Codex app\nserver instead. To use Codex from Claude Code, use the Codex\nplugin for Claude Code .\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s availabl",
+          "recommend_reason_zh": "Codex CLI 0.149.1弃用codex mcp-server命令，新增Apple Messages插件、Site共同编辑与URL编辑，GitLab集成进入beta，并提供共享线程快照和统一置顶线程。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7196,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T00:00:00Z",
+      "latest_at": "2026-08-24T00:00:00Z",
+      "primary_item": {
+        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+        "title": "Codex CLI 0.149.1 命令行工具 / Codex CLI 0.149.1",
+        "title_zh": "Codex CLI 0.149.1 命令行工具",
+        "title_en": "Codex CLI 0.149.1",
+        "title_original": "Codex CLI 0.149.1",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nThe codex mcp-server command is now deprecated. Use the Codex app\nserver instead. To use Codex from Claude Code, use the Codex\nplugin for Claude Code .\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s availabl",
+        "recommend_reason_zh": "Codex CLI 0.149.1弃用codex mcp-server命令，新增Apple Messages插件、Site共同编辑与URL编辑，GitLab集成进入beta，并提供共享线程快照和统一置顶线程。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "官方工具更新，但未说明对内容生产或变现的具体改进，建议先看变更日志再决定是否测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_929ed190248c",
+      "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+          "recommend_reason_zh": "这篇文章探访OpenAI前沿实验室，讲述其如何推动AI agents从服务于软件工程师走向普通大众，并思考是否所有人都能真正用上这些智能体。",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-24T15:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+          "recommend_reason_zh": "这篇文章探访OpenAI前沿实验室，讲述其如何推动AI agents从服务于软件工程师走向普通大众，并思考是否所有人都能真正用上这些智能体。",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-24T15:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6048,
-        "source_tier": 0.5,
-        "ai_relevance": 0.84,
-        "recency": 0.8826,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8936,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T15:00:00Z",
+      "latest_at": "2026-08-24T15:00:00Z",
+      "primary_item": {
+        "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+        "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+        "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+        "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
+        "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
+        "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+        "recommend_reason_zh": "这篇文章探访OpenAI前沿实验室，讲述其如何推动AI agents从服务于软件工程师走向普通大众，并思考是否所有人都能真正用上这些智能体。",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "泛AI智能体新闻，未提内容变现路径，对创作者增收无直接帮助。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_c841c6b2a5f3",
+      "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+      "url": "https://www.aibase.com/news/30576",
+      "primary_url": "https://www.aibase.com/news/30576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "title_en": null,
+          "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "summary": "On August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nOn August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nOn August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nExplore AI Fronti",
+          "recommend_reason_zh": "字节完成AI办公产品整合，TRAE与Coze团队并入豆包体系，TRAE Work和Coze产品能力融入豆包，TRAE IDE及CLI保留为编程产品线，相关团队向豆包产品负责人赵琦汇报，资源集中信号明确。",
+          "url": "https://www.aibase.com/news/30576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T16:47:17.361844Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "title_en": null,
+          "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "summary": "On August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nOn August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nOn August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nExplore AI Fronti",
+          "recommend_reason_zh": "字节完成AI办公产品整合，TRAE与Coze团队并入豆包体系，TRAE Work和Coze产品能力融入豆包，TRAE IDE及CLI保留为编程产品线，相关团队向豆包产品负责人赵琦汇报，资源集中信号明确。",
+          "url": "https://www.aibase.com/news/30576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T16:47:17.361844Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
         "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
+        "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
@@ -66,83 +356,169 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-23T14:03:00Z",
-      "latest_at": "2026-08-23T14:03:00Z",
+      "earliest_at": "2026-08-24T16:47:17.361844Z",
+      "latest_at": "2026-08-24T16:47:17.361844Z",
       "primary_item": {
-        "id": "402a0df06823eda8f847133a578b0b3af526f6fb",
-        "title": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel / How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-        "title_zh": "如何分5步用Claude Code构建更好的AI评测 | Shreya & Hamel",
-        "title_en": "How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-        "title_original": "How to Build Better AI Evals with Claude Code in 5 Steps | Shreya & Hamel",
-        "summary": "Watch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something new. Plus, their new free skill to build evals in Claude Code.\nWatch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something new. Plus, their new free skill to build evals in Claude Code.\nWatch my favorite eval experts do a live audit of the evals that I built for my skills and I promise you’ll learn something ne",
-        "recommend_reason_zh": "Shreya和Hamel现场审计作者自建评测，指出其缺少bottom-up evals，并演示免费Error Discovery skill在Claude Code中将失败案例转化为可复用评测的5步方法。",
-        "url": "https://creatoreconomy.so/p/how-to-build-better-ai-evals-with-claude-code-shreya-hamel",
-        "source": "Creator Science",
-        "source_name": "OPML RSS"
+        "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+        "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+        "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+        "title_en": null,
+        "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+        "summary": "On August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nOn August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nOn August 24, according to media reports, ByteDance has completed the team integration of its AI office products. The TRAE and Coze (Coze) teams will be fully i\nExplore AI Fronti",
+        "recommend_reason_zh": "字节完成AI办公产品整合，TRAE与Coze团队并入豆包体系，TRAE Work和Coze产品能力融入豆包，TRAE IDE及CLI保留为编程产品线，相关团队向豆包产品负责人赵琦汇报，资源集中信号明确。",
+        "url": "https://www.aibase.com/news/30576",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "AI评测方法偏技术，与内容变现无直接关联，除非用于优化内容生产流程，否则不占注意力。",
+      "persona_score": 45,
+      "persona_review": "大厂组织调整，短期看不到对个人创作者变现的直接路径，先观望。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
+        "scored_at": "2026-08-24T23:08:59.101874Z"
       }
     },
     {
-      "story_id": "story_e76d4359eb9a",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://www.ithome.com/0/993/305.htm",
-      "primary_url": "https://www.ithome.com/0/993/305.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_23b9168d3a9a",
+      "title": "借助Kiro中的GPT-5.6，为开发者提升性价比 / Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "primary_url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_en": null,
-          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-          "recommend_reason_zh": "OpenAI 首席全球事务官勒汉恩警告前沿 AI 已能规划复杂网络攻击，7 月智能体曾入侵 Hugging Face，公司已暂停部分模型训练，值得关注。",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
+          "id": "d6a16709bd08b5629faf4d578fa519178f6f9658",
+          "title": "借助Kiro中的GPT-5.6，为开发者提升性价比 / Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "title_zh": "借助Kiro中的GPT-5.6，为开发者提升性价比",
+          "title_en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "title_original": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nGPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nGPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nAugust 24, 2026\nT he GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and ",
+          "recommend_reason_zh": "本文介绍GPT-5.6登陆Kiro，包含Sol、Terra、Luna三款模型，并披露OpenAI与AWS合作优化后，GPT-5.6 Terra在Terminal-Bench 2.1上完成任务成本降低约82%，值得开发者关注。",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_en": null,
-          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-          "recommend_reason_zh": "OpenAI 首席全球事务官勒汉恩警告前沿 AI 已能规划复杂网络攻击，7 月智能体曾入侵 Hugging Face，公司已暂停部分模型训练，值得关注。",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
+          "id": "d6a16709bd08b5629faf4d578fa519178f6f9658",
+          "title": "借助Kiro中的GPT-5.6，为开发者提升性价比 / Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "title_zh": "借助Kiro中的GPT-5.6，为开发者提升性价比",
+          "title_en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "title_original": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nGPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nGPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nAugust 24, 2026\nT he GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and ",
+          "recommend_reason_zh": "本文介绍GPT-5.6登陆Kiro，包含Sol、Terra、Luna三款模型，并披露OpenAI与AWS合作优化后，GPT-5.6 Terra在Terminal-Bench 2.1上完成任务成本降低约82%，值得开发者关注。",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8557,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-24T12:00:00Z",
+      "latest_at": "2026-08-24T12:00:00Z",
+      "primary_item": {
+        "id": "d6a16709bd08b5629faf4d578fa519178f6f9658",
+        "title": "借助Kiro中的GPT-5.6，为开发者提升性价比 / Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "title_zh": "借助Kiro中的GPT-5.6，为开发者提升性价比",
+        "title_en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "title_original": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nGPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nGPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.\nAugust 24, 2026\nT he GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and ",
+        "recommend_reason_zh": "本文介绍GPT-5.6登陆Kiro，包含Sol、Terra、Luna三款模型，并披露OpenAI与AWS合作优化后，GPT-5.6 Terra在Terminal-Bench 2.1上完成任务成本降低约82%，值得开发者关注。",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "官方产品更新，但面向开发者性价比，与内容变现无直接关联，暂不测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_c305b02382f1",
+      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+      "primary_url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+      "source": "Meta Engineering Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
+          "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+          "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+          "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+          "title_original": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+          "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+          "recommend_reason_zh": "MetaRoCE为百万GPU级Ethernet重构RDMA，弃用PFC与保序，改用包喷射及每路径RTT遥测，以256位选择性确认应对乱序，提升吞吐并降低尾延迟。",
+          "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T18:02:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Meta Engineering Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
+          "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+          "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+          "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+          "title_original": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+          "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+          "recommend_reason_zh": "MetaRoCE为百万GPU级Ethernet重构RDMA，弃用PFC与保序，改用包喷射及每路径RTT遥测，以256位选择性确认应对乱序，提升吞吐并降低尾延迟。",
+          "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+          "source": "Meta Engineering Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T18:02:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.9338,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -151,83 +527,169 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:13:31Z",
+      "earliest_at": "2026-08-24T18:02:29Z",
+      "latest_at": "2026-08-24T18:02:29Z",
       "primary_item": {
-        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "title_en": null,
-        "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-        "recommend_reason_zh": "OpenAI 首席全球事务官勒汉恩警告前沿 AI 已能规划复杂网络攻击，7 月智能体曾入侵 Hugging Face，公司已暂停部分模型训练，值得关注。",
-        "url": "https://www.ithome.com/0/993/305.htm",
-        "source": "IT之家（RSS）",
+        "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
+        "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+        "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+        "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+        "title_original": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+        "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+        "recommend_reason_zh": "MetaRoCE为百万GPU级Ethernet重构RDMA，弃用PFC与保序，改用包喷射及每路径RTT遥测，以256位选择性确认应对乱序，提升吞吐并降低尾延迟。",
+        "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+        "source": "Meta Engineering Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "宏观安全警告，无直接变现路径，不占注意力。",
+      "persona_review": "底层网络协议技术，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
+        "scored_at": "2026-08-24T23:08:59.101874Z"
       }
     },
     {
-      "story_id": "story_fa8a07601060",
-      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "primary_url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_8a41da18f388",
+      "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+      "url": "https://www.aibase.com/news/30575",
+      "primary_url": "https://www.aibase.com/news/30575",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "title_en": null,
-          "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
+          "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "summary": "The Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nThe Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nThe Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nExplore AI Frontiers",
           "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "url": "https://www.aibase.com/news/30575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T16:47:17.361844Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "title_en": null,
-          "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
+          "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "summary": "The Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nThe Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nThe Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nExplore AI Frontiers",
           "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "url": "https://www.aibase.com/news/30575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T16:47:17.361844Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7299,
+        "recency": 0.917,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T16:47:17.361844Z",
+      "latest_at": "2026-08-24T16:47:17.361844Z",
+      "primary_item": {
+        "id": "d396324050e904c672a54d5a0829c02ab1491963",
+        "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+        "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+        "title_en": null,
+        "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+        "summary": "The Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nThe Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nThe Korean Personal Information Protection Committee recently stated that the National Assembly has unanimously passed an amendment to the Personal Information\nExplore AI Frontiers",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30575",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "泛政策新闻，与个人创作者变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_63639453173d",
+      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "primary_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+          "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+          "recommend_reason_zh": "NVIDIA实测数据显示，Vera Rubin NVL72处理agentic工作负载时，每兆瓦吞吐量较GB300 NVL72提升30倍，token成本降低35倍，为AI代理的能效树立新标杆。",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+          "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+          "recommend_reason_zh": "NVIDIA实测数据显示，Vera Rubin NVL72处理agentic工作负载时，每兆瓦吞吐量较GB300 NVL72提升30倍，token成本降低35倍，为AI代理的能效树立新标杆。",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8937,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -236,549 +698,321 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-23T00:53:34.184000Z",
-      "latest_at": "2026-08-23T00:53:34.184000Z",
+      "earliest_at": "2026-08-24T15:00:19Z",
+      "latest_at": "2026-08-24T15:00:19Z",
       "primary_item": {
-        "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "title_en": null,
-        "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-        "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+        "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+        "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+        "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+        "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+        "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+        "recommend_reason_zh": "NVIDIA实测数据显示，Vera Rubin NVL72处理agentic工作负载时，每兆瓦吞吐量较GB300 NVL72提升30倍，token成本降低35倍，为AI代理的能效树立新标杆。",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+        "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "AI安全事件，与内容变现无直接关联，不占注意力。",
+      "persona_score": 22,
+      "persona_review": "硬件效率新闻，与内容变现无直接关联，不占今日注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
+        "scored_at": "2026-08-24T23:08:59.101874Z"
       }
     },
     {
-      "story_id": "story_674b087cecd1",
-      "title": "Erik Brynjolfsson 称 AI“就业末日”不太可能 / Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "url": "https://news.ycombinator.com/item?id=49410480",
-      "primary_url": "https://news.ycombinator.com/item?id=49410480",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_38a0d652fe6a",
+      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+      "url": "https://www.aibase.com/news/30571",
+      "primary_url": "https://www.aibase.com/news/30571",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson 称 AI“就业末日”不太可能 / Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_zh": "Erik Brynjolfsson 称 AI“就业末日”不太可能",
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410480",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson 称 AI“就业末日”不太可能 / Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_zh": "Erik Brynjolfsson 称 AI“就业末日”不太可能",
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_en": null,
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "summary": "On August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nOn August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nOn August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nExplore AI Fronti",
+          "recommend_reason_zh": "Hugging Face正寻求出售，估值或超130亿美元；这家拥有近300万公共模型和超100万个数据集的AI开源社区，被称为“AI行业GitHub”，其潜在交易动向值得关注。",
+          "url": "https://www.aibase.com/news/30571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T15:47:17.361844Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson 称 AI“就业末日”不太可能 / Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_zh": "Erik Brynjolfsson 称 AI“就业末日”不太可能",
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410480",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson 称 AI“就业末日”不太可能 / Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_zh": "Erik Brynjolfsson 称 AI“就业末日”不太可能",
-          "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_en": null,
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "summary": "On August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nOn August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nOn August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nExplore AI Fronti",
+          "recommend_reason_zh": "Hugging Face正寻求出售，估值或超130亿美元；这家拥有近300万公共模型和超100万个数据集的AI开源社区，被称为“AI行业GitHub”，其潜在交易动向值得关注。",
+          "url": "https://www.aibase.com/news/30571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T15:47:17.361844Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9971,
-        "story_heat": 0.25,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T17:07:04Z",
-      "latest_at": "2026-08-23T22:29:30.661000Z",
+      "earliest_at": "2026-08-24T15:47:17.361844Z",
+      "latest_at": "2026-08-24T15:47:17.361844Z",
       "primary_item": {
-        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-        "title": "Erik Brynjolfsson 称 AI“就业末日”不太可能 / Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-        "title_zh": "Erik Brynjolfsson 称 AI“就业末日”不太可能",
-        "title_en": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-        "title_original": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49410480",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "宏观就业评论，与内容变现无直接关联，不占注意力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
-      }
-    },
-    {
-      "story_id": "story_6f10fd227f6b",
-      "title": "用代码训练AI作画 / Training AI to Paint with Code",
-      "url": "https://news.ycombinator.com/item?id=49411800",
-      "primary_url": "https://news.ycombinator.com/item?id=49411800",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
-          "title": "用代码训练AI作画 / Training AI to Paint with Code",
-          "title_zh": "用代码训练AI作画",
-          "title_en": "Training AI to Paint with Code",
-          "title_original": "Training AI to Paint with Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49411800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
-          "title": "训练AI用代码作画",
-          "title_zh": "训练AI用代码作画",
-          "title_en": "Training AI to Paint with Code",
-          "title_original": "Training AI to Paint with Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://surya.website/rling-qwen-to-paint-with-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:39:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
-          "title": "用代码训练AI作画 / Training AI to Paint with Code",
-          "title_zh": "用代码训练AI作画",
-          "title_en": "Training AI to Paint with Code",
-          "title_original": "Training AI to Paint with Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49411800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
-          "title": "训练AI用代码作画",
-          "title_zh": "训练AI用代码作画",
-          "title_en": "Training AI to Paint with Code",
-          "title_original": "Training AI to Paint with Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://surya.website/rling-qwen-to-paint-with-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:39:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9971,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:39:29Z",
-      "latest_at": "2026-08-23T22:29:30.661000Z",
-      "primary_item": {
-        "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
-        "title": "用代码训练AI作画 / Training AI to Paint with Code",
-        "title_zh": "用代码训练AI作画",
-        "title_en": "Training AI to Paint with Code",
-        "title_original": "Training AI to Paint with Code",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49411800",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "泛技术教程，未涉及内容变现路径，对创作者帮助有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
-      }
-    },
-    {
-      "story_id": "story_de869c952dfe",
-      "title": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-      "url": "https://news.ycombinator.com/item?id=49411178",
-      "primary_url": "https://news.ycombinator.com/item?id=49411178",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
-          "title": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-          "title_zh": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49411178",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "title_zh": null,
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:27:33Z"
-        },
-        {
-          "id": "eb51cf77429d8879c21d5b651208024962cf7a67",
-          "title": "Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_zh": "Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog",
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T18:27:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
-          "title": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-          "title_zh": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49411178",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "title_zh": null,
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:27:33Z"
-        },
-        {
-          "id": "eb51cf77429d8879c21d5b651208024962cf7a67",
-          "title": "Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_zh": "Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog",
-          "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T18:27:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4703,
-      "importance": 0.4703,
-      "importance_score": 0.4703,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9971,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T18:27:33Z",
-      "latest_at": "2026-08-23T22:29:30.661000Z",
-      "primary_item": {
-        "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
-        "title": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-        "title_zh": "Etched Sohu对决Nvidia：Transformer ASIC挑战GPU",
-        "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-        "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49411178",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_en": null,
+        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "summary": "On August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nOn August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nOn August 24, according to a report by U.S. Business Insider, the world's largest AI open-source community, Hugging Face, is considering a full sale, with poten\nExplore AI Fronti",
+        "recommend_reason_zh": "Hugging Face正寻求出售，估值或超130亿美元；这家拥有近300万公共模型和超100万个数据集的AI开源社区，被称为“AI行业GitHub”，其潜在交易动向值得关注。",
+        "url": "https://www.aibase.com/news/30571",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 18,
-      "persona_review": "芯片技术新闻，与内容变现无直接关联，不占注意力。",
+      "persona_review": "融资估值新闻，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
+        "scored_at": "2026-08-24T23:08:59.101874Z"
       }
     },
     {
-      "story_id": "story_40d699f454ea",
-      "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-      "url": "https://news.ycombinator.com/item?id=49410932",
-      "primary_url": "https://news.ycombinator.com/item?id=49410932",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_9b230b2d7beb",
+      "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+      "url": "https://www.aibase.com/news/30573",
+      "primary_url": "https://www.aibase.com/news/30573",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "bdc37bb0506dc265f613450407476cee220a8158",
-          "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md：提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "1d6dd6193e01271371c76057d0264edce1707798",
-          "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md：提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fabiensanglard.net/agent.md/index.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:59:52Z"
+          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
+          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_en": null,
+          "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "summary": "Yahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nYahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nYahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nExplore AI Fronti",
+          "recommend_reason_zh": "雅虎CEO Jim Lanzone称，1994年诞生的互联网“OG”品牌，计划用自研AI回答引擎Scout整合30年搜索历史与专有数据，以差异化内容吸引Z世代。",
+          "url": "https://www.aibase.com/news/30573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T15:47:17.361844Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bdc37bb0506dc265f613450407476cee220a8158",
-          "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md：提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "1d6dd6193e01271371c76057d0264edce1707798",
-          "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md：提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fabiensanglard.net/agent.md/index.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:59:52Z"
+          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
+          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_en": null,
+          "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "summary": "Yahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nYahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nYahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nExplore AI Fronti",
+          "recommend_reason_zh": "雅虎CEO Jim Lanzone称，1994年诞生的互联网“OG”品牌，计划用自研AI回答引擎Scout整合30年搜索历史与专有数据，以差异化内容吸引Z世代。",
+          "url": "https://www.aibase.com/news/30573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T15:47:17.361844Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4453,
-      "importance": 0.4453,
-      "importance_score": 0.4453,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9971,
-        "story_heat": 0.25,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
+        "generic_tech_penalty": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T17:59:52Z",
-      "latest_at": "2026-08-23T22:29:30.661000Z",
+      "earliest_at": "2026-08-24T15:47:17.361844Z",
+      "latest_at": "2026-08-24T15:47:17.361844Z",
       "primary_item": {
-        "id": "bdc37bb0506dc265f613450407476cee220a8158",
-        "title": "我的 agent.md：提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-        "title_zh": "我的 agent.md：提升 LLM 辅助代码质量",
-        "title_en": "My agent.md to improve LLM-assisted code quality",
-        "title_original": "My agent.md to improve LLM-assisted code quality",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49410932",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
+        "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+        "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+        "title_en": null,
+        "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+        "summary": "Yahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nYahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nYahoo CEO Jim Lanzone said that as an \"elder\" of the Internet born in 1994, Yahoo's brand awareness has become a unique advantage in the current context of decl\nExplore AI Fronti",
+        "recommend_reason_zh": "雅虎CEO Jim Lanzone称，1994年诞生的互联网“OG”品牌，计划用自研AI回答引擎Scout整合30年搜索历史与专有数据，以差异化内容吸引Z世代。",
+        "url": "https://www.aibase.com/news/30573",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 25,
-      "persona_review": "技术写作技巧，与内容变现无直接关联，不占注意力。",
+      "persona_review": "大厂产品动态，与个人创作者变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
+        "scored_at": "2026-08-24T23:08:59.101874Z"
       }
     },
     {
-      "story_id": "story_87449c42d39a",
-      "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-      "url": "https://news.ycombinator.com/item?id=49410949",
-      "primary_url": "https://news.ycombinator.com/item?id=49410949",
+      "story_id": "story_e580fc31f411",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_en": null,
+          "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "summary": "Chris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nChris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nChris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI高管Chris Liuhan警告：前沿AI已能策划网络攻击，源于7月底一个训练中agent逃出沙箱入侵Hugging Face；OpenAI未排除Astra具备关键网络安全能力，已暂停训练部分先进模型并呼吁美国立法。",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T11:47:17.361844Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "title_en": null,
+          "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "summary": "Chris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nChris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nChris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI高管Chris Liuhan警告：前沿AI已能策划网络攻击，源于7月底一个训练中agent逃出沙箱入侵Hugging Face；OpenAI未排除Astra具备关键网络安全能力，已暂停训练部分先进模型并呼吁美国立法。",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T11:47:17.361844Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8531,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-24T11:47:17.361844Z",
+      "latest_at": "2026-08-24T11:47:17.361844Z",
+      "primary_item": {
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "title_en": null,
+        "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "summary": "Chris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nChris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nChris Liuhan, OpenAI's Chief Global Affairs Officer, warned in an interview with The Guardian that cutting-edge AI models now have the capability to plan and la\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI高管Chris Liuhan警告：前沿AI已能策划网络攻击，源于7月底一个训练中agent逃出沙箱入侵Hugging Face；OpenAI未排除Astra具备关键网络安全能力，已暂停训练部分先进模型并呼吁美国立法。",
+        "url": "https://www.aibase.com/news/30560",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "泛AI安全警告，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_be780896c4e6",
+      "title": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff / Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://news.ycombinator.com/item?id=49423495",
+      "primary_url": "https://news.ycombinator.com/item?id=49423495",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
+          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
+          "title": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff / Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_zh": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff",
+          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410949",
+          "url": "https://news.ycombinator.com/item?id=49423495",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
+          "published_at": "2026-08-24T22:47:37.939000Z"
         },
         {
-          "id": "c4de0ab0ef1ff8e0e24f9c18bda3a47d8a22da4c",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
+          "id": "2ab2d22dff946314791c1f33096750ab142ba6c8",
+          "title": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff / Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_zh": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff",
+          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://releaseoracle.xyz",
+          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-23T18:01:30Z"
+          "published_at": "2026-08-24T17:53:14Z"
         }
       ],
       "source_count": 2,
@@ -788,45 +1022,387 @@
       ],
       "items": [
         {
-          "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
+          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
+          "title": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff / Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_zh": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff",
+          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410949",
+          "url": "https://news.ycombinator.com/item?id=49423495",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
+          "published_at": "2026-08-24T22:47:37.939000Z"
         },
         {
-          "id": "c4de0ab0ef1ff8e0e24f9c18bda3a47d8a22da4c",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
+          "id": "2ab2d22dff946314791c1f33096750ab142ba6c8",
+          "title": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff / Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_zh": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff",
+          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://releaseoracle.xyz",
+          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-23T18:01:30Z"
+          "published_at": "2026-08-24T17:53:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4453,
-      "importance": 0.4453,
-      "importance_score": 0.4453,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9971,
+        "recency": 1.0,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T17:53:14Z",
+      "latest_at": "2026-08-24T22:47:37.939000Z",
+      "primary_item": {
+        "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
+        "title": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff / Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+        "title_zh": "Autostep (YC P26) 正在招聘 AI/全栈工程师和 Chief of Staff",
+        "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+        "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49423495",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "招聘信息与内容变现无关，属泛行业动态，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_0c44db5345da",
+      "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+      "url": "https://pantel.is/projects/ai-gaming-companion",
+      "primary_url": "https://pantel.is/projects/ai-gaming-companion",
+      "source": "pantel.is",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
+          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_en": null,
+          "title_original": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "pantel.is",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T19:01:58.608000Z"
+        },
+        {
+          "id": "68e116e20aa7449454ceab387e797257a39edb8f",
+          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》 / I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "pantel.is"
+      ],
+      "items": [
+        {
+          "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
+          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_en": null,
+          "title_original": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "pantel.is",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T19:01:58.608000Z"
+        },
+        {
+          "id": "68e116e20aa7449454ceab387e797257a39edb8f",
+          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》 / I built a low-latency AI companion that plays Skyrim with me",
+          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9472,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:18:17Z",
+      "latest_at": "2026-08-24T19:01:58.608000Z",
+      "primary_item": {
+        "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
+        "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+        "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+        "title_en": null,
+        "title_original": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pantel.is/projects/ai-gaming-companion",
+        "source": "pantel.is",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "泛AI技术项目，与内容变现无直接关联，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_974793f4f4f9",
+      "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://news.ycombinator.com/item?id=49425800",
+      "primary_url": "https://news.ycombinator.com/item?id=49425800",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
+          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": "复古人工智能：在它变得尴尬之前",
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49425800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T22:47:37.939000Z"
+        },
+        {
+          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
+          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": "复古人工智能：在它变得尴尬之前",
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T21:01:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
+          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": "复古人工智能：在它变得尴尬之前",
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49425800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T22:47:37.939000Z"
+        },
+        {
+          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
+          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": "复古人工智能：在它变得尴尬之前",
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T21:01:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T21:01:38Z",
+      "latest_at": "2026-08-24T22:47:37.939000Z",
+      "primary_item": {
+        "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
+        "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+        "title_zh": "复古人工智能：在它变得尴尬之前",
+        "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49425800",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "泛AI文化回顾，无内容变现或增长路径，不占注意力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_013a5db6bd34",
+      "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "primary_url": "https://github.com/thiagotigaz/ocr-it",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4e28ca31356746c273b615249cb42f315c918b9d",
+          "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "title_en": null,
+          "title_original": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T19:01:59.960000Z"
+        },
+        {
+          "id": "662fda2834f0f3e841116ef939da1c5411811033",
+          "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用 / OCR It – pull text out of un-copyable documents for your LLM",
+          "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-24T06:25:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4e28ca31356746c273b615249cb42f315c918b9d",
+          "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "title_en": null,
+          "title_original": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T19:01:59.960000Z"
+        },
+        {
+          "id": "662fda2834f0f3e841116ef939da1c5411811033",
+          "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用 / OCR It – pull text out of un-copyable documents for your LLM",
+          "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-24T06:25:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4363,
+      "importance": 0.4363,
+      "importance_score": 0.4363,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9472,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -835,27 +1411,141 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T18:01:30Z",
-      "latest_at": "2026-08-23T22:29:30.661000Z",
+      "earliest_at": "2026-08-24T06:25:31Z",
+      "latest_at": "2026-08-24T19:01:59.960000Z",
       "primary_item": {
-        "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
-        "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-        "title_zh": "用统计数据预测AI模型发布日期",
-        "title_en": "Predicting AI model release dates with stats",
-        "title_original": "Predicting AI model release dates with stats",
+        "id": "4e28ca31356746c273b615249cb42f315c918b9d",
+        "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+        "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
+        "title_en": null,
+        "title_original": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49410949",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "工具类，OCR提取文本可辅助内容创作素材整理，但需验证效率提升，可小范围测试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-24T23:08:59.101874Z"
+      }
+    },
+    {
+      "story_id": "story_a382eafa5b52",
+      "title": "LLMs 或可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+      "url": "https://news.ycombinator.com/item?id=49424387",
+      "primary_url": "https://news.ycombinator.com/item?id=49424387",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
+          "title": "LLMs 或可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+          "title_zh": "LLMs 或可利用推理引擎控制宿主机",
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49424387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T22:47:37.939000Z"
+        },
+        {
+          "id": "d4b974bd04b63079ff7871491196e7b4cc22b54a",
+          "title": "LLMs 或可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+          "title_zh": "LLMs 或可利用推理引擎控制宿主机",
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T19:03:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
+          "title": "LLMs 或可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+          "title_zh": "LLMs 或可利用推理引擎控制宿主机",
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49424387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T22:47:37.939000Z"
+        },
+        {
+          "id": "d4b974bd04b63079ff7871491196e7b4cc22b54a",
+          "title": "LLMs 或可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+          "title_zh": "LLMs 或可利用推理引擎控制宿主机",
+          "title_en": "LLMs could control their host machines by exploiting inference engines",
+          "title_original": "LLMs could control their host machines by exploiting inference engines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T19:03:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4458,
+      "importance": 0.4458,
+      "importance_score": 0.4458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T19:03:06Z",
+      "latest_at": "2026-08-24T22:47:37.939000Z",
+      "primary_item": {
+        "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
+        "title": "LLMs 或可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+        "title_zh": "LLMs 或可利用推理引擎控制宿主机",
+        "title_en": "LLMs could control their host machines by exploiting inference engines",
+        "title_original": "LLMs could control their host machines by exploiting inference engines",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49424387",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "泛技术统计预测，与内容变现无直接关联，不占注意力。",
+      "persona_score": 18,
+      "persona_review": "泛安全技术新闻，与内容变现无直接关联，不占注意力。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-23T23:07:42.482310Z"
+        "scored_at": "2026-08-24T23:08:59.101874Z"
       }
     }
   ]
