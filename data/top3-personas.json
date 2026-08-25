@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:09:25.456778Z",
+  "generated_at": "2026-08-25T23:16:38.857776Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -15,66 +15,5 @@
       "name": "变现实用派"
     }
   ],
-  "items": [
-    {
-      "story_id": "story_a31e711ee9db",
-      "title": "Codex CLI 0.149.1 命令行工具 / Codex CLI 0.149.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "小版本更新也值得刷屏？至少没吹成颠覆，算诚实。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "仅官方更新日志，无论文代码评测，版本号说明不了性能。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "官方工具更新，但未说明对内容生产或变现的具体改进，建议先看变更日志再决定是否测试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_013a5db6bd34",
-      "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源OCR工具，实用但宣传略夸大，对比基准不明，扣点水分。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "GitHub仓库存在但无论文无benchmark，仅代码和描述，缺独立验证。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "工具类，OCR提取文本可辅助内容创作素材整理，但需验证效率提升，可小范围测试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c841c6b2a5f3",
-      "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-      "url": "https://www.aibase.com/news/30576",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "整合是好事，但别指望换个名字就成全家桶了。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅媒体转述内部整合消息，无官方公告或业务数据，证据不足。"
-        },
-        "pragmatic": {
-          "score": 45,
-          "review": "大厂组织调整，短期看不到对个人创作者变现的直接路径，先观望。"
-        }
-      }
-    }
-  ]
+  "items": []
 }
