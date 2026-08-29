@@ -1,29 +1,138 @@
 {
-  "generated_at": "2026-08-28T06:10:10.994747Z",
+  "generated_at": "2026-08-29T03:43:58.855897Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
-      "story_id": "story_9d9b4688f4d7",
-      "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-      "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+      "story_id": "story_3eef6a7665a4",
+      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
+          "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nAugust 28, 2026\nToday, we notified SpaceX that we intend to wind down our contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026. T",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T06:00:00Z"
+        },
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": null,
+          "title_original": "关于Cursor被SpaceX收购后的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
+          "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nAugust 28, 2026\nToday, we notified SpaceX that we intend to wind down our contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026. T",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T06:00:00Z"
+        },
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": null,
+          "title_original": "关于Cursor被SpaceX收购后的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7306,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T06:00:00Z",
+      "latest_at": "2026-08-29T03:16:20.612000Z",
+      "primary_item": {
+        "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
+        "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
+        "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+        "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+        "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+        "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nAugust 28, 2026\nToday, we notified SpaceX that we intend to wind down our contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026. T",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_68a34bcc53e0",
+      "title": "GitHub Copilot in Visual Studio — August update",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c88a0babf03e3a8ca31ad774f33e877e8e7c4e37",
-          "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-          "title_zh": "Copilot 代码审查：解决原因和扩展功能",
-          "title_en": "Copilot code review: Resolution reasons and expanded capabilities",
-          "title_original": "Copilot code review: Resolution reasons and expanded capabilities",
-          "summary": "Copilot code review can now review two types of pull requests it didn’t cover before: Reviews requested automatically on pull requests authored by bots, including Copilot cloud agent Very large…\nCopilot code review can now review two types of pull requests it didn’t cover before:\nAdditionally, you can now submit the reason for why you’re resolving a particular Copilot code review comment.\nWhen a pull request is authored by a bot and requested automatically, there’s no Copilot-licensed account to",
+          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in Visual Studio — August update",
+          "title_original": "GitHub Copilot in Visual Studio — August update",
+          "summary": "August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s…\nAugust 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review.\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\nThis update is available to users on all GitHub Co",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T22:46:04Z"
+          "published_at": "2026-08-28T20:24:20Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +141,31 @@
       ],
       "items": [
         {
-          "id": "c88a0babf03e3a8ca31ad774f33e877e8e7c4e37",
-          "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-          "title_zh": "Copilot 代码审查：解决原因和扩展功能",
-          "title_en": "Copilot code review: Resolution reasons and expanded capabilities",
-          "title_original": "Copilot code review: Resolution reasons and expanded capabilities",
-          "summary": "Copilot code review can now review two types of pull requests it didn’t cover before: Reviews requested automatically on pull requests authored by bots, including Copilot cloud agent Very large…\nCopilot code review can now review two types of pull requests it didn’t cover before:\nAdditionally, you can now submit the reason for why you’re resolving a particular Copilot code review comment.\nWhen a pull request is authored by a bot and requested automatically, there’s no Copilot-licensed account to",
+          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in Visual Studio — August update",
+          "title_original": "GitHub Copilot in Visual Studio — August update",
+          "summary": "August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s…\nAugust 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review.\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\nThis update is available to users on all GitHub Co",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T22:46:04Z"
+          "published_at": "2026-08-28T20:24:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8986,
+        "recency": 0.8996,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -67,258 +176,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T22:46:04Z",
-      "latest_at": "2026-08-27T22:46:04Z",
+      "earliest_at": "2026-08-28T20:24:20Z",
+      "latest_at": "2026-08-28T20:24:20Z",
       "primary_item": {
-        "id": "c88a0babf03e3a8ca31ad774f33e877e8e7c4e37",
-        "title": "Copilot 代码审查：解决原因和扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-        "title_zh": "Copilot 代码审查：解决原因和扩展功能",
-        "title_en": "Copilot code review: Resolution reasons and expanded capabilities",
-        "title_original": "Copilot code review: Resolution reasons and expanded capabilities",
-        "summary": "Copilot code review can now review two types of pull requests it didn’t cover before: Reviews requested automatically on pull requests authored by bots, including Copilot cloud agent Very large…\nCopilot code review can now review two types of pull requests it didn’t cover before:\nAdditionally, you can now submit the reason for why you’re resolving a particular Copilot code review comment.\nWhen a pull request is authored by a bot and requested automatically, there’s no Copilot-licensed account to",
+        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+        "title": "GitHub Copilot in Visual Studio — August update",
+        "title_zh": null,
+        "title_en": "GitHub Copilot in Visual Studio — August update",
+        "title_original": "GitHub Copilot in Visual Studio — August update",
+        "summary": "August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s…\nAugust 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review.\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\nThis update is available to users on all GitHub Co",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_3db3281c2368",
-      "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-          "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-          "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
-          "title_en": "3 new ways to plan and book travel in Search",
-          "title_original": "3 new ways to plan and book travel in Search",
-          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nBook hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nBook hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nAug 27, 2026\nOur latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.\nJames Byers\nGroup Product Manager, Search\nPlanning a trip comes with lots of moving",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-          "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-          "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
-          "title_en": "3 new ways to plan and book travel in Search",
-          "title_original": "3 new ways to plan and book travel in Search",
-          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nBook hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nBook hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nAug 27, 2026\nOur latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.\nJames Byers\nGroup Product Manager, Search\nPlanning a trip comes with lots of moving",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.815,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:00:00Z",
-      "latest_at": "2026-08-27T16:00:00Z",
-      "primary_item": {
-        "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-        "title": "在搜索中计划和预订旅行的 3 种新方式 / 3 new ways to plan and book travel in Search",
-        "title_zh": "在搜索中计划和预订旅行的 3 种新方式",
-        "title_en": "3 new ways to plan and book travel in Search",
-        "title_original": "3 new ways to plan and book travel in Search",
-        "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nBook hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nBook hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.\nAug 27, 2026\nOur latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.\nJames Byers\nGroup Product Manager, Search\nPlanning a trip comes with lots of moving",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_77be507e5ad3",
-      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-      "primary_url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": null,
-          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T22:29:33.124000Z"
-        },
-        {
-          "id": "29c30f233ed1d06903d3ff509bfae938658702cd",
-          "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_zh": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_en": null,
-          "title_original": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "forgeeks.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-27T22:29:33.124000Z"
-        },
-        {
-          "id": "0278f19d2eedf026ffa37decc0a64b0ee489b32a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元 / Nvidia projects $673B in sales as AI demand widens",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": "Nvidia projects $673B in sales as AI demand widens",
-          "title_original": "Nvidia projects $673B in sales as AI demand widens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-27T15:04:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "forgeeks.net"
-      ],
-      "items": [
-        {
-          "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": null,
-          "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T22:29:33.124000Z"
-        },
-        {
-          "id": "29c30f233ed1d06903d3ff509bfae938658702cd",
-          "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_zh": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "title_en": null,
-          "title_original": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "forgeeks.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-27T22:29:33.124000Z"
-        },
-        {
-          "id": "0278f19d2eedf026ffa37decc0a64b0ee489b32a",
-          "title": "英伟达预计 2028 财年销售额达 6730 亿美元 / Nvidia projects $673B in sales as AI demand widens",
-          "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-          "title_en": "Nvidia projects $673B in sales as AI demand widens",
-          "title_original": "Nvidia projects $673B in sales as AI demand widens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-27T15:04:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8951,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T15:04:16Z",
-      "latest_at": "2026-08-27T22:29:33.124000Z",
-      "primary_item": {
-        "id": "23eb2d013443990bb7c5f651072161c69e51188a",
-        "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "title_en": null,
-        "title_original": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-        "recommend_reason_zh": null,
-        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15e13041e5c5",
-      "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-      "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+      "story_id": "story_e6d6d7fa2d48",
+      "title": "Upcoming changes to GitHub Copilot policies and billing",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+      "primary_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a3d31c93e74427fb68fbd4895c20f766e7cafe84",
-          "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-          "title_zh": "通常可以对问题进行更好的标签管理",
-          "title_en": "Better label management on issues is generally available",
-          "title_original": "Better label management on issues is generally available",
-          "summary": "We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right…\nWe’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists.\nYou can now find the right label faster with suggestions based on what a repository has been using recently. You can also see Recent labels based on your own usage, making it easier to la",
+          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+          "title": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_zh": null,
+          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
+          "summary": "To provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you. Reopening…\nTo provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you.\nStarting September 1, 2026, GitHub will start reenabling sign-ups for new Copilot Busin",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T23:33:22Z"
+          "published_at": "2026-08-28T11:37:19Z"
         }
       ],
       "source_count": 1,
@@ -327,31 +220,31 @@
       ],
       "items": [
         {
-          "id": "a3d31c93e74427fb68fbd4895c20f766e7cafe84",
-          "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-          "title_zh": "通常可以对问题进行更好的标签管理",
-          "title_en": "Better label management on issues is generally available",
-          "title_original": "Better label management on issues is generally available",
-          "summary": "We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right…\nWe’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists.\nYou can now find the right label faster with suggestions based on what a repository has been using recently. You can also see Recent labels based on your own usage, making it easier to la",
+          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+          "title": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_zh": null,
+          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
+          "summary": "To provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you. Reopening…\nTo provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you.\nStarting September 1, 2026, GitHub will start reenabling sign-ups for new Copilot Busin",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T23:33:22Z"
+          "published_at": "2026-08-28T11:37:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9089,
+        "ai_relevance": 0.91,
+        "recency": 0.7924,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -362,307 +255,197 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T23:33:22Z",
-      "latest_at": "2026-08-27T23:33:22Z",
+      "earliest_at": "2026-08-28T11:37:19Z",
+      "latest_at": "2026-08-28T11:37:19Z",
       "primary_item": {
-        "id": "a3d31c93e74427fb68fbd4895c20f766e7cafe84",
-        "title": "通常可以对问题进行更好的标签管理 / Better label management on issues is generally available",
-        "title_zh": "通常可以对问题进行更好的标签管理",
-        "title_en": "Better label management on issues is generally available",
-        "title_original": "Better label management on issues is generally available",
-        "summary": "We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right…\nWe’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists.\nYou can now find the right label faster with suggestions based on what a repository has been using recently. You can also see Recent labels based on your own usage, making it easier to la",
+        "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+        "title": "Upcoming changes to GitHub Copilot policies and billing",
+        "title_zh": null,
+        "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+        "title_original": "Upcoming changes to GitHub Copilot policies and billing",
+        "summary": "To provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you. Reopening…\nTo provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you.\nStarting September 1, 2026, GitHub will start reenabling sign-ups for new Copilot Busin",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+        "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9fe7fd4550a0",
-      "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-      "url": "https://www.aibase.com/news/30683",
-      "primary_url": "https://www.aibase.com/news/30683",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-          "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "title_en": null,
-          "title_original": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "summary": "116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\n116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\n116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30683",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-          "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "title_en": null,
-          "title_original": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "summary": "116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\n116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\n116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30683",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T06:10:10.994747Z",
-      "latest_at": "2026-08-28T06:10:10.994747Z",
-      "primary_item": {
-        "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-        "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-        "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-        "title_en": null,
-        "title_original": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-        "summary": "116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\n116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\n116 companies and organizations, including OpenAI, Anthropic, Microsoft, Google's parent company Alphabet, and Amazon, have signed a joint letter urging busines\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30683",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8a3dca718647",
-      "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-      "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f0dab78b086bfc11f35517720f2538ee359c7ad3",
-          "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-          "title_zh": "操作保留将涵盖检查、工作流程运行和状态",
-          "title_en": "Actions retention will cover checks, workflow runs, and statuses",
-          "title_original": "Actions retention will cover checks, workflow runs, and statuses",
-          "summary": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a…\nStarting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a default of 90 days. Until now, checks, workflow runs, and statuses were retained for 400+ days regardless of your retention configu",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T21:50:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f0dab78b086bfc11f35517720f2538ee359c7ad3",
-          "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-          "title_zh": "操作保留将涵盖检查、工作流程运行和状态",
-          "title_en": "Actions retention will cover checks, workflow runs, and statuses",
-          "title_original": "Actions retention will cover checks, workflow runs, and statuses",
-          "summary": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a…\nStarting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a default of 90 days. Until now, checks, workflow runs, and statuses were retained for 400+ days regardless of your retention configu",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-27T21:50:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8867,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T21:50:39Z",
-      "latest_at": "2026-08-27T21:50:39Z",
-      "primary_item": {
-        "id": "f0dab78b086bfc11f35517720f2538ee359c7ad3",
-        "title": "操作保留将涵盖检查、工作流程运行和状态 / Actions retention will cover checks, workflow runs, and statuses",
-        "title_zh": "操作保留将涵盖检查、工作流程运行和状态",
-        "title_en": "Actions retention will cover checks, workflow runs, and statuses",
-        "title_original": "Actions retention will cover checks, workflow runs, and statuses",
-        "summary": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a…\nStarting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a default of 90 days. Until now, checks, workflow runs, and statuses were retained for 400+ days regardless of your retention configu",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4aaeb19a0dba",
-      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-      "primary_url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_4dd661a39435",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "primary_url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T16:19:46Z"
-        },
-        {
-          "id": "b4764565b3984bd7948adf0c882fc599b9425682",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-27T16:19:46Z"
+          "published_at": "2026-08-29T01:47:44Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T16:19:46Z"
-        },
-        {
-          "id": "b4764565b3984bd7948adf0c882fc599b9425682",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-          "title_en": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "title_original": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-27T16:19:46Z"
+          "published_at": "2026-08-29T01:47:44Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
-        "story_heat": 0.25,
+        "recency": 0.9724,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T16:19:46Z",
-      "latest_at": "2026-08-27T16:19:46Z",
+      "earliest_at": "2026-08-29T01:47:44Z",
+      "latest_at": "2026-08-29T01:47:44Z",
       "primary_item": {
-        "id": "d3273819384a28c818a128cd38b4fd1324c37f43",
-        "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-        "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "title_original": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+        "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+        "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+        "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+        "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+        "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://x.com/thsottiaux/status/2093515916076343774",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_19c0e3dd2480",
-      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-      "url": "https://www.aibase.com/news/30692",
-      "primary_url": "https://www.aibase.com/news/30692",
+      "story_id": "story_56f5cda185d1",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8705,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T18:07:55Z",
+      "latest_at": "2026-08-28T18:07:55Z",
+      "primary_item": {
+        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+        "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4a9201ed2c6a",
+      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+      "url": "https://www.aibase.com/news/30699",
+      "primary_url": "https://www.aibase.com/news/30699",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
           "title_en": null,
-          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "summary": "Anthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nAnthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nAnthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nExplore AI Fronti",
+          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "summary": "Tencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nTencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nTencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30692",
+          "url": "https://www.aibase.com/news/30699",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
+          "published_at": "2026-08-28T16:43:58.855897Z"
         }
       ],
       "source_count": 1,
@@ -671,76 +454,75 @@
       ],
       "items": [
         {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
           "title_en": null,
-          "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "summary": "Anthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nAnthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nAnthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nExplore AI Fronti",
+          "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "summary": "Tencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nTencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nTencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30692",
+          "url": "https://www.aibase.com/news/30699",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
+          "published_at": "2026-08-28T16:43:58.855897Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8531,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-28T06:10:10.994747Z",
-      "latest_at": "2026-08-28T06:10:10.994747Z",
+      "earliest_at": "2026-08-28T16:43:58.855897Z",
+      "latest_at": "2026-08-28T16:43:58.855897Z",
       "primary_item": {
-        "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-        "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+        "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+        "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+        "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
         "title_en": null,
-        "title_original": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "summary": "Anthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nAnthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nAnthropic released a blog post on August 27, introducing the \"Model Hardware Standard\" (MHS) in a research preview. Media outlets such as Reuters and CNBC inter\nExplore AI Fronti",
+        "title_original": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+        "summary": "Tencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nTencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nTencent WorkBuddy announced on August 28 that it has launched the new open-source large model Hy4preview of Tencent Huan Yuan. The domestic and international ve\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30692",
+        "url": "https://www.aibase.com/news/30699",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c8c4d6b3b59e",
-      "title": "你在小红书真正的竞品，可能根本不卖同一种东西",
-      "url": "https://www.yunyingpai.com/product-operation/1061812.html",
-      "primary_url": "https://www.yunyingpai.com/product-operation/1061812.html",
+      "story_id": "story_97e65b37d3bd",
+      "title": "广告商业化变现2：产品经理的8个核心命题",
+      "url": "https://www.yunyingpai.com/market/1061823.html",
+      "primary_url": "https://www.yunyingpai.com/market/1061823.html",
       "source": "运营派",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "0b92feed21b29c973dc8a87975d0daf010e90161",
-          "title": "你在小红书真正的竞品，可能根本不卖同一种东西",
-          "title_zh": "你在小红书真正的竞品，可能根本不卖同一种东西",
+          "id": "861c5e1b87f9064c55dc642fd2e2c3b2ca5eae0c",
+          "title": "广告商业化变现2：产品经理的8个核心命题",
+          "title_zh": "广告商业化变现2：产品经理的8个核心命题",
           "title_en": null,
-          "title_original": "你在小红书真正的竞品，可能根本不卖同一种东西",
+          "title_original": "广告商业化变现2：产品经理的8个核心命题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/product-operation/1061812.html",
+          "url": "https://www.yunyingpai.com/market/1061823.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-27T08:03:32Z"
+          "published_at": "2026-08-28T03:52:24Z"
         }
       ],
       "source_count": 1,
@@ -749,31 +531,31 @@
       ],
       "items": [
         {
-          "id": "0b92feed21b29c973dc8a87975d0daf010e90161",
-          "title": "你在小红书真正的竞品，可能根本不卖同一种东西",
-          "title_zh": "你在小红书真正的竞品，可能根本不卖同一种东西",
+          "id": "861c5e1b87f9064c55dc642fd2e2c3b2ca5eae0c",
+          "title": "广告商业化变现2：产品经理的8个核心命题",
+          "title_zh": "广告商业化变现2：产品经理的8个核心命题",
           "title_en": null,
-          "title_original": "你在小红书真正的竞品，可能根本不卖同一种东西",
+          "title_original": "广告商业化变现2：产品经理的8个核心命题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/product-operation/1061812.html",
+          "url": "https://www.yunyingpai.com/market/1061823.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-27T08:03:32Z"
+          "published_at": "2026-08-28T03:52:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5904,
+        "editorial": 0.6192,
         "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7267,
+        "ai_relevance": 0.86,
+        "recency": 0.7085,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -782,42 +564,350 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T08:03:32Z",
-      "latest_at": "2026-08-27T08:03:32Z",
+      "earliest_at": "2026-08-28T03:52:24Z",
+      "latest_at": "2026-08-28T03:52:24Z",
       "primary_item": {
-        "id": "0b92feed21b29c973dc8a87975d0daf010e90161",
-        "title": "你在小红书真正的竞品，可能根本不卖同一种东西",
-        "title_zh": "你在小红书真正的竞品，可能根本不卖同一种东西",
+        "id": "861c5e1b87f9064c55dc642fd2e2c3b2ca5eae0c",
+        "title": "广告商业化变现2：产品经理的8个核心命题",
+        "title_zh": "广告商业化变现2：产品经理的8个核心命题",
         "title_en": null,
-        "title_original": "你在小红书真正的竞品，可能根本不卖同一种东西",
+        "title_original": "广告商业化变现2：产品经理的8个核心命题",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/product-operation/1061812.html",
+        "url": "https://www.yunyingpai.com/market/1061823.html",
         "source": "运营派",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_453d01904ebd",
-      "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-      "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-      "primary_url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+      "story_id": "story_6040dd8a1f6e",
+      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "primary_url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfe73907480978f8302c5b95753d65394369ac39",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_en": null,
+          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T08:36:31.021000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "dfe73907480978f8302c5b95753d65394369ac39",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "title_en": null,
+          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T08:36:31.021000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7587,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T08:36:31.021000Z",
+      "latest_at": "2026-08-28T08:36:31.021000Z",
+      "primary_item": {
+        "id": "dfe73907480978f8302c5b95753d65394369ac39",
+        "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "title_en": null,
+        "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d6244aae2aff",
+      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+      "url": "https://www.aibase.com/news/30696",
+      "primary_url": "https://www.aibase.com/news/30696",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "title_en": null,
+          "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "summary": "Weibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nWeibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nWeibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30696",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T14:43:58.855897Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "title_en": null,
+          "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "summary": "Weibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nWeibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nWeibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30696",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T14:43:58.855897Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8288,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T14:43:58.855897Z",
+      "latest_at": "2026-08-28T14:43:58.855897Z",
+      "primary_item": {
+        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "title_zh": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "title_en": null,
+        "title_original": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "summary": "Weibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nWeibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nWeibo official released a formal announcement on August 28 to clarify that the so-called chat records between Sun Yuchen and Eileen Gu are completely fabricated\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30696",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b6c8cbe0a8d",
+      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "primary_url": "https://www.terminal-bench-science.ai/announcement",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_en": null,
+          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T12:04:47.737000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "title_en": null,
+          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+          "recommend_reason_zh": null,
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T12:04:47.737000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7977,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T12:04:47.737000Z",
+      "latest_at": "2026-08-28T12:04:47.737000Z",
+      "primary_item": {
+        "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
+        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "title_en": null,
+        "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+        "recommend_reason_zh": null,
+        "url": "https://www.terminal-bench-science.ai/announcement",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a365cf785844",
+      "title": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+      "url": "https://www.yunyingpai.com/experience/1061830.html",
+      "primary_url": "https://www.yunyingpai.com/experience/1061830.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "6da9a72001fe95618cef8e1d8938497e17efbc80",
+          "title": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+          "title_zh": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+          "title_en": null,
+          "title_original": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/experience/1061830.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-28T07:35:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "6da9a72001fe95618cef8e1d8938497e17efbc80",
+          "title": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+          "title_zh": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+          "title_en": null,
+          "title_original": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/experience/1061830.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-28T07:35:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.7476,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T07:35:10Z",
+      "latest_at": "2026-08-28T07:35:10Z",
+      "primary_item": {
+        "id": "6da9a72001fe95618cef8e1d8938497e17efbc80",
+        "title": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+        "title_zh": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+        "title_en": null,
+        "title_original": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/experience/1061830.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_1f83857579b6",
+      "title": "GitHub Copilot weekly releases — August 24",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-          "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-          "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
-          "title_en": "Close all open contributions authored by a blocked user",
-          "title_original": "Close all open contributions authored by a blocked user",
-          "summary": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nYou can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization.\nTo use this option, select Close content authored by this user in the block dialog. You’ll see it whenever you block a user, including from an issue or p",
+          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+          "title": "GitHub Copilot weekly releases — August 24",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — August 24",
+          "title_original": "GitHub Copilot weekly releases — August 24",
+          "summary": "This week's updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nThis week's updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nThis week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nTry the Copilot app .\nInstall the C",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T16:30:52Z"
+          "published_at": "2026-08-28T20:13:22Z"
         }
       ],
       "source_count": 1,
@@ -826,432 +916,90 @@
       ],
       "items": [
         {
-          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-          "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-          "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
-          "title_en": "Close all open contributions authored by a blocked user",
-          "title_original": "Close all open contributions authored by a blocked user",
-          "summary": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nYou can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization.\nTo use this option, select Close content authored by this user in the block dialog. You’ll see it whenever you block a user, including from an issue or p",
+          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+          "title": "GitHub Copilot weekly releases — August 24",
+          "title_zh": null,
+          "title_en": "GitHub Copilot weekly releases — August 24",
+          "title_original": "GitHub Copilot weekly releases — August 24",
+          "summary": "This week's updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nThis week's updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nThis week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nTry the Copilot app .\nInstall the C",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T16:30:52Z"
+          "published_at": "2026-08-28T20:13:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.821,
+        "ai_relevance": 0.91,
+        "recency": 0.8972,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T16:30:52Z",
-      "latest_at": "2026-08-27T16:30:52Z",
+      "earliest_at": "2026-08-28T20:13:22Z",
+      "latest_at": "2026-08-28T20:13:22Z",
       "primary_item": {
-        "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-        "title": "关闭由被阻止的用户创作的所有开放贡献 / Close all open contributions authored by a blocked user",
-        "title_zh": "关闭由被阻止的用户创作的所有开放贡献",
-        "title_en": "Close all open contributions authored by a blocked user",
-        "title_original": "Close all open contributions authored by a blocked user",
-        "summary": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nYou can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization.\nTo use this option, select Close content authored by this user in the block dialog. You’ll see it whenever you block a user, including from an issue or p",
+        "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+        "title": "GitHub Copilot weekly releases — August 24",
+        "title_zh": null,
+        "title_en": "GitHub Copilot weekly releases — August 24",
+        "title_original": "GitHub Copilot weekly releases — August 24",
+        "summary": "This week's updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nThis week's updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nThis week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE.\nTry the Copilot app .\nInstall the C",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+        "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_5678faeb2474",
-      "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-      "url": "https://www.aibase.com/news/30686",
-      "primary_url": "https://www.aibase.com/news/30686",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-          "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_en": null,
-          "title_original": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "summary": "On August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nOn August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nOn August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-          "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "title_en": null,
-          "title_original": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "summary": "On August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nOn August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nOn August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T06:10:10.994747Z",
-      "latest_at": "2026-08-28T06:10:10.994747Z",
-      "primary_item": {
-        "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-        "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "title_en": null,
-        "title_original": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "summary": "On August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nOn August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nOn August 27, OpenAI, together with former Apple executives Tang Tan and Chang Liu, as well as Jony Ive's io Products, filed a new petition with the court, requ\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30686",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b4ba41a2eea5",
-      "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-      "url": "https://www.aibase.com/news/30685",
-      "primary_url": "https://www.aibase.com/news/30685",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7a3e3945d0db03f539e780d6e903fd7235d1d825",
-          "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "title_zh": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "title_en": null,
-          "title_original": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "summary": "Baidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nBaidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nBaidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30685",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7a3e3945d0db03f539e780d6e903fd7235d1d825",
-          "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "title_zh": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "title_en": null,
-          "title_original": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "summary": "Baidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nBaidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nBaidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30685",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T06:10:10.994747Z",
-      "latest_at": "2026-08-28T06:10:10.994747Z",
-      "primary_item": {
-        "id": "7a3e3945d0db03f539e780d6e903fd7235d1d825",
-        "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-        "title_zh": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-        "title_en": null,
-        "title_original": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-        "summary": "Baidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nBaidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nBaidu Group announced on August 27th that it will voluntarily convert its secondary listing on the Hong Kong Stock Exchange to a primary listing, which will tak\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30685",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2289a896b698",
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ba7443b6c37782330318273afc915556a047676b",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T20:52:31Z"
-        },
-        {
-          "id": "e31222fdfc003f1187ed1dd08a85d6069ea61a58",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_original": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T20:52:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ba7443b6c37782330318273afc915556a047676b",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-          "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T20:52:31Z"
-        },
-        {
-          "id": "e31222fdfc003f1187ed1dd08a85d6069ea61a58",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "title_en": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "title_original": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T20:52:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.664,
-      "importance": 0.664,
-      "importance_score": 0.664,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8744,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-27T20:52:31Z",
-      "latest_at": "2026-08-27T20:52:31Z",
-      "primary_item": {
-        "id": "ba7443b6c37782330318273afc915556a047676b",
-        "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-        "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-        "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-        "title_original": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-        "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_342040c2c0b5",
-      "title": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-      "url": "https://www.aibase.com/news/30687",
-      "primary_url": "https://www.aibase.com/news/30687",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3245bc6c4a361468e1af237a37833938181a7678",
-          "title": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-          "title_zh": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-          "title_en": null,
-          "title_original": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-          "summary": "On August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nOn August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nOn August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30687",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3245bc6c4a361468e1af237a37833938181a7678",
-          "title": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-          "title_zh": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-          "title_en": null,
-          "title_original": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-          "summary": "On August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nOn August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nOn August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30687",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-28T06:10:10.994747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T06:10:10.994747Z",
-      "latest_at": "2026-08-28T06:10:10.994747Z",
-      "primary_item": {
-        "id": "3245bc6c4a361468e1af237a37833938181a7678",
-        "title": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-        "title_zh": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-        "title_en": null,
-        "title_original": "谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订",
-        "summary": "On August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nOn August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nOn August 27, Google announced significant feature upgrades to its conversational search experience \"AI Mode,\" officially launching a series of new features suc\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30687",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_61e52901464f",
-      "title": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google / Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-      "primary_url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+      "story_id": "story_38a64cbd0455",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "primary_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
       "source": "TechCrunch AI",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "6e611faa27ea18a59c5a549dd36fb2f817ad52d8",
-          "title": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google / Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_zh": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
-          "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-27T19:52:52Z"
+          "published_at": "2026-08-28T12:46:12Z"
         },
         {
-          "id": "2fc81d0d61a4a0e73049c8799012cbbd5f91160a",
-          "title": "投奔 OpenAI 的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google / Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_zh": "投奔 OpenAI 的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
-          "title_en": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+          "id": "111b71ca1c855c880729c348e72d04829c258570",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
           "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-27T19:52:52Z"
+          "published_at": "2026-08-28T12:46:12Z"
         }
       ],
       "source_count": 2,
@@ -1261,45 +1009,45 @@
       ],
       "items": [
         {
-          "id": "6e611faa27ea18a59c5a549dd36fb2f817ad52d8",
-          "title": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google / Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_zh": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
-          "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-27T19:52:52Z"
+          "published_at": "2026-08-28T12:46:12Z"
         },
         {
-          "id": "2fc81d0d61a4a0e73049c8799012cbbd5f91160a",
-          "title": "投奔 OpenAI 的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google / Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_zh": "投奔 OpenAI 的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
-          "title_en": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-          "title_original": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+          "id": "111b71ca1c855c880729c348e72d04829c258570",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_zh": null,
+          "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "title_original": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
           "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-27T19:52:52Z"
+          "published_at": "2026-08-28T12:46:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6364,
-      "importance": 0.6364,
-      "importance_score": 0.6364,
+      "score": 0.6263,
+      "importance": 0.6263,
+      "importance_score": 0.6263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8619,
+        "recency": 0.8057,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1308,478 +1056,161 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-27T19:52:52Z",
-      "latest_at": "2026-08-27T19:52:52Z",
+      "earliest_at": "2026-08-28T12:46:12Z",
+      "latest_at": "2026-08-28T12:46:12Z",
       "primary_item": {
-        "id": "6e611faa27ea18a59c5a549dd36fb2f817ad52d8",
-        "title": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google / Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "title_zh": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
-        "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "title_original": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "id": "9eb48496aeab8f3981267c3208d8b5acddeaf377",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "title_zh": null,
+        "title_en": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "title_original": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_0114ec66e11b",
-      "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-      "url": "https://www.aibase.com/news/30678",
-      "primary_url": "https://www.aibase.com/news/30678",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ee0a4f6de9e1",
+      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "primary_url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
-          "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "title_zh": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "title_en": null,
-          "title_original": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "summary": "According to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nAccording to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nAccording to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nExplore AI Fronti",
+          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
+          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "title_zh": null,
+          "title_en": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "title_original": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "summary": "Here comes another round of “yassified” memes.\nModders are applying an unofficial version of Nvidia’s DLSS 5 to a bunch of different games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27.\nHere comes another round of “yassified” memes.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Gaming\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will b",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30678",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T18:10:10.994747Z"
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-28T16:22:16Z"
+        },
+        {
+          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
+          "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "title_zh": null,
+          "title_en": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "title_original": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T16:22:16Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
-          "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "title_zh": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "title_en": null,
-          "title_original": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "summary": "According to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nAccording to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nAccording to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nExplore AI Fronti",
+          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
+          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "title_zh": null,
+          "title_en": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "title_original": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "summary": "Here comes another round of “yassified” memes.\nModders are applying an unofficial version of Nvidia’s DLSS 5 to a bunch of different games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27.\nHere comes another round of “yassified” memes.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Gaming\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will b",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30678",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T18:10:10.994747Z"
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-28T16:22:16Z"
+        },
+        {
+          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
+          "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "title_zh": null,
+          "title_en": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "title_original": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T16:22:16Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5882,
+      "importance": 0.5882,
+      "importance_score": 0.5882,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0,
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.8487,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-27T18:10:10.994747Z",
-      "latest_at": "2026-08-27T18:10:10.994747Z",
-      "primary_item": {
-        "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
-        "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-        "title_zh": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-        "title_en": null,
-        "title_original": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-        "summary": "According to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nAccording to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nAccording to CCTV News, a recent AI dating fraud targeting middle-aged and elderly women has emerged. Unlawful individuals use AI-generated fake dating partners\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30678",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9afe61695a4d",
-      "title": "法官裁定特朗普政府将人类列入黑名单是非法的 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-      "url": "https://news.ycombinator.com/item?id=49473522",
-      "primary_url": "https://news.ycombinator.com/item?id=49473522",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2e89802487f509edfa1000b5901f9b216347f1e1",
-          "title": "法官裁定特朗普政府将人类列入黑名单是非法的 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_zh": "法官裁定特朗普政府将人类列入黑名单是非法的",
-          "title_en": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_original": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49473522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T05:43:05.702000Z"
-        },
-        {
-          "id": "882ee40545c294bd591ab43a8bd61208d2415678",
-          "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "title_zh": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "title_en": null,
-          "title_original": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T03:49:18.410000Z"
-        },
-        {
-          "id": "5c131cfefcbfa62d8f3ea7d3f63495503ee31e8f",
-          "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_zh": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "title_en": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_original": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T02:03:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "2e89802487f509edfa1000b5901f9b216347f1e1",
-          "title": "法官裁定特朗普政府将人类列入黑名单是非法的 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_zh": "法官裁定特朗普政府将人类列入黑名单是非法的",
-          "title_en": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_original": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49473522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T05:43:05.702000Z"
-        },
-        {
-          "id": "882ee40545c294bd591ab43a8bd61208d2415678",
-          "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "title_zh": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "title_en": null,
-          "title_original": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T03:49:18.410000Z"
-        },
-        {
-          "id": "5c131cfefcbfa62d8f3ea7d3f63495503ee31e8f",
-          "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_zh": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "title_en": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "title_original": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T02:03:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9935,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-28T02:03:38Z",
-      "latest_at": "2026-08-28T05:43:05.702000Z",
+      "earliest_at": "2026-08-28T16:22:16Z",
+      "latest_at": "2026-08-28T16:22:16Z",
       "primary_item": {
-        "id": "2e89802487f509edfa1000b5901f9b216347f1e1",
-        "title": "法官裁定特朗普政府将人类列入黑名单是非法的 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-        "title_zh": "法官裁定特朗普政府将人类列入黑名单是非法的",
-        "title_en": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-        "title_original": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49473522",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_76236ef6c805",
-      "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-      "url": "https://www.aibase.com/news/30674",
-      "primary_url": "https://www.aibase.com/news/30674",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
-          "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "title_zh": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "title_en": null,
-          "title_original": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30674",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:10:10.994747Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
-          "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "title_zh": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "title_en": null,
-          "title_original": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30674",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:10:10.994747Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.817,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-27T16:10:10.994747Z",
-      "latest_at": "2026-08-27T16:10:10.994747Z",
-      "primary_item": {
-        "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
-        "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-        "title_zh": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-        "title_en": null,
-        "title_original": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30674",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_64cce7f892fb",
-      "title": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-      "url": "https://time.com/collection/time100-ai/2026/wafa-ben-hassine",
-      "primary_url": "https://time.com/collection/time100-ai/2026/wafa-ben-hassine",
-      "source": "TIME Magazine",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c992eb940917c89a8691caea1c1056dbdfaf6124",
-          "title": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-          "title_zh": null,
-          "title_en": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-          "title_original": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://time.com/collection/time100-ai/2026/wafa-ben-hassine",
-          "source": "TIME Magazine",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T12:02:39Z"
-        },
-        {
-          "id": "735d6273159ce488f20ac57f12e851b9d0204d61",
-          "title": "Andrea Bartz Is One of TIME's 100 Most Influential People in AI",
-          "title_zh": null,
-          "title_en": "Andrea Bartz Is One of TIME's 100 Most Influential People in AI",
-          "title_original": "Andrea Bartz Is One of TIME's 100 Most Influential People in AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://time.com/collection/time100-ai/2026/andrea-bartz",
-          "source": "TIME Magazine",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T12:02:38Z"
-        },
-        {
-          "id": "dfb86566ba81d0fdd57e5486c206708123c044f1",
-          "title": "Max Spero Is One of TIME's 100 Most Influential People in AI",
-          "title_zh": null,
-          "title_en": "Max Spero Is One of TIME's 100 Most Influential People in AI",
-          "title_original": "Max Spero Is One of TIME's 100 Most Influential People in AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://time.com/collection/time100-ai/2026/max-spero",
-          "source": "TIME Magazine",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T12:02:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "TIME Magazine"
-      ],
-      "items": [
-        {
-          "id": "c992eb940917c89a8691caea1c1056dbdfaf6124",
-          "title": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-          "title_zh": null,
-          "title_en": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-          "title_original": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://time.com/collection/time100-ai/2026/wafa-ben-hassine",
-          "source": "TIME Magazine",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T12:02:39Z"
-        },
-        {
-          "id": "735d6273159ce488f20ac57f12e851b9d0204d61",
-          "title": "Andrea Bartz Is One of TIME's 100 Most Influential People in AI",
-          "title_zh": null,
-          "title_en": "Andrea Bartz Is One of TIME's 100 Most Influential People in AI",
-          "title_original": "Andrea Bartz Is One of TIME's 100 Most Influential People in AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://time.com/collection/time100-ai/2026/andrea-bartz",
-          "source": "TIME Magazine",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T12:02:38Z"
-        },
-        {
-          "id": "dfb86566ba81d0fdd57e5486c206708123c044f1",
-          "title": "Max Spero Is One of TIME's 100 Most Influential People in AI",
-          "title_zh": null,
-          "title_en": "Max Spero Is One of TIME's 100 Most Influential People in AI",
-          "title_original": "Max Spero Is One of TIME's 100 Most Influential People in AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://time.com/collection/time100-ai/2026/max-spero",
-          "source": "TIME Magazine",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T12:02:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7697,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-27T12:02:38Z",
-      "latest_at": "2026-08-27T12:02:39Z",
-      "primary_item": {
-        "id": "c992eb940917c89a8691caea1c1056dbdfaf6124",
-        "title": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
+        "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
+        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
         "title_zh": null,
-        "title_en": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-        "title_original": "Wafa Ben-Hassine Is One of TIME's 100 Most Influential People in AI",
-        "summary": null,
+        "title_en": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "title_original": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "summary": "Here comes another round of “yassified” memes.\nModders are applying an unofficial version of Nvidia’s DLSS 5 to a bunch of different games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27.\nHere comes another round of “yassified” memes.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Gaming\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will b",
         "recommend_reason_zh": null,
-        "url": "https://time.com/collection/time100-ai/2026/wafa-ben-hassine",
-        "source": "TIME Magazine",
-        "source_name": "TechURLs"
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_7239e60b0569",
-      "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://news.ycombinator.com/item?id=49472820",
-      "primary_url": "https://news.ycombinator.com/item?id=49472820",
+      "story_id": "story_fb6e40a3017d",
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://news.ycombinator.com/item?id=49484925",
+      "primary_url": "https://news.ycombinator.com/item?id=49484925",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e9912fa30a167bc5489ad38b2d073c0f210b038f",
-          "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
-          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49472820",
+          "url": "https://news.ycombinator.com/item?id=49484925",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-28T05:43:05.702000Z"
+          "published_at": "2026-08-29T03:44:22.378000Z"
         },
         {
-          "id": "c9d25436fb67801ae23e27ac6e492ed7c67ce53b",
-          "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
-          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "id": "a862badf9b0271279c099db74a180b344c7da731",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-28T00:06:51Z"
+          "published_at": "2026-08-28T22:18:27Z"
         }
       ],
       "source_count": 2,
@@ -1789,45 +1220,45 @@
       ],
       "items": [
         {
-          "id": "e9912fa30a167bc5489ad38b2d073c0f210b038f",
-          "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
-          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49472820",
+          "url": "https://news.ycombinator.com/item?id=49484925",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-28T05:43:05.702000Z"
+          "published_at": "2026-08-29T03:44:22.378000Z"
         },
         {
-          "id": "c9d25436fb67801ae23e27ac6e492ed7c67ce53b",
-          "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
-          "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "id": "a862badf9b0271279c099db74a180b344c7da731",
+          "title": "Identifying fake cosmetics using AI",
+          "title_zh": null,
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-28T00:06:51Z"
+          "published_at": "2026-08-28T22:18:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9935,
+        "recency": 1.0,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1836,17 +1267,335 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-28T00:06:51Z",
-      "latest_at": "2026-08-28T05:43:05.702000Z",
+      "earliest_at": "2026-08-28T22:18:27Z",
+      "latest_at": "2026-08-29T03:44:22.378000Z",
       "primary_item": {
-        "id": "e9912fa30a167bc5489ad38b2d073c0f210b038f",
-        "title": "终端科学：评估科学研究工作流程中的人工智能代理 / Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-        "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理",
-        "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-        "title_original": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+        "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+        "title": "Identifying fake cosmetics using AI",
+        "title_zh": null,
+        "title_en": "Identifying fake cosmetics using AI",
+        "title_original": "Identifying fake cosmetics using AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49472820",
+        "url": "https://news.ycombinator.com/item?id=49484925",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1df6423d9095",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://news.ycombinator.com/item?id=49486081",
+      "primary_url": "https://news.ycombinator.com/item?id=49486081",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": null,
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:44:22.378000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": null,
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": null,
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:44:22.378000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": null,
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:24:13Z",
+      "latest_at": "2026-08-29T03:44:22.378000Z",
+      "primary_item": {
+        "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "title_zh": null,
+        "title_en": "StemDeck, a free, open-source and local AI stem separator",
+        "title_original": "StemDeck, a free, open-source and local AI stem separator",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49486081",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1e891f542eee",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://news.ycombinator.com/item?id=49474143",
+      "primary_url": "https://news.ycombinator.com/item?id=49474143",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b0db4c6687b0bcbb17b4befb13f192f8a6e0441e",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_zh": null,
+          "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_original": "Please stop flooding our projects with AI slop to furnish your CV",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49474143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T05:43:05.702000Z"
+        },
+        {
+          "id": "62f0e2e04e072bfc707c9e602b20ac68c85b57cf",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_zh": null,
+          "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_original": "Please stop flooding our projects with AI slop to furnish your CV",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T03:49:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b0db4c6687b0bcbb17b4befb13f192f8a6e0441e",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_zh": null,
+          "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_original": "Please stop flooding our projects with AI slop to furnish your CV",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49474143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T05:43:05.702000Z"
+        },
+        {
+          "id": "62f0e2e04e072bfc707c9e602b20ac68c85b57cf",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_zh": null,
+          "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+          "title_original": "Please stop flooding our projects with AI slop to furnish your CV",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T03:49:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7277,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T03:49:33Z",
+      "latest_at": "2026-08-28T05:43:05.702000Z",
+      "primary_item": {
+        "id": "b0db4c6687b0bcbb17b4befb13f192f8a6e0441e",
+        "title": "Please stop flooding our projects with AI slop to furnish your CV",
+        "title_zh": null,
+        "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+        "title_original": "Please stop flooding our projects with AI slop to furnish your CV",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49474143",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ae76d315b7d4",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://news.ycombinator.com/item?id=49485416",
+      "primary_url": "https://news.ycombinator.com/item?id=49485416",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "title_zh": null,
+          "title_en": "I accidentally turned LLM memory into program analysis",
+          "title_original": "I accidentally turned LLM memory into program analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49485416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:44:22.378000Z"
+        },
+        {
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "title_zh": null,
+          "title_en": "I accidentally turned LLM memory into program analysis",
+          "title_original": "I accidentally turned LLM memory into program analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T23:27:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "title_zh": null,
+          "title_en": "I accidentally turned LLM memory into program analysis",
+          "title_original": "I accidentally turned LLM memory into program analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49485416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:44:22.378000Z"
+        },
+        {
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "title_zh": null,
+          "title_en": "I accidentally turned LLM memory into program analysis",
+          "title_original": "I accidentally turned LLM memory into program analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T23:27:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4458,
+      "importance": 0.4458,
+      "importance_score": 0.4458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T23:27:45Z",
+      "latest_at": "2026-08-29T03:44:22.378000Z",
+      "primary_item": {
+        "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
+        "title": "I accidentally turned LLM memory into program analysis",
+        "title_zh": null,
+        "title_en": "I accidentally turned LLM memory into program analysis",
+        "title_original": "I accidentally turned LLM memory into program analysis",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49485416",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
