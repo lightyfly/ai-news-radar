@@ -1,62 +1,220 @@
 {
-  "generated_at": "2026-08-31T00:39:12.891116Z",
+  "generated_at": "2026-09-01T01:19:00.784382Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 18,
   "items": [
     {
-      "story_id": "story_91968bb49aae",
-      "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "primary_url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_582378d45ba0",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "primary_url": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b8c8810e1e605c56a6488126313f284d3a358447",
-          "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
-          "title_zh": "AI 智能体自主协作攻破 Hugging Face 服务器",
-          "title_en": "Agency and Agents",
-          "title_original": "Agency and Agents",
-          "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": null,
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
           "recommend_reason_zh": null,
-          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T00:24:35Z"
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ethan Mollick：One Useful Thing（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "b8c8810e1e605c56a6488126313f284d3a358447",
-          "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
-          "title_zh": "AI 智能体自主协作攻破 Hugging Face 服务器",
-          "title_en": "Agency and Agents",
-          "title_original": "Agency and Agents",
-          "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": null,
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
           "recommend_reason_zh": null,
-          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T00:24:35Z"
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7676,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:00:00Z",
+      "latest_at": "2026-08-31T07:00:00Z",
+      "primary_item": {
+        "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+        "title": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_zh": null,
+        "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+        "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/polimill",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b5eed0f3b98c",
+      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "primary_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
+          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
+          "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
+          "title_en": "A milestone in expanding access to AI",
+          "title_original": "A milestone in expanding access to AI",
+          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nAugust 31, 2026\nChatGPT Ads reaches $1 bi",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T04:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
+          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
+          "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
+          "title_en": "A milestone in expanding access to AI",
+          "title_original": "A milestone in expanding access to AI",
+          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nAugust 31, 2026\nChatGPT Ads reaches $1 bi",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T04:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.735,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T04:00:00Z",
+      "latest_at": "2026-08-31T04:00:00Z",
+      "primary_item": {
+        "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
+        "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
+        "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
+        "title_en": "A milestone in expanding access to AI",
+        "title_original": "A milestone in expanding access to AI",
+        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nAugust 31, 2026\nChatGPT Ads reaches $1 bi",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f3938deafa58",
+      "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+      "url": "https://www.aibase.com/news/30733",
+      "primary_url": "https://www.aibase.com/news/30733",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "841e769a59c4dbe64086aa689d16066676394d25",
+          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "title_zh": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "title_en": null,
+          "title_original": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "summary": "Instagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30733",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "841e769a59c4dbe64086aa689d16066676394d25",
+          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "title_zh": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "title_en": null,
+          "title_original": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "summary": "Instagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30733",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
+        "recency": 1.0,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -66,229 +224,386 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T00:24:35Z",
-      "latest_at": "2026-08-31T00:24:35Z",
+      "earliest_at": "2026-09-01T01:19:00.784382Z",
+      "latest_at": "2026-09-01T01:19:00.784382Z",
       "primary_item": {
-        "id": "b8c8810e1e605c56a6488126313f284d3a358447",
-        "title": "AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents",
-        "title_zh": "AI 智能体自主协作攻破 Hugging Face 服务器",
-        "title_en": "Agency and Agents",
-        "title_original": "Agency and Agents",
-        "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
-        "recommend_reason_zh": null,
-        "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5b941f9272b3",
-      "title": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-      "url": "https://creatoreconomy.so/p/how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain-replit",
-      "primary_url": "https://creatoreconomy.so/p/how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain-replit",
-      "source": "Creator Science",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "3362a9e6f9dc9703f729e5ed4fecab9eb4d43a90",
-          "title": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-          "title_zh": null,
-          "title_en": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-          "title_original": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-          "summary": "3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, including publishing, security, payments, and distribution.\n3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, including publishing, security, payments, and distribution.\n3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, inclu",
-          "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain-replit",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-30T14:03:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Creator Science"
-      ],
-      "items": [
-        {
-          "id": "3362a9e6f9dc9703f729e5ed4fecab9eb4d43a90",
-          "title": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-          "title_zh": null,
-          "title_en": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-          "title_original": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-          "summary": "3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, including publishing, security, payments, and distribution.\n3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, including publishing, security, payments, and distribution.\n3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, inclu",
-          "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain-replit",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-30T14:03:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.8581,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-30T14:03:13Z",
-      "latest_at": "2026-08-30T14:03:13Z",
-      "primary_item": {
-        "id": "3362a9e6f9dc9703f729e5ed4fecab9eb4d43a90",
-        "title": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-        "title_zh": null,
-        "title_en": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-        "title_original": "How Non-Coders Are Vibe Coding $100K+ Businesses With AI | Amol Jain",
-        "summary": "3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, including publishing, security, payments, and distribution.\n3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, including publishing, security, payments, and distribution.\n3 examples of vibe-coded apps that reached six figures in revenue, plus 4 steps to turn your prototype into a real business, inclu",
-        "recommend_reason_zh": null,
-        "url": "https://creatoreconomy.so/p/how-non-coders-are-vibe-coding-100k-businesses-with-ai-amol-jain-replit",
-        "source": "Creator Science",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_fc264aa8f148",
-      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "primary_url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_en": null,
-          "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "title_en": null,
-          "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7097,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-30T00:54:08Z",
-      "latest_at": "2026-08-30T00:54:08Z",
-      "primary_item": {
-        "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-        "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "title_zh": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+        "id": "841e769a59c4dbe64086aa689d16066676394d25",
+        "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+        "title_zh": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
         "title_en": null,
-        "title_original": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+        "title_original": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+        "summary": "Instagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30733",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_593496b70a8b",
-      "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_b1bdc3f806e9",
+      "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+      "url": "https://www.aibase.com/news/30734",
+      "primary_url": "https://www.aibase.com/news/30734",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
-          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+          "id": "488100fdc84a1da75565bde83f15f903e2e90430",
+          "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+          "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-          "summary": "本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯围绕“智能体自治危机、稀疏激活架构与具身智能融资潮”展开，梳理重要产品进展、行业趋势与风险信号。\n期刊. 2026年 W35 • 2026/08/30\n本周关键词 : 智能体自治",
+          "title_original": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+          "summary": "Apple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-30T04:21:04Z"
+          "url": "https://www.aibase.com/news/30734",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
-          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+          "id": "488100fdc84a1da75565bde83f15f903e2e90430",
+          "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+          "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-          "summary": "本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯围绕“智能体自治危机、稀疏激活架构与具身智能融资潮”展开，梳理重要产品进展、行业趋势与风险信号。\n期刊. 2026年 W35 • 2026/08/30\n本周关键词 : 智能体自治",
+          "title_original": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+          "summary": "Apple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-30T04:21:04Z"
+          "url": "https://www.aibase.com/news/30734",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7459,
+        "recency": 1.0,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T01:19:00.784382Z",
+      "latest_at": "2026-09-01T01:19:00.784382Z",
+      "primary_item": {
+        "id": "488100fdc84a1da75565bde83f15f903e2e90430",
+        "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+        "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+        "title_en": null,
+        "title_original": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+        "summary": "Apple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30734",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b69e2792fc70",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9671,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T23:00:05.386000Z",
+      "latest_at": "2026-08-31T23:00:05.386000Z",
+      "primary_item": {
+        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+        "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+        "title_en": "Improving our alignment and security efforts",
+        "title_original": "Improving our alignment and security efforts",
+        "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_df333cabf281",
+      "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+      "url": "https://www.aibase.com/news/30738",
+      "primary_url": "https://www.aibase.com/news/30738",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e0e74aa15f14f7aa8b6415c57c9b38a0484efa0c",
+          "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+          "title_zh": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+          "title_en": null,
+          "title_original": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+          "summary": "Apple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30738",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e0e74aa15f14f7aa8b6415c57c9b38a0484efa0c",
+          "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+          "title_zh": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+          "title_en": null,
+          "title_original": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+          "summary": "Apple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30738",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T01:19:00.784382Z",
+      "latest_at": "2026-09-01T01:19:00.784382Z",
+      "primary_item": {
+        "id": "e0e74aa15f14f7aa8b6415c57c9b38a0484efa0c",
+        "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+        "title_zh": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+        "title_en": null,
+        "title_original": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
+        "summary": "Apple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nExplore AI Frontiers",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30738",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6d138fa7fc64",
+      "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+      "url": "https://www.aibase.com/news/30737",
+      "primary_url": "https://www.aibase.com/news/30737",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f3a5a57928f37c6b9fa328a53b4bf55d6a7b8a9",
+          "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "title_zh": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "title_en": null,
+          "title_original": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "summary": "On the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30737",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f3a5a57928f37c6b9fa328a53b4bf55d6a7b8a9",
+          "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "title_zh": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "title_en": null,
+          "title_original": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "summary": "On the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30737",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T01:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T01:19:00.784382Z",
+      "latest_at": "2026-09-01T01:19:00.784382Z",
+      "primary_item": {
+        "id": "3f3a5a57928f37c6b9fa328a53b4bf55d6a7b8a9",
+        "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+        "title_zh": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+        "title_en": null,
+        "title_original": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+        "summary": "On the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30737",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_96a4caba84fa",
+      "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+      "url": "https://www.aibase.com/news/30727",
+      "primary_url": "https://www.aibase.com/news/30727",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
+          "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_zh": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_en": null,
+          "title_original": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "summary": "According to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nAccording to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nAccording to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30727",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T17:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
+          "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_zh": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "title_en": null,
+          "title_original": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+          "summary": "According to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nAccording to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nAccording to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30727",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T17:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -297,104 +612,180 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-30T04:21:04Z",
-      "latest_at": "2026-08-30T04:21:04Z",
+      "earliest_at": "2026-08-31T17:19:00.784382Z",
+      "latest_at": "2026-08-31T17:19:00.784382Z",
       "primary_item": {
-        "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
-        "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+        "id": "5dcc3af4be9731086fe179575c44962e35e10c9d",
+        "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+        "title_zh": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-        "summary": "本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯周报：2026年第35周AI深度信号周报。本期聚焦：OpenAI与Claude引发的智能体自治安全危机；阿里、智谱、腾讯开启稀疏激活（MoE）架构推理效率军备赛；具身智能迎来百亿美元融资与出货潮；以及Gemini用户破10亿、英伟达Q2财报等最新行业动态。\n本期AI资讯围绕“智能体自治危机、稀疏激活架构与具身智能融资潮”展开，梳理重要产品进展、行业趋势与风险信号。\n期刊. 2026年 W35 • 2026/08/30\n本周关键词 : 智能体自治",
+        "title_original": "英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全",
+        "summary": "According to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nAccording to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nAccording to The Guardian, a regulatory body of the UK's National Health Service (NHS) has warned that AI technology used to listen and transcribe doctor-patien\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://www.aibase.com/news/30727",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6224b50e6bb7",
-      "title": "“无AI星期五”",
-      "url": "https://noaifridays.com",
-      "primary_url": "https://noaifridays.com",
-      "source": "noaifridays.com",
-      "source_name": "Buzzing",
+      "story_id": "story_2d9cbccbc345",
+      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+      "url": "https://www.aibase.com/news/30726",
+      "primary_url": "https://www.aibase.com/news/30726",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8208f10f261b860b152b622827844b09cfe8b276",
-          "title": "“无AI星期五”",
-          "title_zh": "“无AI星期五”",
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
           "title_en": null,
-          "title_original": "“无AI星期五”",
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": "Recently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nRecently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nRecently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": "Recently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nRecently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nRecently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T16:19:00.784382Z",
+      "latest_at": "2026-08-31T16:19:00.784382Z",
+      "primary_item": {
+        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_en": null,
+        "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "summary": "Recently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nRecently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nRecently, the capital market has seen a strong rebound, and the AI company MiniMax has experienced a significant recovery after previous stock price fluctuation\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30726",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ee52f913277f",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "primary_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://noaifridays.com",
-          "source": "noaifridays.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T15:15:25.717000Z"
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-31T15:34:58Z"
         },
         {
-          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
-          "title": "“无AI星期五” / No AI Fridays",
-          "title_zh": "“无AI星期五”",
-          "title_en": "No AI Fridays",
-          "title_original": "No AI Fridays",
+          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
+          "title": "Debian won’t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won’t ban AI code from its Linux distribution",
+          "title_original": "Debian won’t ban AI code from its Linux distribution",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://noaifridays.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T12:31:05Z"
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T15:34:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "noaifridays.com"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "8208f10f261b860b152b622827844b09cfe8b276",
-          "title": "“无AI星期五”",
-          "title_zh": "“无AI星期五”",
-          "title_en": null,
-          "title_original": "“无AI星期五”",
+          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://noaifridays.com",
-          "source": "noaifridays.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T15:15:25.717000Z"
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-31T15:34:58Z"
         },
         {
-          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
-          "title": "“无AI星期五” / No AI Fridays",
-          "title_zh": "“无AI星期五”",
-          "title_en": "No AI Fridays",
-          "title_original": "No AI Fridays",
+          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
+          "title": "Debian won’t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won’t ban AI code from its Linux distribution",
+          "title_original": "Debian won’t ban AI code from its Linux distribution",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://noaifridays.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T12:31:05Z"
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T15:34:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5919,
+      "importance": 0.5919,
+      "importance_score": 0.5919,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8731,
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.8689,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -403,104 +794,181 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T12:31:05Z",
-      "latest_at": "2026-08-30T15:15:25.717000Z",
+      "earliest_at": "2026-08-31T15:34:58Z",
+      "latest_at": "2026-08-31T15:34:58Z",
       "primary_item": {
-        "id": "8208f10f261b860b152b622827844b09cfe8b276",
-        "title": "“无AI星期五”",
-        "title_zh": "“无AI星期五”",
-        "title_en": null,
-        "title_original": "“无AI星期五”",
+        "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
+        "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "title_zh": null,
+        "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://noaifridays.com",
-        "source": "noaifridays.com",
-        "source_name": "Buzzing"
+        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_3ac6b3b53291",
-      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_b510ea2a0b4a",
+      "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+      "url": "https://www.aibase.com/news/30724",
+      "primary_url": "https://www.aibase.com/news/30724",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
-          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
-          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "id": "c2dbd33b2641354828e6f449dd76704421772400",
+          "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
           "title_en": null,
-          "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "summary": "Sony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nSony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nSony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c2dbd33b2641354828e6f449dd76704421772400",
+          "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "title_en": null,
+          "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+          "summary": "Sony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nSony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nSony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T16:19:00.784382Z",
+      "latest_at": "2026-08-31T16:19:00.784382Z",
+      "primary_item": {
+        "id": "c2dbd33b2641354828e6f449dd76704421772400",
+        "title": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+        "title_zh": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+        "title_en": null,
+        "title_original": "索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元",
+        "summary": "Sony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nSony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nSony Music Publishing, Warner Chappell Music, and 33 other partner music publishers, totaling 35 companies, have filed a lawsuit with the U.S. District Court fo\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0de030a9d5d9",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://news.ycombinator.com/item?id=49508982",
+      "primary_url": "https://news.ycombinator.com/item?id=49508982",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "thezvi.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T19:31:43.820000Z"
+          "url": "https://news.ycombinator.com/item?id=49508982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T01:22:22.698000Z"
         },
         {
-          "id": "a145aaf94cfbd69f24ff671ac78f10a9f8ed26c6",
-          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "id": "d939518be2259fea47ec2b899497c65553d4778f",
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T14:06:54Z"
+          "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T22:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "thezvi.wordpress.com"
+        "Slashdot",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
-          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
-          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
-          "title_en": null,
-          "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "thezvi.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T19:31:43.820000Z"
+          "url": "https://news.ycombinator.com/item?id=49508982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T01:22:22.698000Z"
         },
         {
-          "id": "a145aaf94cfbd69f24ff671ac78f10a9f8ed26c6",
-          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "id": "d939518be2259fea47ec2b899497c65553d4778f",
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T14:06:54Z"
+          "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T22:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8588,
+        "recency": 1.0,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -509,316 +977,547 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T14:06:54Z",
-      "latest_at": "2026-08-30T19:31:43.820000Z",
+      "earliest_at": "2026-08-31T22:00:00Z",
+      "latest_at": "2026-09-01T01:22:22.698000Z",
       "primary_item": {
-        "id": "a145aaf94cfbd69f24ff671ac78f10a9f8ed26c6",
-        "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-        "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
-        "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-        "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "title_zh": null,
+        "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_40b94c960751",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://news.ycombinator.com/item?id=49502611",
-      "primary_url": "https://news.ycombinator.com/item?id=49502611",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": "I disagree with this. Decoders were absolutely dominant in 2020 for chat. GPT2 was considered too dangerous to release, and I remember scrambling to get on the GPT3 waitlist. It worked. (The only exception I will make is encoder-decoder models which now are often done by decoder-only.) But what made it go mainstream was RL. RLHF at first, then other improvements like DPO that were less of a pain in the ass to set up. Adding diffusion on top of that would be an even bigger pain in the ass. Before",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T00:23:44.786000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": "I disagree with this. Decoders were absolutely dominant in 2020 for chat. GPT2 was considered too dangerous to release, and I remember scrambling to get on the GPT3 waitlist. It worked. (The only exception I will make is encoder-decoder models which now are often done by decoder-only.) But what made it go mainstream was RL. RLHF at first, then other improvements like DPO that were less of a pain in the ass to set up. Adding diffusion on top of that would be an even bigger pain in the ass. Before",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T00:23:44.786000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9963,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-31T00:23:44.786000Z",
-      "primary_item": {
-        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "title_zh": null,
-        "title_en": "Continuous Diffusion Language Models (CDLM's)",
-        "title_original": "Continuous Diffusion Language Models (CDLM's)",
-        "summary": "I disagree with this. Decoders were absolutely dominant in 2020 for chat. GPT2 was considered too dangerous to release, and I remember scrambling to get on the GPT3 waitlist. It worked. (The only exception I will make is encoder-decoder models which now are often done by decoder-only.) But what made it go mainstream was RL. RLHF at first, then other improvements like DPO that were less of a pain in the ass to set up. Adding diffusion on top of that would be an even bigger pain in the ass. Before",
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49502611",
+        "url": "https://news.ycombinator.com/item?id=49508982",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_78610e902a47",
-      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "primary_url": "https://github.com/anthropics/claude-code/issues/66504",
-      "source": "github.com",
+      "story_id": "story_d7138df61117",
+      "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+      "url": "https://www.aibase.com/news/30723",
+      "primary_url": "https://www.aibase.com/news/30723",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
+          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "title_en": null,
+          "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "summary": "Elon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nElon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nElon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30723",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
+          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "title_en": null,
+          "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "summary": "Elon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nElon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nElon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30723",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T16:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T16:19:00.784382Z",
+      "latest_at": "2026-08-31T16:19:00.784382Z",
+      "primary_item": {
+        "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
+        "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+        "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+        "title_en": null,
+        "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+        "summary": "Elon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nElon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nElon Musk described a plan during the weekend aimed at keeping Earth habitable for about 1 billion years, starting with a batch of satellites capable of autonom\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30723",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_33e3871730ab",
+      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "source": "www.macrumors.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "title_zh": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "title_en": null,
-          "title_original": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "github.com",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-30T16:35:36.082000Z"
+          "published_at": "2026-08-31T18:41:20.531000Z"
         },
         {
-          "id": "85e9e66462497dd48395e77e97732ad5db4e276d",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_zh": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_original": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-30T12:50:54Z"
+          "published_at": "2026-08-31T12:41:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "github.com"
+        "www.macrumors.com"
       ],
       "items": [
         {
-          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "title_zh": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "title_en": null,
-          "title_original": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "github.com",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-30T16:35:36.082000Z"
+          "published_at": "2026-08-31T18:41:20.531000Z"
         },
         {
-          "id": "85e9e66462497dd48395e77e97732ad5db4e276d",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_zh": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "title_original": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-30T12:50:54Z"
+          "published_at": "2026-08-31T12:41:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.426,
-      "importance": 0.426,
-      "importance_score": 0.426,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8901,
+        "recency": 0.9087,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
+        "generic_tech_penalty": 0.0
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T12:50:54Z",
-      "latest_at": "2026-08-30T16:35:36.082000Z",
+      "earliest_at": "2026-08-31T12:41:22Z",
+      "latest_at": "2026-08-31T18:41:20.531000Z",
       "primary_item": {
-        "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-        "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-        "title_zh": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
         "title_en": null,
-        "title_original": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+        "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/claude-code/issues/66504",
-        "source": "github.com",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+        "source": "www.macrumors.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_8672a4a6bc9e",
-      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-      "url": "https://news.ycombinator.com/item?id=49503421",
-      "primary_url": "https://news.ycombinator.com/item?id=49503421",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_492835039be8",
+      "title": "OpenClaw 2.0，意外之作",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "source": "openclaw.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "32c4c2fcd14b8255a241067071936776874d885b",
-          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": null,
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "summary": "We thought: what if lecture videos were written as code and compiled into video using computer graphics and TTS? Then LLMs could write them, and lectures could be fixed with code edits instead of video production. On correctness: LLMs may make mistakes. But these videos are code sitting in our repository, and we can maintain them. Every report and review becomes a fix in the source, and everyone who watches after that gets the corrected lecture. Every recorded lecture on the internet is stuck wi",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49503421",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T00:23:44.786000Z"
-        },
-        {
-          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
-          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": null,
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
+          "title": "OpenClaw 2.0，意外之作",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": null,
+          "title_original": "OpenClaw 2.0，意外之作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T22:22:23Z"
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "openclaw.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T10:27:50.895000Z"
+        },
+        {
+          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
+          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": "OpenClaw 2.0, Accidentally",
+          "title_original": "OpenClaw 2.0, Accidentally",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T03:38:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "openclaw.ai"
       ],
       "items": [
         {
-          "id": "32c4c2fcd14b8255a241067071936776874d885b",
-          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": null,
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "summary": "We thought: what if lecture videos were written as code and compiled into video using computer graphics and TTS? Then LLMs could write them, and lectures could be fixed with code edits instead of video production. On correctness: LLMs may make mistakes. But these videos are code sitting in our repository, and we can maintain them. Every report and review becomes a fix in the source, and everyone who watches after that gets the corrected lecture. Every recorded lecture on the internet is stuck wi",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49503421",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T00:23:44.786000Z"
-        },
-        {
-          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
-          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_zh": null,
-          "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-          "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
+          "title": "OpenClaw 2.0，意外之作",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": null,
+          "title_original": "OpenClaw 2.0，意外之作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://academa.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T22:22:23Z"
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "openclaw.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T10:27:50.895000Z"
+        },
+        {
+          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
+          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
+          "title_zh": "OpenClaw 2.0，意外之作",
+          "title_en": "OpenClaw 2.0, Accidentally",
+          "title_original": "OpenClaw 2.0, Accidentally",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T03:38:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.807,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T03:38:02Z",
+      "latest_at": "2026-08-31T10:27:50.895000Z",
+      "primary_item": {
+        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
+        "title": "OpenClaw 2.0，意外之作",
+        "title_zh": "OpenClaw 2.0，意外之作",
+        "title_en": null,
+        "title_original": "OpenClaw 2.0，意外之作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+        "source": "openclaw.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e42196c2130a",
+      "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+      "url": "https://www.aibase.com/news/30719",
+      "primary_url": "https://www.aibase.com/news/30719",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_en": null,
+          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "summary": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30719",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T15:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "title_en": null,
+          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "summary": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30719",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T15:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T15:19:00.784382Z",
+      "latest_at": "2026-08-31T15:19:00.784382Z",
+      "primary_item": {
+        "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+        "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "title_en": null,
+        "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "summary": "According to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nAccording to China Central Television, a batch of new regulations will take effect starting September 2026. Among them, the most attention-grabbing is the natio\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30719",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_afb410df2404",
+      "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+      "url": "https://www.aibase.com/news/30721",
+      "primary_url": "https://www.aibase.com/news/30721",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_en": null,
+          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "summary": "On August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30721",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T15:19:00.784382Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "title_en": null,
+          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+          "summary": "On August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30721",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T15:19:00.784382Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T15:19:00.784382Z",
+      "latest_at": "2026-08-31T15:19:00.784382Z",
+      "primary_item": {
+        "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
+        "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+        "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+        "title_en": null,
+        "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+        "summary": "On August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nOn August 31, Alibaba Qwen launched the Agent Teams feature, expanding the AI video creation method from primarily writing prompts to a multi-agent collaboratio\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30721",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1820ecd798ef",
+      "title": "ChatGPT 工作工具与技能参考",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "primary_url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "source": "codex-tool-reference.simonw.chatgpt.site",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": null,
+          "title_original": "ChatGPT 工作工具与技能参考",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T17:21:15.952000Z"
+        },
+        {
+          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T14:07:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "codex-tool-reference.simonw.chatgpt.site"
+      ],
+      "items": [
+        {
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": null,
+          "title_original": "ChatGPT 工作工具与技能参考",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T17:21:15.952000Z"
+        },
+        {
+          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T14:07:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4262,
+      "importance": 0.4262,
+      "importance_score": 0.4262,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8914,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -827,19 +1526,19 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T22:22:23Z",
-      "latest_at": "2026-08-31T00:23:44.786000Z",
+      "earliest_at": "2026-08-31T14:07:15Z",
+      "latest_at": "2026-08-31T17:21:15.952000Z",
       "primary_item": {
-        "id": "32c4c2fcd14b8255a241067071936776874d885b",
-        "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-        "title_zh": null,
-        "title_en": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-        "title_original": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-        "summary": "We thought: what if lecture videos were written as code and compiled into video using computer graphics and TTS? Then LLMs could write them, and lectures could be fixed with code edits instead of video production. On correctness: LLMs may make mistakes. But these videos are code sitting in our repository, and we can maintain them. Every report and review becomes a fix in the source, and everyone who watches after that gets the corrected lecture. Every recorded lecture on the internet is stuck wi",
+        "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+        "title": "ChatGPT 工作工具与技能参考",
+        "title_zh": "ChatGPT 工作工具与技能参考",
+        "title_en": null,
+        "title_original": "ChatGPT 工作工具与技能参考",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49503421",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://codex-tool-reference.simonw.chatgpt.site",
+        "source": "codex-tool-reference.simonw.chatgpt.site",
+        "source_name": "Buzzing"
       }
     }
   ]
