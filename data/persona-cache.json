@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_581a82f8f059|pragmatic|ccc085fd": {
-      "score": 72,
-      "review": "行业动态，指出小红书内容形式变化，可测试大字报笔记的流量和转化效果。",
-      "title_hash": "ac317c50",
-      "scored_at": "2026-08-22T23:02:40.792548Z"
-    },
-    "story_8a2541a1bf06|pragmatic|ccc085fd": {
-      "score": 22,
-      "review": "泛技术讨论，未涉及内容生产或变现路径，不占注意力。",
-      "title_hash": "c8fc3ca2",
-      "scored_at": "2026-08-22T23:02:42.061912Z"
-    },
-    "story_ce8fd18a4317|pragmatic|ccc085fd": {
-      "score": 35,
-      "review": "工具更新但未涉及变现路径，对创作者收入无直接帮助，暂不测试。",
-      "title_hash": "f0b5887c",
-      "scored_at": "2026-08-22T23:02:43.133146Z"
-    },
-    "story_ede39af7c879|pragmatic|ccc085fd": {
-      "score": 25,
-      "review": "泛技术路线图，与内容变现无直接关联，不占注意力。",
-      "title_hash": "4038d2b5",
-      "scored_at": "2026-08-22T23:02:44.404186Z"
-    },
-    "story_581a82f8f059|cynic|f4237a62": {
-      "score": 55,
-      "review": "大字报笔记能火，说明平台算法比用户更爱标题党，内容质量先放一边。",
-      "title_hash": "ac317c50",
-      "scored_at": "2026-08-22T23:02:45.720878Z"
-    },
-    "story_581a82f8f059|paper-police|966065bf": {
-      "score": 20,
-      "review": "只有运营派一篇行业观察，无数据无案例，属自媒体观点，证据薄弱。",
-      "title_hash": "ac317c50",
-      "scored_at": "2026-08-22T23:02:46.867209Z"
-    },
-    "story_ce8fd18a4317|cynic|f4237a62": {
-      "score": 55,
-      "review": "A/B测试藏着掖着，怕不是怕用户发现工作量没降多少。",
-      "title_hash": "f0b5887c",
-      "scored_at": "2026-08-22T23:02:48.003620Z"
-    },
-    "story_ce8fd18a4317|paper-police|966065bf": {
-      "score": 10,
-      "review": "推特爆料无数据无复现，A/B测试细节全无，只能算传闻。",
-      "title_hash": "f0b5887c",
-      "scored_at": "2026-08-22T23:02:49.422037Z"
-    },
-    "story_ede39af7c879|cynic|f4237a62": {
-      "score": 62,
-      "review": "路线图画得挺圆，五大领域听着唬人，先拿出一个能落地的再说。",
-      "title_hash": "4038d2b5",
-      "scored_at": "2026-08-22T23:02:50.506301Z"
-    },
-    "story_ede39af7c879|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方博客画饼，无论文无代码无评测，路线图不等于成果。",
-      "title_hash": "4038d2b5",
-      "scored_at": "2026-08-22T23:02:51.600992Z"
-    },
     "story_e1c4bdda1c5d|pragmatic|ccc085fd": {
       "score": 35,
       "review": "AI评测方法偏技术，与内容变现无直接关联，除非用于优化内容生产流程，否则不占注意力。",
