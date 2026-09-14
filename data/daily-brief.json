@@ -1,253 +1,8 @@
 {
-  "generated_at": "2026-09-13T00:02:25.423245Z",
+  "generated_at": "2026-09-14T00:15:31.500250Z",
   "window_hours": 24,
   "total_items": 11,
   "items": [
-    {
-      "story_id": "story_4f105f17bfdc",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "www.minitap.ai"
-      ],
-      "items": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7344,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T05:37:39.339000Z",
-      "primary_item": {
-        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-        "recommend_reason_zh": null,
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_050756be57e3",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://www.rubyhack.ai",
-      "primary_url": "https://www.rubyhack.ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_en": null,
-          "title_original": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
-          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_zh": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_en": null,
-          "title_original": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "www.rubyhack.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.rubyhack.ai"
-      ],
-      "items": [
-        {
-          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "title_en": null,
-          "title_original": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
-          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_zh": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "title_en": null,
-          "title_original": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rubyhack.ai",
-          "source": "www.rubyhack.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7108,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T00:24:20.561000Z",
-      "latest_at": "2026-09-12T00:24:20.561000Z",
-      "primary_item": {
-        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "title_en": null,
-        "title_original": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-        "recommend_reason_zh": null,
-        "url": "https://www.rubyhack.ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_86ff3d2b9b70",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -293,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9963,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -312,8 +67,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T00:02:25.423245Z",
-      "latest_at": "2026-09-13T00:02:25.423245Z",
+      "earliest_at": "2026-09-14T00:00:00Z",
+      "latest_at": "2026-09-14T00:00:00Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -328,611 +83,715 @@
       }
     },
     {
-      "story_id": "story_964468d18cc3",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-      "url": "https://x.com/sama/status/2098811563415150910",
-      "primary_url": "https://x.com/sama/status/2098811563415150910",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
+      "story_id": "story_87d309e8a704",
+      "title": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+      "url": "https://creatoreconomy.so/p/stop-building-ai-agents-build-ai-employees-instead-pedro-franceschi-brex",
+      "primary_url": "https://creatoreconomy.so/p/stop-building-ai-agents-build-ai-employees-instead-pedro-franceschi-brex",
+      "source": "Creator Science",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+          "id": "7a917535e49079419bcce11548ce5f82a73274bb",
+          "title": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+          "title_zh": null,
+          "title_en": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+          "title_original": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+          "summary": "How to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his life and $5B business.\nHow to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his life and $5B business.\nHow to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his l",
           "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
+          "url": "https://creatoreconomy.so/p/stop-building-ai-agents-build-ai-employees-instead-pedro-franceschi-brex",
+          "source": "Creator Science",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-13T14:03:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Sam Altman (@sama)"
+        "Creator Science"
       ],
       "items": [
         {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+          "id": "7a917535e49079419bcce11548ce5f82a73274bb",
+          "title": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+          "title_zh": null,
+          "title_en": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+          "title_original": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+          "summary": "How to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his life and $5B business.\nHow to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his life and $5B business.\nHow to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his l",
           "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
+          "url": "https://creatoreconomy.so/p/stop-building-ai-agents-build-ai-employees-instead-pedro-franceschi-brex",
+          "source": "Creator Science",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-13T14:03:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.897,
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.863,
         "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
+        "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T16:30:45Z",
-      "latest_at": "2026-09-12T16:30:45Z",
-      "primary_item": {
-        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b87018eebc80",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "primary_url": "https://x.com/trq212/status/2098860941391872132",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9404,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T19:46:58Z",
-      "latest_at": "2026-09-12T19:46:58Z",
-      "primary_item": {
-        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/trq212/status/2098860941391872132",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f01e6682c6a0",
-      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
-      ],
-      "items": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9476,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T20:18:42Z",
-      "latest_at": "2026-09-12T20:18:42Z",
-      "primary_item": {
-        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-        "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_462f3ecf41bf",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "title_en": "https://x.com/i/article/2098531824528220160",
-          "title_original": "https://x.com/i/article/2098531824528220160",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "title_en": "https://x.com/i/article/2098531824528220160",
-          "title_original": "https://x.com/i/article/2098531824528220160",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9106,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-12T17:33:23Z",
-      "latest_at": "2026-09-12T17:33:23Z",
+      "earliest_at": "2026-09-13T14:03:10Z",
+      "latest_at": "2026-09-13T14:03:10Z",
       "primary_item": {
-        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-        "title_en": "https://x.com/i/article/2098531824528220160",
-        "title_original": "https://x.com/i/article/2098531824528220160",
-        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "id": "7a917535e49079419bcce11548ce5f82a73274bb",
+        "title": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+        "title_zh": null,
+        "title_en": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+        "title_original": "Stop Building AI Agents. Start Building AI Employees (Live Demo) | Pedro Franceschi",
+        "summary": "How to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his life and $5B business.\nHow to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his life and $5B business.\nHow to think of building agents as onboarding AI employees with a specific job, skill set, manager, and budget. Plus how Brex’s CEO uses AI to run his l",
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "url": "https://creatoreconomy.so/p/stop-building-ai-agents-build-ai-employees-instead-pedro-franceschi-brex",
+        "source": "Creator Science",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_1ab0f86554fa",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "primary_url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_original": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_original": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7675,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-13T05:56:03Z",
+      "latest_at": "2026-09-13T05:56:03Z",
+      "primary_item": {
+        "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+        "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+        "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+        "title_original": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+        "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_449833896f65",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_7bf1c25cd19c",
+      "title": "素人 IP 批量走红：热度易得，变现很难",
+      "url": "https://www.yunyingpai.com/product-operation/1062229.html",
+      "primary_url": "https://www.yunyingpai.com/product-operation/1062229.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": null,
-          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\nWhile OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFi",
+          "id": "ad575cce329c8722a2760893502a1dc780eecf6f",
+          "title": "素人 IP 批量走红：热度易得，变现很难",
+          "title_zh": "素人 IP 批量走红：热度易得，变现很难",
+          "title_en": null,
+          "title_original": "素人 IP 批量走红：热度易得，变现很难",
+          "summary": "素人IP正以惊人速度席卷市场：Yuy玉快闪单日破百万、吉蛙全网曝光破亿、咕咕嘎嘎二创播放超15亿。本文拆解其走红公式——反精致人设、日更陪伴与UGC共创，并梳理周边、快闪、联名的变现路径，探讨这股草根浪潮能否持续。\n商场1层迎来了新顶流。\n今年上半年，由00后画师“角闪石族族长”创作的IP“Yuy玉”先后在上海、北京、杭州、深圳等地举办快闪，创下一系列纪录：周边开场五分钟售罄、单日销量破百万、北京场累计销售额超千万……\n看着里三层外三层的人流，很多路人心里可能会犯嘀咕：这个一脸雀斑的小女孩，怎么就火起来了？\n事实上，“Yuy玉”不是唯一一个走红的素人IP：中国美术学院学生周子歆设计的“吉蛙”，在毕业展展出后周边迅速售罄，相关话题登顶微博热搜，全网曝光量破亿； B 站 UP 主用 AI 生成的虚拟形象“咕咕嘎嘎”，仅一个月二创视频新增播放量就超过 15 亿，诞生了多条百万级播放爆款……\nYuy玉、吉蛙、咕咕嘎嘎 图源：小红书、B站\n这些案例表明，IP 的生产逻辑正在被改写。\n过去，IP 创作是标准的工业化模式，大公司投入资源、打磨内容、全渠道铺量宣发，路径清晰但门槛极高。\n而现在，“ 素",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T20:19:16Z"
+          "url": "https://www.yunyingpai.com/product-operation/1062229.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-13T12:04:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "ad575cce329c8722a2760893502a1dc780eecf6f",
+          "title": "素人 IP 批量走红：热度易得，变现很难",
+          "title_zh": "素人 IP 批量走红：热度易得，变现很难",
+          "title_en": null,
+          "title_original": "素人 IP 批量走红：热度易得，变现很难",
+          "summary": "素人IP正以惊人速度席卷市场：Yuy玉快闪单日破百万、吉蛙全网曝光破亿、咕咕嘎嘎二创播放超15亿。本文拆解其走红公式——反精致人设、日更陪伴与UGC共创，并梳理周边、快闪、联名的变现路径，探讨这股草根浪潮能否持续。\n商场1层迎来了新顶流。\n今年上半年，由00后画师“角闪石族族长”创作的IP“Yuy玉”先后在上海、北京、杭州、深圳等地举办快闪，创下一系列纪录：周边开场五分钟售罄、单日销量破百万、北京场累计销售额超千万……\n看着里三层外三层的人流，很多路人心里可能会犯嘀咕：这个一脸雀斑的小女孩，怎么就火起来了？\n事实上，“Yuy玉”不是唯一一个走红的素人IP：中国美术学院学生周子歆设计的“吉蛙”，在毕业展展出后周边迅速售罄，相关话题登顶微博热搜，全网曝光量破亿； B 站 UP 主用 AI 生成的虚拟形象“咕咕嘎嘎”，仅一个月二创视频新增播放量就超过 15 亿，诞生了多条百万级播放爆款……\nYuy玉、吉蛙、咕咕嘎嘎 图源：小红书、B站\n这些案例表明，IP 的生产逻辑正在被改写。\n过去，IP 创作是标准的工业化模式，大公司投入资源、打磨内容、全渠道铺量宣发，路径清晰但门槛极高。\n而现在，“ 素",
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/product-operation/1062229.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-13T12:04:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.8387,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-13T12:04:50Z",
+      "latest_at": "2026-09-13T12:04:50Z",
+      "primary_item": {
+        "id": "ad575cce329c8722a2760893502a1dc780eecf6f",
+        "title": "素人 IP 批量走红：热度易得，变现很难",
+        "title_zh": "素人 IP 批量走红：热度易得，变现很难",
+        "title_en": null,
+        "title_original": "素人 IP 批量走红：热度易得，变现很难",
+        "summary": "素人IP正以惊人速度席卷市场：Yuy玉快闪单日破百万、吉蛙全网曝光破亿、咕咕嘎嘎二创播放超15亿。本文拆解其走红公式——反精致人设、日更陪伴与UGC共创，并梳理周边、快闪、联名的变现路径，探讨这股草根浪潮能否持续。\n商场1层迎来了新顶流。\n今年上半年，由00后画师“角闪石族族长”创作的IP“Yuy玉”先后在上海、北京、杭州、深圳等地举办快闪，创下一系列纪录：周边开场五分钟售罄、单日销量破百万、北京场累计销售额超千万……\n看着里三层外三层的人流，很多路人心里可能会犯嘀咕：这个一脸雀斑的小女孩，怎么就火起来了？\n事实上，“Yuy玉”不是唯一一个走红的素人IP：中国美术学院学生周子歆设计的“吉蛙”，在毕业展展出后周边迅速售罄，相关话题登顶微博热搜，全网曝光量破亿； B 站 UP 主用 AI 生成的虚拟形象“咕咕嘎嘎”，仅一个月二创视频新增播放量就超过 15 亿，诞生了多条百万级播放爆款……\nYuy玉、吉蛙、咕咕嘎嘎 图源：小红书、B站\n这些案例表明，IP 的生产逻辑正在被改写。\n过去，IP 创作是标准的工业化模式，大公司投入资源、打磨内容、全渠道铺量宣发，路径清晰但门槛极高。\n而现在，“ 素",
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/product-operation/1062229.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_e5571e6173d7",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "title_en": "Two cheers （out of three） for Dario Amodei",
+          "title_original": "Two cheers （out of three） for Dario Amodei",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T18:34:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "title_en": "Two cheers （out of three） for Dario Amodei",
+          "title_original": "Two cheers （out of three） for Dario Amodei",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T18:34:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9212,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-13T18:34:31Z",
+      "latest_at": "2026-09-13T18:34:31Z",
+      "primary_item": {
+        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+        "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+        "title_en": "Two cheers （out of three） for Dario Amodei",
+        "title_original": "Two cheers （out of three） for Dario Amodei",
+        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bf8f4e743f46",
+      "title": "广告商业化变现：短剧APP广告变现",
+      "url": "https://www.yunyingpai.com/app/1062212.html",
+      "primary_url": "https://www.yunyingpai.com/app/1062212.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "55b04b0cb9bcf6d45f018fc93526ae9abf2f7287",
+          "title": "广告商业化变现：短剧APP广告变现",
+          "title_zh": "广告商业化变现：短剧APP广告变现",
+          "title_en": null,
+          "title_original": "广告商业化变现：短剧APP广告变现",
+          "summary": "短剧App的广告变现，远不止是插几个广告位那么简单。从卡点设计、联盟混排到预加载时序，每一步都藏着ROI的生死线。本文拆解IAAP混合变现、1换N策略等八大维度，带你理解短剧行业如何用产品策略平衡用户体验与商业收益。\n最近被身边人安利了几个AI短剧，眼睁睁看着自己的周末被熬穿了，确实爽也确实“害人”，接之前的内容，我本身是想把广告商业化变现的内容做成一整个系列的内容作为分享，但是发现这是一个很大的工程，为了不减少自己对外输出的意向，还是决定从生活中去寻找可以讲述的一些题材。\n最初我的定位是【广告】商业化，但是后续发现其实这个行业我也不过是初入门槛，算不上深度掌握，站在自己的岗位上看到的不过是行业的冰山一角罢了。\n所以后续内容会主要围绕商业化去输出，而不单纯是广告商业化，基于此，近期心血来潮被短剧洗脑，决定挖一下短剧行业的广告变现策略。\n以下内容是通过自身使用短剧产品以及和从业者交流，并且借助AI查阅了各方面的官方资料综合整理撰写，如有问题大家可以在评论区沟通， 对于非短剧行业的从业人员，作为了解即可，很多产品策略无需深挖 ，因为没有可以直接复用的策略，大多数都需要结合自身的实际业务做调",
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/app/1062212.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-13T03:23:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "55b04b0cb9bcf6d45f018fc93526ae9abf2f7287",
+          "title": "广告商业化变现：短剧APP广告变现",
+          "title_zh": "广告商业化变现：短剧APP广告变现",
+          "title_en": null,
+          "title_original": "广告商业化变现：短剧APP广告变现",
+          "summary": "短剧App的广告变现，远不止是插几个广告位那么简单。从卡点设计、联盟混排到预加载时序，每一步都藏着ROI的生死线。本文拆解IAAP混合变现、1换N策略等八大维度，带你理解短剧行业如何用产品策略平衡用户体验与商业收益。\n最近被身边人安利了几个AI短剧，眼睁睁看着自己的周末被熬穿了，确实爽也确实“害人”，接之前的内容，我本身是想把广告商业化变现的内容做成一整个系列的内容作为分享，但是发现这是一个很大的工程，为了不减少自己对外输出的意向，还是决定从生活中去寻找可以讲述的一些题材。\n最初我的定位是【广告】商业化，但是后续发现其实这个行业我也不过是初入门槛，算不上深度掌握，站在自己的岗位上看到的不过是行业的冰山一角罢了。\n所以后续内容会主要围绕商业化去输出，而不单纯是广告商业化，基于此，近期心血来潮被短剧洗脑，决定挖一下短剧行业的广告变现策略。\n以下内容是通过自身使用短剧产品以及和从业者交流，并且借助AI查阅了各方面的官方资料综合整理撰写，如有问题大家可以在评论区沟通， 对于非短剧行业的从业人员，作为了解即可，很多产品策略无需深挖 ，因为没有可以直接复用的策略，大多数都需要结合自身的实际业务做调",
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/app/1062212.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-13T03:23:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6192,
+        "source_tier": 0.5,
+        "ai_relevance": 0.86,
+        "recency": 0.7398,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-13T03:23:28Z",
+      "latest_at": "2026-09-13T03:23:28Z",
+      "primary_item": {
+        "id": "55b04b0cb9bcf6d45f018fc93526ae9abf2f7287",
+        "title": "广告商业化变现：短剧APP广告变现",
+        "title_zh": "广告商业化变现：短剧APP广告变现",
+        "title_en": null,
+        "title_original": "广告商业化变现：短剧APP广告变现",
+        "summary": "短剧App的广告变现，远不止是插几个广告位那么简单。从卡点设计、联盟混排到预加载时序，每一步都藏着ROI的生死线。本文拆解IAAP混合变现、1换N策略等八大维度，带你理解短剧行业如何用产品策略平衡用户体验与商业收益。\n最近被身边人安利了几个AI短剧，眼睁睁看着自己的周末被熬穿了，确实爽也确实“害人”，接之前的内容，我本身是想把广告商业化变现的内容做成一整个系列的内容作为分享，但是发现这是一个很大的工程，为了不减少自己对外输出的意向，还是决定从生活中去寻找可以讲述的一些题材。\n最初我的定位是【广告】商业化，但是后续发现其实这个行业我也不过是初入门槛，算不上深度掌握，站在自己的岗位上看到的不过是行业的冰山一角罢了。\n所以后续内容会主要围绕商业化去输出，而不单纯是广告商业化，基于此，近期心血来潮被短剧洗脑，决定挖一下短剧行业的广告变现策略。\n以下内容是通过自身使用短剧产品以及和从业者交流，并且借助AI查阅了各方面的官方资料综合整理撰写，如有问题大家可以在评论区沟通， 对于非短剧行业的从业人员，作为了解即可，很多产品策略无需深挖 ，因为没有可以直接复用的策略，大多数都需要结合自身的实际业务做调",
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/app/1062212.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_7e7a8cf3aa37",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "primary_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T14:15:40Z"
         },
         {
-          "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": null,
-          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "id": "f7c3f90cfc11c4c4f1cab92da1b135f12c375f24",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "title_original": "Houthis used Claude Code to develop missile guidance software: Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T14:15:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T14:15:40Z"
+        },
+        {
+          "id": "f7c3f90cfc11c4c4f1cab92da1b135f12c375f24",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "title_original": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T14:15:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7074,
+      "importance": 0.7074,
+      "importance_score": 0.7074,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8656,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-13T14:15:40Z",
+      "latest_at": "2026-09-13T14:15:40Z",
+      "primary_item": {
+        "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+        "recommend_reason_zh": null,
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_076542355556",
+      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "www.vals.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": null,
+          "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-12T20:28:29Z"
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "609bba8476226084de8142261dadb3ef6c29e187",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": null,
+          "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "Claude·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "609bba8476226084de8142261dadb3ef6c29e187",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "title_original": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9738,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T21:06:13Z",
+      "latest_at": "2026-09-13T22:25:23.276000Z",
+      "primary_item": {
+        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "title_en": null,
+        "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "source": "www.vals.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ffdf3bb7485a",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "title_zh": null,
+          "title_en": "AI recursive self-improvement might not come so quickly after all",
+          "title_original": "AI recursive self-improvement might not come so quickly after all",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:49:44Z"
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_zh": null,
+          "title_en": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_original": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": null,
-          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\nWhile OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFi",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T20:19:16Z"
-        },
-        {
-          "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": null,
-          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T20:28:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6518,
-      "importance": 0.6518,
-      "importance_score": 0.6518,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9477,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T20:19:16Z",
-      "latest_at": "2026-09-12T20:28:29Z",
-      "primary_item": {
-        "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "title_zh": null,
-        "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\nWhile OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFi",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_bf46b77834f3",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-      "primary_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f31b4892c1b180ca1b7e321eeafc3b99b8effad8",
-          "title": "Anthropic CEO outlines plan to slow AI development",
-          "title_zh": null,
-          "title_en": "Anthropic CEO outlines plan to slow AI development",
-          "title_original": "Anthropic CEO outlines plan to slow AI development",
-          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?\nAnthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCr",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T19:34:44Z"
-        },
-        {
-          "id": "32b86b483722ad7e36d5087db0657246fbc729eb",
-          "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "title_zh": null,
-          "title_en": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "title_original": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:52:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "f31b4892c1b180ca1b7e321eeafc3b99b8effad8",
-          "title": "Anthropic CEO outlines plan to slow AI development",
-          "title_zh": null,
-          "title_en": "Anthropic CEO outlines plan to slow AI development",
-          "title_original": "Anthropic CEO outlines plan to slow AI development",
-          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?\nAnthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCr",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-12T19:34:44Z"
-        },
-        {
-          "id": "32b86b483722ad7e36d5087db0657246fbc729eb",
-          "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "title_zh": null,
-          "title_en": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "title_original": "Anthropic CEO outlines plan to ‘pace the frontier’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:52:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.65,
-      "importance": 0.65,
-      "importance_score": 0.65,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9376,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:52:11Z",
-      "latest_at": "2026-09-12T19:34:44Z",
-      "primary_item": {
-        "id": "f31b4892c1b180ca1b7e321eeafc3b99b8effad8",
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "title_zh": null,
-        "title_en": "Anthropic CEO outlines plan to slow AI development",
-        "title_original": "Anthropic CEO outlines plan to slow AI development",
-        "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?\nAnthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCr",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_ed95b5a9cf8e",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "primary_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": null,
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:56:52Z"
-        },
-        {
-          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": null,
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:37:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+          "title": "AI recursive self-improvement might not come so quickly after all",
           "title_zh": null,
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_en": "AI recursive self-improvement might not come so quickly after all",
+          "title_original": "AI recursive self-improvement might not come so quickly after all",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-12T16:56:52Z"
+          "published_at": "2026-09-13T18:49:44Z"
         },
         {
-          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "title_zh": null,
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_en": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_original": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-12T15:37:39Z"
+          "published_at": "2026-09-13T18:49:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9026,
+        "recency": 0.9246,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -941,124 +800,230 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T15:37:39Z",
-      "latest_at": "2026-09-12T16:56:52Z",
+      "earliest_at": "2026-09-13T18:49:44Z",
+      "latest_at": "2026-09-13T18:49:44Z",
       "primary_item": {
-        "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
+        "title": "AI recursive self-improvement might not come so quickly after all",
         "title_zh": null,
-        "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "title_en": "AI recursive self-improvement might not come so quickly after all",
+        "title_original": "AI recursive self-improvement might not come so quickly after all",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_910862ed59f6",
-      "title": "英伟达是人工智能领域的“中央银行”",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "www.economist.com",
+      "story_id": "story_a09fc5265239",
+      "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "primary_url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "twitter.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
+          "published_at": "2026-09-13T18:45:18.039000Z"
         },
         {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
+          "id": "4815bfc7cf797d4747bbe4587d622ef98363458c",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:08:27Z"
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "www.economist.com"
+        "Hacker News · 24h最热",
+        "twitter.com"
       ],
       "items": [
         {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
+          "published_at": "2026-09-13T18:45:18.039000Z"
         },
         {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
+          "id": "4815bfc7cf797d4747bbe4587d622ef98363458c",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:08:27Z"
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.432,
+      "importance": 0.432,
+      "importance_score": 0.432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8984,
+        "recency": 0.9236,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "earliest_at": "2026-09-13T16:52:33Z",
+      "latest_at": "2026-09-13T18:45:18.039000Z",
       "primary_item": {
-        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-        "title": "英伟达是人工智能领域的“中央银行”",
-        "title_zh": "英伟达是人工智能领域的“中央银行”",
+        "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+        "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+        "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "title_en": null,
-        "title_original": "英伟达是人工智能领域的“中央银行”",
+        "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "www.economist.com",
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9cf69f2e378a",
+      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": null,
+          "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "abff2201c00e45b59e0bce4ae170e4586b0a8455",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_original": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": null,
+          "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "abff2201c00e45b59e0bce4ae170e4586b0a8455",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_original": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4296,
+      "importance": 0.4296,
+      "importance_score": 0.4296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9098,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T15:44:38Z",
+      "latest_at": "2026-09-13T17:42:38.853000Z",
+      "primary_item": {
+        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "title_en": null,
+        "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "techcrunch.com",
         "source_name": "Buzzing"
       }
     }
