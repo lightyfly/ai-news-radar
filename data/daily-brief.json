@@ -1,149 +1,169 @@
 {
-  "generated_at": "2026-09-17T00:37:23.934449Z",
+  "generated_at": "2026-09-18T00:26:09.484386Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_2b45947d7367",
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI News",
+      "story_id": "story_6171d00caa9b",
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "title_en": "Reimagining advertising with AI",
-          "title_original": "Reimagining advertising with AI",
-          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nSeptember 16, 2026\nIntroducing new AI-powere",
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot impact dashboard now shows feature engagement",
+          "title_zh": null,
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more enablement. Enterprise and organization report APIs now include the same 28-day feature engagement ",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
-          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "title_zh": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "title_en": null,
-          "title_original": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:06:24.581000Z"
-        },
-        {
-          "id": "17fd4a48ecfbec862337d0627282c178c703d764",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI expands ChatGPT ads with Sponsored Agents",
-          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "title_en": "OpenAI expands ChatGPT ads with Sponsored Agents",
-          "title_original": "OpenAI expands ChatGPT ads with Sponsored Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T13:51:15Z"
+          "published_at": "2026-09-17T21:47:27Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "openai.com"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "title_en": "Reimagining advertising with AI",
-          "title_original": "Reimagining advertising with AI",
-          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nSeptember 16, 2026\nIntroducing new AI-powere",
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot impact dashboard now shows feature engagement",
+          "title_zh": null,
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more enablement. Enterprise and organization report APIs now include the same 28-day feature engagement ",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
-          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "title_zh": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "title_en": null,
-          "title_original": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:06:24.581000Z"
-        },
-        {
-          "id": "17fd4a48ecfbec862337d0627282c178c703d764",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI expands ChatGPT ads with Sponsored Agents",
-          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "title_en": "OpenAI expands ChatGPT ads with Sponsored Agents",
-          "title_original": "OpenAI expands ChatGPT ads with Sponsored Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T13:51:15Z"
+          "published_at": "2026-09-17T21:47:27Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8742,
-      "importance": 0.8742,
-      "importance_score": 0.8742,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8455,
-        "story_heat": 0.5,
+        "recency": 0.9625,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T13:00:00Z",
-      "latest_at": "2026-09-16T16:06:24.581000Z",
+      "earliest_at": "2026-09-17T21:47:27Z",
+      "latest_at": "2026-09-17T21:47:27Z",
       "primary_item": {
-        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
-        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-        "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-        "title_en": "Reimagining advertising with AI",
-        "title_original": "Reimagining advertising with AI",
-        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nSeptember 16, 2026\nIntroducing new AI-powere",
+        "id": "f3caaef86269b72461c881b48e4cad194588c253",
+        "title": "Copilot impact dashboard now shows feature engagement",
+        "title_zh": null,
+        "title_en": "Copilot impact dashboard now shows feature engagement",
+        "title_original": "Copilot impact dashboard now shows feature engagement",
+        "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more enablement. Enterprise and organization report APIs now include the same 28-day feature engagement ",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/reimagining-advertising-with-ai",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ae721db060a3",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "Making global data easier to explore",
+          "title_zh": null,
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nSep 17, 2026\nUN System Data Commons is an open, AI-ready platform integ",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "Making global data easier to explore",
+          "title_zh": null,
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nSep 17, 2026\nUN System Data Commons is an open, AI-ready platform integ",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.938,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T20:00:00Z",
+      "latest_at": "2026-09-17T20:00:00Z",
+      "primary_item": {
+        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+        "title": "Making global data easier to explore",
+        "title_zh": null,
+        "title_en": "Making global data easier to explore",
+        "title_original": "Making global data easier to explore",
+        "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nSep 17, 2026\nUN System Data Commons is an open, AI-ready platform integ",
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
       "story_id": "story_524b99f2deb6",
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
       "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
       "source": "GitHub AI & ML",
@@ -151,57 +171,87 @@
       "sources": [
         {
           "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": null,
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
           "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
           "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nA rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nA rewrite this size wasn’t affordable before agents. Here’s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe GitHub Copilot CLI , GitHub Copilot app , and ",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub AI & ML"
+        "GitHub AI & ML",
+        "GitHub Blog"
       ],
       "items": [
         {
           "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": null,
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
           "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
           "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nA rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nA rewrite this size wasn’t affordable before agents. Here’s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe GitHub Copilot CLI , GitHub Copilot app , and ",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9974,
-        "story_heat": 0.0,
+        "recency": 0.7072,
+        "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -209,11 +259,11 @@
       "latest_at": "2026-09-17T00:26:43Z",
       "primary_item": {
         "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": null,
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
         "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
         "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nA rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nA rewrite this size wasn’t affordable before agents. Here’s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe GitHub Copilot CLI , GitHub Copilot app , and ",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
         "source": "GitHub AI & ML",
@@ -221,26 +271,26 @@
       }
     },
     {
-      "story_id": "story_6210c4b108ab",
-      "title": "Copilot budget increase requests are generally available",
-      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "story_id": "story_633c0a236b12",
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-          "title": "Copilot budget increase requests are generally available",
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "Agentic CLI customizations now in the usage metrics API",
           "title_zh": null,
-          "title_en": "Copilot budget increase requests are generally available",
-          "title_original": "Copilot budget increase requests are generally available",
-          "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nPreviously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to request more budget the moment they hit the limit. You can approve, adjust, or deny that request without leaving your settings.\nRequests automatica",
+          "title_en": "Agentic CLI customizations now in the usage metrics API",
+          "title_original": "Agentic CLI customizations now in the usage metrics API",
+          "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nGitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins.\nThe fields appear in enterprise and organization per-user and aggregate 1-day reports, per-user 28-day reports, and",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T20:17:18Z"
+          "published_at": "2026-09-17T21:08:50Z"
         }
       ],
       "source_count": 1,
@@ -249,110 +299,31 @@
       ],
       "items": [
         {
-          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-          "title": "Copilot budget increase requests are generally available",
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "Agentic CLI customizations now in the usage metrics API",
           "title_zh": null,
-          "title_en": "Copilot budget increase requests are generally available",
-          "title_original": "Copilot budget increase requests are generally available",
-          "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nPreviously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to request more budget the moment they hit the limit. You can approve, adjust, or deny that request without leaving your settings.\nRequests automatica",
+          "title_en": "Agentic CLI customizations now in the usage metrics API",
+          "title_original": "Agentic CLI customizations now in the usage metrics API",
+          "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nGitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins.\nThe fields appear in enterprise and organization per-user and aggregate 1-day reports, per-user 28-day reports, and",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T20:17:18Z"
+          "published_at": "2026-09-17T21:08:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9393,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:17:18Z",
-      "latest_at": "2026-09-16T20:17:18Z",
-      "primary_item": {
-        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-        "title": "Copilot budget increase requests are generally available",
-        "title_zh": null,
-        "title_en": "Copilot budget increase requests are generally available",
-        "title_original": "Copilot budget increase requests are generally available",
-        "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nPreviously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to request more budget the moment they hit the limit. You can approve, adjust, or deny that request without leaving your settings.\nRequests automatica",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d6e73104d607",
-      "title": "Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": null,
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nEnterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.\nIf your enterprise has multiple SSO-p",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": null,
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nEnterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.\nIf your enterprise has multiple SSO-p",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.94,
+        "recency": 0.9536,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -363,931 +334,307 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T20:20:16Z",
-      "latest_at": "2026-09-16T20:20:16Z",
+      "earliest_at": "2026-09-17T21:08:50Z",
+      "latest_at": "2026-09-17T21:08:50Z",
       "primary_item": {
-        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-        "title": "Automate SSO authorization for classic PATs and SSH keys",
+        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+        "title": "Agentic CLI customizations now in the usage metrics API",
         "title_zh": null,
-        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-        "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nEnterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.\nIf your enterprise has multiple SSO-p",
+        "title_en": "Agentic CLI customizations now in the usage metrics API",
+        "title_original": "Agentic CLI customizations now in the usage metrics API",
+        "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nGitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins.\nThe fields appear in enterprise and organization per-user and aggregate 1-day reports, per-user 28-day reports, and",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_8ce36e5af566",
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "Helping older adults use AI in everyday life",
-          "title_zh": null,
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nSeptember 16, 2026\nIn collaboration with OATS, bringing free, hands-on ",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "Helping older adults use AI in everyday life",
-          "title_zh": null,
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nSeptember 16, 2026\nIn collaboration with OATS, bringing free, hands-on ",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8829,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
-      "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "Helping older adults use AI in everyday life",
-        "title_zh": null,
-        "title_en": "Helping older adults use AI in everyday life",
-        "title_original": "Helping older adults use AI in everyday life",
-        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nSeptember 16, 2026\nIn collaboration with OATS, bringing free, hands-on ",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4b28983f879b",
-      "title": "SCIM user responses now include a profileUrl attribute",
-      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM user responses now include a profileUrl attribute",
-          "title_zh": null,
-          "title_en": "SCIM user responses now include a profileUrl attribute",
-          "title_original": "SCIM user responses now include a profileUrl attribute",
-          "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nSCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity.\nPreviously, matching a SCIM record to the corresponding GitHub account required extra lookups or inference. Identi",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM user responses now include a profileUrl attribute",
-          "title_zh": null,
-          "title_en": "SCIM user responses now include a profileUrl attribute",
-          "title_original": "SCIM user responses now include a profileUrl attribute",
-          "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nSCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity.\nPreviously, matching a SCIM record to the corresponding GitHub account required extra lookups or inference. Identi",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9399,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:19:58Z",
-      "latest_at": "2026-09-16T20:19:58Z",
-      "primary_item": {
-        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-        "title": "SCIM user responses now include a profileUrl attribute",
-        "title_zh": null,
-        "title_en": "SCIM user responses now include a profileUrl attribute",
-        "title_original": "SCIM user responses now include a profileUrl attribute",
-        "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nSCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity.\nPreviously, matching a SCIM record to the corresponding GitHub account required extra lookups or inference. Identi",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8c35cf0772a6",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "title_zh": null,
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nSeptember 16, 2026\nUnderstand how teams u",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "title_zh": null,
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nSeptember 16, 2026\nUnderstand how teams u",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8334,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "How to connect AI usage to business value",
-        "title_zh": null,
-        "title_en": "How to connect AI usage to business value",
-        "title_original": "How to connect AI usage to business value",
-        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nSeptember 16, 2026\nUnderstand how teams u",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d140633e4958",
-      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-      "url": "https://www.aibase.com/news/31099",
-      "primary_url": "https://www.aibase.com/news/31099",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "summary": "The US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nThe US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nThe US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:37:23.934449Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "summary": "The US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nThe US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nThe US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:37:23.934449Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:37:23.934449Z",
-      "latest_at": "2026-09-16T17:37:23.934449Z",
-      "primary_item": {
-        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_en": null,
-        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "summary": "The US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nThe US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nThe US artificial intelligence startup Anthropic has signed its first data center lease in Australia, locking up capacity at a large data center. The facility i\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31099",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e7f9f5d2ff7b",
-      "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
-      "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners",
-      "primary_url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners",
-      "source": "Meta Newsroom",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "46920341e87cacc04e09c55a180ec65215e24052",
-          "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
-          "title_zh": null,
-          "title_en": "Threads Expands Podcast Toolkit for Creators and Listeners",
-          "title_original": "Threads Expands Podcast Toolkit for Creators and Listeners",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners",
-          "source": "Meta Newsroom",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T14:53:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Newsroom"
-      ],
-      "items": [
-        {
-          "id": "46920341e87cacc04e09c55a180ec65215e24052",
-          "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
-          "title_zh": null,
-          "title_en": "Threads Expands Podcast Toolkit for Creators and Listeners",
-          "title_original": "Threads Expands Podcast Toolkit for Creators and Listeners",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners",
-          "source": "Meta Newsroom",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T14:53:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.8689,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:53:31Z",
-      "latest_at": "2026-09-16T14:53:31Z",
-      "primary_item": {
-        "id": "46920341e87cacc04e09c55a180ec65215e24052",
-        "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
-        "title_zh": null,
-        "title_en": "Threads Expands Podcast Toolkit for Creators and Listeners",
-        "title_original": "Threads Expands Podcast Toolkit for Creators and Listeners",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners",
-        "source": "Meta Newsroom",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_009a31949b80",
-      "title": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-      "url": "https://creatoreconomy.so/p/my-3-step-system-to-automate-90-of",
-      "primary_url": "https://creatoreconomy.so/p/my-3-step-system-to-automate-90-of",
-      "source": "Creator Science",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "3623d23c3ddb9bee58c9bf2cc9f3fb298e420dd3",
-          "title": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-          "title_zh": null,
-          "title_en": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-          "title_original": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/my-3-step-system-to-automate-90-of",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T14:36:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Creator Science"
-      ],
-      "items": [
-        {
-          "id": "3623d23c3ddb9bee58c9bf2cc9f3fb298e420dd3",
-          "title": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-          "title_zh": null,
-          "title_en": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-          "title_original": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/my-3-step-system-to-automate-90-of",
-          "source": "Creator Science",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T14:36:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.8654,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:36:57Z",
-      "latest_at": "2026-09-16T14:36:57Z",
-      "primary_item": {
-        "id": "3623d23c3ddb9bee58c9bf2cc9f3fb298e420dd3",
-        "title": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-        "title_zh": null,
-        "title_en": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-        "title_original": "My 3-Step System to Automate 90% of My Content Workflow with AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://creatoreconomy.so/p/my-3-step-system-to-automate-90-of",
-        "source": "Creator Science",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_1615464a9e77",
-      "title": "何夕2077 AI 深度信号周报 2026 W37",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8516,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T13:29:54Z",
-      "latest_at": "2026-09-16T13:29:54Z",
-      "primary_item": {
-        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-        "title": "何夕2077 AI 深度信号周报 2026 W37",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_b7506bc123b9",
-      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": null,
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nYou can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only ran on repositories where CodeQL default setup was configured.\nCode scanning and AI Scan for pull requests must still be enabled at the r",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": null,
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nYou can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only ran on repositories where CodeQL default setup was configured.\nCode scanning and AI Scan for pull requests must still be enabled at the r",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8508,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
-      "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_zh": null,
-        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nYou can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only ran on repositories where CodeQL default setup was configured.\nCode scanning and AI Scan for pull requests must still be enabled at the r",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_20d27da6a9f4",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
-          "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nSeptember 16, 2026\nNew OpenAI Economic Research shows how workers use AI t",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "How workers are unlocking new ways of working",
-          "title_zh": null,
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nSeptember 16, 2026\nNew OpenAI Economic Research shows how workers use AI t",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.798,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
-      "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "How workers are unlocking new ways of working",
-        "title_zh": null,
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
-        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nSeptember 16, 2026\nNew OpenAI Economic Research shows how workers use AI t",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_518b2b8d3d74",
-      "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-      "url": "https://www.aibase.com/news/31100",
-      "primary_url": "https://www.aibase.com/news/31100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_en": null,
-          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "summary": "According to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nAccording to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nAccording to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:37:23.934449Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "title_en": null,
-          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "summary": "According to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nAccording to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nAccording to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:37:23.934449Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:37:23.934449Z",
-      "latest_at": "2026-09-16T17:37:23.934449Z",
-      "primary_item": {
-        "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-        "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "title_en": null,
-        "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "summary": "According to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nAccording to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nAccording to Business Insider, employees responsible for security at the California offices of tech companies such as Anthropic, Google, and OpenAI are planning\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31100",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a3ab3422578f",
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "primary_url": "https://claude.com/blog/cowork-is-now-claude",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_ab92e74332cb",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-          "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
+          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Claude：Blog（网页）",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-16T16:51:45.914000Z"
+          "published_at": "2026-09-17T19:46:08Z"
         },
         {
-          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
-          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_en": null,
-          "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "id": "830d69cc874966f0bd62aa9cb3d2e077da299495",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T18:28:45.023000Z"
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T19:46:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Claude：Blog（网页）",
-        "claude.com"
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-          "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
+          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Claude：Blog（网页）",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-16T16:51:45.914000Z"
+          "published_at": "2026-09-17T19:46:08Z"
         },
         {
-          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
-          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_en": null,
-          "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+          "id": "830d69cc874966f0bd62aa9cb3d2e077da299495",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T18:28:45.023000Z"
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T19:46:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6885,
-      "importance": 0.6885,
-      "importance_score": 0.6885,
-      "importance_label": "值得关注",
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.894,
+        "recency": 0.9348,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
+        "generic_tech_penalty": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-16T16:51:45.914000Z",
-      "latest_at": "2026-09-16T18:28:45.023000Z",
+      "earliest_at": "2026-09-17T19:46:08Z",
+      "latest_at": "2026-09-17T19:46:08Z",
       "primary_item": {
-        "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-        "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-        "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-        "title_en": "Claude Cowork and chat are now one Claude",
-        "title_original": "Claude Cowork and chat are now one Claude",
-        "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
+        "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
+        "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+        "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+        "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+        "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+        "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/cowork-is-now-claude",
-        "source": "Claude：Blog（网页）",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_85ca850a8a98",
-      "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/31097",
-      "primary_url": "https://www.aibase.com/news/31097",
+      "story_id": "story_d56b523d3dff",
+      "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+          "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+          "title_en": "The AI Superintelligence Slowdown",
+          "title_original": "The AI Superintelligence Slowdown",
+          "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:28:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+          "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+          "title_en": "The AI Superintelligence Slowdown",
+          "title_original": "The AI Superintelligence Slowdown",
+          "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T19:28:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9308,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T19:28:24Z",
+      "latest_at": "2026-09-17T19:28:24Z",
+      "primary_item": {
+        "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+        "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+        "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+        "title_en": "The AI Superintelligence Slowdown",
+        "title_original": "The AI Superintelligence Slowdown",
+        "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_58ddcdd75710",
+      "title": "Ubuntu 26 generally available and latest migration",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+          "title": "Ubuntu 26 generally available and latest migration",
+          "title_zh": null,
+          "title_en": "Ubuntu 26 generally available and latest migration",
+          "title_original": "Ubuntu 26 generally available and latest migration",
+          "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T16:27:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+          "title": "Ubuntu 26 generally available and latest migration",
+          "title_zh": null,
+          "title_en": "Ubuntu 26 generally available and latest migration",
+          "title_original": "Ubuntu 26 generally available and latest migration",
+          "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T16:27:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8911,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T16:27:16Z",
+      "latest_at": "2026-09-17T16:27:16Z",
+      "primary_item": {
+        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+        "title": "Ubuntu 26 generally available and latest migration",
+        "title_zh": null,
+        "title_en": "Ubuntu 26 generally available and latest migration",
+        "title_original": "Ubuntu 26 generally available and latest migration",
+        "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a366f16e4864",
+      "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+      "url": "https://www.aibase.com/news/31139",
+      "primary_url": "https://www.aibase.com/news/31139",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
           "title_en": null,
-          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "summary": "The Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nThe Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nThe Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nExplore AI Fronti",
+          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31097",
+          "url": "https://www.aibase.com/news/31139",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:23.934449Z"
+          "published_at": "2026-09-17T18:26:09.484386Z"
         }
       ],
       "source_count": 1,
@@ -1296,18 +643,717 @@
       ],
       "items": [
         {
-          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
           "title_en": null,
-          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "summary": "The Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nThe Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nThe Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nExplore AI Fronti",
+          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31097",
+          "url": "https://www.aibase.com/news/31139",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:23.934449Z"
+          "published_at": "2026-09-17T18:26:09.484386Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T18:26:09.484386Z",
+      "latest_at": "2026-09-17T18:26:09.484386Z",
+      "primary_item": {
+        "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+        "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "title_en": null,
+        "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31139",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1bd0a7425a3c",
+      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8807,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T15:38:13Z",
+      "latest_at": "2026-09-17T15:38:13Z",
+      "primary_item": {
+        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+        "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+        "recommend_reason_zh": null,
+        "url": "https://www.dwarkesh.com/p/noam-brown",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f9b859aff6b3",
+      "title": "小红书投放教程，已经被编得面目全非了",
+      "url": "https://www.yunyingpai.com/extend/1062452.html",
+      "primary_url": "https://www.yunyingpai.com/extend/1062452.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "990722b9fe0c06c50d6281169ed37f4b96b2ecff",
+          "title": "小红书投放教程，已经被编得面目全非了",
+          "title_zh": "小红书投放教程，已经被编得面目全非了",
+          "title_en": null,
+          "title_original": "小红书投放教程，已经被编得面目全非了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/extend/1062452.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-17T09:50:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "990722b9fe0c06c50d6281169ed37f4b96b2ecff",
+          "title": "小红书投放教程，已经被编得面目全非了",
+          "title_zh": "小红书投放教程，已经被编得面目全非了",
+          "title_en": null,
+          "title_original": "小红书投放教程，已经被编得面目全非了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/extend/1062452.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-17T09:50:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.81,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T09:50:41Z",
+      "latest_at": "2026-09-17T09:50:41Z",
+      "primary_item": {
+        "id": "990722b9fe0c06c50d6281169ed37f4b96b2ecff",
+        "title": "小红书投放教程，已经被编得面目全非了",
+        "title_zh": "小红书投放教程，已经被编得面目全非了",
+        "title_en": null,
+        "title_original": "小红书投放教程，已经被编得面目全非了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/extend/1062452.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_3ecb4a7a0061",
+      "title": "Workflow execution protections in GitHub Actions generally available",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
+          "title": "Workflow execution protections in GitHub Actions generally available",
+          "title_zh": null,
+          "title_en": "Workflow execution protections in GitHub Actions generally available",
+          "title_original": "Workflow execution protections in GitHub Actions generally available",
+          "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nWorkflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories.\nExecution protections let you define an allowlist that controls who can trigger an Actions workflow a",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T15:45:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
+          "title": "Workflow execution protections in GitHub Actions generally available",
+          "title_zh": null,
+          "title_en": "Workflow execution protections in GitHub Actions generally available",
+          "title_original": "Workflow execution protections in GitHub Actions generally available",
+          "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nWorkflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories.\nExecution protections let you define an allowlist that controls who can trigger an Actions workflow a",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T15:45:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8822,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T15:45:26Z",
+      "latest_at": "2026-09-17T15:45:26Z",
+      "primary_item": {
+        "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
+        "title": "Workflow execution protections in GitHub Actions generally available",
+        "title_zh": null,
+        "title_en": "Workflow execution protections in GitHub Actions generally available",
+        "title_original": "Workflow execution protections in GitHub Actions generally available",
+        "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nWorkflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories.\nExecution protections let you define an allowlist that controls who can trigger an Actions workflow a",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d9139340eb5e",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "primary_url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "title_zh": null,
+          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
+          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nSeptembe",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cooley-gopublic",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "title_zh": null,
+          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
+          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nSeptembe",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cooley-gopublic",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8356,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T12:00:00Z",
+      "latest_at": "2026-09-17T12:00:00Z",
+      "primary_item": {
+        "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "title_zh": null,
+        "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+        "title_original": "How Cooley is accelerating IPO work with ChatGPT",
+        "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nSeptembe",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/cooley-gopublic",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_835a1099ffd5",
+      "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+      "url": "https://www.aibase.com/news/31138",
+      "primary_url": "https://www.aibase.com/news/31138",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_en": null,
+          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31138",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T18:26:09.484386Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_en": null,
+          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31138",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T18:26:09.484386Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T18:26:09.484386Z",
+      "latest_at": "2026-09-17T18:26:09.484386Z",
+      "primary_item": {
+        "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+        "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "title_en": null,
+        "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31138",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_90638377715b",
+      "title": "2026突发！Facebook涨粉广告全面下线",
+      "url": "https://www.yunyingpai.com/extend/1062444.html",
+      "primary_url": "https://www.yunyingpai.com/extend/1062444.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a3e8172053919c4a8678db9363dbcd60d04358a4",
+          "title": "2026突发！Facebook涨粉广告全面下线",
+          "title_zh": "2026突发！Facebook涨粉广告全面下线",
+          "title_en": null,
+          "title_original": "2026突发！Facebook涨粉广告全面下线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/extend/1062444.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-17T08:56:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "a3e8172053919c4a8678db9363dbcd60d04358a4",
+          "title": "2026突发！Facebook涨粉广告全面下线",
+          "title_zh": "2026突发！Facebook涨粉广告全面下线",
+          "title_en": null,
+          "title_original": "2026突发！Facebook涨粉广告全面下线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/extend/1062444.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-17T08:56:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.7995,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T08:56:29Z",
+      "latest_at": "2026-09-17T08:56:29Z",
+      "primary_item": {
+        "id": "a3e8172053919c4a8678db9363dbcd60d04358a4",
+        "title": "2026突发！Facebook涨粉广告全面下线",
+        "title_zh": "2026突发！Facebook涨粉广告全面下线",
+        "title_en": null,
+        "title_original": "2026突发！Facebook涨粉广告全面下线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/extend/1062444.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_73894b80d769",
+      "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+      "url": "https://www.aibase.com/news/31137",
+      "primary_url": "https://www.aibase.com/news/31137",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
+          "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_en": null,
+          "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31137",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T17:26:09.484386Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
+          "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_en": null,
+          "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31137",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T17:26:09.484386Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T17:26:09.484386Z",
+      "latest_at": "2026-09-17T17:26:09.484386Z",
+      "primary_item": {
+        "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
+        "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "title_en": null,
+        "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31137",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_15378a19f21d",
+      "title": "互联网公司在小红书用一种新的方式做增长",
+      "url": "https://www.yunyingpai.com/user/1062464.html",
+      "primary_url": "https://www.yunyingpai.com/user/1062464.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "4d67d4fd067f56be7737eb90e19c560a809e025d",
+          "title": "互联网公司在小红书用一种新的方式做增长",
+          "title_zh": "互联网公司在小红书用一种新的方式做增长",
+          "title_en": null,
+          "title_original": "互联网公司在小红书用一种新的方式做增长",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/user/1062464.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-17T02:33:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "4d67d4fd067f56be7737eb90e19c560a809e025d",
+          "title": "互联网公司在小红书用一种新的方式做增长",
+          "title_zh": "互联网公司在小红书用一种新的方式做增长",
+          "title_en": null,
+          "title_original": "互联网公司在小红书用一种新的方式做增长",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/user/1062464.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-17T02:33:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.729,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T02:33:03Z",
+      "latest_at": "2026-09-17T02:33:03Z",
+      "primary_item": {
+        "id": "4d67d4fd067f56be7737eb90e19c560a809e025d",
+        "title": "互联网公司在小红书用一种新的方式做增长",
+        "title_zh": "互联网公司在小红书用一种新的方式做增长",
+        "title_en": null,
+        "title_original": "互联网公司在小红书用一种新的方式做增长",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/user/1062464.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_52a7858a1b06",
+      "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+      "url": "https://www.aibase.com/news/31134",
+      "primary_url": "https://www.aibase.com/news/31134",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_en": null,
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "summary": "Artificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T16:26:09.484386Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_en": null,
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "summary": "Artificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T16:26:09.484386Z"
         }
       ],
       "item_count": 1,
@@ -1329,42 +1375,148 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T16:37:23.934449Z",
-      "latest_at": "2026-09-16T16:37:23.934449Z",
+      "earliest_at": "2026-09-17T16:26:09.484386Z",
+      "latest_at": "2026-09-17T16:26:09.484386Z",
       "primary_item": {
-        "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-        "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-        "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+        "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
         "title_en": null,
-        "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-        "summary": "The Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nThe Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nThe Nubia NaviX Ultra, powered by the consumer version of Dou Bao's mobile assistant, has officially launched, marking the transition of AI agent smartphones fr\nExplore AI Fronti",
+        "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "summary": "Artificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nExplore AI Frontiers",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31097",
+        "url": "https://www.aibase.com/news/31134",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_13603bf46f67",
-      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-      "url": "https://www.aibase.com/news/31098",
-      "primary_url": "https://www.aibase.com/news/31098",
+      "story_id": "story_8cd40203fffb",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+      "primary_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b6798f0785840649c9f2c5bf3e90afe8a7da991c",
+          "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "title_zh": null,
+          "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "title_original": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T22:14:59Z"
+        },
+        {
+          "id": "62c9658642646a774d1fe6240097e57e97be4608",
+          "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "title_zh": null,
+          "title_en": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "title_original": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T22:14:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "b6798f0785840649c9f2c5bf3e90afe8a7da991c",
+          "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "title_zh": null,
+          "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "title_original": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T22:14:59Z"
+        },
+        {
+          "id": "62c9658642646a774d1fe6240097e57e97be4608",
+          "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "title_zh": null,
+          "title_en": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "title_original": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T22:14:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6432,
+      "importance": 0.6432,
+      "importance_score": 0.6432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9689,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-17T22:14:59Z",
+      "latest_at": "2026-09-17T22:14:59Z",
+      "primary_item": {
+        "id": "b6798f0785840649c9f2c5bf3e90afe8a7da991c",
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "title_zh": null,
+        "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "title_original": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_f02090a46c9c",
+      "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+      "url": "https://www.aibase.com/news/31133",
+      "primary_url": "https://www.aibase.com/news/31133",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
           "title_en": null,
-          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "summary": "Cloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nCloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nCloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nExplore AI Fronti",
+          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31098",
+          "url": "https://www.aibase.com/news/31133",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:23.934449Z"
+          "published_at": "2026-09-17T16:26:09.484386Z"
         }
       ],
       "source_count": 1,
@@ -1373,18 +1525,18 @@
       ],
       "items": [
         {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
           "title_en": null,
-          "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "summary": "Cloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nCloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nCloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nExplore AI Fronti",
+          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31098",
+          "url": "https://www.aibase.com/news/31133",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:23.934449Z"
+          "published_at": "2026-09-17T16:26:09.484386Z"
         }
       ],
       "item_count": 1,
@@ -1406,42 +1558,42 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T16:37:23.934449Z",
-      "latest_at": "2026-09-16T16:37:23.934449Z",
+      "earliest_at": "2026-09-17T16:26:09.484386Z",
+      "latest_at": "2026-09-17T16:26:09.484386Z",
       "primary_item": {
-        "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-        "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "title_zh": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
+        "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+        "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+        "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
         "title_en": null,
-        "title_original": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "summary": "Cloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nCloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nCloudflare announced a new setting called \"Disallow AI Training,\" which allows administrators to continue accepting search engine crawlers while rejecting websi\nExplore AI Fronti",
+        "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+        "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31098",
+        "url": "https://www.aibase.com/news/31133",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b972e8aea7f6",
-      "title": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-      "url": "https://www.aibase.com/news/31088",
-      "primary_url": "https://www.aibase.com/news/31088",
+      "story_id": "story_cf7282a50beb",
+      "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+      "url": "https://www.aibase.com/news/31128",
+      "primary_url": "https://www.aibase.com/news/31128",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18a187b1e950d60df8f671db2e2b98eb4eb7d0e5",
-          "title": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-          "title_zh": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "title_en": null,
-          "title_original": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-          "summary": "The leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nThe leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nThe leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nExplore AI Fronti",
+          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31088",
+          "url": "https://www.aibase.com/news/31128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T15:37:23.934449Z"
+          "published_at": "2026-09-17T15:26:09.484386Z"
         }
       ],
       "source_count": 1,
@@ -1450,18 +1602,18 @@
       ],
       "items": [
         {
-          "id": "18a187b1e950d60df8f671db2e2b98eb4eb7d0e5",
-          "title": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-          "title_zh": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "title_en": null,
-          "title_original": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-          "summary": "The leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nThe leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nThe leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nExplore AI Fronti",
+          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31088",
+          "url": "https://www.aibase.com/news/31128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T15:37:23.934449Z"
+          "published_at": "2026-09-17T15:26:09.484386Z"
         }
       ],
       "item_count": 1,
@@ -1483,172 +1635,17 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T15:37:23.934449Z",
-      "latest_at": "2026-09-16T15:37:23.934449Z",
+      "earliest_at": "2026-09-17T15:26:09.484386Z",
+      "latest_at": "2026-09-17T15:26:09.484386Z",
       "primary_item": {
-        "id": "18a187b1e950d60df8f671db2e2b98eb4eb7d0e5",
-        "title": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-        "title_zh": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
+        "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
         "title_en": null,
-        "title_original": "估值冲击1.2万亿美元！OpenAI密谈新一轮融资",
-        "summary": "The leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nThe leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nThe leader in the field of artificial intelligence, OpenAI, is currently in early discussions with investors for a new private funding round, with a target valu\nExplore AI Fronti",
+        "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31088",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_76db13fd8fea",
-      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8958,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T17:00:00Z",
-      "latest_at": "2026-09-16T17:00:00Z",
-      "primary_item": {
-        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-        "title_en": "Our framework for reporting model misalignment",
-        "title_original": "Our framework for reporting model misalignment",
-        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_62482c7ecce1",
-      "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-      "url": "https://www.aibase.com/news/31086",
-      "primary_url": "https://www.aibase.com/news/31086",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "summary": "According to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nAccording to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nAccording to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T14:37:23.934449Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "summary": "According to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nAccording to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nAccording to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T14:37:23.934449Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8655,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:37:23.934449Z",
-      "latest_at": "2026-09-16T14:37:23.934449Z",
-      "primary_item": {
-        "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-        "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "title_en": null,
-        "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "summary": "According to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nAccording to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nAccording to reports from the Financial Times and The Wall Street Journal, OpenAI has begun preliminary negotiations with investors for a new round of funding a\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31086",
+        "url": "https://www.aibase.com/news/31128",
         "source": "AIbase",
         "source_name": "AIbase"
       }
