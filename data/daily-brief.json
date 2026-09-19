@@ -1,29 +1,166 @@
 {
-  "generated_at": "2026-09-18T00:26:09.484386Z",
+  "generated_at": "2026-09-19T00:24:36.762247Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6171d00caa9b",
-      "title": "Copilot impact dashboard now shows feature engagement",
-      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "story_id": "story_fc4b3a26f87c",
+      "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "primary_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+          "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
+          "recommend_reason_zh": null,
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T17:28:01Z"
+        },
+        {
+          "id": "0ea33f912b37b9f311ade659916c1b113c8861c6",
+          "title": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_zh": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_en": null,
+          "title_original": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "www.cnn.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T18:48:49.722000Z"
+        },
+        {
+          "id": "a7cd35ddcee1fa17fab498fce1164576639f9162",
+          "title": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": null,
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49757520",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T17:28:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews",
+        "www.cnn.com"
+      ],
+      "items": [
+        {
+          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+          "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
+          "recommend_reason_zh": null,
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T17:28:01Z"
+        },
+        {
+          "id": "0ea33f912b37b9f311ade659916c1b113c8861c6",
+          "title": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_zh": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_en": null,
+          "title_original": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "www.cnn.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T18:48:49.722000Z"
+        },
+        {
+          "id": "a7cd35ddcee1fa17fab498fce1164576639f9162",
+          "title": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": null,
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49757520",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T17:28:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9046,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T17:28:01Z",
+      "latest_at": "2026-09-18T18:48:49.722000Z",
+      "primary_item": {
+        "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+        "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+        "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
+        "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+        "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+        "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
+        "recommend_reason_zh": null,
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8b8113a300b2",
+      "title": "Copilot code review: An improved review experience",
+      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+      "primary_url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot impact dashboard now shows feature engagement",
+          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+          "title": "Copilot code review: An improved review experience",
           "title_zh": null,
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
-          "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more enablement. Enterprise and organization report APIs now include the same 28-day feature engagement ",
+          "title_en": "Copilot code review: An improved review experience",
+          "title_original": "Copilot code review: An improved review experience",
+          "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
+          "published_at": "2026-09-18T20:17:22Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +169,31 @@
       ],
       "items": [
         {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot impact dashboard now shows feature engagement",
+          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+          "title": "Copilot code review: An improved review experience",
           "title_zh": null,
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
-          "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more enablement. Enterprise and organization report APIs now include the same 28-day feature engagement ",
+          "title_en": "Copilot code review: An improved review experience",
+          "title_original": "Copilot code review: An improved review experience",
+          "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
+          "published_at": "2026-09-18T20:17:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9625,
+        "recency": 0.9422,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -67,42 +204,121 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T21:47:27Z",
-      "latest_at": "2026-09-17T21:47:27Z",
+      "earliest_at": "2026-09-18T20:17:22Z",
+      "latest_at": "2026-09-18T20:17:22Z",
       "primary_item": {
-        "id": "f3caaef86269b72461c881b48e4cad194588c253",
-        "title": "Copilot impact dashboard now shows feature engagement",
+        "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+        "title": "Copilot code review: An improved review experience",
         "title_zh": null,
-        "title_en": "Copilot impact dashboard now shows feature engagement",
-        "title_original": "Copilot impact dashboard now shows feature engagement",
-        "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more enablement. Enterprise and organization report APIs now include the same 28-day feature engagement ",
+        "title_en": "Copilot code review: An improved review experience",
+        "title_original": "Copilot code review: An improved review experience",
+        "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ae721db060a3",
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "story_id": "story_55ec4d48c198",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_zh": null,
+          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nHot takes turn complicated topics into one confident sentence. That makes them great for engagement, but not necessarily for understanding.\nAt the surface level, they do not matter much. You agree, disagree, r",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_zh": null,
+          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nHot takes turn complicated topics into one confident sentence. That makes them great for engagement, but not necessarily for understanding.\nAt the surface level, they do not matter much. You agree, disagree, r",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8729,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:00:00Z",
+      "latest_at": "2026-09-18T15:00:00Z",
+      "primary_item": {
+        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "title_zh": null,
+        "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nHot takes turn complicated topics into one confident sentence. That makes them great for engagement, but not necessarily for understanding.\nAt the surface level, they do not matter much. You agree, disagree, r",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0147a5930960",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "Making global data easier to explore",
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "New experts join Google’s AI & Economy team",
           "title_zh": null,
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nSep 17, 2026\nUN System Data Commons is an open, AI-ready platform integ",
+          "title_en": "New experts join Google’s AI & Economy team",
+          "title_original": "New experts join Google’s AI & Economy team",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
+          "published_at": "2026-09-18T14:00:00Z"
         }
       ],
       "source_count": 1,
@@ -111,31 +327,31 @@
       ],
       "items": [
         {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "Making global data easier to explore",
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "New experts join Google’s AI & Economy team",
           "title_zh": null,
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nSep 17, 2026\nUN System Data Commons is an open, AI-ready platform integ",
+          "title_en": "New experts join Google’s AI & Economy team",
+          "title_original": "New experts join Google’s AI & Economy team",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
+          "published_at": "2026-09-18T14:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.938,
+        "recency": 0.8604,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -146,292 +362,574 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T20:00:00Z",
-      "latest_at": "2026-09-17T20:00:00Z",
+      "earliest_at": "2026-09-18T14:00:00Z",
+      "latest_at": "2026-09-18T14:00:00Z",
       "primary_item": {
-        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-        "title": "Making global data easier to explore",
+        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+        "title": "New experts join Google’s AI & Economy team",
         "title_zh": null,
-        "title_en": "Making global data easier to explore",
-        "title_original": "Making global data easier to explore",
-        "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nGoogle and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.\nSep 17, 2026\nUN System Data Commons is an open, AI-ready platform integ",
+        "title_en": "New experts join Google’s AI & Economy team",
+        "title_original": "New experts join Google’s AI & Economy team",
+        "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_524b99f2deb6",
-      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "source": "GitHub AI & ML",
+      "story_id": "story_48ff8a06680b",
+      "title": "Manage the code coverage ruleset condition with the REST API",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "Manage the code coverage ruleset condition with the REST API",
+          "title_zh": null,
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
         {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "Manage the code coverage ruleset condition with the REST API",
+          "title_zh": null,
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9302,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:23:49Z",
+      "latest_at": "2026-09-18T19:23:49Z",
+      "primary_item": {
+        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+        "title": "Manage the code coverage ruleset condition with the REST API",
+        "title_zh": null,
+        "title_en": "Manage the code coverage ruleset condition with the REST API",
+        "title_original": "Manage the code coverage ruleset condition with the REST API",
+        "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b9fbb585a4b2",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+          "title": "Co-creating the future of fashion with Google",
+          "title_zh": null,
+          "title_en": "Co-creating the future of fashion with Google",
+          "title_original": "Co-creating the future of fashion with Google",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+          "title": "Co-creating the future of fashion with Google",
+          "title_zh": null,
+          "title_en": "Co-creating the future of fashion with Google",
+          "title_original": "Co-creating the future of fashion with Google",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8481,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T13:00:00Z",
+      "latest_at": "2026-09-18T13:00:00Z",
+      "primary_item": {
+        "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+        "title": "Co-creating the future of fashion with Google",
+        "title_zh": null,
+        "title_en": "Co-creating the future of fashion with Google",
+        "title_original": "Co-creating the future of fashion with Google",
+        "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c3b254c98c32",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9912,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:47:57Z",
+      "latest_at": "2026-09-18T23:47:57Z",
+      "primary_item": {
+        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3ff6f508c858",
+      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "primary_url": "https://www.ithome.com/1/004/356.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9829,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:13:06Z",
+      "latest_at": "2026-09-18T23:13:06Z",
+      "primary_item": {
+        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_en": null,
+        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/004/356.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b2e760c3e0a8",
+      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+          "title_en": "Partnering with Accenture on embedded evaluation",
+          "title_original": "Partnering with Accenture on embedded evaluation",
+          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T20:21:40.477000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+          "title_en": "Partnering with Accenture on embedded evaluation",
+          "title_original": "Partnering with Accenture on embedded evaluation",
+          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T20:21:40.477000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9432,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T20:21:40.477000Z",
+      "latest_at": "2026-09-18T20:21:40.477000Z",
+      "primary_item": {
+        "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+        "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+        "title_en": "Partnering with Accenture on embedded evaluation",
+        "title_original": "Partnering with Accenture on embedded evaluation",
+        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_aba82ef73bf1",
+      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "primary_url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8787,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:27:29Z",
+      "latest_at": "2026-09-18T15:27:29Z",
+      "primary_item": {
+        "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+        "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_96a1341fc9d6",
+      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "primary_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+          "recommend_reason_zh": null,
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T10:35:28Z"
+        },
+        {
+          "id": "4ad10fc6005b36c3310ea4cae93fa937cf564062",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T10:35:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
       ],
       "items": [
         {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
+          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
+          "published_at": "2026-09-18T10:35:28Z"
+        },
+        {
+          "id": "4ad10fc6005b36c3310ea4cae93fa937cf564062",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T10:35:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7072,
-        "story_heat": 0.25,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T00:26:43Z",
-      "latest_at": "2026-09-17T00:26:43Z",
-      "primary_item": {
-        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_633c0a236b12",
-      "title": "Agentic CLI customizations now in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "Agentic CLI customizations now in the usage metrics API",
-          "title_zh": null,
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
-          "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nGitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins.\nThe fields appear in enterprise and organization per-user and aggregate 1-day reports, per-user 28-day reports, and",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "Agentic CLI customizations now in the usage metrics API",
-          "title_zh": null,
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
-          "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nGitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins.\nThe fields appear in enterprise and organization per-user and aggregate 1-day reports, per-user 28-day reports, and",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9536,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T21:08:50Z",
-      "latest_at": "2026-09-17T21:08:50Z",
-      "primary_item": {
-        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-        "title": "Agentic CLI customizations now in the usage metrics API",
-        "title_zh": null,
-        "title_en": "Agentic CLI customizations now in the usage metrics API",
-        "title_original": "Agentic CLI customizations now in the usage metrics API",
-        "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nGitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins.\nThe fields appear in enterprise and organization per-user and aggregate 1-day reports, per-user 28-day reports, and",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ab92e74332cb",
-      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "primary_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "830d69cc874966f0bd62aa9cb3d2e077da299495",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T19:46:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-          "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:46:08Z"
-        },
-        {
-          "id": "830d69cc874966f0bd62aa9cb3d2e077da299495",
-          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-          "title_en": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "title_original": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T19:46:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9348,
+        "recency": 0.8191,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -442,120 +940,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T19:46:08Z",
-      "latest_at": "2026-09-17T19:46:08Z",
+      "earliest_at": "2026-09-18T10:35:28Z",
+      "latest_at": "2026-09-18T10:35:28Z",
       "primary_item": {
-        "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
-        "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
-        "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
-        "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+        "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+        "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+        "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+        "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+        "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-        "source": "TechCrunch：AI（RSS）",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d56b523d3dff",
-      "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
-          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-          "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
-          "title_en": "The AI Superintelligence Slowdown",
-          "title_original": "The AI Superintelligence Slowdown",
-          "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:28:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
-          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-          "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
-          "title_en": "The AI Superintelligence Slowdown",
-          "title_original": "The AI Superintelligence Slowdown",
-          "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:28:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9308,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T19:28:24Z",
-      "latest_at": "2026-09-17T19:28:24Z",
-      "primary_item": {
-        "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
-        "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-        "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
-        "title_en": "The AI Superintelligence Slowdown",
-        "title_original": "The AI Superintelligence Slowdown",
-        "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_58ddcdd75710",
-      "title": "Ubuntu 26 generally available and latest migration",
-      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "story_id": "story_38f7cda29bd5",
+      "title": "Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 generally available and latest migration",
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "Stage-only npm tokens for safer automation",
           "title_zh": null,
-          "title_en": "Ubuntu 26 generally available and latest migration",
-          "title_original": "Ubuntu 26 generally available and latest migration",
-          "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
+          "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nYou can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token permission to publish new versions directly to the npm registry.\nYour workflow uses npm stage publish to submit a version. A pack",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
+          "published_at": "2026-09-18T16:37:50Z"
         }
       ],
       "source_count": 1,
@@ -564,31 +984,31 @@
       ],
       "items": [
         {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 generally available and latest migration",
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "Stage-only npm tokens for safer automation",
           "title_zh": null,
-          "title_en": "Ubuntu 26 generally available and latest migration",
-          "title_original": "Ubuntu 26 generally available and latest migration",
-          "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
+          "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nYou can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token permission to publish new versions directly to the npm registry.\nYour workflow uses npm stage publish to submit a version. A pack",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
+          "published_at": "2026-09-18T16:37:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8911,
+        "recency": 0.8937,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -599,42 +1019,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T16:27:16Z",
-      "latest_at": "2026-09-17T16:27:16Z",
+      "earliest_at": "2026-09-18T16:37:50Z",
+      "latest_at": "2026-09-18T16:37:50Z",
       "primary_item": {
-        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-        "title": "Ubuntu 26 generally available and latest migration",
+        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+        "title": "Stage-only npm tokens for safer automation",
         "title_zh": null,
-        "title_en": "Ubuntu 26 generally available and latest migration",
-        "title_original": "Ubuntu 26 generally available and latest migration",
-        "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+        "title_en": "Stage-only npm tokens for safer automation",
+        "title_original": "Stage-only npm tokens for safer automation",
+        "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nYou can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token permission to publish new versions directly to the npm registry.\nYour workflow uses npm stage publish to submit a version. A pack",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_a366f16e4864",
-      "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-      "url": "https://www.aibase.com/news/31139",
-      "primary_url": "https://www.aibase.com/news/31139",
+      "story_id": "story_b1f94723e1e9",
+      "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+      "url": "https://www.aibase.com/news/31170",
+      "primary_url": "https://www.aibase.com/news/31170",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "id": "9990cad73a4a69096508248f27e2e8142f681f22",
+          "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+          "title_zh": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
           "title_en": null,
-          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
+          "title_original": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+          "summary": "Open-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31139",
+          "url": "https://www.aibase.com/news/31170",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T18:26:09.484386Z"
+          "published_at": "2026-09-18T17:24:36.762247Z"
         }
       ],
       "source_count": 1,
@@ -643,562 +1063,18 @@
       ],
       "items": [
         {
-          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "id": "9990cad73a4a69096508248f27e2e8142f681f22",
+          "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+          "title_zh": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
           "title_en": null,
-          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
+          "title_original": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+          "summary": "Open-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31139",
+          "url": "https://www.aibase.com/news/31170",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T18:26:09.484386Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T18:26:09.484386Z",
-      "latest_at": "2026-09-17T18:26:09.484386Z",
-      "primary_item": {
-        "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-        "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "title_en": null,
-        "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31139",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1bd0a7425a3c",
-      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/noam-brown",
-      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:38:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:38:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8807,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T15:38:13Z",
-      "latest_at": "2026-09-17T15:38:13Z",
-      "primary_item": {
-        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-        "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-        "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-        "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-        "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/noam-brown",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f9b859aff6b3",
-      "title": "小红书投放教程，已经被编得面目全非了",
-      "url": "https://www.yunyingpai.com/extend/1062452.html",
-      "primary_url": "https://www.yunyingpai.com/extend/1062452.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "990722b9fe0c06c50d6281169ed37f4b96b2ecff",
-          "title": "小红书投放教程，已经被编得面目全非了",
-          "title_zh": "小红书投放教程，已经被编得面目全非了",
-          "title_en": null,
-          "title_original": "小红书投放教程，已经被编得面目全非了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/extend/1062452.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-17T09:50:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "990722b9fe0c06c50d6281169ed37f4b96b2ecff",
-          "title": "小红书投放教程，已经被编得面目全非了",
-          "title_zh": "小红书投放教程，已经被编得面目全非了",
-          "title_en": null,
-          "title_original": "小红书投放教程，已经被编得面目全非了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/extend/1062452.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-17T09:50:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.81,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T09:50:41Z",
-      "latest_at": "2026-09-17T09:50:41Z",
-      "primary_item": {
-        "id": "990722b9fe0c06c50d6281169ed37f4b96b2ecff",
-        "title": "小红书投放教程，已经被编得面目全非了",
-        "title_zh": "小红书投放教程，已经被编得面目全非了",
-        "title_en": null,
-        "title_original": "小红书投放教程，已经被编得面目全非了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/extend/1062452.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_3ecb4a7a0061",
-      "title": "Workflow execution protections in GitHub Actions generally available",
-      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "Workflow execution protections in GitHub Actions generally available",
-          "title_zh": null,
-          "title_en": "Workflow execution protections in GitHub Actions generally available",
-          "title_original": "Workflow execution protections in GitHub Actions generally available",
-          "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nWorkflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories.\nExecution protections let you define an allowlist that controls who can trigger an Actions workflow a",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "Workflow execution protections in GitHub Actions generally available",
-          "title_zh": null,
-          "title_en": "Workflow execution protections in GitHub Actions generally available",
-          "title_original": "Workflow execution protections in GitHub Actions generally available",
-          "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nWorkflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories.\nExecution protections let you define an allowlist that controls who can trigger an Actions workflow a",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8822,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T15:45:26Z",
-      "latest_at": "2026-09-17T15:45:26Z",
-      "primary_item": {
-        "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-        "title": "Workflow execution protections in GitHub Actions generally available",
-        "title_zh": null,
-        "title_en": "Workflow execution protections in GitHub Actions generally available",
-        "title_original": "Workflow execution protections in GitHub Actions generally available",
-        "summary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nWorkflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories.\nExecution protections let you define an allowlist that controls who can trigger an Actions workflow a",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d9139340eb5e",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "primary_url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_zh": null,
-          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
-          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nSeptembe",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cooley-gopublic",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_zh": null,
-          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
-          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nSeptembe",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cooley-gopublic",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8356,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T12:00:00Z",
-      "latest_at": "2026-09-17T12:00:00Z",
-      "primary_item": {
-        "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-        "title": "How Cooley is accelerating IPO work with ChatGPT",
-        "title_zh": null,
-        "title_en": "How Cooley is accelerating IPO work with ChatGPT",
-        "title_original": "How Cooley is accelerating IPO work with ChatGPT",
-        "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nCooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.\nSeptembe",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cooley-gopublic",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_835a1099ffd5",
-      "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-      "url": "https://www.aibase.com/news/31138",
-      "primary_url": "https://www.aibase.com/news/31138",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_en": null,
-          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T18:26:09.484386Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_en": null,
-          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T18:26:09.484386Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T18:26:09.484386Z",
-      "latest_at": "2026-09-17T18:26:09.484386Z",
-      "primary_item": {
-        "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-        "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "title_en": null,
-        "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31138",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_90638377715b",
-      "title": "2026突发！Facebook涨粉广告全面下线",
-      "url": "https://www.yunyingpai.com/extend/1062444.html",
-      "primary_url": "https://www.yunyingpai.com/extend/1062444.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a3e8172053919c4a8678db9363dbcd60d04358a4",
-          "title": "2026突发！Facebook涨粉广告全面下线",
-          "title_zh": "2026突发！Facebook涨粉广告全面下线",
-          "title_en": null,
-          "title_original": "2026突发！Facebook涨粉广告全面下线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/extend/1062444.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-17T08:56:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "a3e8172053919c4a8678db9363dbcd60d04358a4",
-          "title": "2026突发！Facebook涨粉广告全面下线",
-          "title_zh": "2026突发！Facebook涨粉广告全面下线",
-          "title_en": null,
-          "title_original": "2026突发！Facebook涨粉广告全面下线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/extend/1062444.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-17T08:56:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7995,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T08:56:29Z",
-      "latest_at": "2026-09-17T08:56:29Z",
-      "primary_item": {
-        "id": "a3e8172053919c4a8678db9363dbcd60d04358a4",
-        "title": "2026突发！Facebook涨粉广告全面下线",
-        "title_zh": "2026突发！Facebook涨粉广告全面下线",
-        "title_en": null,
-        "title_original": "2026突发！Facebook涨粉广告全面下线",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/extend/1062444.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_73894b80d769",
-      "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-      "url": "https://www.aibase.com/news/31137",
-      "primary_url": "https://www.aibase.com/news/31137",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
-          "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-          "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-          "title_en": null,
-          "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-          "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31137",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T17:26:09.484386Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
-          "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-          "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-          "title_en": null,
-          "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-          "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31137",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T17:26:09.484386Z"
+          "published_at": "2026-09-18T17:24:36.762247Z"
         }
       ],
       "item_count": 1,
@@ -1221,42 +1097,119 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T17:26:09.484386Z",
-      "latest_at": "2026-09-17T17:26:09.484386Z",
+      "earliest_at": "2026-09-18T17:24:36.762247Z",
+      "latest_at": "2026-09-18T17:24:36.762247Z",
       "primary_item": {
-        "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
-        "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-        "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "id": "9990cad73a4a69096508248f27e2e8142f681f22",
+        "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+        "title_zh": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
         "title_en": null,
-        "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
-        "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+        "title_original": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
+        "summary": "Open-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31137",
+        "url": "https://www.aibase.com/news/31170",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_15378a19f21d",
-      "title": "互联网公司在小红书用一种新的方式做增长",
-      "url": "https://www.yunyingpai.com/user/1062464.html",
-      "primary_url": "https://www.yunyingpai.com/user/1062464.html",
+      "story_id": "story_31aa9a922a1b",
+      "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+      "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
+      "primary_url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
+          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
+          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T19:52:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
+          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
+          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T19:52:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9365,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T19:52:12Z",
+      "latest_at": "2026-09-18T19:52:12Z",
+      "primary_item": {
+        "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
+        "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+        "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
+        "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+        "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
+        "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d69ed1ff67e",
+      "title": "抖音重拳治理财经生态",
+      "url": "https://www.yunyingpai.com/news/1062576.html",
+      "primary_url": "https://www.yunyingpai.com/news/1062576.html",
       "source": "运营派",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "4d67d4fd067f56be7737eb90e19c560a809e025d",
-          "title": "互联网公司在小红书用一种新的方式做增长",
-          "title_zh": "互联网公司在小红书用一种新的方式做增长",
+          "id": "0d9434cfd87f80cc27525e753d98be4c5a8746ea",
+          "title": "抖音重拳治理财经生态",
+          "title_zh": "抖音重拳治理财经生态",
           "title_en": null,
-          "title_original": "互联网公司在小红书用一种新的方式做增长",
+          "title_original": "抖音重拳治理财经生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/user/1062464.html",
+          "url": "https://www.yunyingpai.com/news/1062576.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-17T02:33:03Z"
+          "published_at": "2026-09-18T02:23:24Z"
         }
       ],
       "source_count": 1,
@@ -1265,31 +1218,31 @@
       ],
       "items": [
         {
-          "id": "4d67d4fd067f56be7737eb90e19c560a809e025d",
-          "title": "互联网公司在小红书用一种新的方式做增长",
-          "title_zh": "互联网公司在小红书用一种新的方式做增长",
+          "id": "0d9434cfd87f80cc27525e753d98be4c5a8746ea",
+          "title": "抖音重拳治理财经生态",
+          "title_zh": "抖音重拳治理财经生态",
           "title_en": null,
-          "title_original": "互联网公司在小红书用一种新的方式做增长",
+          "title_original": "抖音重拳治理财经生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/user/1062464.html",
+          "url": "https://www.yunyingpai.com/news/1062576.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-17T02:33:03Z"
+          "published_at": "2026-09-18T02:23:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.729,
+        "recency": 0.7276,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -1298,42 +1251,119 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T02:33:03Z",
-      "latest_at": "2026-09-17T02:33:03Z",
+      "earliest_at": "2026-09-18T02:23:24Z",
+      "latest_at": "2026-09-18T02:23:24Z",
       "primary_item": {
-        "id": "4d67d4fd067f56be7737eb90e19c560a809e025d",
-        "title": "互联网公司在小红书用一种新的方式做增长",
-        "title_zh": "互联网公司在小红书用一种新的方式做增长",
+        "id": "0d9434cfd87f80cc27525e753d98be4c5a8746ea",
+        "title": "抖音重拳治理财经生态",
+        "title_zh": "抖音重拳治理财经生态",
         "title_en": null,
-        "title_original": "互联网公司在小红书用一种新的方式做增长",
+        "title_original": "抖音重拳治理财经生态",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/user/1062464.html",
+        "url": "https://www.yunyingpai.com/news/1062576.html",
         "source": "运营派",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_52a7858a1b06",
-      "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-      "url": "https://www.aibase.com/news/31134",
-      "primary_url": "https://www.aibase.com/news/31134",
+      "story_id": "story_a27283891753",
+      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+      "primary_url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+      "source": "Trail of Bits：AI安全研究",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
+          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
+          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
+          "title_en": "Auditing in the age of （good enough） AI",
+          "title_original": "Auditing in the age of （good enough） AI",
+          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Trail of Bits：AI安全研究"
+      ],
+      "items": [
+        {
+          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
+          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
+          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
+          "title_en": "Auditing in the age of （good enough） AI",
+          "title_original": "Auditing in the age of （good enough） AI",
+          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8239,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T11:00:00Z",
+      "latest_at": "2026-09-18T11:00:00Z",
+      "primary_item": {
+        "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
+        "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
+        "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
+        "title_en": "Auditing in the age of （good enough） AI",
+        "title_original": "Auditing in the age of （good enough） AI",
+        "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+        "source": "Trail of Bits：AI安全研究",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7baafd3b56cd",
+      "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+      "url": "https://www.aibase.com/news/31168",
+      "primary_url": "https://www.aibase.com/news/31168",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
-          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
+          "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+          "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
           "title_en": null,
-          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-          "summary": "Artificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nExplore AI Frontiers",
+          "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+          "summary": "Recently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31134",
+          "url": "https://www.aibase.com/news/31168",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T16:26:09.484386Z"
+          "published_at": "2026-09-18T16:24:36.762247Z"
         }
       ],
       "source_count": 1,
@@ -1342,18 +1372,18 @@
       ],
       "items": [
         {
-          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
-          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
+          "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+          "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
           "title_en": null,
-          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-          "summary": "Artificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nExplore AI Frontiers",
+          "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+          "summary": "Recently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31134",
+          "url": "https://www.aibase.com/news/31168",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T16:26:09.484386Z"
+          "published_at": "2026-09-18T16:24:36.762247Z"
         }
       ],
       "item_count": 1,
@@ -1375,148 +1405,196 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T16:26:09.484386Z",
-      "latest_at": "2026-09-17T16:26:09.484386Z",
+      "earliest_at": "2026-09-18T16:24:36.762247Z",
+      "latest_at": "2026-09-18T16:24:36.762247Z",
       "primary_item": {
-        "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
-        "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-        "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
+        "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+        "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
         "title_en": null,
-        "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
-        "summary": "Artificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nArtificial intelligence company Anthropic announced a major integration of its product line, officially merging Claude Chat with the Cowork feature to launch a\nExplore AI Frontiers",
+        "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
+        "summary": "Recently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31134",
+        "url": "https://www.aibase.com/news/31168",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8cd40203fffb",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-      "primary_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_abd616b30eba",
+      "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+      "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+      "primary_url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b6798f0785840649c9f2c5bf3e90afe8a7da991c",
-          "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "title_zh": null,
-          "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "title_original": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "summary": null,
+          "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
+          "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+          "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T22:14:59Z"
-        },
-        {
-          "id": "62c9658642646a774d1fe6240097e57e97be4608",
-          "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-          "title_zh": null,
-          "title_en": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-          "title_original": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T22:14:59Z"
+          "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T16:29:57Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "b6798f0785840649c9f2c5bf3e90afe8a7da991c",
-          "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "title_zh": null,
-          "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "title_original": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "summary": null,
+          "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
+          "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+          "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-17T22:14:59Z"
-        },
-        {
-          "id": "62c9658642646a774d1fe6240097e57e97be4608",
-          "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-          "title_zh": null,
-          "title_en": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-          "title_original": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T22:14:59Z"
+          "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T16:29:57Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6432,
-      "importance": 0.6432,
-      "importance_score": 0.6432,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9689,
-        "story_heat": 0.25,
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.892,
+        "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T22:14:59Z",
-      "latest_at": "2026-09-17T22:14:59Z",
+      "earliest_at": "2026-09-18T16:29:57Z",
+      "latest_at": "2026-09-18T16:29:57Z",
       "primary_item": {
-        "id": "b6798f0785840649c9f2c5bf3e90afe8a7da991c",
-        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-        "title_zh": null,
-        "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
-        "title_original": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
+        "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+        "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+        "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+        "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+        "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1981debca578",
+      "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+      "url": "https://www.yunyingpai.com/news/1062487.html",
+      "primary_url": "https://www.yunyingpai.com/news/1062487.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "4ea01201d671bcf703cfb337a9a4e118d41693b5",
+          "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+          "title_zh": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+          "title_en": null,
+          "title_original": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/news/1062487.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T01:24:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "4ea01201d671bcf703cfb337a9a4e118d41693b5",
+          "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+          "title_zh": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+          "title_en": null,
+          "title_original": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/news/1062487.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-18T01:24:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.7174,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T01:24:49Z",
+      "latest_at": "2026-09-18T01:24:49Z",
+      "primary_item": {
+        "id": "4ea01201d671bcf703cfb337a9a4e118d41693b5",
+        "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+        "title_zh": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
+        "title_en": null,
+        "title_original": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://www.yunyingpai.com/news/1062487.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_f02090a46c9c",
-      "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-      "url": "https://www.aibase.com/news/31133",
-      "primary_url": "https://www.aibase.com/news/31133",
+      "story_id": "story_2cb263f8f30d",
+      "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+      "url": "https://www.aibase.com/news/31163",
+      "primary_url": "https://www.aibase.com/news/31163",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
-          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "id": "329adb38ccd935b9e928d1bdeb1b398f0943e286",
+          "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+          "title_zh": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
           "title_en": null,
-          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-          "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
+          "title_original": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+          "summary": "According to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31133",
+          "url": "https://www.aibase.com/news/31163",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T16:26:09.484386Z"
+          "published_at": "2026-09-18T15:24:36.762247Z"
         }
       ],
       "source_count": 1,
@@ -1525,95 +1603,18 @@
       ],
       "items": [
         {
-          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
-          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "id": "329adb38ccd935b9e928d1bdeb1b398f0943e286",
+          "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+          "title_zh": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
           "title_en": null,
-          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-          "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
+          "title_original": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+          "summary": "According to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31133",
+          "url": "https://www.aibase.com/news/31163",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T16:26:09.484386Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T16:26:09.484386Z",
-      "latest_at": "2026-09-17T16:26:09.484386Z",
-      "primary_item": {
-        "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
-        "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-        "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-        "title_en": null,
-        "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
-        "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31133",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf7282a50beb",
-      "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-      "url": "https://www.aibase.com/news/31128",
-      "primary_url": "https://www.aibase.com/news/31128",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
-          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_en": null,
-          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31128",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T15:26:09.484386Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
-          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_en": null,
-          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31128",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T15:26:09.484386Z"
+          "published_at": "2026-09-18T15:24:36.762247Z"
         }
       ],
       "item_count": 1,
@@ -1635,17 +1636,17 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T15:26:09.484386Z",
-      "latest_at": "2026-09-17T15:26:09.484386Z",
+      "earliest_at": "2026-09-18T15:24:36.762247Z",
+      "latest_at": "2026-09-18T15:24:36.762247Z",
       "primary_item": {
-        "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
-        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-        "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "id": "329adb38ccd935b9e928d1bdeb1b398f0943e286",
+        "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+        "title_zh": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
         "title_en": null,
-        "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-        "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
+        "title_original": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
+        "summary": "According to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31128",
+        "url": "https://www.aibase.com/news/31163",
         "source": "AIbase",
         "source_name": "AIbase"
       }
