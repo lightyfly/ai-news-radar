@@ -1,1654 +1,835 @@
 {
-  "generated_at": "2026-09-19T00:24:36.762247Z",
+  "generated_at": "2026-09-20T00:10:21.098024Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 7,
   "items": [
     {
-      "story_id": "story_fc4b3a26f87c",
-      "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "primary_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_78c8e78e52c7",
+      "title": "抖音上线声音侵权举报入口",
+      "url": "https://www.yunyingpai.com/news/1062604.html",
+      "primary_url": "https://www.yunyingpai.com/news/1062604.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
-          "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
-          "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
-          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
-          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
-          "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
+          "id": "595faa038e1bf5f1e6a4d8be983c2d24a3be1093",
+          "title": "抖音上线声音侵权举报入口",
+          "title_zh": "抖音上线声音侵权举报入口",
+          "title_en": null,
+          "title_original": "抖音上线声音侵权举报入口",
+          "summary": "抖音在侵犯权益举报类型下新增冒用声音专属入口，个人和企业都能通过批量侵权举报网站提交投诉。举证方式分语音录入核验与上传原声视频两种，近一个月侵权投诉中提及声音侵权的举报量同比翻倍。\n今天， 抖音宣布上线“冒用声音”举报入口 ，在“侵犯权益”举报类型下新增声音侵权维权专属通道，个人及企业用户均可通过抖音批量侵权举报网站发起投诉。\n这意味着，面对未经授权使用他人声音、AI合成冒用声音、仿冒明星或配音演员音色等行为，权利人有了更清晰、更便捷、更可核验的维权路径。\n随着生成式AI快速发展，声音克隆的技术门槛明显降低。 一段公开音频、几句语音素材，甚至就可能被用于训练或合成高度相似的声音内容。\n对于明星、主播、配音演员、内容创作者，乃至普通用户而言，声音不仅是表达工具，也承载着个人身份识别、职业价值和人格权益。一旦被他人擅自使用，轻则造成误认和困扰，重则可能被用于商业引流、虚假宣传甚至诈骗，带来名誉、财产和信任风险。\n抖音平台数据显示，近一个月来， 侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。 面对这一变化，抖音此次升级声音侵权举报机制，在PC端上线专属入口。",
           "recommend_reason_zh": null,
-          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T17:28:01Z"
+          "url": "https://www.yunyingpai.com/news/1062604.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T05:41:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "运营派"
+      ],
+      "items": [
+        {
+          "id": "595faa038e1bf5f1e6a4d8be983c2d24a3be1093",
+          "title": "抖音上线声音侵权举报入口",
+          "title_zh": "抖音上线声音侵权举报入口",
+          "title_en": null,
+          "title_original": "抖音上线声音侵权举报入口",
+          "summary": "抖音在侵犯权益举报类型下新增冒用声音专属入口，个人和企业都能通过批量侵权举报网站提交投诉。举证方式分语音录入核验与上传原声视频两种，近一个月侵权投诉中提及声音侵权的举报量同比翻倍。\n今天， 抖音宣布上线“冒用声音”举报入口 ，在“侵犯权益”举报类型下新增声音侵权维权专属通道，个人及企业用户均可通过抖音批量侵权举报网站发起投诉。\n这意味着，面对未经授权使用他人声音、AI合成冒用声音、仿冒明星或配音演员音色等行为，权利人有了更清晰、更便捷、更可核验的维权路径。\n随着生成式AI快速发展，声音克隆的技术门槛明显降低。 一段公开音频、几句语音素材，甚至就可能被用于训练或合成高度相似的声音内容。\n对于明星、主播、配音演员、内容创作者，乃至普通用户而言，声音不仅是表达工具，也承载着个人身份识别、职业价值和人格权益。一旦被他人擅自使用，轻则造成误认和困扰，重则可能被用于商业引流、虚假宣传甚至诈骗，带来名誉、财产和信任风险。\n抖音平台数据显示，近一个月来， 侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。 面对这一变化，抖音此次升级声音侵权举报机制，在PC端上线专属入口。",
+          "recommend_reason_zh": null,
+          "url": "https://www.yunyingpai.com/news/1062604.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-19T05:41:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.7657,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.14,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-19T05:41:09Z",
+      "latest_at": "2026-09-19T05:41:09Z",
+      "primary_item": {
+        "id": "595faa038e1bf5f1e6a4d8be983c2d24a3be1093",
+        "title": "抖音上线声音侵权举报入口",
+        "title_zh": "抖音上线声音侵权举报入口",
+        "title_en": null,
+        "title_original": "抖音上线声音侵权举报入口",
+        "summary": "抖音在侵犯权益举报类型下新增冒用声音专属入口，个人和企业都能通过批量侵权举报网站提交投诉。举证方式分语音录入核验与上传原声视频两种，近一个月侵权投诉中提及声音侵权的举报量同比翻倍。\n今天， 抖音宣布上线“冒用声音”举报入口 ，在“侵犯权益”举报类型下新增声音侵权维权专属通道，个人及企业用户均可通过抖音批量侵权举报网站发起投诉。\n这意味着，面对未经授权使用他人声音、AI合成冒用声音、仿冒明星或配音演员音色等行为，权利人有了更清晰、更便捷、更可核验的维权路径。\n随着生成式AI快速发展，声音克隆的技术门槛明显降低。 一段公开音频、几句语音素材，甚至就可能被用于训练或合成高度相似的声音内容。\n对于明星、主播、配音演员、内容创作者，乃至普通用户而言，声音不仅是表达工具，也承载着个人身份识别、职业价值和人格权益。一旦被他人擅自使用，轻则造成误认和困扰，重则可能被用于商业引流、虚假宣传甚至诈骗，带来名誉、财产和信任风险。\n抖音平台数据显示，近一个月来， 侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。 面对这一变化，抖音此次升级声音侵权举报机制，在PC端上线专属入口。",
+        "recommend_reason_zh": null,
+        "url": "https://www.yunyingpai.com/news/1062604.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_98f7eb83a544",
+      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
+          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.\nTrump claimed, without evidence, that the AI backlash is a Democratic hoax.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Enterta",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-19T19:57:47Z"
         },
         {
-          "id": "0ea33f912b37b9f311ade659916c1b113c8861c6",
-          "title": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
-          "title_zh": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
-          "title_en": null,
-          "title_original": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
+          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
+          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-          "source": "www.cnn.com",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T19:57:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
+          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.\nTrump claimed, without evidence, that the AI backlash is a Democratic hoax.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Enterta",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-19T19:57:47Z"
+        },
+        {
+          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
+          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
+          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T19:57:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6381,
+      "importance": 0.6381,
+      "importance_score": 0.6381,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.941,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T19:57:47Z",
+      "latest_at": "2026-09-19T19:57:47Z",
+      "primary_item": {
+        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
+        "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.\nTrump claimed, without evidence, that the AI backlash is a Democratic hoax.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Enterta",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_ef95692bbaba",
+      "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "www.tomshardware.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_en": null,
+          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-18T18:48:49.722000Z"
+          "published_at": "2026-09-19T23:58:19.151000Z"
         },
         {
-          "id": "a7cd35ddcee1fa17fab498fce1164576639f9162",
-          "title": "US Military had close call after using AI for hallucinated intelligence report",
-          "title_zh": null,
-          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
-          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49757520",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49768921",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T17:28:01Z"
+          "published_at": "2026-09-19T18:21:30Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News：AI 热帖",
+        "Hacker News",
         "hackernews",
-        "www.cnn.com"
+        "www.tomshardware.com"
       ],
       "items": [
         {
-          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
-          "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
-          "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
-          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
-          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
-          "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T17:28:01Z"
-        },
-        {
-          "id": "0ea33f912b37b9f311ade659916c1b113c8861c6",
-          "title": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
-          "title_zh": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
           "title_en": null,
-          "title_original": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-          "source": "www.cnn.com",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-18T18:48:49.722000Z"
+          "published_at": "2026-09-19T23:58:19.151000Z"
         },
         {
-          "id": "a7cd35ddcee1fa17fab498fce1164576639f9162",
-          "title": "US Military had close call after using AI for hallucinated intelligence report",
-          "title_zh": null,
-          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
-          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49757520",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49768921",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T17:28:01Z"
+          "published_at": "2026-09-19T18:21:30Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
         "story_heat": 0.5,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
       },
       "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-18T17:28:01Z",
-      "latest_at": "2026-09-18T18:48:49.722000Z",
+      "earliest_at": "2026-09-19T18:21:30Z",
+      "latest_at": "2026-09-19T23:58:19.151000Z",
       "primary_item": {
-        "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
-        "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
-        "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
-        "title_en": "US Military had close call after using AI for hallucinated intelligence report",
-        "title_original": "US Military had close call after using AI for hallucinated intelligence report",
-        "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
-        "recommend_reason_zh": null,
-        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8b8113a300b2",
-      "title": "Copilot code review: An improved review experience",
-      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-      "primary_url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
-          "title": "Copilot code review: An improved review experience",
-          "title_zh": null,
-          "title_en": "Copilot code review: An improved review experience",
-          "title_original": "Copilot code review: An improved review experience",
-          "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T20:17:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
-          "title": "Copilot code review: An improved review experience",
-          "title_zh": null,
-          "title_en": "Copilot code review: An improved review experience",
-          "title_original": "Copilot code review: An improved review experience",
-          "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T20:17:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9422,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T20:17:22Z",
-      "latest_at": "2026-09-18T20:17:22Z",
-      "primary_item": {
-        "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
-        "title": "Copilot code review: An improved review experience",
-        "title_zh": null,
-        "title_en": "Copilot code review: An improved review experience",
-        "title_original": "Copilot code review: An improved review experience",
-        "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_55ec4d48c198",
-      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_zh": null,
-          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nHot takes turn complicated topics into one confident sentence. That makes them great for engagement, but not necessarily for understanding.\nAt the surface level, they do not matter much. You agree, disagree, r",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_zh": null,
-          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nHot takes turn complicated topics into one confident sentence. That makes them great for engagement, but not necessarily for understanding.\nAt the surface level, they do not matter much. You agree, disagree, r",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8729,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T15:00:00Z",
-      "latest_at": "2026-09-18T15:00:00Z",
-      "primary_item": {
-        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "title_zh": null,
-        "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nWe dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nHot takes turn complicated topics into one confident sentence. That makes them great for engagement, but not necessarily for understanding.\nAt the surface level, they do not matter much. You agree, disagree, r",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0147a5930960",
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-          "title": "New experts join Google’s AI & Economy team",
-          "title_zh": null,
-          "title_en": "New experts join Google’s AI & Economy team",
-          "title_original": "New experts join Google’s AI & Economy team",
-          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-          "title": "New experts join Google’s AI & Economy team",
-          "title_zh": null,
-          "title_en": "New experts join Google’s AI & Economy team",
-          "title_original": "New experts join Google’s AI & Economy team",
-          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8604,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T14:00:00Z",
-      "latest_at": "2026-09-18T14:00:00Z",
-      "primary_item": {
-        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-        "title": "New experts join Google’s AI & Economy team",
-        "title_zh": null,
-        "title_en": "New experts join Google’s AI & Economy team",
-        "title_original": "New experts join Google’s AI & Economy team",
-        "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_48ff8a06680b",
-      "title": "Manage the code coverage ruleset condition with the REST API",
-      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "Manage the code coverage ruleset condition with the REST API",
-          "title_zh": null,
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "Manage the code coverage ruleset condition with the REST API",
-          "title_zh": null,
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9302,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:23:49Z",
-      "latest_at": "2026-09-18T19:23:49Z",
-      "primary_item": {
-        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-        "title": "Manage the code coverage ruleset condition with the REST API",
-        "title_zh": null,
-        "title_en": "Manage the code coverage ruleset condition with the REST API",
-        "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b9fbb585a4b2",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
-          "title": "Co-creating the future of fashion with Google",
-          "title_zh": null,
-          "title_en": "Co-creating the future of fashion with Google",
-          "title_original": "Co-creating the future of fashion with Google",
-          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
-          "title": "Co-creating the future of fashion with Google",
-          "title_zh": null,
-          "title_en": "Co-creating the future of fashion with Google",
-          "title_original": "Co-creating the future of fashion with Google",
-          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8481,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T13:00:00Z",
-      "latest_at": "2026-09-18T13:00:00Z",
-      "primary_item": {
-        "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
-        "title": "Co-creating the future of fashion with Google",
-        "title_zh": null,
-        "title_en": "Co-creating the future of fashion with Google",
-        "title_original": "Co-creating the future of fashion with Google",
-        "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c3b254c98c32",
-      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9912,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T23:47:57Z",
-      "latest_at": "2026-09-18T23:47:57Z",
-      "primary_item": {
-        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ff6f508c858",
-      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-      "url": "https://www.ithome.com/1/004/356.htm",
-      "primary_url": "https://www.ithome.com/1/004/356.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
-          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "title_en": null,
-          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/004/356.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:13:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
-          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "title_en": null,
-          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/004/356.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:13:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9829,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T23:13:06Z",
-      "latest_at": "2026-09-18T23:13:06Z",
-      "primary_item": {
-        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
-        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+        "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+        "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
         "title_en": null,
-        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+        "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/004/356.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "www.tomshardware.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_b2e760c3e0a8",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_dc21f5938fae",
+      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "source": "erichgrunewald.substack.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "title_en": "Partnering with Accenture on embedded evaluation",
-          "title_original": "Partnering with Accenture on embedded evaluation",
-          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40.477000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "title_en": "Partnering with Accenture on embedded evaluation",
-          "title_original": "Partnering with Accenture on embedded evaluation",
-          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40.477000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9432,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T20:21:40.477000Z",
-      "latest_at": "2026-09-18T20:21:40.477000Z",
-      "primary_item": {
-        "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-        "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-        "title_en": "Partnering with Accenture on embedded evaluation",
-        "title_original": "Partnering with Accenture on embedded evaluation",
-        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aba82ef73bf1",
-      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-      "primary_url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
-          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T15:27:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
-          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T15:27:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8787,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T15:27:29Z",
-      "latest_at": "2026-09-18T15:27:29Z",
-      "primary_item": {
-        "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
-        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-        "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-        "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-        "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-        "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_96a1341fc9d6",
-      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "primary_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
-          "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T10:35:28Z"
-        },
-        {
-          "id": "4ad10fc6005b36c3310ea4cae93fa937cf564062",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": null,
+          "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "Almost Never Use AI to Write Anything Substantive",
+          "title_original": "Almost Never Use AI to Write Anything Substantive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "I think you should almost never use AI to write",
+          "title_original": "I think you should almost never use AI to write",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "erichgrunewald.substack.com"
+      ],
+      "items": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": null,
+          "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "Almost Never Use AI to Write Anything Substantive",
+          "title_original": "Almost Never Use AI to Write Anything Substantive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "I think you should almost never use AI to write",
+          "title_original": "I think you should almost never use AI to write",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5604,
+      "importance": 0.5604,
+      "importance_score": 0.5604,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9423,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T16:35:24Z",
+      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "primary_item": {
+        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "title_en": null,
+        "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "source": "erichgrunewald.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_77dcce9e2385",
+      "title": "AI生成的海报未必就难看",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "primary_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "john.hartnup.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+          "title": "AI生成的海报未必就难看",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": null,
+          "title_original": "AI生成的海报未必就难看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "john.hartnup.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T10:53:16.305000Z"
+        },
+        {
+          "id": "3003344eadbbe36deaeef27bd96c32b0c033ec3e",
+          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": "AI-generated posters don’t have to be horrible",
+          "title_original": "AI-generated posters don’t have to be horrible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T09:20:58Z"
+        },
+        {
+          "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
+          "title": "人工智能生成的海报不一定很可怕 / AI-generated posters don’t have to be horrible",
+          "title_zh": "人工智能生成的海报不一定很可怕",
+          "title_en": "AI-generated posters don’t have to be horrible",
+          "title_original": "AI-generated posters don’t have to be horrible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49764791",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T09:20:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "john.hartnup.uk"
+      ],
+      "items": [
+        {
+          "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+          "title": "AI生成的海报未必就难看",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": null,
+          "title_original": "AI生成的海报未必就难看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "john.hartnup.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T10:53:16.305000Z"
+        },
+        {
+          "id": "3003344eadbbe36deaeef27bd96c32b0c033ec3e",
+          "title": "AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible",
+          "title_zh": "AI生成的海报未必就难看",
+          "title_en": "AI-generated posters don’t have to be horrible",
+          "title_original": "AI-generated posters don’t have to be horrible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T09:20:58Z"
+        },
+        {
+          "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
+          "title": "人工智能生成的海报不一定很可怕 / AI-generated posters don’t have to be horrible",
+          "title_zh": "人工智能生成的海报不一定很可怕",
+          "title_en": "AI-generated posters don’t have to be horrible",
+          "title_original": "AI-generated posters don’t have to be horrible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49764791",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T09:20:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8254,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T09:20:58Z",
+      "latest_at": "2026-09-19T10:53:16.305000Z",
+      "primary_item": {
+        "id": "080ed67dd4ac3273b7ff88a23e8aa41dfb06ed8e",
+        "title": "AI生成的海报未必就难看",
+        "title_zh": "AI生成的海报未必就难看",
+        "title_en": null,
+        "title_original": "AI生成的海报未必就难看",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "source": "john.hartnup.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc4c74fcbc57",
+      "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "primary_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "www.prinzai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.529000Z"
+        },
+        {
+          "id": "975b8c98bbcca00a85963b74cd05080a30d68f9a",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_original": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T06:41:44Z"
+        },
+        {
+          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
+          "title": "GPT-6 Astra 破解了第一次世界大战德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_zh": "GPT-6 Astra 破解了第一次世界大战德国无线电密码",
+          "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_original": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763987",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T06:41:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.prinzai.com"
+      ],
+      "items": [
+        {
+          "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "www.prinzai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T09:35:29.529000Z"
+        },
+        {
+          "id": "975b8c98bbcca00a85963b74cd05080a30d68f9a",
+          "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+          "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_original": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T06:41:44Z"
+        },
+        {
+          "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
+          "title": "GPT-6 Astra 破解了第一次世界大战德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_zh": "GPT-6 Astra 破解了第一次世界大战德国无线电密码",
+          "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_original": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763987",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T06:41:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4366,
+      "importance": 0.4366,
+      "importance_score": 0.4366,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8101,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T06:41:44Z",
+      "latest_at": "2026-09-19T09:35:29.529000Z",
+      "primary_item": {
+        "id": "28d9a65889651f285954e18c9bbd8757e98c89e7",
+        "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+        "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+        "title_en": null,
+        "title_original": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "source": "www.prinzai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a1a7ab465c4b",
+      "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-19T06:09:23Z"
+        },
+        {
+          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T04:27:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖"
+        "BBC News",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
-          "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T10:35:28Z"
-        },
-        {
-          "id": "4ad10fc6005b36c3310ea4cae93fa937cf564062",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-19T06:09:23Z"
+        },
+        {
+          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T04:27:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
-      "importance_label": "行业动态",
+      "score": 0.4046,
+      "importance": 0.4046,
+      "importance_score": 0.4046,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7709,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-18T10:35:28Z",
-      "latest_at": "2026-09-18T10:35:28Z",
+      "earliest_at": "2026-09-19T04:27:11Z",
+      "latest_at": "2026-09-19T06:09:23Z",
       "primary_item": {
-        "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
-        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-        "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-        "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-        "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
-        "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
-        "recommend_reason_zh": null,
-        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_38f7cda29bd5",
-      "title": "Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "Stage-only npm tokens for safer automation",
-          "title_zh": null,
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nYou can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token permission to publish new versions directly to the npm registry.\nYour workflow uses npm stage publish to submit a version. A pack",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "Stage-only npm tokens for safer automation",
-          "title_zh": null,
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nYou can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token permission to publish new versions directly to the npm registry.\nYour workflow uses npm stage publish to submit a version. A pack",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8937,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T16:37:50Z",
-      "latest_at": "2026-09-18T16:37:50Z",
-      "primary_item": {
-        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-        "title": "Stage-only npm tokens for safer automation",
-        "title_zh": null,
-        "title_en": "Stage-only npm tokens for safer automation",
-        "title_original": "Stage-only npm tokens for safer automation",
-        "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nYou can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token permission to publish new versions directly to the npm registry.\nYour workflow uses npm stage publish to submit a version. A pack",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b1f94723e1e9",
-      "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-      "url": "https://www.aibase.com/news/31170",
-      "primary_url": "https://www.aibase.com/news/31170",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9990cad73a4a69096508248f27e2e8142f681f22",
-          "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-          "title_zh": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-          "title_en": null,
-          "title_original": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-          "summary": "Open-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31170",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T17:24:36.762247Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9990cad73a4a69096508248f27e2e8142f681f22",
-          "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-          "title_zh": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-          "title_en": null,
-          "title_original": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-          "summary": "Open-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31170",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T17:24:36.762247Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T17:24:36.762247Z",
-      "latest_at": "2026-09-18T17:24:36.762247Z",
-      "primary_item": {
-        "id": "9990cad73a4a69096508248f27e2e8142f681f22",
-        "title": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-        "title_zh": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-        "title_en": null,
-        "title_original": "Calibre上手 AI 互动写作：电子书管理器摇身变成\"文字冒险游戏引擎\"",
-        "summary": "Open-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nOpen-source e-book management tool Calibre has updated to version 9.15, adding a creative new feature—optional AI interactive writing game \"Create Your Own Adve\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31170",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_31aa9a922a1b",
-      "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-      "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "primary_url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9365,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T19:52:12Z",
-      "latest_at": "2026-09-18T19:52:12Z",
-      "primary_item": {
-        "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-        "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-        "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d69ed1ff67e",
-      "title": "抖音重拳治理财经生态",
-      "url": "https://www.yunyingpai.com/news/1062576.html",
-      "primary_url": "https://www.yunyingpai.com/news/1062576.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "0d9434cfd87f80cc27525e753d98be4c5a8746ea",
-          "title": "抖音重拳治理财经生态",
-          "title_zh": "抖音重拳治理财经生态",
-          "title_en": null,
-          "title_original": "抖音重拳治理财经生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1062576.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T02:23:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "0d9434cfd87f80cc27525e753d98be4c5a8746ea",
-          "title": "抖音重拳治理财经生态",
-          "title_zh": "抖音重拳治理财经生态",
-          "title_en": null,
-          "title_original": "抖音重拳治理财经生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1062576.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T02:23:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7276,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T02:23:24Z",
-      "latest_at": "2026-09-18T02:23:24Z",
-      "primary_item": {
-        "id": "0d9434cfd87f80cc27525e753d98be4c5a8746ea",
-        "title": "抖音重拳治理财经生态",
-        "title_zh": "抖音重拳治理财经生态",
-        "title_en": null,
-        "title_original": "抖音重拳治理财经生态",
+        "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+        "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+        "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+        "title_en": "Google's Gemini AI hacked three companies in security test",
+        "title_original": "Google's Gemini AI hacked three companies in security test",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/news/1062576.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a27283891753",
-      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "primary_url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "source": "Trail of Bits：AI安全研究",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-          "title_en": "Auditing in the age of （good enough） AI",
-          "title_original": "Auditing in the age of （good enough） AI",
-          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Trail of Bits：AI安全研究"
-      ],
-      "items": [
-        {
-          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-          "title_en": "Auditing in the age of （good enough） AI",
-          "title_original": "Auditing in the age of （good enough） AI",
-          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8239,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T11:00:00Z",
-      "latest_at": "2026-09-18T11:00:00Z",
-      "primary_item": {
-        "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-        "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-        "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-        "title_en": "Auditing in the age of （good enough） AI",
-        "title_original": "Auditing in the age of （good enough） AI",
-        "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-        "source": "Trail of Bits：AI安全研究",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7baafd3b56cd",
-      "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-      "url": "https://www.aibase.com/news/31168",
-      "primary_url": "https://www.aibase.com/news/31168",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
-          "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_en": null,
-          "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "summary": "Recently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31168",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T16:24:36.762247Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
-          "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "title_en": null,
-          "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-          "summary": "Recently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31168",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T16:24:36.762247Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T16:24:36.762247Z",
-      "latest_at": "2026-09-18T16:24:36.762247Z",
-      "primary_item": {
-        "id": "f7476c59122f12b741c4b2d1de0a6abaf1d09b0a",
-        "title": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-        "title_zh": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-        "title_en": null,
-        "title_original": "千问办公接入高德门店经营专家套件 提升实体店选址与经营效率",
-        "summary": "Recently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nRecently, Qwen Office announced the integration of the Gaode Store Operation Expert Kit. This kit includes three expert capabilities: site selection consulting,\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31168",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_abd616b30eba",
-      "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-      "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-      "primary_url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
-          "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-          "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
-          "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-          "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-          "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T16:29:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
-          "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-          "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
-          "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-          "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-          "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T16:29:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.892,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T16:29:57Z",
-      "latest_at": "2026-09-18T16:29:57Z",
-      "primary_item": {
-        "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
-        "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-        "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
-        "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-        "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
-        "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1981debca578",
-      "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-      "url": "https://www.yunyingpai.com/news/1062487.html",
-      "primary_url": "https://www.yunyingpai.com/news/1062487.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "4ea01201d671bcf703cfb337a9a4e118d41693b5",
-          "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-          "title_zh": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-          "title_en": null,
-          "title_original": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1062487.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T01:24:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "4ea01201d671bcf703cfb337a9a4e118d41693b5",
-          "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-          "title_zh": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-          "title_en": null,
-          "title_original": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1062487.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-18T01:24:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7174,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T01:24:49Z",
-      "latest_at": "2026-09-18T01:24:49Z",
-      "primary_item": {
-        "id": "4ea01201d671bcf703cfb337a9a4e118d41693b5",
-        "title": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-        "title_zh": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-        "title_en": null,
-        "title_original": "老品种翻红，小众品出村：直播电商助农的产业逻辑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/news/1062487.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_2cb263f8f30d",
-      "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-      "url": "https://www.aibase.com/news/31163",
-      "primary_url": "https://www.aibase.com/news/31163",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "329adb38ccd935b9e928d1bdeb1b398f0943e286",
-          "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-          "title_zh": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-          "title_en": null,
-          "title_original": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-          "summary": "According to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31163",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T15:24:36.762247Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "329adb38ccd935b9e928d1bdeb1b398f0943e286",
-          "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-          "title_zh": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-          "title_en": null,
-          "title_original": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-          "summary": "According to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31163",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T15:24:36.762247Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T15:24:36.762247Z",
-      "latest_at": "2026-09-18T15:24:36.762247Z",
-      "primary_item": {
-        "id": "329adb38ccd935b9e928d1bdeb1b398f0943e286",
-        "title": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-        "title_zh": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-        "title_en": null,
-        "title_original": "吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管",
-        "summary": "According to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nAccording to Bloomberg, renowned expert in the field of artificial intelligence, Andrew Ng, criticized the warnings about \"AI existential risks\" raised by resea\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31163",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
