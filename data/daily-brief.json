@@ -1,108 +1,29 @@
 {
-  "generated_at": "2026-10-09T02:16:01.448448Z",
+  "generated_at": "2026-10-10T01:48:06.268791Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_65da7bfcfb81",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": null,
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
-          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nLegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nLegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nOctober 8, 2026\nLega",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": null,
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
-          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nLegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nLegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nOctober 8, 2026\nLega",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8138,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-        "title": "LegalOn halves Codex costs while maintaining development speed",
-        "title_zh": null,
-        "title_en": "LegalOn halves Codex costs while maintaining development speed",
-        "title_original": "LegalOn halves Codex costs while maintaining development speed",
-        "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nLegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nLegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.\nOctober 8, 2026\nLega",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_02d66470e18a",
-      "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
-      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "story_id": "story_03281ba48285",
+      "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
-          "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
-          "title_zh": "分类角色用户或更高级别现在可以存档拉取请求",
-          "title_en": "Triage role users or higher can now archive pull requests",
-          "title_original": "Triage role users or higher can now archive pull requests",
-          "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine…\nUsers with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine moderation work to someone with higher permissions.\nMaintainers increasingly rely on tria",
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
+          "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "summary": "CodeQL 2.27.2 is now available\nCodeQL 2.27.2 is now available\nCodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find and remediate security issues in your code. The Default suite runs 498 security queries covering 170 CWEs. The Extended suite adds 131 queries covering 32 more CWEs.\nC/C++\nGo\nRust\nJavaScript/TypeScript\nC#\nGitHub Actions\nThe Go c",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T19:01:42Z"
+          "published_at": "2026-10-09T21:32:54Z"
         }
       ],
       "source_count": 1,
@@ -111,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
-          "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
-          "title_zh": "分类角色用户或更高级别现在可以存档拉取请求",
-          "title_en": "Triage role users or higher can now archive pull requests",
-          "title_original": "Triage role users or higher can now archive pull requests",
-          "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine…\nUsers with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine moderation work to someone with higher permissions.\nMaintainers increasingly rely on tria",
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
+          "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "summary": "CodeQL 2.27.2 is now available\nCodeQL 2.27.2 is now available\nCodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find and remediate security issues in your code. The Default suite runs 498 security queries covering 170 CWEs. The Extended suite adds 131 queries covering 32 more CWEs.\nC/C++\nGo\nRust\nJavaScript/TypeScript\nC#\nGitHub Actions\nThe Go c",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T19:01:42Z"
+          "published_at": "2026-10-09T21:32:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9007,
+        "recency": 0.9404,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -146,121 +67,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T19:01:42Z",
-      "latest_at": "2026-10-08T19:01:42Z",
+      "earliest_at": "2026-10-09T21:32:54Z",
+      "latest_at": "2026-10-09T21:32:54Z",
       "primary_item": {
-        "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
-        "title": "分类角色用户或更高级别现在可以存档拉取请求 / Triage role users or higher can now archive pull requests",
-        "title_zh": "分类角色用户或更高级别现在可以存档拉取请求",
-        "title_en": "Triage role users or higher can now archive pull requests",
-        "title_original": "Triage role users or higher can now archive pull requests",
-        "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine…\nUsers with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine moderation work to someone with higher permissions.\nMaintainers increasingly rely on tria",
+        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+        "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
+        "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "summary": "CodeQL 2.27.2 is now available\nCodeQL 2.27.2 is now available\nCodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find and remediate security issues in your code. The Default suite runs 498 security queries covering 170 CWEs. The Extended suite adds 131 queries covering 32 more CWEs.\nC/C++\nGo\nRust\nJavaScript/TypeScript\nC#\nGitHub Actions\nThe Go c",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_68365110a7bb",
-      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
-          "title_en": "Screen readers can navigate timelines as lists",
-          "title_original": "Screen readers can navigate timelines as lists",
-          "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,…\nScreen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position, and how to move between events. This makes it easier to understand long histories and jump to relevant updates ",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
-          "title_en": "Screen readers can navigate timelines as lists",
-          "title_original": "Screen readers can navigate timelines as lists",
-          "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,…\nScreen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position, and how to move between events. This makes it easier to understand long histories and jump to relevant updates ",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8624,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T16:00:56Z",
-      "latest_at": "2026-10-08T16:00:56Z",
-      "primary_item": {
-        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-        "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
-        "title_en": "Screen readers can navigate timelines as lists",
-        "title_original": "Screen readers can navigate timelines as lists",
-        "summary": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,…\nScreen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position, and how to move between events. This makes it easier to understand long histories and jump to relevant updates ",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e323adeab1da",
-      "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "primary_url": "https://openai.com/index/pollo-ai",
+      "story_id": "story_a9ec40ee13cc",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "primary_url": "https://openai.com/index/sophos",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nWith GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nWith GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nOctober 8, 2026\nWith GPT‑5.6, GPT‑6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas in",
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": null,
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nOctober 9, 2026\nWith OpenAI Daybreak, Sop",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
+          "url": "https://openai.com/index/sophos",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-09T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -269,31 +111,31 @@
       ],
       "items": [
         {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nWith GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nWith GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nOctober 8, 2026\nWith GPT‑5.6, GPT‑6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas in",
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": null,
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nOctober 9, 2026\nWith OpenAI Daybreak, Sop",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
+          "url": "https://openai.com/index/sophos",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-09T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8138,
+        "recency": 0.7622,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -304,42 +146,120 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-09T07:00:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
       "primary_item": {
-        "id": "e441138912907d022d550626c930aa4e578bbe9e",
-        "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nWith GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nWith GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.\nOctober 8, 2026\nWith GPT‑5.6, GPT‑6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas in",
+        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_zh": null,
+        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.\nOctober 9, 2026\nWith OpenAI Daybreak, Sop",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/pollo-ai",
+        "url": "https://openai.com/index/sophos",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b5381d350d88",
-      "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-      "url": "https://www.ithome.com/1/010/751.htm",
-      "primary_url": "https://www.ithome.com/1/010/751.htm",
+      "story_id": "story_a85bedac89f5",
+      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "primary_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
+          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "title_zh": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+          "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "title_original": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T00:18:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
+          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "title_zh": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+          "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "title_original": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T00:18:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9787,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T00:18:32Z",
+      "latest_at": "2026-10-10T00:18:32Z",
+      "primary_item": {
+        "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
+        "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "title_zh": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
+        "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "title_original": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4d501f54181b",
+      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+      "url": "https://www.ithome.com/1/011/194.htm",
+      "primary_url": "https://www.ithome.com/1/011/194.htm",
       "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
           "title_en": null,
-          "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+          "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/010/751.htm",
+          "url": "https://www.ithome.com/1/011/194.htm",
           "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T23:02:44.683000Z"
+          "published_at": "2026-10-10T01:07:47.053000Z"
         }
       ],
       "source_count": 1,
@@ -348,31 +268,31 @@
       ],
       "items": [
         {
-          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
           "title_en": null,
-          "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+          "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/010/751.htm",
+          "url": "https://www.ithome.com/1/011/194.htm",
           "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T23:02:44.683000Z"
+          "published_at": "2026-10-10T01:07:47.053000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.9903,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -382,42 +302,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T23:02:44.683000Z",
-      "latest_at": "2026-10-08T23:02:44.683000Z",
+      "earliest_at": "2026-10-10T01:07:47.053000Z",
+      "latest_at": "2026-10-10T01:07:47.053000Z",
       "primary_item": {
-        "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-        "title_zh": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+        "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
         "title_en": null,
-        "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-        "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+        "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+        "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/010/751.htm",
+        "url": "https://www.ithome.com/1/011/194.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2703d8e455a1",
-      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
-      "primary_url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+      "story_id": "story_306d3bc958d7",
+      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-          "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T18:17:07Z"
+          "published_at": "2026-10-09T17:20:34Z"
         }
       ],
       "source_count": 1,
@@ -426,31 +346,31 @@
       ],
       "items": [
         {
-          "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
-          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-          "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-          "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T18:17:07Z"
+          "published_at": "2026-10-09T17:20:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.885,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -460,42 +380,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T18:17:07Z",
-      "latest_at": "2026-10-08T18:17:07Z",
+      "earliest_at": "2026-10-09T17:20:34Z",
+      "latest_at": "2026-10-09T17:20:34Z",
       "primary_item": {
-        "id": "9a6c1abc58143cba093d6c4646fff1acfcfe9a66",
-        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-        "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-        "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-        "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-        "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+        "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_175cc26fe7fb",
-      "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-      "url": "https://www.aibase.com/news/31480",
-      "primary_url": "https://www.aibase.com/news/31480",
+      "story_id": "story_87e6ce55e051",
+      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+      "url": "https://www.aibase.com/news/31519",
+      "primary_url": "https://www.aibase.com/news/31519",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "33268841e958e880442616f886e5216ac63c9d7a",
-          "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-          "title_zh": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
+          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
           "title_en": null,
-          "title_original": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-          "summary": "According to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nAccording to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nAccording to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nExplore AI Frontiers",
+          "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "summary": "Artificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nArtificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nArtificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31480",
+          "url": "https://www.aibase.com/news/31519",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
+          "published_at": "2026-10-10T01:48:06.268791Z"
         }
       ],
       "source_count": 1,
@@ -504,18 +424,18 @@
       ],
       "items": [
         {
-          "id": "33268841e958e880442616f886e5216ac63c9d7a",
-          "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-          "title_zh": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
+          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
           "title_en": null,
-          "title_original": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-          "summary": "According to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nAccording to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nAccording to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nExplore AI Frontiers",
+          "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "summary": "Artificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nArtificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nArtificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31480",
+          "url": "https://www.aibase.com/news/31519",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
+          "published_at": "2026-10-10T01:48:06.268791Z"
         }
       ],
       "item_count": 1,
@@ -538,42 +458,276 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T02:16:01.448448Z",
-      "latest_at": "2026-10-09T02:16:01.448448Z",
+      "earliest_at": "2026-10-10T01:48:06.268791Z",
+      "latest_at": "2026-10-10T01:48:06.268791Z",
       "primary_item": {
-        "id": "33268841e958e880442616f886e5216ac63c9d7a",
-        "title": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-        "title_zh": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
+        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
+        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+        "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
         "title_en": null,
-        "title_original": "OpenAI修正年化收入预期至500亿美元 IPO计划推迟至2027年",
-        "summary": "According to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nAccording to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nAccording to a report by the Financial Times and related market news, OpenAI has clearly stated that its annual revenue is \"close to 50 billion dollars,\" which\nExplore AI Frontiers",
+        "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+        "summary": "Artificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nArtificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nArtificial Intelligence Frontiers LabAnthropic announced in October that it had shut off real-time internet access for all internal evaluation programs until it\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31480",
+        "url": "https://www.aibase.com/news/31519",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8cec8cc46a95",
-      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "story_id": "story_465be7f1f5cf",
+      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
+      "url": "https://x.com/arcprize/status/2108578092558250148",
+      "primary_url": "https://x.com/arcprize/status/2108578092558250148",
+      "source": "X：ARC Prize (@arcprize)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
+          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
+          "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+          "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
+          "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
+          "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arcprize/status/2108578092558250148",
+          "source": "X：ARC Prize (@arcprize)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T15:19:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：ARC Prize (@arcprize)"
+      ],
+      "items": [
+        {
+          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
+          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
+          "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+          "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
+          "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
+          "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arcprize/status/2108578092558250148",
+          "source": "X：ARC Prize (@arcprize)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T15:19:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8596,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T15:19:27Z",
+      "latest_at": "2026-10-09T15:19:27Z",
+      "primary_item": {
+        "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
+        "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
+        "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+        "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
+        "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
+        "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arcprize/status/2108578092558250148",
+        "source": "X：ARC Prize (@arcprize)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d37a736244a0",
+      "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+          "title_zh": "GPU 集群的有效调度",
+          "title_en": "Impactful scheduling for GPU clusters",
+          "title_original": "Impactful scheduling for GPU clusters",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nOvercommitting Tragedy of the commons Budgets not schedules Fair-share The scheduling contract Simulations Results Challenges The future Building a cluster scheduler to prioritize high-impact research while maintaining full occupancy\nOn the AI Infrastructure team at Ai2, we’re responsible for providing the institute’s GPU compute capacity, specifically targeting large, distributed training workloads. We think about this task a",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T15:20:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+          "title_zh": "GPU 集群的有效调度",
+          "title_en": "Impactful scheduling for GPU clusters",
+          "title_original": "Impactful scheduling for GPU clusters",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nOvercommitting Tragedy of the commons Budgets not schedules Fair-share The scheduling contract Simulations Results Challenges The future Building a cluster scheduler to prioritize high-impact research while maintaining full occupancy\nOn the AI Infrastructure team at Ai2, we’re responsible for providing the institute’s GPU compute capacity, specifically targeting large, distributed training workloads. We think about this task a",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T15:20:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8598,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.1
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T15:20:29Z",
+      "latest_at": "2026-10-09T15:20:29Z",
+      "primary_item": {
+        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
+        "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
+        "title_zh": "GPU 集群的有效调度",
+        "title_en": "Impactful scheduling for GPU clusters",
+        "title_original": "Impactful scheduling for GPU clusters",
+        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nOvercommitting Tragedy of the commons Budgets not schedules Fair-share The scheduling contract Simulations Results Challenges The future Building a cluster scheduler to prioritize high-impact research while maintaining full occupancy\nOn the AI Infrastructure team at Ai2, we’re responsible for providing the institute’s GPU compute capacity, specifically targeting large, distributed training workloads. We think about this task a",
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_abd0bd616f6a",
+      "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+      "url": "https://www.aibase.com/news/31520",
+      "primary_url": "https://www.aibase.com/news/31520",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
+          "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_en": null,
+          "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "summary": "Recently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nRecently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nRecently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31520",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T01:48:06.268791Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
+          "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_en": null,
+          "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "summary": "Recently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nRecently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nRecently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31520",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T01:48:06.268791Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T01:48:06.268791Z",
+      "latest_at": "2026-10-10T01:48:06.268791Z",
+      "primary_item": {
+        "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
+        "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "title_en": null,
+        "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "summary": "Recently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nRecently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nRecently, according to reports from media outlets such as the Financial Times and Axios, OpenAI's annualized revenue through the end of September was approximat\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31520",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cac0574655fa",
+      "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
+      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "primary_url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,…\nMaintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests.\nPreviously, draft pull requests didn’t count toward a user’s limit. That meant someone could open any n",
+          "id": "5bf966d84786caa61f847582525b4316675e87ca",
+          "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
+          "title_zh": "GitHub Copilot 每周发布 — 10 月 5 日",
+          "title_en": "GitHub Copilot weekly releases — October 5",
+          "title_original": "GitHub Copilot weekly releases — October 5",
+          "summary": "This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage work.\nThis week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage work.\nThis week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work.\nThe Copilot app now lets you use separ",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
+          "published_at": "2026-10-09T22:58:23Z"
         }
       ],
       "source_count": 1,
@@ -582,77 +736,76 @@
       ],
       "items": [
         {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,…\nMaintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests.\nPreviously, draft pull requests didn’t count toward a user’s limit. That meant someone could open any n",
+          "id": "5bf966d84786caa61f847582525b4316675e87ca",
+          "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
+          "title_zh": "GitHub Copilot 每周发布 — 10 月 5 日",
+          "title_en": "GitHub Copilot weekly releases — October 5",
+          "title_original": "GitHub Copilot weekly releases — October 5",
+          "summary": "This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage work.\nThis week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage work.\nThis week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work.\nThe Copilot app now lets you use separ",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
+          "published_at": "2026-10-09T22:58:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8429,
+        "ai_relevance": 0.91,
+        "recency": 0.96,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
+        "generic_tech_penalty": 0.1
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T14:25:53Z",
-      "latest_at": "2026-10-08T14:25:53Z",
+      "earliest_at": "2026-10-09T22:58:23Z",
+      "latest_at": "2026-10-09T22:58:23Z",
       "primary_item": {
-        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-        "title_zh": "草稿拉取请求计入拉取请求限制",
-        "title_en": "Draft pull requests count toward pull request limits",
-        "title_original": "Draft pull requests count toward pull request limits",
-        "summary": "Maintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests. Previously,…\nMaintainers are seeing more low-quality contributions in their repositories and need better ways to manage them. You can now configure pull request limits to also include draft pull requests.\nPreviously, draft pull requests didn’t count toward a user’s limit. That meant someone could open any n",
+        "id": "5bf966d84786caa61f847582525b4316675e87ca",
+        "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
+        "title_zh": "GitHub Copilot 每周发布 — 10 月 5 日",
+        "title_en": "GitHub Copilot weekly releases — October 5",
+        "title_original": "GitHub Copilot weekly releases — October 5",
+        "summary": "This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage work.\nThis week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage work.\nThis week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work.\nThe Copilot app now lets you use separ",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_c5007e237f58",
-      "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-      "url": "https://www.aibase.com/news/31482",
-      "primary_url": "https://www.aibase.com/news/31482",
+      "story_id": "story_31bef78a6bc0",
+      "title": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+      "url": "https://www.aibase.com/news/31512",
+      "primary_url": "https://www.aibase.com/news/31512",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6f94ce7d7a78f1ec41d2edf828304702c94fe6ca",
-          "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-          "title_zh": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "id": "a9e78813e817ca40d24dd6a98cd95e3724821065",
+          "title": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+          "title_zh": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
           "title_en": null,
-          "title_original": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-          "summary": "On October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nOn October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nOn October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nExplore AI Fronti",
+          "title_original": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+          "summary": "Elon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nElon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nElon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31482",
+          "url": "https://www.aibase.com/news/31512",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
+          "published_at": "2026-10-10T01:48:06.268791Z"
         }
       ],
       "source_count": 1,
@@ -661,18 +814,18 @@
       ],
       "items": [
         {
-          "id": "6f94ce7d7a78f1ec41d2edf828304702c94fe6ca",
-          "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-          "title_zh": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+          "id": "a9e78813e817ca40d24dd6a98cd95e3724821065",
+          "title": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+          "title_zh": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
           "title_en": null,
-          "title_original": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-          "summary": "On October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nOn October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nOn October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nExplore AI Fronti",
+          "title_original": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+          "summary": "Elon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nElon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nElon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31482",
+          "url": "https://www.aibase.com/news/31512",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
+          "published_at": "2026-10-10T01:48:06.268791Z"
         }
       ],
       "item_count": 1,
@@ -695,229 +848,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T02:16:01.448448Z",
-      "latest_at": "2026-10-09T02:16:01.448448Z",
+      "earliest_at": "2026-10-10T01:48:06.268791Z",
+      "latest_at": "2026-10-10T01:48:06.268791Z",
       "primary_item": {
-        "id": "6f94ce7d7a78f1ec41d2edf828304702c94fe6ca",
-        "title": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-        "title_zh": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
+        "id": "a9e78813e817ca40d24dd6a98cd95e3724821065",
+        "title": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+        "title_zh": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
         "title_en": null,
-        "title_original": "因“跨界合作”被裁?OpenAI三位关键安全专家发声反驳违规指控",
-        "summary": "On October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nOn October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nOn October 8th, three security researchers - Jasmine Wang, Tomek Korbak, and Mikita Balesni, who had previously been fired by OpenAI for allegedly violating inf\nExplore AI Fronti",
+        "title_original": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+        "summary": "Elon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nElon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nElon Musk's SpaceX AI company has recently announced the launch of a dedicated email feature for its persistent AI assistant, Grok Bot. This new feature marks t\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31482",
+        "url": "https://www.aibase.com/news/31512",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_eb37caf95940",
-      "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index / Grateful to have @lightspeedvp with us as we build what’s next!",
-      "url": "https://x.com/arena/status/2108269048467513429",
-      "primary_url": "https://x.com/arena/status/2108269048467513429",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_634a7a9b16a0",
+      "title": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+      "url": "https://www.aibase.com/news/31513",
+      "primary_url": "https://www.aibase.com/news/31513",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "54131903dfb48d1c0b72245c71ac4111348ce8c7",
-          "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index / Grateful to have @lightspeedvp with us as we build what’s next!",
-          "title_zh": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-          "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
-          "title_original": "Grateful to have @lightspeedvp with us as we build what’s next!",
-          "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
+          "id": "eac2d9cf857f5f7ff15ac2e6a70e00baf790d663",
+          "title": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+          "title_zh": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+          "title_en": null,
+          "title_original": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+          "summary": "Recently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nRecently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nRecently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108269048467513429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T18:51:25Z"
+          "url": "https://www.aibase.com/news/31513",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T01:48:06.268791Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "54131903dfb48d1c0b72245c71ac4111348ce8c7",
-          "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index / Grateful to have @lightspeedvp with us as we build what’s next!",
-          "title_zh": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-          "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
-          "title_original": "Grateful to have @lightspeedvp with us as we build what’s next!",
-          "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
+          "id": "eac2d9cf857f5f7ff15ac2e6a70e00baf790d663",
+          "title": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+          "title_zh": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+          "title_en": null,
+          "title_original": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+          "summary": "Recently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nRecently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nRecently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108269048467513429",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T18:51:25Z"
+          "url": "https://www.aibase.com/news/31513",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T01:48:06.268791Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T18:51:25Z",
-      "latest_at": "2026-10-08T18:51:25Z",
-      "primary_item": {
-        "id": "54131903dfb48d1c0b72245c71ac4111348ce8c7",
-        "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index / Grateful to have @lightspeedvp with us as we build what’s next!",
-        "title_zh": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-        "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
-        "title_original": "Grateful to have @lightspeedvp with us as we build what’s next!",
-        "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2108269048467513429",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e2cc0057ae4",
-      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "primary_url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "source": "Comfy Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Comfy Blog"
-      ],
-      "items": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9007,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T19:01:22Z",
-      "latest_at": "2026-10-08T19:01:22Z",
-      "primary_item": {
-        "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-        "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-        "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-        "source": "Comfy Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e42c7cb753df",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T13:01:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8259,
+        "recency": 1.0,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -927,585 +926,571 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T13:01:01Z",
-      "latest_at": "2026-10-08T13:01:01Z",
+      "earliest_at": "2026-10-10T01:48:06.268791Z",
+      "latest_at": "2026-10-10T01:48:06.268791Z",
       "primary_item": {
-        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
-        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+        "id": "eac2d9cf857f5f7ff15ac2e6a70e00baf790d663",
+        "title": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+        "title_zh": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+        "title_en": null,
+        "title_original": "马斯克旗下 Grok Bot 正式拥有专属邮箱，AI 助手跨入独立办公新时代",
+        "summary": "Recently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nRecently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nRecently, Elon Musk's SpaceX AI company officially announced the launch of a new dedicated email feature for its smart assistant, Grok Bot. This feature means t\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31513",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a2fc4530694f",
-      "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
-      "url": "https://x.com/thsottiaux/status/2108349826727588000",
-      "primary_url": "https://x.com/thsottiaux/status/2108349826727588000",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
+      "story_id": "story_76c6e547b2cc",
+      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+      "url": "https://www.aibase.com/news/31509",
+      "primary_url": "https://www.aibase.com/news/31509",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "2932e2401f6cc398ece20dd8e5b36639b029ba1d",
-          "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
-          "title_zh": "Tibo 宣布发布 ChatGPT",
-          "title_en": "Today, we are announcing ChatGPT.",
-          "title_original": "Today, we are announcing ChatGPT.",
-          "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_en": null,
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "summary": "Latest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nLatest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nLatest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2108349826727588000",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T00:12:24Z"
+          "url": "https://www.aibase.com/news/31509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T17:48:06.268791Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "2932e2401f6cc398ece20dd8e5b36639b029ba1d",
-          "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
-          "title_zh": "Tibo 宣布发布 ChatGPT",
-          "title_en": "Today, we are announcing ChatGPT.",
-          "title_original": "Today, we are announcing ChatGPT.",
-          "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_en": null,
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "summary": "Latest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nLatest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nLatest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2108349826727588000",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T00:12:24Z"
+          "url": "https://www.aibase.com/news/31509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T17:48:06.268791Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.94,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.8909,
         "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T17:48:06.268791Z",
+      "latest_at": "2026-10-09T17:48:06.268791Z",
+      "primary_item": {
+        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_en": null,
+        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "summary": "Latest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nLatest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nLatest predictions from AI giant OpenAI indicate that, driven by strong enterprise business, the company expects its annualized revenue to reach or exceed $70 b\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31509",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_11c2001af060",
+      "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:09:44Z"
+        },
+        {
+          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T19:09:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:09:44Z"
+        },
+        {
+          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
+          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T19:09:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6115,
+      "importance": 0.6115,
+      "importance_score": 0.6115,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9086,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T19:09:44Z",
+      "latest_at": "2026-10-09T19:09:44Z",
+      "primary_item": {
+        "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
+        "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
+        "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_378144591198",
+      "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+      "url": "https://www.aibase.com/news/31504",
+      "primary_url": "https://www.aibase.com/news/31504",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
+          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_en": null,
+          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T14:48:06.268791Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
+          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_en": null,
+          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T14:48:06.268791Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8531,
+        "story_heat": 0.0,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T14:48:06.268791Z",
+      "latest_at": "2026-10-09T14:48:06.268791Z",
+      "primary_item": {
+        "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
+        "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "title_en": null,
+        "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31504",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b05b7cc3085",
+      "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "primary_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
+          "title": "一位人类模型向费城警方提交了虚假的凶杀案线索 / An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "title_zh": "一位人类模型向费城警方提交了虚假的凶杀案线索",
+          "title_en": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "title_original": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T20:00:30Z"
+        },
+        {
+          "id": "76644748fefc10a30a4f933527d442a59d91a2e7",
+          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
+          "title_zh": "人类人工智能模型向警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to the police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to the police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T19:44:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Engadget",
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
+          "title": "一位人类模型向费城警方提交了虚假的凶杀案线索 / An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "title_zh": "一位人类模型向费城警方提交了虚假的凶杀案线索",
+          "title_en": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "title_original": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T20:00:30Z"
+        },
+        {
+          "id": "76644748fefc10a30a4f933527d442a59d91a2e7",
+          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
+          "title_zh": "人类人工智能模型向警方发送了虚假的凶杀案线索",
+          "title_en": "An Anthropic AI model sent a false homicide tip to the police",
+          "title_original": "An Anthropic AI model sent a false homicide tip to the police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T19:44:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9145,
+        "story_heat": 0.5,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-09T00:12:24Z",
-      "latest_at": "2026-10-09T00:12:24Z",
+      "earliest_at": "2026-10-09T19:36:56Z",
+      "latest_at": "2026-10-09T20:00:30Z",
       "primary_item": {
-        "id": "2932e2401f6cc398ece20dd8e5b36639b029ba1d",
-        "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
-        "title_zh": "Tibo 宣布发布 ChatGPT",
-        "title_en": "Today, we are announcing ChatGPT.",
-        "title_original": "Today, we are announcing ChatGPT.",
-        "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2108349826727588000",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_76fb319662a8",
-      "title": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-      "url": "https://www.aibase.com/news/31487",
-      "primary_url": "https://www.aibase.com/news/31487",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c7ad2048e305b6fe511ae3be2c01d735364debed",
-          "title": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-          "title_zh": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-          "title_en": null,
-          "title_original": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-          "summary": "In response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nIn response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nIn response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31487",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c7ad2048e305b6fe511ae3be2c01d735364debed",
-          "title": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-          "title_zh": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-          "title_en": null,
-          "title_original": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-          "summary": "In response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nIn response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nIn response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31487",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T02:16:01.448448Z",
-      "latest_at": "2026-10-09T02:16:01.448448Z",
-      "primary_item": {
-        "id": "c7ad2048e305b6fe511ae3be2c01d735364debed",
-        "title": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-        "title_zh": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-        "title_en": null,
-        "title_original": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
-        "summary": "In response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nIn response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nIn response to the abuse of AI technology to alter and deconstruct classic content, the WeChat platform recently announced special governance results, having re\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31487",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d2113055d2ba",
-      "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index / We’re so proud to have worked alongside @felicis from the very beginning!",
-      "url": "https://x.com/arena/status/2108243026741248348",
-      "primary_url": "https://x.com/arena/status/2108243026741248348",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d89ed5786a4a33a1586eb95b51f8a172b5e03d3d",
-          "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index / We’re so proud to have worked alongside @felicis from the very beginning!",
-          "title_zh": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
-          "title_en": "We’re so proud to have worked alongside @felicis from the very beginning!",
-          "title_original": "We’re so proud to have worked alongside @felicis from the very beginning!",
-          "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108243026741248348",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T17:08:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "d89ed5786a4a33a1586eb95b51f8a172b5e03d3d",
-          "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index / We’re so proud to have worked alongside @felicis from the very beginning!",
-          "title_zh": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
-          "title_en": "We’re so proud to have worked alongside @felicis from the very beginning!",
-          "title_original": "We’re so proud to have worked alongside @felicis from the very beginning!",
-          "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2108243026741248348",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T17:08:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8764,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T17:08:01Z",
-      "latest_at": "2026-10-08T17:08:01Z",
-      "primary_item": {
-        "id": "d89ed5786a4a33a1586eb95b51f8a172b5e03d3d",
-        "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index / We’re so proud to have worked alongside @felicis from the very beginning!",
-        "title_zh": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
-        "title_en": "We’re so proud to have worked alongside @felicis from the very beginning!",
-        "title_original": "We’re so proud to have worked alongside @felicis from the very beginning!",
-        "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2108243026741248348",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8b891e5bed56",
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7839,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T09:24:17Z",
-      "latest_at": "2026-10-08T09:24:17Z",
-      "primary_item": {
-        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-        "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f913596b9697",
-      "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "primary_url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nOctober 8, 2026\nAcross recruiting, engineering, and operations, Oracle ",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nOctober 8, 2026\nAcross recruiting, engineering, and operations, Oracle ",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8622,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.1
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T16:00:00Z",
-      "latest_at": "2026-10-08T16:00:00Z",
-      "primary_item": {
-        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\nOctober 8, 2026\nAcross recruiting, engineering, and operations, Oracle ",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0423898adfb0",
-      "title": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-      "url": "https://www.aibase.com/news/31491",
-      "primary_url": "https://www.aibase.com/news/31491",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cc9db00486763bb530f9b1308e005bdd0e2812af",
-          "title": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-          "title_zh": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-          "title_en": null,
-          "title_original": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-          "summary": "On October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nOn October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nOn October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cc9db00486763bb530f9b1308e005bdd0e2812af",
-          "title": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-          "title_zh": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-          "title_en": null,
-          "title_original": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-          "summary": "On October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nOn October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nOn October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T02:16:01.448448Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T02:16:01.448448Z",
-      "latest_at": "2026-10-09T02:16:01.448448Z",
-      "primary_item": {
-        "id": "cc9db00486763bb530f9b1308e005bdd0e2812af",
-        "title": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-        "title_zh": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-        "title_en": null,
-        "title_original": "豆包App上线生活缴费功能，加速布局高频生活办事场景",
-        "summary": "On October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nOn October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nOn October 9th, according to \"Dujia,\" ByteDance's AI assistant Douyin has officially added a \"Life Payment\" feature. Users can simply issue commands such as \"pa\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31491",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_78a725ddd1ec",
-      "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-      "url": "https://www.aibase.com/news/31478",
-      "primary_url": "https://www.aibase.com/news/31478",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fa4649f90c7b97c1a779f00744e1323e8c9500ec",
-          "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-          "title_zh": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-          "title_en": null,
-          "title_original": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31478",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T17:16:01.448448Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fa4649f90c7b97c1a779f00744e1323e8c9500ec",
-          "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-          "title_zh": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-          "title_en": null,
-          "title_original": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31478",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T17:16:01.448448Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T17:16:01.448448Z",
-      "latest_at": "2026-10-08T17:16:01.448448Z",
-      "primary_item": {
-        "id": "fa4649f90c7b97c1a779f00744e1323e8c9500ec",
-        "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-        "title_zh": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
-        "title_en": null,
-        "title_original": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
+        "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+        "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
+        "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31478",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_9088ec18d8d0",
-      "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
-      "url": "https://www.aibase.com/news/31474",
-      "primary_url": "https://www.aibase.com/news/31474",
+      "story_id": "story_f550721a0ec6",
+      "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "primary_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "source": "jessewaites.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": null,
+          "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "403f5bc28c305f64ffa3265deacc977e7c91951f",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jessewaites.com"
+      ],
+      "items": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": null,
+          "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "403f5bc28c305f64ffa3265deacc977e7c91951f",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9878,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T11:36:20Z",
+      "latest_at": "2026-10-10T00:57:04.875000Z",
+      "primary_item": {
+        "id": "d6681e01eb2d13b826683a74742e39009803df66",
+        "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "title_en": null,
+        "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+        "source": "jessewaites.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8396ceabf3ca",
+      "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+      "url": "https://www.aibase.com/news/31501",
+      "primary_url": "https://www.aibase.com/news/31501",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "182088db13ff964e66f18e54dec3bee379e9d85a",
-          "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
-          "title_zh": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+          "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
+          "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
           "title_en": null,
-          "title_original": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+          "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31474",
+          "url": "https://www.aibase.com/news/31501",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T16:16:01.448448Z"
+          "published_at": "2026-10-09T14:48:06.268791Z"
         }
       ],
       "source_count": 1,
@@ -1514,31 +1499,31 @@
       ],
       "items": [
         {
-          "id": "182088db13ff964e66f18e54dec3bee379e9d85a",
-          "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
-          "title_zh": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+          "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
+          "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
           "title_en": null,
-          "title_original": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+          "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31474",
+          "url": "https://www.aibase.com/news/31501",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-08T16:16:01.448448Z"
+          "published_at": "2026-10-09T14:48:06.268791Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1547,19 +1532,260 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T16:16:01.448448Z",
-      "latest_at": "2026-10-08T16:16:01.448448Z",
+      "earliest_at": "2026-10-09T14:48:06.268791Z",
+      "latest_at": "2026-10-09T14:48:06.268791Z",
       "primary_item": {
-        "id": "182088db13ff964e66f18e54dec3bee379e9d85a",
-        "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
-        "title_zh": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+        "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
+        "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+        "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
         "title_en": null,
-        "title_original": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+        "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31474",
+        "url": "https://www.aibase.com/news/31501",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8f5cba0254f8",
+      "title": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "primary_url": "https://typesafe.ai/blog/series-ai",
+      "source": "typesafe.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5b5cacb7d882883b2bf5eb49f36095b80ebbc710",
+          "title": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "title_zh": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "title_en": null,
+          "title_original": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://typesafe.ai/blog/series-ai",
+          "source": "typesafe.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-09T19:56:23.551000Z"
+        },
+        {
+          "id": "4245d7ba9d021898f97a0fcedcce20bdcefe8ce0",
+          "title": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元 / Typesafe AI raises $870M at $7.5B",
+          "title_zh": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "title_en": "Typesafe AI raises $870M at $7.5B",
+          "title_original": "Typesafe AI raises $870M at $7.5B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://typesafe.ai/blog/series-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T17:02:31Z"
+        },
+        {
+          "id": "a363621201a062ff2eff38d4aa87fc1b0e308633",
+          "title": "Typesafe AI 以 $7.5B 融资 8.7 亿美元 / Typesafe AI raises $870M at $7.5B",
+          "title_zh": "Typesafe AI 以 $7.5B 融资 8.7 亿美元",
+          "title_en": "Typesafe AI raises $870M at $7.5B",
+          "title_original": "Typesafe AI raises $870M at $7.5B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50023450",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T17:02:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "typesafe.ai"
+      ],
+      "items": [
+        {
+          "id": "5b5cacb7d882883b2bf5eb49f36095b80ebbc710",
+          "title": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "title_zh": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "title_en": null,
+          "title_original": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://typesafe.ai/blog/series-ai",
+          "source": "typesafe.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-09T19:56:23.551000Z"
+        },
+        {
+          "id": "4245d7ba9d021898f97a0fcedcce20bdcefe8ce0",
+          "title": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元 / Typesafe AI raises $870M at $7.5B",
+          "title_zh": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+          "title_en": "Typesafe AI raises $870M at $7.5B",
+          "title_original": "Typesafe AI raises $870M at $7.5B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://typesafe.ai/blog/series-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T17:02:31Z"
+        },
+        {
+          "id": "a363621201a062ff2eff38d4aa87fc1b0e308633",
+          "title": "Typesafe AI 以 $7.5B 融资 8.7 亿美元 / Typesafe AI raises $870M at $7.5B",
+          "title_zh": "Typesafe AI 以 $7.5B 融资 8.7 亿美元",
+          "title_en": "Typesafe AI raises $870M at $7.5B",
+          "title_original": "Typesafe AI raises $870M at $7.5B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50023450",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T17:02:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9188,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T17:02:31Z",
+      "latest_at": "2026-10-09T19:56:23.551000Z",
+      "primary_item": {
+        "id": "5b5cacb7d882883b2bf5eb49f36095b80ebbc710",
+        "title": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+        "title_zh": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+        "title_en": null,
+        "title_original": "Typesafe AI 融资 8.7 亿美元，估值达 75 亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://typesafe.ai/blog/series-ai",
+        "source": "typesafe.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c1becbbcd429",
+      "title": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能 / What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "718ee5b4ac56c5251531f9b793f9efa9463d1d69",
+          "title": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能 / What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_zh": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能",
+          "title_en": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_original": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T17:42:12Z"
+        },
+        {
+          "id": "2c7c0d25b318cd68af9e5d37a52e159bf424bcf5",
+          "title": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能 / What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_zh": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能",
+          "title_en": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_original": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50024090",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T17:42:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "718ee5b4ac56c5251531f9b793f9efa9463d1d69",
+          "title": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能 / What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_zh": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能",
+          "title_en": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_original": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T17:42:12Z"
+        },
+        {
+          "id": "2c7c0d25b318cd68af9e5d37a52e159bf424bcf5",
+          "title": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能 / What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_zh": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能",
+          "title_en": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "title_original": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50024090",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T17:42:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8896,
+        "story_heat": 0.25,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T17:42:12Z",
+      "latest_at": "2026-10-09T17:42:12Z",
+      "primary_item": {
+        "id": "718ee5b4ac56c5251531f9b793f9efa9463d1d69",
+        "title": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能 / What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "title_zh": "数学家应该了解精益定理证明器的哪些内容：可靠性和人工智能",
+        "title_en": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "title_original": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
