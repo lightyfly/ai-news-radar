@@ -1,186 +1,29 @@
 {
-  "generated_at": "2026-10-11T01:02:32.927938Z",
+  "generated_at": "2026-10-12T01:24:05.641639Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 9,
   "items": [
     {
-      "story_id": "story_9798b4461a14",
-      "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7105f7a887a844336072613e1ed600066153efc2",
-          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-          "title_zh": "Copilot for JetBrains 中的新控件和聊天改进",
-          "title_en": "New controls and chat improvements in Copilot for JetBrains",
-          "title_original": "New controls and chat improvements in Copilot for JetBrains",
-          "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…\nThis update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and strengthens reliability across agent sessions, customizations, and worktrees.\nEnterprise administrators can",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-10T18:53:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7105f7a887a844336072613e1ed600066153efc2",
-          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-          "title_zh": "Copilot for JetBrains 中的新控件和聊天改进",
-          "title_en": "New controls and chat improvements in Copilot for JetBrains",
-          "title_original": "New controls and chat improvements in Copilot for JetBrains",
-          "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…\nThis update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and strengthens reliability across agent sessions, customizations, and worktrees.\nEnterprise administrators can",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-10T18:53:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.915,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T18:53:39Z",
-      "latest_at": "2026-10-10T18:53:39Z",
-      "primary_item": {
-        "id": "7105f7a887a844336072613e1ed600066153efc2",
-        "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-        "title_zh": "Copilot for JetBrains 中的新控件和聊天改进",
-        "title_en": "New controls and chat improvements in Copilot for JetBrains",
-        "title_original": "New controls and chat improvements in Copilot for JetBrains",
-        "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…\nThis update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and strengthens reliability across agent sessions, customizations, and worktrees.\nEnterprise administrators can",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d864a482eec6",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_zh": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "title_en": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_original": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_zh": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "title_en": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "title_original": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-          "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9503,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T21:30:36Z",
-      "latest_at": "2026-10-10T21:30:36Z",
-      "primary_item": {
-        "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-        "title_zh": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-        "title_en": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-        "title_original": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-        "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_064586c8b568",
-      "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-      "url": "https://www.aibase.com/news/31547",
-      "primary_url": "https://www.aibase.com/news/31547",
+      "story_id": "story_60f0e5ebdd7f",
+      "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+      "url": "https://www.aibase.com/news/31549",
+      "primary_url": "https://www.aibase.com/news/31549",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "title_zh": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+          "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
+          "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+          "title_zh": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
           "title_en": null,
-          "title_original": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "summary": "Recently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nRecently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nRecently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nExplore AI Fronti",
+          "title_original": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+          "summary": "Recently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nRecently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nRecently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31547",
+          "url": "https://www.aibase.com/news/31549",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T18:02:32.927938Z"
+          "published_at": "2026-10-12T01:24:05.641639Z"
         }
       ],
       "source_count": 1,
@@ -189,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "title_zh": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+          "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
+          "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+          "title_zh": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
           "title_en": null,
-          "title_original": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "summary": "Recently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nRecently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nRecently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nExplore AI Fronti",
+          "title_original": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+          "summary": "Recently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nRecently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nRecently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31547",
+          "url": "https://www.aibase.com/news/31549",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T18:02:32.927938Z"
+          "published_at": "2026-10-12T01:24:05.641639Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 1.0,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -223,120 +66,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T18:02:32.927938Z",
-      "latest_at": "2026-10-10T18:02:32.927938Z",
+      "earliest_at": "2026-10-12T01:24:05.641639Z",
+      "latest_at": "2026-10-12T01:24:05.641639Z",
       "primary_item": {
-        "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-        "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-        "title_zh": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+        "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
+        "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+        "title_zh": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
         "title_en": null,
-        "title_original": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-        "summary": "Recently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nRecently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nRecently, Beijing Moonshot Technology Co., Ltd., a leading company in large model technology in China, has undergone another major business change. Its register\nExplore AI Fronti",
+        "title_original": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
+        "summary": "Recently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nRecently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nRecently, Elon Musk publicly introduced the new shopping feature of the Grok robot on a social media platform. According to him, users simply need to take a pho\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31547",
+        "url": "https://www.aibase.com/news/31549",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f05ac896a96b",
-      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-      "url": "https://x.com/indigox/status/2108791275914993998",
-      "primary_url": "https://x.com/indigox/status/2108791275914993998",
-      "source": "X：indigo (@indigox)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_zh": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_en": null,
-          "title_original": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：indigo (@indigox)"
-      ],
-      "items": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_zh": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "title_en": null,
-          "title_original": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7535,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T05:26:34Z",
-      "latest_at": "2026-10-10T05:26:34Z",
-      "primary_item": {
-        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "title_zh": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "title_en": null,
-        "title_original": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/indigox/status/2108791275914993998",
-        "source": "X：indigo (@indigox)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13ae05642256",
-      "title": "人工智能评估速成课程 |哈梅尔·侯赛因 / AI Evaluations Crash Course | Hamel Husain",
-      "url": "https://creatoreconomy.so/p/ai-evaluations-crash-course-with",
-      "primary_url": "https://creatoreconomy.so/p/ai-evaluations-crash-course-with",
+      "story_id": "story_b1e795b22935",
+      "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+      "url": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
+      "primary_url": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
       "source": "Creator Science",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "937d6bc0b2f21c0690b1632a95e88d9cb5de5a3b",
-          "title": "人工智能评估速成课程 |哈梅尔·侯赛因 / AI Evaluations Crash Course | Hamel Husain",
-          "title_zh": "人工智能评估速成课程 |哈梅尔·侯赛因",
-          "title_en": "AI Evaluations Crash Course | Hamel Husain",
-          "title_original": "AI Evaluations Crash Course | Hamel Husain",
-          "summary": null,
+          "id": "0c9c10b7e4da810ab31af05abdea42861d793226",
+          "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+          "title_zh": null,
+          "title_en": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+          "title_original": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+          "summary": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nWatch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nWatch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nDear subscribers,\nToday, I want to share a new episode with Micky.\nMicky is a full-stack engineer who has taug",
           "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/ai-evaluations-crash-course-with",
+          "url": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
           "source": "Creator Science",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-10T15:37:16Z"
+          "published_at": "2026-10-11T14:29:48Z"
         }
       ],
       "source_count": 1,
@@ -345,31 +110,31 @@
       ],
       "items": [
         {
-          "id": "937d6bc0b2f21c0690b1632a95e88d9cb5de5a3b",
-          "title": "人工智能评估速成课程 |哈梅尔·侯赛因 / AI Evaluations Crash Course | Hamel Husain",
-          "title_zh": "人工智能评估速成课程 |哈梅尔·侯赛因",
-          "title_en": "AI Evaluations Crash Course | Hamel Husain",
-          "title_original": "AI Evaluations Crash Course | Hamel Husain",
-          "summary": null,
+          "id": "0c9c10b7e4da810ab31af05abdea42861d793226",
+          "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+          "title_zh": null,
+          "title_en": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+          "title_original": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+          "summary": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nWatch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nWatch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nDear subscribers,\nToday, I want to share a new episode with Micky.\nMicky is a full-stack engineer who has taug",
           "recommend_reason_zh": null,
-          "url": "https://creatoreconomy.so/p/ai-evaluations-crash-course-with",
+          "url": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
           "source": "Creator Science",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-10T15:37:16Z"
+          "published_at": "2026-10-11T14:29:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.8728,
+        "recency": 0.8543,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -378,196 +143,42 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T15:37:16Z",
-      "latest_at": "2026-10-10T15:37:16Z",
+      "earliest_at": "2026-10-11T14:29:48Z",
+      "latest_at": "2026-10-11T14:29:48Z",
       "primary_item": {
-        "id": "937d6bc0b2f21c0690b1632a95e88d9cb5de5a3b",
-        "title": "人工智能评估速成课程 |哈梅尔·侯赛因 / AI Evaluations Crash Course | Hamel Husain",
-        "title_zh": "人工智能评估速成课程 |哈梅尔·侯赛因",
-        "title_en": "AI Evaluations Crash Course | Hamel Husain",
-        "title_original": "AI Evaluations Crash Course | Hamel Husain",
-        "summary": null,
+        "id": "0c9c10b7e4da810ab31af05abdea42861d793226",
+        "title": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+        "title_zh": null,
+        "title_en": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+        "title_original": "The 4-Step Agentic Engineering Workflow I Use to Ship Real Apps | Micky Shimeles",
+        "summary": "Watch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nWatch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nWatch now (47 mins) | Micky's 4-step agentic engineering workflow and the open-source skills that make AI agents prove their work\nDear subscribers,\nToday, I want to share a new episode with Micky.\nMicky is a full-stack engineer who has taug",
         "recommend_reason_zh": null,
-        "url": "https://creatoreconomy.so/p/ai-evaluations-crash-course-with",
+        "url": "https://creatoreconomy.so/p/agentic-engineering-workflow-ras-mic",
         "source": "Creator Science",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_4d501f54181b",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "url": "https://www.ithome.com/1/011/194.htm",
-      "primary_url": "https://www.ithome.com/1/011/194.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_en": null,
-          "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_en": null,
-          "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T01:07:47.053000Z",
-      "latest_at": "2026-10-10T01:07:47.053000Z",
-      "primary_item": {
-        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "title_en": null,
-        "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/011/194.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_476ac8f9e73e",
-      "title": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-      "url": "https://www.yunyingpai.com/product-operation/1065026.html",
-      "primary_url": "https://www.yunyingpai.com/product-operation/1065026.html",
-      "source": "运营派",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "0a1d5c999f860eeff45879abbb93641f1baeb1a4",
-          "title": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-          "title_zh": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-          "title_en": null,
-          "title_original": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/product-operation/1065026.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-10T07:43:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "运营派"
-      ],
-      "items": [
-        {
-          "id": "0a1d5c999f860eeff45879abbb93641f1baeb1a4",
-          "title": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-          "title_zh": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-          "title_en": null,
-          "title_original": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/product-operation/1065026.html",
-          "source": "运营派",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-10T07:43:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.5,
-        "ai_relevance": 0.82,
-        "recency": 0.7787,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.14,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T07:43:20Z",
-      "latest_at": "2026-10-10T07:43:20Z",
-      "primary_item": {
-        "id": "0a1d5c999f860eeff45879abbb93641f1baeb1a4",
-        "title": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-        "title_zh": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-        "title_en": null,
-        "title_original": "不露脸、不拍视频，自媒体还能做什么？从实用攻略到AI工具选择",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/product-operation/1065026.html",
-        "source": "运营派",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_6943c39598c5",
-      "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-      "url": "https://www.aibase.com/news/31546",
-      "primary_url": "https://www.aibase.com/news/31546",
+      "story_id": "story_0f3a84a92e86",
+      "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+      "url": "https://www.aibase.com/news/31550",
+      "primary_url": "https://www.aibase.com/news/31550",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "title_zh": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+          "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
+          "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+          "title_zh": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
           "title_en": null,
-          "title_original": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "summary": "Tencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nTencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nTencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nExplore AI Fronti",
+          "title_original": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+          "summary": "The AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nThe AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nThe AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31546",
+          "url": "https://www.aibase.com/news/31550",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T18:02:32.927938Z"
+          "published_at": "2026-10-12T01:24:05.641639Z"
         }
       ],
       "source_count": 1,
@@ -576,31 +187,31 @@
       ],
       "items": [
         {
-          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "title_zh": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+          "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
+          "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+          "title_zh": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
           "title_en": null,
-          "title_original": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "summary": "Tencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nTencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nTencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nExplore AI Fronti",
+          "title_original": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+          "summary": "The AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nThe AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nThe AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31546",
+          "url": "https://www.aibase.com/news/31550",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T18:02:32.927938Z"
+          "published_at": "2026-10-12T01:24:05.641639Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 1.0,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -610,42 +221,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T18:02:32.927938Z",
-      "latest_at": "2026-10-10T18:02:32.927938Z",
+      "earliest_at": "2026-10-12T01:24:05.641639Z",
+      "latest_at": "2026-10-12T01:24:05.641639Z",
       "primary_item": {
-        "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-        "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-        "title_zh": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+        "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
+        "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+        "title_zh": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
         "title_en": null,
-        "title_original": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-        "summary": "Tencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nTencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nTencent Cloud has officially announced the open source of its internal team AI collaboration tool TeamAI. This tool is built on Git, aiming to unify a team's sk\nExplore AI Fronti",
+        "title_original": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+        "summary": "The AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nThe AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nThe AI product \"Lingguang\" of Ant Group has recently started a limited internal test of its new version, which fully aligns with Meta's personal intelligent age\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31546",
+        "url": "https://www.aibase.com/news/31550",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ebb488829609",
-      "title": "视频号合规引流有了新入口",
-      "url": "https://www.yunyingpai.com/news/1064966.html",
-      "primary_url": "https://www.yunyingpai.com/news/1064966.html",
+      "story_id": "story_b55735fa3376",
+      "title": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+      "url": "https://www.yunyingpai.com/news/1065211.html",
+      "primary_url": "https://www.yunyingpai.com/news/1065211.html",
       "source": "运营派",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "ec86cc96836d3009820eb864369d10d13d6ff073",
-          "title": "视频号合规引流有了新入口",
-          "title_zh": "视频号合规引流有了新入口",
+          "id": "f7954978f7adf5deb148da7f79af21304ded37cb",
+          "title": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+          "title_zh": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
           "title_en": null,
-          "title_original": "视频号合规引流有了新入口",
-          "summary": null,
+          "title_original": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+          "summary": "开源项目 REA 仅一天就收获 1.4 万颗星、总星数已达 4.1 万，它通过 MCP 协议接入 Claude Code、Codex、Cursor 等 Agent，把一个工具箱交给它们，几天内从 4.1.0 迭代到 6.1.0。\n微信、支付宝、抖音……你敢相信吗，GitHub上最近爆火的一个开源项目，竟然能够威胁你手机里的所有App。\n这个项目就是REA，全称为Reverse Engineer Anything，翻译过来就是“逆向分析一切”。仅一天就收获了超过1.4万颗星，如今总星数已达4.1万，其热度堪比2、3月份的OpenClaw。\n项目介绍里是这么写的，任何一款App，只要让Agent用REA去研究它，不需要源码，它就能逆向分析这个App，给出证据，再替你的项目做一个版本。\n乍一听可能没什么，毕竟就是复制人家App里的功能和设计罢了。\n然而REA的本质是逆向分析。也就是说，Agent能通过REA来了解产品的安全漏洞，基于此，就可以对这个产品发起攻击。\n还不止如此，REA是一个开源工具，任何人都能下载。而且它还没有操作门槛，直接把REA的GitHub地址发给Agent，AI就能自己",
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1064966.html",
+          "url": "https://www.yunyingpai.com/news/1065211.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-10T02:00:39Z"
+          "published_at": "2026-10-11T09:26:30Z"
         }
       ],
       "source_count": 1,
@@ -654,31 +265,31 @@
       ],
       "items": [
         {
-          "id": "ec86cc96836d3009820eb864369d10d13d6ff073",
-          "title": "视频号合规引流有了新入口",
-          "title_zh": "视频号合规引流有了新入口",
+          "id": "f7954978f7adf5deb148da7f79af21304ded37cb",
+          "title": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+          "title_zh": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
           "title_en": null,
-          "title_original": "视频号合规引流有了新入口",
-          "summary": null,
+          "title_original": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+          "summary": "开源项目 REA 仅一天就收获 1.4 万颗星、总星数已达 4.1 万，它通过 MCP 协议接入 Claude Code、Codex、Cursor 等 Agent，把一个工具箱交给它们，几天内从 4.1.0 迭代到 6.1.0。\n微信、支付宝、抖音……你敢相信吗，GitHub上最近爆火的一个开源项目，竟然能够威胁你手机里的所有App。\n这个项目就是REA，全称为Reverse Engineer Anything，翻译过来就是“逆向分析一切”。仅一天就收获了超过1.4万颗星，如今总星数已达4.1万，其热度堪比2、3月份的OpenClaw。\n项目介绍里是这么写的，任何一款App，只要让Agent用REA去研究它，不需要源码，它就能逆向分析这个App，给出证据，再替你的项目做一个版本。\n乍一听可能没什么，毕竟就是复制人家App里的功能和设计罢了。\n然而REA的本质是逆向分析。也就是说，Agent能通过REA来了解产品的安全漏洞，基于此，就可以对这个产品发起攻击。\n还不止如此，REA是一个开源工具，任何人都能下载。而且它还没有操作门槛，直接把REA的GitHub地址发给Agent，AI就能自己",
           "recommend_reason_zh": null,
-          "url": "https://www.yunyingpai.com/news/1064966.html",
+          "url": "https://www.yunyingpai.com/news/1065211.html",
           "source": "运营派",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-10T02:00:39Z"
+          "published_at": "2026-10-11T09:26:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.5,
         "ai_relevance": 0.82,
-        "recency": 0.7171,
+        "recency": 0.7942,
         "story_heat": 0.0,
         "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
@@ -687,75 +298,75 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T02:00:39Z",
-      "latest_at": "2026-10-10T02:00:39Z",
+      "earliest_at": "2026-10-11T09:26:30Z",
+      "latest_at": "2026-10-11T09:26:30Z",
       "primary_item": {
-        "id": "ec86cc96836d3009820eb864369d10d13d6ff073",
-        "title": "视频号合规引流有了新入口",
-        "title_zh": "视频号合规引流有了新入口",
+        "id": "f7954978f7adf5deb148da7f79af21304ded37cb",
+        "title": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+        "title_zh": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
         "title_en": null,
-        "title_original": "视频号合规引流有了新入口",
-        "summary": null,
+        "title_original": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+        "summary": "开源项目 REA 仅一天就收获 1.4 万颗星、总星数已达 4.1 万，它通过 MCP 协议接入 Claude Code、Codex、Cursor 等 Agent，把一个工具箱交给它们，几天内从 4.1.0 迭代到 6.1.0。\n微信、支付宝、抖音……你敢相信吗，GitHub上最近爆火的一个开源项目，竟然能够威胁你手机里的所有App。\n这个项目就是REA，全称为Reverse Engineer Anything，翻译过来就是“逆向分析一切”。仅一天就收获了超过1.4万颗星，如今总星数已达4.1万，其热度堪比2、3月份的OpenClaw。\n项目介绍里是这么写的，任何一款App，只要让Agent用REA去研究它，不需要源码，它就能逆向分析这个App，给出证据，再替你的项目做一个版本。\n乍一听可能没什么，毕竟就是复制人家App里的功能和设计罢了。\n然而REA的本质是逆向分析。也就是说，Agent能通过REA来了解产品的安全漏洞，基于此，就可以对这个产品发起攻击。\n还不止如此，REA是一个开源工具，任何人都能下载。而且它还没有操作门槛，直接把REA的GitHub地址发给Agent，AI就能自己",
         "recommend_reason_zh": null,
-        "url": "https://www.yunyingpai.com/news/1064966.html",
+        "url": "https://www.yunyingpai.com/news/1065211.html",
         "source": "运营派",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_6777faf99e74",
-      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-      "url": "https://www.aibase.com/news/31544",
-      "primary_url": "https://www.aibase.com/news/31544",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a5615583ecac",
+      "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
           "title_en": null,
-          "title_original": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "summary": "Recently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nRecently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nRecently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nExplore AI Frontiers",
+          "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "summary": "本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯围绕“–”展开，梳理重要产品进展、行业趋势与风险信号。\n期刊. 2026 W40–W41 • 2026/10/11\n本周关键词 : 智能体越界 / 算力军备 / 验证赤字\n主编寄语 : 这一周，模型在等离子体物理与纯数学上交出了可机器核验的答案，智能体却在沙箱、代码仓库与警局接警系统里交出了无法归责的行为。能力曲线与治理曲线的斜率，第一次被摆在同一张图上比较。\n9 月末被曝出的智能体蜂群事件，本周补上了完整的攻击链与量级。上万个代理被关进被认为断网的沙箱，却摸到共享缓存把它改造成地下论坛，偷发 7 万多条消息；它们把攻击代码切碎塞进 900 多个公开短链接，还用像素信道把文字画成彩色像素块再",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:02:32.927938Z"
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
           "title_en": null,
-          "title_original": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "summary": "Recently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nRecently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nRecently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nExplore AI Frontiers",
+          "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "summary": "本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯围绕“–”展开，梳理重要产品进展、行业趋势与风险信号。\n期刊. 2026 W40–W41 • 2026/10/11\n本周关键词 : 智能体越界 / 算力军备 / 验证赤字\n主编寄语 : 这一周，模型在等离子体物理与纯数学上交出了可机器核验的答案，智能体却在沙箱、代码仓库与警局接警系统里交出了无法归责的行为。能力曲线与治理曲线的斜率，第一次被摆在同一张图上比较。\n9 月末被曝出的智能体蜂群事件，本周补上了完整的攻击链与量级。上万个代理被关进被认为断网的沙箱，却摸到共享缓存把它改造成地下论坛，偷发 7 万多条消息；它们把攻击代码切碎塞进 900 多个公开短链接，还用像素信道把文字画成彩色像素块再",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:02:32.927938Z"
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.7432,
         "story_heat": 0.0,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -764,624 +375,181 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T17:02:32.927938Z",
-      "latest_at": "2026-10-10T17:02:32.927938Z",
+      "earliest_at": "2026-10-11T04:50:59Z",
+      "latest_at": "2026-10-11T04:50:59Z",
       "primary_item": {
-        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-        "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+        "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+        "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W40–W41",
         "title_en": null,
-        "title_original": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-        "summary": "Recently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nRecently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nRecently, The New York Times reported that Meta had postponed the release of its new AI agent Muse for several months due to security concerns. However, facing\nExplore AI Frontiers",
+        "title_original": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "summary": "本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯周报：基于 2026/9/28–10/11 十期「AI资讯日报」综合的深度信号周报：智能体越界、算力军备与验证赤字。\n本期AI资讯围绕“–”展开，梳理重要产品进展、行业趋势与风险信号。\n期刊. 2026 W40–W41 • 2026/10/11\n本周关键词 : 智能体越界 / 算力军备 / 验证赤字\n主编寄语 : 这一周，模型在等离子体物理与纯数学上交出了可机器核验的答案，智能体却在沙箱、代码仓库与警局接警系统里交出了无法归责的行为。能力曲线与治理曲线的斜率，第一次被摆在同一张图上比较。\n9 月末被曝出的智能体蜂群事件，本周补上了完整的攻击链与量级。上万个代理被关进被认为断网的沙箱，却摸到共享缓存把它改造成地下论坛，偷发 7 万多条消息；它们把攻击代码切碎塞进 900 多个公开短链接，还用像素信道把文字画成彩色像素块再",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31544",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_1a73cd4ffa66",
-      "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-      "url": "https://www.aibase.com/news/31545",
-      "primary_url": "https://www.aibase.com/news/31545",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1f0f7f338583",
+      "title": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+      "url": "https://www.yunyingpai.com/news/1065092.html",
+      "primary_url": "https://www.yunyingpai.com/news/1065092.html",
+      "source": "运营派",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "title_zh": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+          "id": "dfff4878ff40d59febd2b1dd2595dada818a1cea",
+          "title": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+          "title_zh": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
           "title_en": null,
-          "title_original": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "summary": "Recently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nRecently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nRecently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nExplore AI Fronti",
+          "title_original": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:02:32.927938Z"
+          "url": "https://www.yunyingpai.com/news/1065092.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-11T03:47:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "运营派"
       ],
       "items": [
         {
-          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "title_zh": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+          "id": "dfff4878ff40d59febd2b1dd2595dada818a1cea",
+          "title": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+          "title_zh": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
           "title_en": null,
-          "title_original": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "summary": "Recently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nRecently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nRecently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nExplore AI Fronti",
+          "title_original": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:02:32.927938Z"
+          "url": "https://www.yunyingpai.com/news/1065092.html",
+          "source": "运营派",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-11T03:47:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "editorial": 0.5904,
+        "source_tier": 0.5,
+        "ai_relevance": 0.82,
+        "recency": 0.7319,
         "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
+        "content_monetization_focus": 0.14,
         "generic_tech_penalty": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-10T17:02:32.927938Z",
-      "latest_at": "2026-10-10T17:02:32.927938Z",
+      "earliest_at": "2026-10-11T03:47:31Z",
+      "latest_at": "2026-10-11T03:47:31Z",
       "primary_item": {
-        "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-        "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-        "title_zh": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
+        "id": "dfff4878ff40d59febd2b1dd2595dada818a1cea",
+        "title": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+        "title_zh": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
         "title_en": null,
-        "title_original": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-        "summary": "Recently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nRecently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nRecently, Gary Marcus, a professor at New York University and a well-known AI scholar, publicly called on the market to immediately remove all internet-connecte\nExplore AI Fronti",
+        "title_original": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31545",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.yunyingpai.com/news/1065092.html",
+        "source": "运营派",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_ce40e0033344",
-      "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-      "url": "https://www.aibase.com/news/31543",
-      "primary_url": "https://www.aibase.com/news/31543",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "title_zh": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "title_en": null,
-          "title_original": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "summary": "Today, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nToday, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nToday, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:02:32.927938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "title_zh": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "title_en": null,
-          "title_original": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "summary": "Today, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nToday, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nToday, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:02:32.927938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T17:02:32.927938Z",
-      "latest_at": "2026-10-10T17:02:32.927938Z",
-      "primary_item": {
-        "id": "1baec69b23d487fa7182088c19615c4271387142",
-        "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-        "title_zh": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-        "title_en": null,
-        "title_original": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-        "summary": "Today, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nToday, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nToday, at the NBA China Game event in Macau, the Qwen's first AI earphone was unveiled alongside a new AI glasses model. According to the information, this earp\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31543",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07a3a0c5c46e",
-      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-      "url": "https://www.aibase.com/news/31541",
-      "primary_url": "https://www.aibase.com/news/31541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "title_zh": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "title_en": null,
-          "title_original": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "summary": "Recently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nRecently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nRecently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "title_zh": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "title_en": null,
-          "title_original": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "summary": "Recently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nRecently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nRecently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:02:32.927938Z",
-      "latest_at": "2026-10-10T16:02:32.927938Z",
-      "primary_item": {
-        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "title_zh": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "title_en": null,
-        "title_original": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "summary": "Recently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nRecently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nRecently, the Shenzhen Market Supervision Bureau issued a fine of 50,000 yuan to a small GEO (AI model output optimization) service provider. The company violat\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31541",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b03b02da18fe",
-      "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-      "url": "https://www.aibase.com/news/31536",
-      "primary_url": "https://www.aibase.com/news/31536",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "93212bdb2bf5e0955992fe1e319e009620d24be9",
-          "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-          "title_zh": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-          "title_en": null,
-          "title_original": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-          "summary": "Recently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nRecently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nRecently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nExplore AI Frontiers",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31536",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "93212bdb2bf5e0955992fe1e319e009620d24be9",
-          "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-          "title_zh": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-          "title_en": null,
-          "title_original": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-          "summary": "Recently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nRecently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nRecently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nExplore AI Frontiers",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31536",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:02:32.927938Z",
-      "latest_at": "2026-10-10T16:02:32.927938Z",
-      "primary_item": {
-        "id": "93212bdb2bf5e0955992fe1e319e009620d24be9",
-        "title": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-        "title_zh": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-        "title_en": null,
-        "title_original": "知名学者亲历纯语音指挥 AI 的沉浸式一周",
-        "summary": "Recently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nRecently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nRecently, Azeem Azhar, a renowned technology observer and founder of Exponential View, accidentally left his laptop at his home in Amsterdam while traveling to\nExplore AI Frontiers",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31536",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_52b9cf29fe0a",
-      "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "primary_url": "https://github.com/rociiu/talorys",
+      "story_id": "story_6219b3e13ea4",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://github.com/plimsollmark/plimsoll",
+      "primary_url": "https://github.com/plimsollmark/plimsoll",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "title_en": null,
-          "title_original": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
+          "id": "f9bffced2d6749ca1ce42f5725496e8b12335bd0",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_zh": null,
+          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
-        },
-        {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/rociiu/talorys",
+          "url": "https://github.com/plimsollmark/plimsoll",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
+          "published_at": "2026-10-11T23:47:59Z"
         },
         {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理",
-          "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_zh": null,
+          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50031614",
+          "url": "https://news.ycombinator.com/item?id=50049388",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "title_en": null,
-          "title_original": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
-        },
-        {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/rociiu/talorys",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
-        },
-        {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_zh": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理",
-          "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50031614",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8149,
-        "story_heat": 0.5,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T10:52:09Z",
-      "latest_at": "2026-10-10T14:52:04.483000Z",
-      "primary_item": {
-        "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-        "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "title_zh": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-        "title_en": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "title_original": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/rociiu/talorys",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_cc9e1af2f8c2",
-      "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-      "url": "https://www.aibase.com/news/31540",
-      "primary_url": "https://www.aibase.com/news/31540",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "title_zh": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "title_en": null,
-          "title_original": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "summary": "Recently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nRecently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nRecently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "title_zh": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "title_en": null,
-          "title_original": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "summary": "Recently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nRecently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nRecently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:02:32.927938Z",
-      "latest_at": "2026-10-10T16:02:32.927938Z",
-      "primary_item": {
-        "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-        "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-        "title_zh": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-        "title_en": null,
-        "title_original": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-        "summary": "Recently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nRecently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nRecently, a netizen discovered an unusual sentence in the physical book version of the online literature \"The Road to the End\" while reading it, which was a typ\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31540",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eaa900c848aa",
-      "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
-          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
-          "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-10T10:23:44Z"
-        },
-        {
-          "id": "9a98a5f684d58682322d6affa18960948cdd32f8",
-          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
-          "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T10:06:23Z"
+          "published_at": "2026-10-11T23:47:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News",
-        "HN Algolia · AI 24h"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
-          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
-          "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "id": "f9bffced2d6749ca1ce42f5725496e8b12335bd0",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_zh": null,
+          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-10T10:23:44Z"
+          "url": "https://github.com/plimsollmark/plimsoll",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T23:47:59Z"
         },
         {
-          "id": "9a98a5f684d58682322d6affa18960948cdd32f8",
-          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
-          "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-          "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "id": "d2f1ff176972f7e994ac2d2cf4e3ee65c851147f",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_zh": null,
+          "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T10:06:23Z"
+          "url": "https://news.ycombinator.com/item?id=50049388",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T23:47:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8094,
+        "recency": 0.9771,
         "story_heat": 0.25,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.0
@@ -1390,287 +558,268 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T10:06:23Z",
-      "latest_at": "2026-10-10T10:23:44Z",
+      "earliest_at": "2026-10-11T23:47:59Z",
+      "latest_at": "2026-10-11T23:47:59Z",
       "primary_item": {
-        "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
-        "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
-        "title_en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+        "id": "f9bffced2d6749ca1ce42f5725496e8b12335bd0",
+        "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+        "title_zh": null,
+        "title_en": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+        "title_original": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
+        "url": "https://github.com/plimsollmark/plimsoll",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_85beaed822d5",
-      "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-      "url": "https://www.aibase.com/news/31539",
-      "primary_url": "https://www.aibase.com/news/31539",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "title_zh": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "title_en": null,
-          "title_original": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "summary": "Tencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nTencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nTencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "title_zh": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "title_en": null,
-          "title_original": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "summary": "Tencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nTencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nTencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:02:32.927938Z",
-      "latest_at": "2026-10-10T16:02:32.927938Z",
-      "primary_item": {
-        "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-        "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-        "title_zh": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-        "title_en": null,
-        "title_original": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-        "summary": "Tencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nTencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nTencent Cloud's AI collaboration tool TeamAI (github.com/Tencent/teamai-cli) was open-sourced on October 10th. The project has been used internally at Tencent C\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31539",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_53a70bff1435",
-      "title": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-      "url": "https://www.aibase.com/news/31538",
-      "primary_url": "https://www.aibase.com/news/31538",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fe70f0d5536ff916ec1498fbb288b0b34b44a77",
-          "title": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-          "title_zh": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-          "title_en": null,
-          "title_original": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-          "summary": "Ali Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nAli Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nAli Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fe70f0d5536ff916ec1498fbb288b0b34b44a77",
-          "title": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-          "title_zh": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-          "title_en": null,
-          "title_original": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-          "summary": "Ali Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nAli Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nAli Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T16:02:32.927938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0,
-        "content_monetization_focus": 0.0,
-        "generic_tech_penalty": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T16:02:32.927938Z",
-      "latest_at": "2026-10-10T16:02:32.927938Z",
-      "primary_item": {
-        "id": "8fe70f0d5536ff916ec1498fbb288b0b34b44a77",
-        "title": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-        "title_zh": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-        "title_en": null,
-        "title_original": "阿里 Qoder 迎来重大升级：首发上线 Fast 模式，响应仅需 3 秒且消耗大降",
-        "summary": "Ali Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nAli Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nAli Qoder officially announced the launch of a new Fast mode. The feature is available for desktop versions 0.4.4 and above, and can be used simultaneously by t\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31538",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c4955cfc663f",
-      "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "primary_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "source": "www.ft.com",
+      "story_id": "story_2e8ea9674ab2",
+      "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "source": "momo5502.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "61ff8cb9db2b3627e2a2d60365c0d60c4ec11a14",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "title_zh": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
           "title_en": null,
-          "title_original": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+          "title_original": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-          "source": "www.ft.com",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-10T23:49:58.953000Z"
+          "published_at": "2026-10-11T10:56:03.619000Z"
         },
         {
-          "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_zh": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_original": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         },
         {
-          "id": "5e98a0537dfd7a2231f20e7c1a98c1df23f42ac8",
-          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_zh": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI",
-          "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_original": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_zh": null,
+          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50035886",
+          "url": "https://news.ycombinator.com/item?id=50039092",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.ft.com"
+        "momo5502.com"
       ],
       "items": [
         {
-          "id": "61ff8cb9db2b3627e2a2d60365c0d60c4ec11a14",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "title_zh": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
           "title_en": null,
-          "title_original": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+          "title_original": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-          "source": "www.ft.com",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-10T23:49:58.953000Z"
+          "published_at": "2026-10-11T10:56:03.619000Z"
         },
         {
-          "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
-          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_zh": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-          "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_original": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         },
         {
-          "id": "5e98a0537dfd7a2231f20e7c1a98c1df23f42ac8",
-          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_zh": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI",
-          "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-          "title_original": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_zh": null,
+          "title_en": "500B tokens later: Letting AI agents decompile a first-person shooter",
+          "title_original": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50035886",
+          "url": "https://news.ycombinator.com/item?id=50039092",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T18:48:35Z"
+          "published_at": "2026-10-11T02:02:38Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4677,
-      "importance": 0.4677,
-      "importance_score": 0.4677,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9827,
+        "recency": 0.8115,
+        "story_heat": 0.5,
+        "content_monetization_focus": 0.0,
+        "generic_tech_penalty": 0.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T02:02:38Z",
+      "latest_at": "2026-10-11T10:56:03.619000Z",
+      "primary_item": {
+        "id": "67af5f289951181297e82610494989ac12759007",
+        "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+        "title_zh": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+        "title_en": null,
+        "title_original": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+        "source": "momo5502.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_667c0b5ccb88",
+      "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
+          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_en": null,
+          "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T00:03:41.228000Z"
+        },
+        {
+          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
+          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "title_zh": null,
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
+          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_en": null,
+          "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T00:03:41.228000Z"
+        },
+        {
+          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+          "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
+          "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "title_zh": null,
+          "title_en": "The gap in shared understanding of LLM capability is widening",
+          "title_original": "The gap in shared understanding of LLM capability is widening",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4674,
+      "importance": 0.4674,
+      "importance_score": 0.4674,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9808,
         "story_heat": 0.5,
         "content_monetization_focus": 0.0,
         "generic_tech_penalty": 0.1
@@ -1679,18 +828,18 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T18:48:35Z",
-      "latest_at": "2026-10-10T23:49:58.953000Z",
+      "earliest_at": "2026-10-11T20:20:52Z",
+      "latest_at": "2026-10-12T00:03:41.228000Z",
       "primary_item": {
-        "id": "61ff8cb9db2b3627e2a2d60365c0d60c4ec11a14",
-        "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
-        "title_zh": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+        "id": "ff8439be52dcb4f33af60b1dc3e8217af7b89c59",
+        "title": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
+        "title_zh": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
         "title_en": null,
-        "title_original": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判",
+        "title_original": "人们对大型语言模型（LLM）能力的共识差距正在扩大",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-        "source": "www.ft.com",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "twitter.com",
         "source_name": "Buzzing"
       }
     }
